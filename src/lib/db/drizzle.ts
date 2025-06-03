@@ -1,4 +1,10 @@
+import type { PGlite } from "@electric-sql/pglite";
 import { drizzle } from "drizzle-orm/pglite";
-import { client } from "./dom";
 
-export const db = drizzle(client);
+import * as schema from "./schema";
+
+export const createDrizzle = (client: PGlite) => {
+	return drizzle({ client, schema });
+};
+
+export type db = ReturnType<typeof createDrizzle>;

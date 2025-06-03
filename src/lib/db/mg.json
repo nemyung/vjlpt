@@ -1,0 +1,12 @@
+[
+	{
+		"sql": [
+			"CREATE TABLE \"chunk_meanings\" (\n\t\"id\" integer PRIMARY KEY GENERATED ALWAYS AS IDENTITY (sequence name \"chunk_meanings_id_seq\" INCREMENT BY 1 MINVALUE 1 MAXVALUE 2147483647 START WITH 1 CACHE 1),\n\t\"chunkId\" integer NOT NULL,\n\t\"lang\" text NOT NULL,\n\t\"meaning\" text NOT NULL\n);\n",
+			"\nCREATE TABLE \"chunks\" (\n\t\"id\" integer PRIMARY KEY GENERATED ALWAYS AS IDENTITY (sequence name \"chunks_id_seq\" INCREMENT BY 1 MINVALUE 1 MAXVALUE 2147483647 START WITH 1 CACHE 1),\n\t\"expression\" text NOT NULL,\n\t\"level\" text NOT NULL,\n\t\"hurigana\" text,\n\tCONSTRAINT \"chunks_expression_unique\" UNIQUE(\"expression\")\n);\n",
+			"\nALTER TABLE \"chunk_meanings\" ADD CONSTRAINT \"chunk_meanings_chunkId_chunks_id_fk\" FOREIGN KEY (\"chunkId\") REFERENCES \"public\".\"chunks\"(\"id\") ON DELETE no action ON UPDATE no action;"
+		],
+		"bps": true,
+		"folderMillis": 1748943173107,
+		"hash": "9ede6e2a158a549712f5325970882fda9435e770d8a1d6a9b204f5cc33473230"
+	}
+]

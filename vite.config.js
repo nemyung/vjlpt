@@ -16,6 +16,9 @@ export default defineConfig({
 			"@": resolve(__dirname, "./src"),
 		},
 	},
+	optimizeDeps: {
+		exclude: ["@electric-sql/pglite"],
+	},
 	css: {
 		modules: {
 			localsConvention: "camelCase",
