@@ -9,7 +9,7 @@ CREATE TABLE "chunks" (
 	"id" integer PRIMARY KEY GENERATED ALWAYS AS IDENTITY (sequence name "chunks_id_seq" INCREMENT BY 1 MINVALUE 1 MAXVALUE 2147483647 START WITH 1 CACHE 1),
 	"expression" text NOT NULL,
 	"levelId" text NOT NULL,
-	"hurigana" text,
+	"furigana" text,
 	CONSTRAINT "chunks_expression_unique" UNIQUE("expression")
 );
 --> statement-breakpoint

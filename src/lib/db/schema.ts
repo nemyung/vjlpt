@@ -22,7 +22,7 @@ export const chunksTable = pgTable("chunks", {
 			onDelete: "cascade",
 			onUpdate: "cascade",
 		}),
-	hurigana: text(),
+	furigana: text(),
 });
 
 export const chunkMeaningsTable = pgTable("chunk_meanings", {

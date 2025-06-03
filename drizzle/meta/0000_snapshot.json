@@ -1,5 +1,5 @@
 {
-  "id": "3872f7ee-30dc-4768-8271-a435522141f8",
+  "id": "0880e97d-7ff4-4924-b0a9-902ac268c30d",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -99,8 +99,8 @@
           "primaryKey": false,
           "notNull": true
         },
-        "hurigana": {
-          "name": "hurigana",
+        "furigana": {
+          "name": "furigana",
           "type": "text",
           "primaryKey": false,
           "notNull": false
