@@ -14,7 +14,9 @@ export const chunkMeaningsTable = pgTable("chunk_meanings", {
 	id: integer().primaryKey().generatedAlwaysAsIdentity(),
 	chunkId: integer()
 		.notNull()
-		.references(() => chunksTable.id),
+		.references(() => chunksTable.id, {
+			onDelete: "cascade",
+		}),
 	lang: text({ enum: ["ko", "en"] }).notNull(),
 	meaning: text().notNull(),
 });
