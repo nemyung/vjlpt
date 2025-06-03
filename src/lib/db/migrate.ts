@@ -25,7 +25,7 @@ async function recordMigration(db: db, hash: string) {
     `);
 }
 
-export async function migratePGLite(db: db, migrations: Array<MigrationMeta>) {
+export async function migrateSchema(db: db, migrations: Array<MigrationMeta>) {
 	console.log("🚀 Starting pglite migration...");
 
 	// Ensure migrations table exists

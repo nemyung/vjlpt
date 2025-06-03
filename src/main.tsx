@@ -4,7 +4,7 @@ import { RouterProvider, createRouter } from "@tanstack/react-router";
 import { StrictMode } from "react";
 import ReactDOM from "react-dom/client";
 import { createDrizzle } from "./lib/db/drizzle";
-import { migratePGLite } from "./lib/db/migrate";
+import { migrateSchema } from "./lib/db/migrate";
 
 import reportWebVitals from "./reportWebVitals";
 // Import the generated route tree
@@ -29,7 +29,7 @@ declare module "@tanstack/react-router" {
 	}
 }
 
-migratePGLite(db, migrations).then(() => {
+migrateSchema(db, migrations).then(() => {
 	const rootElement = document.getElementById("app");
 	if (rootElement && !rootElement.innerHTML) {
 		const root = ReactDOM.createRoot(rootElement);
