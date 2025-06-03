@@ -1,0 +1,5 @@
+@use "./var" as var;
+
+@function d($u) {
+  @return calc(#{$u} / var.$dimension1 * 100vw);
+}

@@ -1,7 +1,7 @@
 import viteReact from "@vitejs/plugin-react";
 import { defineConfig } from "vite";
 
-import { resolve } from "node:path";
+import { normalize, resolve } from "node:path";
 import { TanStackRouterVite } from "@tanstack/router-plugin/vite";
 
 // https://vitejs.dev/config/
@@ -14,6 +14,27 @@ export default defineConfig({
 	resolve: {
 		alias: {
 			"@": resolve(__dirname, "./src"),
+		},
+	},
+	css: {
+		modules: {
+			localsConvention: "camelCase",
+		},
+		preprocessorOptions: {
+			scss: {
+				additionalData: (source, filename) => {
+					const normalized = normalize("lib/scss/");
+					if (filename.includes(normalized)) {
+						return source;
+					}
+
+					return `
+					@use "@/lib/scss/var" as *;
+					@use "@/lib/scss/unit" as *;\n
+					${source}
+					`;
+				},
+			},
 		},
 	},
 });
