@@ -16,9 +16,9 @@ const files = [
 
 files.forEach(({ data, name }) => {
   const parsed = data.map((a) => ({
-    word: a.expression,
+    word: a.word,
     meaning: a.meaning,
-    furigana: a.reading,
+    furigana: a.furigana,
   }));
   fs.writeFileSync(`${name}-parsed.json`, JSON.stringify(parsed, null, 2));
 });

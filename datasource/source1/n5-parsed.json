@@ -1,0 +1,3312 @@
+[
+  {
+    "word": "毎朝",
+    "meaning": "every morning",
+    "furigana": "まいあさ"
+  },
+  {
+    "word": "問題",
+    "meaning": "problem",
+    "furigana": "もんだい"
+  },
+  {
+    "word": "お茶",
+    "meaning": "green tea",
+    "furigana": "おちゃ"
+  },
+  {
+    "word": "黒",
+    "meaning": "black",
+    "furigana": "くろ"
+  },
+  {
+    "word": "台所",
+    "meaning": "kitchen",
+    "furigana": "だいどころ"
+  },
+  {
+    "word": "葉書",
+    "meaning": "postcard",
+    "furigana": "はがき"
+  },
+  {
+    "word": "ペン",
+    "meaning": "pen",
+    "furigana": ""
+  },
+  {
+    "word": "ニュース",
+    "meaning": "news",
+    "furigana": ""
+  },
+  {
+    "word": "花瓶",
+    "meaning": "a vase",
+    "furigana": "かびん"
+  },
+  {
+    "word": "フォーク",
+    "meaning": "fork",
+    "furigana": ""
+  },
+  {
+    "word": "引く",
+    "meaning": "to pull",
+    "furigana": "ひく"
+  },
+  {
+    "word": "フィルム",
+    "meaning": "roll of film",
+    "furigana": ""
+  },
+  {
+    "word": "磨く",
+    "meaning": "to brush teeth, to polish",
+    "furigana": "みがく"
+  },
+  {
+    "word": "押す",
+    "meaning": "to push, to stamp something",
+    "furigana": "おす"
+  },
+  {
+    "word": "売る",
+    "meaning": "to sell",
+    "furigana": "うる"
+  },
+  {
+    "word": "電気",
+    "meaning": "electricity, electric light",
+    "furigana": "でんき"
+  },
+  {
+    "word": "並ぶ",
+    "meaning": "to line up, to stand in a line",
+    "furigana": "ならぶ"
+  },
+  {
+    "word": "病気",
+    "meaning": "illness",
+    "furigana": "びょうき"
+  },
+  {
+    "word": "ポケット",
+    "meaning": "pocket",
+    "furigana": ""
+  },
+  {
+    "word": "頭",
+    "meaning": "head",
+    "furigana": "あたま"
+  },
+  {
+    "word": "はし",
+    "meaning": "chopsticks",
+    "furigana": ""
+  },
+  {
+    "word": "英語",
+    "meaning": "English language",
+    "furigana": "えいご"
+  },
+  {
+    "word": "家",
+    "meaning": "house",
+    "furigana": "いえ"
+  },
+  {
+    "word": "一月",
+    "meaning": "one month",
+    "furigana": "ひとつき"
+  },
+  {
+    "word": "暑い",
+    "meaning": "hot",
+    "furigana": "あつい"
+  },
+  {
+    "word": "遊ぶ",
+    "meaning": "to play, to make a visit",
+    "furigana": "あそぶ"
+  },
+  {
+    "word": "取る",
+    "meaning": "to take something",
+    "furigana": "とる"
+  },
+  {
+    "word": "九",
+    "meaning": "nine",
+    "furigana": "きゅう / く"
+  },
+  {
+    "word": "閉める",
+    "meaning": "to close something",
+    "furigana": "しめる"
+  },
+  {
+    "word": "たいへん",
+    "meaning": "very",
+    "furigana": ""
+  },
+  {
+    "word": "奥さん",
+    "meaning": "(honorable) wife",
+    "furigana": "おくさん"
+  },
+  {
+    "word": "作文",
+    "meaning": "composition, writing",
+    "furigana": "さくぶん"
+  },
+  {
+    "word": "便利",
+    "meaning": "useful, convenient",
+    "furigana": "べんり"
+  },
+  {
+    "word": "右",
+    "meaning": "right side",
+    "furigana": "みぎ"
+  },
+  {
+    "word": "寒い",
+    "meaning": "cold",
+    "furigana": "さむい"
+  },
+  {
+    "word": "あびる",
+    "meaning": "to bathe, to shower",
+    "furigana": ""
+  },
+  {
+    "word": "十",
+    "meaning": "ten",
+    "furigana": "じゅう  とお"
+  },
+  {
+    "word": "中",
+    "meaning": "middle",
+    "furigana": "なか"
+  },
+  {
+    "word": "消す",
+    "meaning": "to erase, to turn off power",
+    "furigana": "けす"
+  },
+  {
+    "word": "近く",
+    "meaning": "near",
+    "furigana": "ちかく"
+  },
+  {
+    "word": "七つ",
+    "meaning": "seven",
+    "furigana": "ななつ"
+  },
+  {
+    "word": "テープレコーダー",
+    "meaning": "tape recorder",
+    "furigana": ""
+  },
+  {
+    "word": "目",
+    "meaning": "eye",
+    "furigana": "め"
+  },
+  {
+    "word": "空",
+    "meaning": "sky",
+    "furigana": "そら"
+  },
+  {
+    "word": "六日",
+    "meaning": "six days, sixth day of the month",
+    "furigana": "むいか"
+  },
+  {
+    "word": "座る",
+    "meaning": "to sit",
+    "furigana": "すわる"
+  },
+  {
+    "word": "年",
+    "meaning": "year",
+    "furigana": "とし"
+  },
+  {
+    "word": "男の子",
+    "meaning": "boy",
+    "furigana": "おとこのこ"
+  },
+  {
+    "word": "狭い",
+    "meaning": "narrow",
+    "furigana": "せまい"
+  },
+  {
+    "word": "冷蔵庫",
+    "meaning": "refrigerator",
+    "furigana": "れいぞうこ"
+  },
+  {
+    "word": "カメラ",
+    "meaning": "camera",
+    "furigana": ""
+  },
+  {
+    "word": "玄関",
+    "meaning": "entry hall",
+    "furigana": "げんかん"
+  },
+  {
+    "word": "違う",
+    "meaning": "to differ",
+    "furigana": "ちがう"
+  },
+  {
+    "word": "危ない",
+    "meaning": "dangerous",
+    "furigana": "あぶない"
+  },
+  {
+    "word": "分かる",
+    "meaning": "to be understood",
+    "furigana": "わかる"
+  },
+  {
+    "word": "言う",
+    "meaning": "to say",
+    "furigana": "いう"
+  },
+  {
+    "word": "飲む",
+    "meaning": "to drink",
+    "furigana": "のむ"
+  },
+  {
+    "word": "練習",
+    "meaning": "to practice",
+    "furigana": "れんしゅうする"
+  },
+  {
+    "word": "何",
+    "meaning": "what",
+    "furigana": "なん / なに"
+  },
+  {
+    "word": "厚い",
+    "meaning": "kind, deep, thick",
+    "furigana": "あつい"
+  },
+  {
+    "word": "毎月",
+    "meaning": "every month",
+    "furigana": "まいげつ / まいつき"
+  },
+  {
+    "word": "閉まる",
+    "meaning": "to close, to be closed",
+    "furigana": "しまる"
+  },
+  {
+    "word": "脱ぐ",
+    "meaning": "to take off clothes",
+    "furigana": "ぬぐ"
+  },
+  {
+    "word": "黒い",
+    "meaning": "black",
+    "furigana": "くろい"
+  },
+  {
+    "word": "登る",
+    "meaning": "to climb",
+    "furigana": "のぼる"
+  },
+  {
+    "word": "汚い",
+    "meaning": "dirty",
+    "furigana": "きたない"
+  },
+  {
+    "word": "雨",
+    "meaning": "rain",
+    "furigana": "あめ"
+  },
+  {
+    "word": "お皿",
+    "meaning": "plate, dish",
+    "furigana": "おさら"
+  },
+  {
+    "word": "速い",
+    "meaning": "quick",
+    "furigana": "はやい"
+  },
+  {
+    "word": "お風呂",
+    "meaning": "bath",
+    "furigana": "おふろ"
+  },
+  {
+    "word": "新しい",
+    "meaning": "new",
+    "furigana": "あたらしい"
+  },
+  {
+    "word": "廊下",
+    "meaning": "corridor",
+    "furigana": "ろうか"
+  },
+  {
+    "word": "茶色",
+    "meaning": "brown",
+    "furigana": "ちゃいろ"
+  },
+  {
+    "word": "コート",
+    "meaning": "coat, tennis court",
+    "furigana": ""
+  },
+  {
+    "word": "手紙",
+    "meaning": "letter",
+    "furigana": "てがみ"
+  },
+  {
+    "word": "要る",
+    "meaning": "to need",
+    "furigana": "いる"
+  },
+  {
+    "word": "こっち",
+    "meaning": "this person or way",
+    "furigana": ""
+  },
+  {
+    "word": "スプーン",
+    "meaning": "spoon",
+    "furigana": ""
+  },
+  {
+    "word": "時々",
+    "meaning": "sometimes",
+    "furigana": "ときどき"
+  },
+  {
+    "word": "傘",
+    "meaning": "umbrella",
+    "furigana": "かさ"
+  },
+  {
+    "word": "いい / よい",
+    "meaning": "good",
+    "furigana": ""
+  },
+  {
+    "word": "電話",
+    "meaning": "telephone",
+    "furigana": "でんわ"
+  },
+  {
+    "word": "勤める",
+    "meaning": "to work for someone",
+    "furigana": "つとめる"
+  },
+  {
+    "word": "安い",
+    "meaning": "cheap",
+    "furigana": "やすい"
+  },
+  {
+    "word": "どう",
+    "meaning": "how, in what way",
+    "furigana": ""
+  },
+  {
+    "word": "道",
+    "meaning": "street",
+    "furigana": "みち"
+  },
+  {
+    "word": "バス",
+    "meaning": "bus",
+    "furigana": ""
+  },
+  {
+    "word": "クラス",
+    "meaning": "class",
+    "furigana": ""
+  },
+  {
+    "word": "差す",
+    "meaning": "to stretch out hands, to raise an umbrella",
+    "furigana": "さす"
+  },
+  {
+    "word": "スポーツ",
+    "meaning": "sport",
+    "furigana": ""
+  },
+  {
+    "word": "どっち",
+    "meaning": "which",
+    "furigana": ""
+  },
+  {
+    "word": "そば",
+    "meaning": "near, beside",
+    "furigana": ""
+  },
+  {
+    "word": "新聞",
+    "meaning": "newspaper",
+    "furigana": "しんぶん"
+  },
+  {
+    "word": "どうして",
+    "meaning": "for what reason",
+    "furigana": ""
+  },
+  {
+    "word": "庭",
+    "meaning": "garden",
+    "furigana": "にわ"
+  },
+  {
+    "word": "大きな",
+    "meaning": "big",
+    "furigana": "おおきな"
+  },
+  {
+    "word": "辺",
+    "meaning": "area",
+    "furigana": "へん"
+  },
+  {
+    "word": "番号",
+    "meaning": "number",
+    "furigana": "ばんごう"
+  },
+  {
+    "word": "家族",
+    "meaning": "family",
+    "furigana": "かぞく"
+  },
+  {
+    "word": "下手",
+    "meaning": "unskillful",
+    "furigana": "へた"
+  },
+  {
+    "word": "料理",
+    "meaning": "cuisine",
+    "furigana": "りょうり"
+  },
+  {
+    "word": "カレー",
+    "meaning": "curry",
+    "furigana": ""
+  },
+  {
+    "word": "六",
+    "meaning": "six",
+    "furigana": "ろく"
+  },
+  {
+    "word": "今年",
+    "meaning": "this year",
+    "furigana": "ことし"
+  },
+  {
+    "word": "初めて",
+    "meaning": "for the first time",
+    "furigana": "はじめて"
+  },
+  {
+    "word": "風邪",
+    "meaning": "a cold",
+    "furigana": "かぜ"
+  },
+  {
+    "word": "赤い",
+    "meaning": "red",
+    "furigana": "あかい"
+  },
+  {
+    "word": "甘い",
+    "meaning": "sweet",
+    "furigana": "あまい"
+  },
+  {
+    "word": "西",
+    "meaning": "west",
+    "furigana": "にし"
+  },
+  {
+    "word": "毎週",
+    "meaning": "every week",
+    "furigana": "まいしゅう"
+  },
+  {
+    "word": "いつも",
+    "meaning": "always",
+    "furigana": ""
+  },
+  {
+    "word": "五つ",
+    "meaning": "five",
+    "furigana": "いつつ"
+  },
+  {
+    "word": "建物",
+    "meaning": "building",
+    "furigana": "たてもの"
+  },
+  {
+    "word": "なる",
+    "meaning": "to become",
+    "furigana": ""
+  },
+  {
+    "word": "まっすぐ",
+    "meaning": "straight ahead, direct",
+    "furigana": ""
+  },
+  {
+    "word": "作る",
+    "meaning": "to make",
+    "furigana": "つくる"
+  },
+  {
+    "word": "風",
+    "meaning": "wind",
+    "furigana": "かぜ"
+  },
+  {
+    "word": "少し",
+    "meaning": "few",
+    "furigana": "すこし"
+  },
+  {
+    "word": "大学",
+    "meaning": "university",
+    "furigana": "だいがく"
+  },
+  {
+    "word": "シャツ",
+    "meaning": "shirt",
+    "furigana": ""
+  },
+  {
+    "word": "病院",
+    "meaning": "hospital",
+    "furigana": "びょういん"
+  },
+  {
+    "word": "会社",
+    "meaning": "company",
+    "furigana": "かいしゃ"
+  },
+  {
+    "word": "無くす",
+    "meaning": "to lose something",
+    "furigana": "なくす"
+  },
+  {
+    "word": "スリッパ",
+    "meaning": "slippers",
+    "furigana": ""
+  },
+  {
+    "word": "地下鉄",
+    "meaning": "underground train",
+    "furigana": "ちかてつ"
+  },
+  {
+    "word": "ページ",
+    "meaning": "page",
+    "furigana": ""
+  },
+  {
+    "word": "曇る",
+    "meaning": "to become cloudy, to become dim",
+    "furigana": "くもる"
+  },
+  {
+    "word": "辞書",
+    "meaning": "dictionary",
+    "furigana": "じしょ"
+  },
+  {
+    "word": "万年筆",
+    "meaning": "fountain pen",
+    "furigana": "まんねんひつ"
+  },
+  {
+    "word": "海",
+    "meaning": "sea",
+    "furigana": "うみ"
+  },
+  {
+    "word": "エレベーター",
+    "meaning": "elevator",
+    "furigana": ""
+  },
+  {
+    "word": "たぶん",
+    "meaning": "probably",
+    "furigana": ""
+  },
+  {
+    "word": "夕方",
+    "meaning": "evening",
+    "furigana": "ゆうがた"
+  },
+  {
+    "word": "東",
+    "meaning": "east",
+    "furigana": "ひがし"
+  },
+  {
+    "word": "声",
+    "meaning": "voice",
+    "furigana": "こえ"
+  },
+  {
+    "word": "撮る",
+    "meaning": "to take a photo or record a film",
+    "furigana": "とる"
+  },
+  {
+    "word": "私",
+    "meaning": "(humble) I, myself",
+    "furigana": "わたくし"
+  },
+  {
+    "word": "両親",
+    "meaning": "both parents",
+    "furigana": "りょうしん"
+  },
+  {
+    "word": "きれい",
+    "meaning": "pretty, clean",
+    "furigana": ""
+  },
+  {
+    "word": "どうぞ",
+    "meaning": "please",
+    "furigana": ""
+  },
+  {
+    "word": "好き",
+    "meaning": "likeable",
+    "furigana": "すき"
+  },
+  {
+    "word": "静か",
+    "meaning": "quiet",
+    "furigana": "しずか"
+  },
+  {
+    "word": "お父さん",
+    "meaning": "(honorable) father",
+    "furigana": "おとうさん"
+  },
+  {
+    "word": "人",
+    "meaning": "person",
+    "furigana": "ひと"
+  },
+  {
+    "word": "覚える",
+    "meaning": "to remember",
+    "furigana": "おぼえる"
+  },
+  {
+    "word": "休み",
+    "meaning": "rest, holiday",
+    "furigana": "やすみ"
+  },
+  {
+    "word": "池",
+    "meaning": "pond",
+    "furigana": "いけ"
+  },
+  {
+    "word": "始まる",
+    "meaning": "to begin",
+    "furigana": "はじまる"
+  },
+  {
+    "word": "困る",
+    "meaning": "to be worried",
+    "furigana": "こまる"
+  },
+  {
+    "word": "ほか",
+    "meaning": "other, the rest",
+    "furigana": ""
+  },
+  {
+    "word": "ちゃわん",
+    "meaning": "rice bowl",
+    "furigana": ""
+  },
+  {
+    "word": "疲れる",
+    "meaning": "to get tired",
+    "furigana": "つかれる"
+  },
+  {
+    "word": "掃除",
+    "meaning": "to clean, to sweep",
+    "furigana": "そうじする"
+  },
+  {
+    "word": "賑やか",
+    "meaning": "bustling, busy",
+    "furigana": "にぎやか"
+  },
+  {
+    "word": "一つ",
+    "meaning": "one",
+    "furigana": "ひとつ"
+  },
+  {
+    "word": "来週",
+    "meaning": "next week",
+    "furigana": "らいしゅう"
+  },
+  {
+    "word": "財布",
+    "meaning": "wallet",
+    "furigana": "さいふ"
+  },
+  {
+    "word": "知る",
+    "meaning": "to know",
+    "furigana": "しる"
+  },
+  {
+    "word": "教える",
+    "meaning": "to teach, to tell",
+    "furigana": "おしえる"
+  },
+  {
+    "word": "朝御飯",
+    "meaning": "breakfast",
+    "furigana": "あさごはん"
+  },
+  {
+    "word": "飛ぶ",
+    "meaning": "to fly, to hop",
+    "furigana": "とぶ"
+  },
+  {
+    "word": "言葉",
+    "meaning": "word, language",
+    "furigana": "ことば"
+  },
+  {
+    "word": "キロ / キログラム",
+    "meaning": "kilogram",
+    "furigana": ""
+  },
+  {
+    "word": "赤",
+    "meaning": "red",
+    "furigana": "あか"
+  },
+  {
+    "word": "自分",
+    "meaning": "oneself",
+    "furigana": "じぶん"
+  },
+  {
+    "word": "デパート",
+    "meaning": "department store",
+    "furigana": ""
+  },
+  {
+    "word": "薄い",
+    "meaning": "thin, weak",
+    "furigana": "うすい"
+  },
+  {
+    "word": "高い",
+    "meaning": "tall, expensive",
+    "furigana": "たかい"
+  },
+  {
+    "word": "帰る",
+    "meaning": "to go back",
+    "furigana": "かえる"
+  },
+  {
+    "word": "はい",
+    "meaning": "yes",
+    "furigana": ""
+  },
+  {
+    "word": "卵",
+    "meaning": "egg",
+    "furigana": "たまご"
+  },
+  {
+    "word": "低い",
+    "meaning": "short, low",
+    "furigana": "ひくい"
+  },
+  {
+    "word": "なぜ",
+    "meaning": "why",
+    "furigana": ""
+  },
+  {
+    "word": "一日",
+    "meaning": "(1) one day, (2) first of month",
+    "furigana": "いちにち"
+  },
+  {
+    "word": "いいえ",
+    "meaning": "no",
+    "furigana": ""
+  },
+  {
+    "word": "小さな",
+    "meaning": "little",
+    "furigana": "ちいさな"
+  },
+  {
+    "word": "時間",
+    "meaning": "time",
+    "furigana": "じかん"
+  },
+  {
+    "word": "上げる",
+    "meaning": "to give",
+    "furigana": "あげる"
+  },
+  {
+    "word": "ふろ",
+    "meaning": "bath",
+    "furigana": ""
+  },
+  {
+    "word": "生徒",
+    "meaning": "pupil",
+    "furigana": "せいと"
+  },
+  {
+    "word": "レストラン",
+    "meaning": "restaurant",
+    "furigana": ""
+  },
+  {
+    "word": "出す",
+    "meaning": "to put out",
+    "furigana": "だす"
+  },
+  {
+    "word": "かわいい",
+    "meaning": "cute",
+    "furigana": ""
+  },
+  {
+    "word": "音楽",
+    "meaning": "music",
+    "furigana": "おんがく"
+  },
+  {
+    "word": "歌",
+    "meaning": "song",
+    "furigana": "うた"
+  },
+  {
+    "word": "いちばん",
+    "meaning": "best, first",
+    "furigana": ""
+  },
+  {
+    "word": "咲く",
+    "meaning": "to bloom",
+    "furigana": "さく"
+  },
+  {
+    "word": "山",
+    "meaning": "mountain",
+    "furigana": "やま"
+  },
+  {
+    "word": "テレビ",
+    "meaning": "television",
+    "furigana": ""
+  },
+  {
+    "word": "授業",
+    "meaning": "lesson, class work",
+    "furigana": "じゅぎょう"
+  },
+  {
+    "word": "暖かい",
+    "meaning": "warm",
+    "furigana": "あたたかい"
+  },
+  {
+    "word": "セーター",
+    "meaning": "sweater, jumper",
+    "furigana": ""
+  },
+  {
+    "word": "自転車",
+    "meaning": "bicycle",
+    "furigana": "じてんしゃ"
+  },
+  {
+    "word": "ラジカセ / ラジオカセット",
+    "meaning": "radio cassette player",
+    "furigana": ""
+  },
+  {
+    "word": "つける",
+    "meaning": "to turn on",
+    "furigana": ""
+  },
+  {
+    "word": "さ来年",
+    "meaning": "year after next",
+    "furigana": "さらいねん"
+  },
+  {
+    "word": "学校",
+    "meaning": "school",
+    "furigana": "がっこう"
+  },
+  {
+    "word": "いくら",
+    "meaning": "how much?",
+    "furigana": ""
+  },
+  {
+    "word": "四",
+    "meaning": "four",
+    "furigana": "し / よん"
+  },
+  {
+    "word": "入る",
+    "meaning": "to enter, to contain",
+    "furigana": "はいる"
+  },
+  {
+    "word": "曇り",
+    "meaning": "cloudy weather",
+    "furigana": "くもり"
+  },
+  {
+    "word": "外国",
+    "meaning": "foreign country",
+    "furigana": "がいこく"
+  },
+  {
+    "word": "温い",
+    "meaning": "luke warm",
+    "furigana": "ぬるい"
+  },
+  {
+    "word": "そうして / そして",
+    "meaning": "and",
+    "furigana": ""
+  },
+  {
+    "word": "どうも",
+    "meaning": "thanks",
+    "furigana": ""
+  },
+  {
+    "word": "仕事",
+    "meaning": "job",
+    "furigana": "しごと"
+  },
+  {
+    "word": "窓",
+    "meaning": "window",
+    "furigana": "まど"
+  },
+  {
+    "word": "晩",
+    "meaning": "evening",
+    "furigana": "ばん"
+  },
+  {
+    "word": "難しい",
+    "meaning": "difficult",
+    "furigana": "むずかしい"
+  },
+  {
+    "word": "村",
+    "meaning": "village",
+    "furigana": "むら"
+  },
+  {
+    "word": "鉛筆",
+    "meaning": "pencil",
+    "furigana": "えんぴつ"
+  },
+  {
+    "word": "長い",
+    "meaning": "long",
+    "furigana": "ながい"
+  },
+  {
+    "word": "生まれる",
+    "meaning": "to be born",
+    "furigana": "うまれる"
+  },
+  {
+    "word": "雑誌",
+    "meaning": "magazine",
+    "furigana": "ざっし"
+  },
+  {
+    "word": "国",
+    "meaning": "country",
+    "furigana": "くに"
+  },
+  {
+    "word": "おまわりさん",
+    "meaning": "friendly term for policeman",
+    "furigana": ""
+  },
+  {
+    "word": "今朝",
+    "meaning": "this morning",
+    "furigana": "けさ"
+  },
+  {
+    "word": "晴れる",
+    "meaning": "to be sunny",
+    "furigana": "はれる"
+  },
+  {
+    "word": "夕飯",
+    "meaning": "dinner",
+    "furigana": "ゆうはん"
+  },
+  {
+    "word": "一緒",
+    "meaning": "together",
+    "furigana": "いっしょ"
+  },
+  {
+    "word": "どれ",
+    "meaning": "which (of three or more)",
+    "furigana": ""
+  },
+  {
+    "word": "立つ",
+    "meaning": "to stand",
+    "furigana": "たつ"
+  },
+  {
+    "word": "元気",
+    "meaning": "health, vitality",
+    "furigana": "げんき"
+  },
+  {
+    "word": "天気",
+    "meaning": "weather",
+    "furigana": "てんき"
+  },
+  {
+    "word": "医者",
+    "meaning": "medical doctor",
+    "furigana": "いしゃ"
+  },
+  {
+    "word": "七",
+    "meaning": "seven",
+    "furigana": "しち / なな"
+  },
+  {
+    "word": "はく",
+    "meaning": "to wear, to put on trousers",
+    "furigana": ""
+  },
+  {
+    "word": "だんだん",
+    "meaning": "gradually",
+    "furigana": ""
+  },
+  {
+    "word": "戸",
+    "meaning": "Japanese style door",
+    "furigana": "と"
+  },
+  {
+    "word": "ノート",
+    "meaning": "notebook, exercise book",
+    "furigana": ""
+  },
+  {
+    "word": "また",
+    "meaning": "again, and",
+    "furigana": ""
+  },
+  {
+    "word": "今日",
+    "meaning": "today",
+    "furigana": "きょう"
+  },
+  {
+    "word": "とても",
+    "meaning": "very",
+    "furigana": ""
+  },
+  {
+    "word": "一昨年",
+    "meaning": "year before last",
+    "furigana": "おととし"
+  },
+  {
+    "word": "文章",
+    "meaning": "sentence, text",
+    "furigana": "ぶんしょう"
+  },
+  {
+    "word": "公園",
+    "meaning": "park",
+    "furigana": "こうえん"
+  },
+  {
+    "word": "借りる",
+    "meaning": "to borrow",
+    "furigana": "かりる"
+  },
+  {
+    "word": "口",
+    "meaning": "mouth, opening",
+    "furigana": "くち"
+  },
+  {
+    "word": "持つ",
+    "meaning": "to hold",
+    "furigana": "もつ"
+  },
+  {
+    "word": "上着",
+    "meaning": "jacket",
+    "furigana": "うわぎ"
+  },
+  {
+    "word": "秋",
+    "meaning": "autumn",
+    "furigana": "あき"
+  },
+  {
+    "word": "悪い",
+    "meaning": "bad",
+    "furigana": "わるい"
+  },
+  {
+    "word": "青い",
+    "meaning": "blue",
+    "furigana": "あおい"
+  },
+  {
+    "word": "住む",
+    "meaning": "to live in",
+    "furigana": "すむ"
+  },
+  {
+    "word": "かける",
+    "meaning": "to call by phone",
+    "furigana": ""
+  },
+  {
+    "word": "木曜日",
+    "meaning": "Thursday",
+    "furigana": "もくようび"
+  },
+  {
+    "word": "忘れる",
+    "meaning": "to forget",
+    "furigana": "わすれる"
+  },
+  {
+    "word": "お手洗い",
+    "meaning": "bathroom",
+    "furigana": "おてあらい"
+  },
+  {
+    "word": "写真",
+    "meaning": "photograph",
+    "furigana": "しゃしん"
+  },
+  {
+    "word": "ゼロ",
+    "meaning": "zero",
+    "furigana": ""
+  },
+  {
+    "word": "いろいろ",
+    "meaning": "various",
+    "furigana": ""
+  },
+  {
+    "word": "もう",
+    "meaning": "already",
+    "furigana": ""
+  },
+  {
+    "word": "会う",
+    "meaning": "to meet",
+    "furigana": "あう"
+  },
+  {
+    "word": "南",
+    "meaning": "south",
+    "furigana": "みなみ"
+  },
+  {
+    "word": "五日",
+    "meaning": "five days, fifth day",
+    "furigana": "いつか"
+  },
+  {
+    "word": "着る",
+    "meaning": "to put on from the shoulders down",
+    "furigana": "きる"
+  },
+  {
+    "word": "そこ",
+    "meaning": "that place",
+    "furigana": ""
+  },
+  {
+    "word": "終る",
+    "meaning": "to finish",
+    "furigana": "おわる"
+  },
+  {
+    "word": "どの",
+    "meaning": "which",
+    "furigana": ""
+  },
+  {
+    "word": "読む",
+    "meaning": "to read",
+    "furigana": "よむ"
+  },
+  {
+    "word": "それでは",
+    "meaning": "in that situation",
+    "furigana": ""
+  },
+  {
+    "word": "来月",
+    "meaning": "next month",
+    "furigana": "らいげつ"
+  },
+  {
+    "word": "果物",
+    "meaning": "fruit",
+    "furigana": "くだもの"
+  },
+  {
+    "word": "止まる",
+    "meaning": "to come to a halt",
+    "furigana": "とまる"
+  },
+  {
+    "word": "着く",
+    "meaning": "to arrive at",
+    "furigana": "つく"
+  },
+  {
+    "word": "大好き",
+    "meaning": "to be very likeable",
+    "furigana": "だいすき"
+  },
+  {
+    "word": "妹",
+    "meaning": "(humble) younger sister",
+    "furigana": "いもうと"
+  },
+  {
+    "word": "夏",
+    "meaning": "summer",
+    "furigana": "なつ"
+  },
+  {
+    "word": "今晩",
+    "meaning": "this evening",
+    "furigana": "こんばん"
+  },
+  {
+    "word": "塩",
+    "meaning": "salt",
+    "furigana": "しお"
+  },
+  {
+    "word": "先週",
+    "meaning": "last week",
+    "furigana": "せんしゅう"
+  },
+  {
+    "word": "欲しい",
+    "meaning": "want",
+    "furigana": "ほしい"
+  },
+  {
+    "word": "木",
+    "meaning": "tree, wood",
+    "furigana": "き"
+  },
+  {
+    "word": "ほんとう",
+    "meaning": "truth",
+    "furigana": ""
+  },
+  {
+    "word": "薬",
+    "meaning": "medicine",
+    "furigana": "くすり"
+  },
+  {
+    "word": "お菓子",
+    "meaning": "sweets, candy",
+    "furigana": "おかし"
+  },
+  {
+    "word": "金曜日",
+    "meaning": "Friday",
+    "furigana": "きんようび"
+  },
+  {
+    "word": "まずい",
+    "meaning": "unpleasant",
+    "furigana": ""
+  },
+  {
+    "word": "お酒",
+    "meaning": "alcohol, rice wine",
+    "furigana": "おさけ"
+  },
+  {
+    "word": "多い",
+    "meaning": "many",
+    "furigana": "おおい"
+  },
+  {
+    "word": "動物",
+    "meaning": "animal",
+    "furigana": "どうぶつ"
+  },
+  {
+    "word": "切符",
+    "meaning": "ticket",
+    "furigana": "きっぷ"
+  },
+  {
+    "word": "キロ / キロメートル",
+    "meaning": "kilometre",
+    "furigana": ""
+  },
+  {
+    "word": "呼ぶ",
+    "meaning": "to call out, to invite",
+    "furigana": "よぶ"
+  },
+  {
+    "word": "体",
+    "meaning": "body",
+    "furigana": "からだ"
+  },
+  {
+    "word": "ゆっくりと",
+    "meaning": "slowly",
+    "furigana": ""
+  },
+  {
+    "word": "二日",
+    "meaning": "two days, second day of the month",
+    "furigana": "ふつか"
+  },
+  {
+    "word": "大人",
+    "meaning": "adult",
+    "furigana": "おとな"
+  },
+  {
+    "word": "歯",
+    "meaning": "tooth",
+    "furigana": "は"
+  },
+  {
+    "word": "冬",
+    "meaning": "winter",
+    "furigana": "ふゆ"
+  },
+  {
+    "word": "所",
+    "meaning": "place",
+    "furigana": "ところ"
+  },
+  {
+    "word": "吹く",
+    "meaning": "to blow",
+    "furigana": "ふく"
+  },
+  {
+    "word": "足",
+    "meaning": "foot, leg",
+    "furigana": "あし"
+  },
+  {
+    "word": "箱",
+    "meaning": "box",
+    "furigana": "はこ"
+  },
+  {
+    "word": "八",
+    "meaning": "eight",
+    "furigana": "はち"
+  },
+  {
+    "word": "朝",
+    "meaning": "morning",
+    "furigana": "あさ"
+  },
+  {
+    "word": "一昨日",
+    "meaning": "day before yesterday",
+    "furigana": "おととい"
+  },
+  {
+    "word": "有名",
+    "meaning": "famous",
+    "furigana": "ゆうめい"
+  },
+  {
+    "word": "二十日",
+    "meaning": "twenty days, twentieth",
+    "furigana": "はつか"
+  },
+  {
+    "word": "近い",
+    "meaning": "near",
+    "furigana": "ちかい"
+  },
+  {
+    "word": "ください",
+    "meaning": "please",
+    "furigana": ""
+  },
+  {
+    "word": "時計",
+    "meaning": "watch, clock",
+    "furigana": "とけい"
+  },
+  {
+    "word": "午後",
+    "meaning": "afternoon",
+    "furigana": "ごご"
+  },
+  {
+    "word": "食べ物",
+    "meaning": "food",
+    "furigana": "たべもの"
+  },
+  {
+    "word": "降る",
+    "meaning": "to fall, e.g. rain or snow",
+    "furigana": "ふる"
+  },
+  {
+    "word": "易しい",
+    "meaning": "easy, simple",
+    "furigana": "やさしい"
+  },
+  {
+    "word": "大使館",
+    "meaning": "embassy",
+    "furigana": "たいしかん"
+  },
+  {
+    "word": "誰",
+    "meaning": "who",
+    "furigana": "だれ"
+  },
+  {
+    "word": "上",
+    "meaning": "on top of",
+    "furigana": "うえ"
+  },
+  {
+    "word": "五",
+    "meaning": "five",
+    "furigana": "ご"
+  },
+  {
+    "word": "十日",
+    "meaning": "ten days, the tenth day",
+    "furigana": "とおか"
+  },
+  {
+    "word": "どちら",
+    "meaning": "which of two",
+    "furigana": ""
+  },
+  {
+    "word": "プール",
+    "meaning": "swimming pool",
+    "furigana": ""
+  },
+  {
+    "word": "小さい",
+    "meaning": "little",
+    "furigana": "ちいさい"
+  },
+  {
+    "word": "今週",
+    "meaning": "this week",
+    "furigana": "こんしゅう"
+  },
+  {
+    "word": "肉",
+    "meaning": "meat",
+    "furigana": "にく"
+  },
+  {
+    "word": "零",
+    "meaning": "zero",
+    "furigana": "れい"
+  },
+  {
+    "word": "豚肉",
+    "meaning": "pork",
+    "furigana": "ぶたにく"
+  },
+  {
+    "word": "広い",
+    "meaning": "spacious, wide",
+    "furigana": "ひろい"
+  },
+  {
+    "word": "靴下",
+    "meaning": "socks",
+    "furigana": "くつした"
+  },
+  {
+    "word": "一人",
+    "meaning": "one person",
+    "furigana": "ひとり"
+  },
+  {
+    "word": "かぎ",
+    "meaning": "key",
+    "furigana": ""
+  },
+  {
+    "word": "向こう",
+    "meaning": "over there",
+    "furigana": "むこう"
+  },
+  {
+    "word": "上手",
+    "meaning": "skillful",
+    "furigana": "じょうず"
+  },
+  {
+    "word": "牛肉",
+    "meaning": "beef",
+    "furigana": "ぎゅうにく"
+  },
+  {
+    "word": "話",
+    "meaning": "talk, story",
+    "furigana": "はなし"
+  },
+  {
+    "word": "毎晩",
+    "meaning": "every night",
+    "furigana": "まいばん"
+  },
+  {
+    "word": "三つ",
+    "meaning": "three",
+    "furigana": "みっつ"
+  },
+  {
+    "word": "吸う",
+    "meaning": "to smoke, to suck",
+    "furigana": "すう"
+  },
+  {
+    "word": "銀行",
+    "meaning": "bank",
+    "furigana": "ぎんこう"
+  },
+  {
+    "word": "大切",
+    "meaning": "important",
+    "furigana": "たいせつ"
+  },
+  {
+    "word": "学生",
+    "meaning": "student",
+    "furigana": "がくせい"
+  },
+  {
+    "word": "部屋",
+    "meaning": "room",
+    "furigana": "へや"
+  },
+  {
+    "word": "昼御飯",
+    "meaning": "midday meal",
+    "furigana": "ひるごはん"
+  },
+  {
+    "word": "下",
+    "meaning": "below",
+    "furigana": "した"
+  },
+  {
+    "word": "二つ",
+    "meaning": "two",
+    "furigana": "ふたつ"
+  },
+  {
+    "word": "百",
+    "meaning": "hundred",
+    "furigana": "ひゃく"
+  },
+  {
+    "word": "地図",
+    "meaning": "map",
+    "furigana": "ちず"
+  },
+  {
+    "word": "八百屋",
+    "meaning": "greengrocer",
+    "furigana": "やおや"
+  },
+  {
+    "word": "ネクタイ",
+    "meaning": "tie, necktie",
+    "furigana": ""
+  },
+  {
+    "word": "去年",
+    "meaning": "last year",
+    "furigana": "きょねん"
+  },
+  {
+    "word": "火曜日",
+    "meaning": "Tuesday",
+    "furigana": "かようび"
+  },
+  {
+    "word": "乗る",
+    "meaning": "to get on, to ride",
+    "furigana": "のる"
+  },
+  {
+    "word": "弟",
+    "meaning": "younger brother",
+    "furigana": "おとうと"
+  },
+  {
+    "word": "あなた",
+    "meaning": "you",
+    "furigana": ""
+  },
+  {
+    "word": "千",
+    "meaning": "thousand",
+    "furigana": "せん"
+  },
+  {
+    "word": "緑",
+    "meaning": "green",
+    "furigana": "みどり"
+  },
+  {
+    "word": "とり肉",
+    "meaning": "chicken meat",
+    "furigana": "とりにく"
+  },
+  {
+    "word": "軽い",
+    "meaning": "light",
+    "furigana": "かるい"
+  },
+  {
+    "word": "あまり",
+    "meaning": "not very",
+    "furigana": ""
+  },
+  {
+    "word": "帽子",
+    "meaning": "hat",
+    "furigana": "ぼうし"
+  },
+  {
+    "word": "丈夫",
+    "meaning": "strong, durable",
+    "furigana": "じょうぶ"
+  },
+  {
+    "word": "入れる",
+    "meaning": "to put in",
+    "furigana": "いれる"
+  },
+  {
+    "word": "二十歳",
+    "meaning": "20 years old, 20th year",
+    "furigana": "はたち"
+  },
+  {
+    "word": "三日",
+    "meaning": "three days, third day of the month",
+    "furigana": "みっか"
+  },
+  {
+    "word": "遠い",
+    "meaning": "far",
+    "furigana": "とおい"
+  },
+  {
+    "word": "夏休み",
+    "meaning": "summer holiday",
+    "furigana": "なつやすみ"
+  },
+  {
+    "word": "友達",
+    "meaning": "friend",
+    "furigana": "ともだち"
+  },
+  {
+    "word": "横",
+    "meaning": "beside, side, width",
+    "furigana": "よこ"
+  },
+  {
+    "word": "冷たい",
+    "meaning": "cold to the touch",
+    "furigana": "つめたい"
+  },
+  {
+    "word": "夜",
+    "meaning": "evening, night",
+    "furigana": "よる"
+  },
+  {
+    "word": "トイレ",
+    "meaning": "toilet",
+    "furigana": ""
+  },
+  {
+    "word": "おなか",
+    "meaning": "stomach",
+    "furigana": ""
+  },
+  {
+    "word": "どこ",
+    "meaning": "where",
+    "furigana": ""
+  },
+  {
+    "word": "暇",
+    "meaning": "free time",
+    "furigana": "ひま"
+  },
+  {
+    "word": "鳴く",
+    "meaning": "animal noise. to chirp, roar or croak etc.",
+    "furigana": "なく"
+  },
+  {
+    "word": "隣",
+    "meaning": "next door to",
+    "furigana": "となり"
+  },
+  {
+    "word": "先生",
+    "meaning": "teacher, doctor",
+    "furigana": "せんせい"
+  },
+  {
+    "word": "出口",
+    "meaning": "exit",
+    "furigana": "でぐち"
+  },
+  {
+    "word": "後ろ",
+    "meaning": "behind",
+    "furigana": "うしろ"
+  },
+  {
+    "word": "先月",
+    "meaning": "last month",
+    "furigana": "せんげつ"
+  },
+  {
+    "word": "テープ",
+    "meaning": "tape",
+    "furigana": ""
+  },
+  {
+    "word": "お姉さん",
+    "meaning": "(honorable) older sister",
+    "furigana": "おねえさん"
+  },
+  {
+    "word": "じゃ / じゃあ",
+    "meaning": "well then…",
+    "furigana": ""
+  },
+  {
+    "word": "本",
+    "meaning": "book",
+    "furigana": "ほん"
+  },
+  {
+    "word": "泳ぐ",
+    "meaning": "to swim",
+    "furigana": "およぐ"
+  },
+  {
+    "word": "灰皿",
+    "meaning": "ashtray",
+    "furigana": "はいざら"
+  },
+  {
+    "word": "門",
+    "meaning": "gate",
+    "furigana": "もん"
+  },
+  {
+    "word": "荷物",
+    "meaning": "luggage",
+    "furigana": "にもつ"
+  },
+  {
+    "word": "この",
+    "meaning": "this",
+    "furigana": ""
+  },
+  {
+    "word": "書く",
+    "meaning": "to write",
+    "furigana": "かく"
+  },
+  {
+    "word": "毎年",
+    "meaning": "every year",
+    "furigana": "まいねん / まいとし"
+  },
+  {
+    "word": "明日",
+    "meaning": "tomorrow",
+    "furigana": "あした"
+  },
+  {
+    "word": "ホテル",
+    "meaning": "hotel",
+    "furigana": ""
+  },
+  {
+    "word": "降りる",
+    "meaning": "to get off, to descend",
+    "furigana": "おりる"
+  },
+  {
+    "word": "重い",
+    "meaning": "heavy",
+    "furigana": "おもい"
+  },
+  {
+    "word": "電車",
+    "meaning": "electric train",
+    "furigana": "でんしゃ"
+  },
+  {
+    "word": "痛い",
+    "meaning": "painful",
+    "furigana": "いたい"
+  },
+  {
+    "word": "話す",
+    "meaning": "to speak",
+    "furigana": "はなす"
+  },
+  {
+    "word": "りっぱ",
+    "meaning": "splendid",
+    "furigana": ""
+  },
+  {
+    "word": "つまらない",
+    "meaning": "boring",
+    "furigana": ""
+  },
+  {
+    "word": "よく",
+    "meaning": "often, well",
+    "furigana": ""
+  },
+  {
+    "word": "嫌",
+    "meaning": "unpleasant",
+    "furigana": "いや"
+  },
+  {
+    "word": "宿題",
+    "meaning": "homework",
+    "furigana": "しゅくだい"
+  },
+  {
+    "word": "死ぬ",
+    "meaning": "to die",
+    "furigana": "しぬ"
+  },
+  {
+    "word": "みんな",
+    "meaning": "everyone",
+    "furigana": ""
+  },
+  {
+    "word": "万",
+    "meaning": "ten thousand",
+    "furigana": "まん"
+  },
+  {
+    "word": "映画",
+    "meaning": "movie",
+    "furigana": "えいが"
+  },
+  {
+    "word": "遅い",
+    "meaning": "late, slow",
+    "furigana": "おそい"
+  },
+  {
+    "word": "耳",
+    "meaning": "ear",
+    "furigana": "みみ"
+  },
+  {
+    "word": "かかる",
+    "meaning": "to take time or money",
+    "furigana": ""
+  },
+  {
+    "word": "でも",
+    "meaning": "but",
+    "furigana": ""
+  },
+  {
+    "word": "四つ",
+    "meaning": "four",
+    "furigana": "よっつ"
+  },
+  {
+    "word": "机",
+    "meaning": "desk",
+    "furigana": "つくえ"
+  },
+  {
+    "word": "あっち",
+    "meaning": "over there",
+    "furigana": ""
+  },
+  {
+    "word": "買う",
+    "meaning": "to buy",
+    "furigana": "かう"
+  },
+  {
+    "word": "開く",
+    "meaning": "to open, to become open",
+    "furigana": "あく"
+  },
+  {
+    "word": "教室",
+    "meaning": "classroom",
+    "furigana": "きょうしつ"
+  },
+  {
+    "word": "かばん",
+    "meaning": "bag, basket",
+    "furigana": ""
+  },
+  {
+    "word": "マッチ",
+    "meaning": "match",
+    "furigana": ""
+  },
+  {
+    "word": "短い",
+    "meaning": "short",
+    "furigana": "みじかい"
+  },
+  {
+    "word": "姉",
+    "meaning": "(humble) older sister",
+    "furigana": "あね"
+  },
+  {
+    "word": "大勢",
+    "meaning": "great number of people",
+    "furigana": "おおぜい"
+  },
+  {
+    "word": "開ける",
+    "meaning": "to open",
+    "furigana": "あける"
+  },
+  {
+    "word": "忙しい",
+    "meaning": "busy, irritated",
+    "furigana": "いそがしい"
+  },
+  {
+    "word": "おばあさん",
+    "meaning": "grandmother, female senior-citizen",
+    "furigana": ""
+  },
+  {
+    "word": "店",
+    "meaning": "shop",
+    "furigana": "みせ"
+  },
+  {
+    "word": "ワイシャツ",
+    "meaning": "business shirt",
+    "furigana": ""
+  },
+  {
+    "word": "北",
+    "meaning": "north",
+    "furigana": "きた"
+  },
+  {
+    "word": "ラジオ",
+    "meaning": "radio",
+    "furigana": ""
+  },
+  {
+    "word": "すぐに",
+    "meaning": "instantly",
+    "furigana": ""
+  },
+  {
+    "word": "ハンカチ",
+    "meaning": "handkerchief",
+    "furigana": ""
+  },
+  {
+    "word": "いつ",
+    "meaning": "when",
+    "furigana": ""
+  },
+  {
+    "word": "全部",
+    "meaning": "all",
+    "furigana": "ぜんぶ"
+  },
+  {
+    "word": "橋",
+    "meaning": "bridge",
+    "furigana": "はし"
+  },
+  {
+    "word": "川 / 河",
+    "meaning": "river",
+    "furigana": "かわ"
+  },
+  {
+    "word": "バター",
+    "meaning": "butter",
+    "furigana": ""
+  },
+  {
+    "word": "もっと",
+    "meaning": "more",
+    "furigana": ""
+  },
+  {
+    "word": "入口",
+    "meaning": "entrance",
+    "furigana": "いりぐち"
+  },
+  {
+    "word": "など",
+    "meaning": "et cetera",
+    "furigana": ""
+  },
+  {
+    "word": "太い",
+    "meaning": "fat",
+    "furigana": "ふとい"
+  },
+  {
+    "word": "やる",
+    "meaning": "to do",
+    "furigana": ""
+  },
+  {
+    "word": "自動車",
+    "meaning": "automobile",
+    "furigana": "じどうしゃ"
+  },
+  {
+    "word": "昼",
+    "meaning": "noon, daytime",
+    "furigana": "ひる"
+  },
+  {
+    "word": "色",
+    "meaning": "colour",
+    "furigana": "いろ"
+  },
+  {
+    "word": "黄色",
+    "meaning": "yellow",
+    "furigana": "きいろ"
+  },
+  {
+    "word": "左",
+    "meaning": "left hand side",
+    "furigana": "ひだり"
+  },
+  {
+    "word": "野菜",
+    "meaning": "vegetable",
+    "furigana": "やさい"
+  },
+  {
+    "word": "シャワー",
+    "meaning": "shower",
+    "furigana": ""
+  },
+  {
+    "word": "散歩",
+    "meaning": "to stroll",
+    "furigana": "さんぽする"
+  },
+  {
+    "word": "三",
+    "meaning": "three",
+    "furigana": "さん"
+  },
+  {
+    "word": "消える",
+    "meaning": "to disappear",
+    "furigana": "きえる"
+  },
+  {
+    "word": "映画館",
+    "meaning": "cinema",
+    "furigana": "えいがかん"
+  },
+  {
+    "word": "いす",
+    "meaning": "chair",
+    "furigana": ""
+  },
+  {
+    "word": "誕生日",
+    "meaning": "birthday",
+    "furigana": "たんじょうび"
+  },
+  {
+    "word": "切る",
+    "meaning": "to cut",
+    "furigana": "きる"
+  },
+  {
+    "word": "七日",
+    "meaning": "seven days, the seventh day",
+    "furigana": "なのか"
+  },
+  {
+    "word": "洗う",
+    "meaning": "to wash",
+    "furigana": "あらう"
+  },
+  {
+    "word": "あれ",
+    "meaning": "that",
+    "furigana": ""
+  },
+  {
+    "word": "グラム",
+    "meaning": "gram",
+    "furigana": ""
+  },
+  {
+    "word": "習う",
+    "meaning": "to learn",
+    "furigana": "ならう"
+  },
+  {
+    "word": "後",
+    "meaning": "afterwards",
+    "furigana": "あと"
+  },
+  {
+    "word": "猫",
+    "meaning": "cat",
+    "furigana": "ねこ"
+  },
+  {
+    "word": "図書館",
+    "meaning": "library",
+    "furigana": "としょかん"
+  },
+  {
+    "word": "並べる",
+    "meaning": "to line up, to set up",
+    "furigana": "ならべる"
+  },
+  {
+    "word": "しかし",
+    "meaning": "however",
+    "furigana": ""
+  },
+  {
+    "word": "大きい",
+    "meaning": "big",
+    "furigana": "おおきい"
+  },
+  {
+    "word": "八日",
+    "meaning": "eight days, eighth day of the month",
+    "furigana": "ようか"
+  },
+  {
+    "word": "歩く",
+    "meaning": "to walk",
+    "furigana": "あるく"
+  },
+  {
+    "word": "ズボン",
+    "meaning": "trousers",
+    "furigana": ""
+  },
+  {
+    "word": "九日",
+    "meaning": "nine days, ninth day",
+    "furigana": "ここのか"
+  },
+  {
+    "word": "そっち",
+    "meaning": "over there",
+    "furigana": ""
+  },
+  {
+    "word": "たて",
+    "meaning": "length, height",
+    "furigana": ""
+  },
+  {
+    "word": "カップ",
+    "meaning": "cup",
+    "furigana": ""
+  },
+  {
+    "word": "あの",
+    "meaning": "that over there",
+    "furigana": ""
+  },
+  {
+    "word": "頼む",
+    "meaning": "to ask",
+    "furigana": "たのむ"
+  },
+  {
+    "word": "お兄さん",
+    "meaning": "(honorable) older brother",
+    "furigana": "おにいさん"
+  },
+  {
+    "word": "手",
+    "meaning": "hand",
+    "furigana": "て"
+  },
+  {
+    "word": "ええ",
+    "meaning": "yes",
+    "furigana": ""
+  },
+  {
+    "word": "毎日",
+    "meaning": "every day",
+    "furigana": "まいにち"
+  },
+  {
+    "word": "花",
+    "meaning": "flower",
+    "furigana": "はな"
+  },
+  {
+    "word": "一",
+    "meaning": "one",
+    "furigana": "いち"
+  },
+  {
+    "word": "居る",
+    "meaning": "to be, to have (used for people and animals)",
+    "furigana": "いる"
+  },
+  {
+    "word": "砂糖",
+    "meaning": "sugar",
+    "furigana": "さとう"
+  },
+  {
+    "word": "カレンダー",
+    "meaning": "calendar",
+    "furigana": ""
+  },
+  {
+    "word": "今",
+    "meaning": "now",
+    "furigana": "いま"
+  },
+  {
+    "word": "旅行",
+    "meaning": "travel",
+    "furigana": "りょこう"
+  },
+  {
+    "word": "できる",
+    "meaning": "to be able to",
+    "furigana": ""
+  },
+  {
+    "word": "春",
+    "meaning": "spring",
+    "furigana": "はる"
+  },
+  {
+    "word": "する",
+    "meaning": "to do",
+    "furigana": ""
+  },
+  {
+    "word": "八つ",
+    "meaning": "eight",
+    "furigana": "やっつ"
+  },
+  {
+    "word": "町",
+    "meaning": "town, city",
+    "furigana": "まち"
+  },
+  {
+    "word": "渡す",
+    "meaning": "to hand over",
+    "furigana": "わたす"
+  },
+  {
+    "word": "青",
+    "meaning": "blue",
+    "furigana": "あお"
+  },
+  {
+    "word": "白",
+    "meaning": "white",
+    "furigana": "しろ"
+  },
+  {
+    "word": "ある",
+    "meaning": "to be, to have (used for inanimate objects)",
+    "furigana": ""
+  },
+  {
+    "word": "ベッド",
+    "meaning": "bed",
+    "furigana": ""
+  },
+  {
+    "word": "水",
+    "meaning": "water",
+    "furigana": "みず"
+  },
+  {
+    "word": "いくつ",
+    "meaning": "how many?, how old?",
+    "furigana": ""
+  },
+  {
+    "word": "楽しい",
+    "meaning": "enjoyable",
+    "furigana": "たのしい"
+  },
+  {
+    "word": "御飯",
+    "meaning": "cooked rice, meal",
+    "furigana": "ごはん"
+  },
+  {
+    "word": "皆さん",
+    "meaning": "everyone",
+    "furigana": "みなさん"
+  },
+  {
+    "word": "おいしい",
+    "meaning": "delicious",
+    "furigana": ""
+  },
+  {
+    "word": "ペット",
+    "meaning": "pet",
+    "furigana": ""
+  },
+  {
+    "word": "外",
+    "meaning": "outside",
+    "furigana": "そと"
+  },
+  {
+    "word": "前",
+    "meaning": "before",
+    "furigana": "まえ"
+  },
+  {
+    "word": "来る",
+    "meaning": "to come",
+    "furigana": "くる"
+  },
+  {
+    "word": "おもしろい",
+    "meaning": "interesting",
+    "furigana": ""
+  },
+  {
+    "word": "貸す",
+    "meaning": "to lend",
+    "furigana": "かす"
+  },
+  {
+    "word": "早い",
+    "meaning": "early",
+    "furigana": "はやい"
+  },
+  {
+    "word": "弱い",
+    "meaning": "weak",
+    "furigana": "よわい"
+  },
+  {
+    "word": "洗濯",
+    "meaning": "washing",
+    "furigana": "せんたく"
+  },
+  {
+    "word": "九つ",
+    "meaning": "nine",
+    "furigana": "ここのつ"
+  },
+  {
+    "word": "来年",
+    "meaning": "next year",
+    "furigana": "らいねん"
+  },
+  {
+    "word": "眼鏡",
+    "meaning": "glasses",
+    "furigana": "めがね"
+  },
+  {
+    "word": "背",
+    "meaning": "height, stature",
+    "furigana": "せ"
+  },
+  {
+    "word": "水曜日",
+    "meaning": "Wednesday",
+    "furigana": "すいようび"
+  },
+  {
+    "word": "お金",
+    "meaning": "money",
+    "furigana": "おかね"
+  },
+  {
+    "word": "同じ",
+    "meaning": "same",
+    "furigana": "おなじ"
+  },
+  {
+    "word": "弾く",
+    "meaning": "to play an instrument with strings, including piano",
+    "furigana": "ひく"
+  },
+  {
+    "word": "土曜日",
+    "meaning": "Saturday",
+    "furigana": "どようび"
+  },
+  {
+    "word": "階段",
+    "meaning": "stairs",
+    "furigana": "かいだん"
+  },
+  {
+    "word": "煩い",
+    "meaning": "noisy, annoying",
+    "furigana": "うるさい"
+  },
+  {
+    "word": "半分",
+    "meaning": "half minute",
+    "furigana": "はんぶん"
+  },
+  {
+    "word": "背広",
+    "meaning": "business suit",
+    "furigana": "せびろ"
+  },
+  {
+    "word": "晴れ",
+    "meaning": "clear weather",
+    "furigana": "はれ"
+  },
+  {
+    "word": "見せる",
+    "meaning": "to show",
+    "furigana": "みせる"
+  },
+  {
+    "word": "飲み物",
+    "meaning": "a drink",
+    "furigana": "のみもの"
+  },
+  {
+    "word": "雪",
+    "meaning": "snow",
+    "furigana": "ゆき"
+  },
+  {
+    "word": "買い物",
+    "meaning": "shopping",
+    "furigana": "かいもの"
+  },
+  {
+    "word": "交差点",
+    "meaning": "intersection",
+    "furigana": "こうさてん"
+  },
+  {
+    "word": "駅",
+    "meaning": "station",
+    "furigana": "えき"
+  },
+  {
+    "word": "大丈夫",
+    "meaning": "all right",
+    "furigana": "だいじょうぶ"
+  },
+  {
+    "word": "ボールペン",
+    "meaning": "ball-point pen",
+    "furigana": ""
+  },
+  {
+    "word": "勉強",
+    "meaning": "to study",
+    "furigana": "べんきょうする"
+  },
+  {
+    "word": "兄弟",
+    "meaning": "(humble) siblings",
+    "furigana": "きょうだい"
+  },
+  {
+    "word": "封筒",
+    "meaning": "envelope",
+    "furigana": "ふうとう"
+  },
+  {
+    "word": "レコード",
+    "meaning": "record",
+    "furigana": ""
+  },
+  {
+    "word": "コーヒー",
+    "meaning": "coffee",
+    "furigana": ""
+  },
+  {
+    "word": "漢字",
+    "meaning": "Chinese character",
+    "furigana": "かんじ"
+  },
+  {
+    "word": "喫茶店",
+    "meaning": "coffee lounge",
+    "furigana": "きっさてん"
+  },
+  {
+    "word": "その",
+    "meaning": "that",
+    "furigana": ""
+  },
+  {
+    "word": "子供",
+    "meaning": "child",
+    "furigana": "こども"
+  },
+  {
+    "word": "ちょっと",
+    "meaning": "somewhat",
+    "furigana": ""
+  },
+  {
+    "word": "女の子",
+    "meaning": "girl",
+    "furigana": "おんなのこ"
+  },
+  {
+    "word": "紙",
+    "meaning": "paper",
+    "furigana": "かみ"
+  },
+  {
+    "word": "字引",
+    "meaning": "dictionary",
+    "furigana": "じびき"
+  },
+  {
+    "word": "あさって",
+    "meaning": "day after tomorrow",
+    "furigana": ""
+  },
+  {
+    "word": "嫌い",
+    "meaning": "hate",
+    "furigana": "きらい"
+  },
+  {
+    "word": "先",
+    "meaning": "the future, previous",
+    "furigana": "さき"
+  },
+  {
+    "word": "答える",
+    "meaning": "to answer",
+    "furigana": "こたえる"
+  },
+  {
+    "word": "食堂",
+    "meaning": "dining hall",
+    "furigana": "しょくどう"
+  },
+  {
+    "word": "テーブル",
+    "meaning": "table",
+    "furigana": ""
+  },
+  {
+    "word": "コピーする",
+    "meaning": "to copy",
+    "furigana": ""
+  },
+  {
+    "word": "働く",
+    "meaning": "to work",
+    "furigana": "はたらく"
+  },
+  {
+    "word": "こんな",
+    "meaning": "such",
+    "furigana": ""
+  },
+  {
+    "word": "たくさん",
+    "meaning": "many",
+    "furigana": ""
+  },
+  {
+    "word": "ドア",
+    "meaning": "Western style door",
+    "furigana": ""
+  },
+  {
+    "word": "見る  観る",
+    "meaning": "to see, to watch",
+    "furigana": "みる"
+  },
+  {
+    "word": "交番",
+    "meaning": "police box",
+    "furigana": "こうばん"
+  },
+  {
+    "word": "ナイフ",
+    "meaning": "knife",
+    "furigana": ""
+  },
+  {
+    "word": "辛い",
+    "meaning": "spicy",
+    "furigana": "からい"
+  },
+  {
+    "word": "洋服",
+    "meaning": "western-style clothes",
+    "furigana": "ようふく"
+  },
+  {
+    "word": "晩御飯",
+    "meaning": "evening meal",
+    "furigana": "ばんごはん"
+  },
+  {
+    "word": "車",
+    "meaning": "car, vehicle",
+    "furigana": "くるま"
+  },
+  {
+    "word": "ちょうど",
+    "meaning": "exactly",
+    "furigana": ""
+  },
+  {
+    "word": "もう一度",
+    "meaning": "again",
+    "furigana": "もういちど"
+  },
+  {
+    "word": "ポスト",
+    "meaning": "post",
+    "furigana": ""
+  },
+  {
+    "word": "服",
+    "meaning": "clothes",
+    "furigana": "ふく"
+  },
+  {
+    "word": "メートル",
+    "meaning": "metre",
+    "furigana": ""
+  },
+  {
+    "word": "パン",
+    "meaning": "bread",
+    "furigana": ""
+  },
+  {
+    "word": "半",
+    "meaning": "half",
+    "furigana": "はん"
+  },
+  {
+    "word": "若い",
+    "meaning": "young",
+    "furigana": "わかい"
+  },
+  {
+    "word": "食べる",
+    "meaning": "to eat",
+    "furigana": "たべる"
+  },
+  {
+    "word": "四日",
+    "meaning": "four days, fouth day of the month",
+    "furigana": "よっか"
+  },
+  {
+    "word": "警官",
+    "meaning": "policeman",
+    "furigana": "けいかん"
+  },
+  {
+    "word": "伯父 / 叔父",
+    "meaning": "grandfather, male senior citizen",
+    "furigana": "おじいさん"
+  },
+  {
+    "word": "これ",
+    "meaning": "this",
+    "furigana": ""
+  },
+  {
+    "word": "アパート",
+    "meaning": "apartment",
+    "furigana": ""
+  },
+  {
+    "word": "鳥",
+    "meaning": "bird",
+    "furigana": "とり"
+  },
+  {
+    "word": "ここ",
+    "meaning": "here",
+    "furigana": ""
+  },
+  {
+    "word": "方",
+    "meaning": "person, way of doing",
+    "furigana": "かた"
+  },
+  {
+    "word": "タクシー",
+    "meaning": "taxi",
+    "furigana": ""
+  },
+  {
+    "word": "では",
+    "meaning": "with that...",
+    "furigana": ""
+  },
+  {
+    "word": "しょうゆ",
+    "meaning": "soy sauce",
+    "furigana": ""
+  },
+  {
+    "word": "少ない",
+    "meaning": "a few",
+    "furigana": "すくない"
+  },
+  {
+    "word": "白い",
+    "meaning": "white",
+    "furigana": "しろい"
+  },
+  {
+    "word": "待つ",
+    "meaning": "to wait",
+    "furigana": "まつ"
+  },
+  {
+    "word": "次",
+    "meaning": "next",
+    "furigana": "つぎ"
+  },
+  {
+    "word": "行く",
+    "meaning": "to go",
+    "furigana": "いく"
+  },
+  {
+    "word": "角",
+    "meaning": "a corner",
+    "furigana": "かど"
+  },
+  {
+    "word": "男",
+    "meaning": "man",
+    "furigana": "おとこ"
+  },
+  {
+    "word": "ギター",
+    "meaning": "guitar",
+    "furigana": ""
+  },
+  {
+    "word": "聞く",
+    "meaning": "to hear, to listen to, to ask",
+    "furigana": "きく"
+  },
+  {
+    "word": "走る",
+    "meaning": "to run",
+    "furigana": "はしる"
+  },
+  {
+    "word": "お母さん",
+    "meaning": "(honorable) mother",
+    "furigana": "おかあさん"
+  },
+  {
+    "word": "意味",
+    "meaning": "meaning",
+    "furigana": "いみ"
+  },
+  {
+    "word": "物",
+    "meaning": "thing",
+    "furigana": "もの"
+  },
+  {
+    "word": "強い",
+    "meaning": "powerful",
+    "furigana": "つよい"
+  },
+  {
+    "word": "魚",
+    "meaning": "fish",
+    "furigana": "さかな"
+  },
+  {
+    "word": "切手",
+    "meaning": "postage stamp",
+    "furigana": "きって"
+  },
+  {
+    "word": "暗い",
+    "meaning": "gloomy",
+    "furigana": "くらい"
+  },
+  {
+    "word": "出る",
+    "meaning": "to appear, to leave",
+    "furigana": "でる"
+  },
+  {
+    "word": "犬",
+    "meaning": "dog",
+    "furigana": "いぬ"
+  },
+  {
+    "word": "女",
+    "meaning": "woman",
+    "furigana": "おんな"
+  },
+  {
+    "word": "飛行機",
+    "meaning": "aeroplane",
+    "furigana": "ひこうき"
+  },
+  {
+    "word": "日曜日",
+    "meaning": "Sunday",
+    "furigana": "にちようび"
+  },
+  {
+    "word": "より、ほう",
+    "meaning": "Used for comparison.",
+    "furigana": ""
+  },
+  {
+    "word": "午前",
+    "meaning": "morning",
+    "furigana": "ごぜん"
+  },
+  {
+    "word": "名前",
+    "meaning": "name",
+    "furigana": "なまえ"
+  },
+  {
+    "word": "丸い / 円い",
+    "meaning": "round, circular",
+    "furigana": "まるい"
+  },
+  {
+    "word": "曲る",
+    "meaning": "to turn, to bend",
+    "furigana": "まがる"
+  },
+  {
+    "word": "鼻",
+    "meaning": "nose",
+    "furigana": "はな"
+  },
+  {
+    "word": "お弁当",
+    "meaning": "boxed lunch",
+    "furigana": "おべんとう"
+  },
+  {
+    "word": "コップ",
+    "meaning": "a glass",
+    "furigana": ""
+  },
+  {
+    "word": "結婚",
+    "meaning": "marriage",
+    "furigana": "けっこん"
+  },
+  {
+    "word": "置く",
+    "meaning": "to put",
+    "furigana": "おく"
+  },
+  {
+    "word": "渡る",
+    "meaning": "to go across",
+    "furigana": "わたる"
+  },
+  {
+    "word": "伯母さん / 叔母さん",
+    "meaning": "aunt",
+    "furigana": "おばさん"
+  },
+  {
+    "word": "それから",
+    "meaning": "after that",
+    "furigana": ""
+  },
+  {
+    "word": "明い",
+    "meaning": "bright",
+    "furigana": "あかるい"
+  },
+  {
+    "word": "家庭",
+    "meaning": "household",
+    "furigana": "かてい"
+  },
+  {
+    "word": "パーティー",
+    "meaning": "party",
+    "furigana": ""
+  },
+  {
+    "word": "あちら",
+    "meaning": "there",
+    "furigana": ""
+  },
+  {
+    "word": "スカート",
+    "meaning": "skirt",
+    "furigana": ""
+  },
+  {
+    "word": "靴",
+    "meaning": "shoes",
+    "furigana": "くつ"
+  },
+  {
+    "word": "ボタン",
+    "meaning": "button",
+    "furigana": ""
+  },
+  {
+    "word": "今月",
+    "meaning": "this month",
+    "furigana": "こんげつ"
+  },
+  {
+    "word": "返す",
+    "meaning": "to return something",
+    "furigana": "かえす"
+  },
+  {
+    "word": "いかが",
+    "meaning": "how",
+    "furigana": ""
+  },
+  {
+    "word": "ストーブ",
+    "meaning": "heater",
+    "furigana": ""
+  },
+  {
+    "word": "二人",
+    "meaning": "two people",
+    "furigana": "ふたり"
+  },
+  {
+    "word": "起きる",
+    "meaning": "to get up",
+    "furigana": "おきる"
+  },
+  {
+    "word": "さあ",
+    "meaning": "well…",
+    "furigana": ""
+  },
+  {
+    "word": "あそこ",
+    "meaning": "over there",
+    "furigana": ""
+  },
+  {
+    "word": "古い",
+    "meaning": "old (not used for people)",
+    "furigana": "ふるい"
+  },
+  {
+    "word": "黄色い",
+    "meaning": "yellow",
+    "furigana": "きいろい"
+  },
+  {
+    "word": "まだ",
+    "meaning": "yet, still",
+    "furigana": ""
+  },
+  {
+    "word": "歌う",
+    "meaning": "to sing",
+    "furigana": "うたう"
+  },
+  {
+    "word": "飴",
+    "meaning": "candy",
+    "furigana": "あめ"
+  },
+  {
+    "word": "寝る",
+    "meaning": "to go to bed, to sleep",
+    "furigana": "ねる"
+  },
+  {
+    "word": "それ",
+    "meaning": "that",
+    "furigana": ""
+  },
+  {
+    "word": "質問",
+    "meaning": "question",
+    "furigana": "しつもん"
+  },
+  {
+    "word": "どなた",
+    "meaning": "who",
+    "furigana": ""
+  },
+  {
+    "word": "牛乳",
+    "meaning": "milk",
+    "furigana": "ぎゅうにゅう"
+  },
+  {
+    "word": "二",
+    "meaning": "two",
+    "furigana": "に"
+  },
+  {
+    "word": "紅茶",
+    "meaning": "black tea",
+    "furigana": "こうちゃ"
+  },
+  {
+    "word": "そちら",
+    "meaning": "over there",
+    "furigana": ""
+  },
+  {
+    "word": "出かける",
+    "meaning": "to go out",
+    "furigana": "でかける"
+  },
+  {
+    "word": "兄",
+    "meaning": "(humble) older brother",
+    "furigana": "あに"
+  },
+  {
+    "word": "留学生",
+    "meaning": "overseas student",
+    "furigana": "りゅうがくせい"
+  },
+  {
+    "word": "月曜日",
+    "meaning": "Monday",
+    "furigana": "げつようび"
+  },
+  {
+    "word": "締める",
+    "meaning": "to tie",
+    "furigana": "しめる"
+  },
+  {
+    "word": "熱い",
+    "meaning": "hot to the touch",
+    "furigana": "あつい"
+  },
+  {
+    "word": "郵便局",
+    "meaning": "post office",
+    "furigana": "ゆうびんきょく"
+  },
+  {
+    "word": "細い",
+    "meaning": "thin",
+    "furigana": "ほそい"
+  },
+  {
+    "word": "六つ",
+    "meaning": "six",
+    "furigana": "むっつ"
+  },
+  {
+    "word": "本棚",
+    "meaning": "bookshelves",
+    "furigana": "ほんだな"
+  },
+  {
+    "word": "結構",
+    "meaning": "splendid, enough",
+    "furigana": "けっこう"
+  },
+  {
+    "word": "こちら",
+    "meaning": "this person or way",
+    "furigana": ""
+  },
+  {
+    "word": "昨夜",
+    "meaning": "last night",
+    "furigana": "ゆうべ"
+  },
+  {
+    "word": "外国人",
+    "meaning": "foreigner",
+    "furigana": "がいこくじん"
+  },
+  {
+    "word": "絵",
+    "meaning": "picture",
+    "furigana": "え"
+  },
+  {
+    "word": "使う",
+    "meaning": "to use",
+    "furigana": "つかう"
+  },
+  {
+    "word": "休む",
+    "meaning": "to rest",
+    "furigana": "やすむ"
+  },
+  {
+    "word": "テスト",
+    "meaning": "test",
+    "furigana": ""
+  },
+  {
+    "word": "貼る",
+    "meaning": "to stick",
+    "furigana": "はる"
+  },
+  {
+    "word": "たばこ",
+    "meaning": "tobacco, cigarettes",
+    "furigana": ""
+  },
+  {
+    "word": "涼しい",
+    "meaning": "refreshing",
+    "furigana": "すずしい"
+  },
+  {
+    "word": "昨日",
+    "meaning": "yesterday",
+    "furigana": "きのう"
+  },
+  {
+    "word": "せっけん",
+    "meaning": "economy",
+    "furigana": ""
+  },
+  {
+    "word": "初め / 始め",
+    "meaning": "beginning",
+    "furigana": "はじめ"
+  }
+]

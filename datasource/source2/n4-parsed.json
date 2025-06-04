@@ -1,0 +1,3342 @@
+[
+  {
+    "word": "踏む",
+    "meaning": "to step on, to tread on",
+    "furigana": "ふむ"
+  },
+  {
+    "word": "～区",
+    "meaning": "~ district, ~ ward, ~ borough",
+    "furigana": "～く"
+  },
+  {
+    "word": "すっと",
+    "meaning": "straight, quickly",
+    "furigana": "すっと"
+  },
+  {
+    "word": "盗む",
+    "meaning": "to steal; to rob",
+    "furigana": "ぬすむ"
+  },
+  {
+    "word": "大抵",
+    "meaning": "generally, usually",
+    "furigana": "たいてい"
+  },
+  {
+    "word": "とうとう",
+    "meaning": "finally, at last",
+    "furigana": "とうとう"
+  },
+  {
+    "word": "ガソリン",
+    "meaning": "gasoline, petrol",
+    "furigana": "ガソリン"
+  },
+  {
+    "word": "鳴る",
+    "meaning": "to sound, to ring (v.i.)",
+    "furigana": "なる"
+  },
+  {
+    "word": "しっかり",
+    "meaning": "firmly, steady",
+    "furigana": "しっかり"
+  },
+  {
+    "word": "生きる",
+    "meaning": "to live",
+    "furigana": "いきる"
+  },
+  {
+    "word": "苦い",
+    "meaning": "bitter",
+    "furigana": "にがい"
+  },
+  {
+    "word": "沸く",
+    "meaning": "to boil, to grow hot",
+    "furigana": "わく"
+  },
+  {
+    "word": "意見",
+    "meaning": "opinion, view, idea",
+    "furigana": "いけん"
+  },
+  {
+    "word": "やはり; やっぱり",
+    "meaning": "as I thought, absolutely",
+    "furigana": "やはり; やっぱり"
+  },
+  {
+    "word": "漫画",
+    "meaning": "comic (book), cartoon",
+    "furigana": "まんが"
+  },
+  {
+    "word": "ステレオ",
+    "meaning": "stereo",
+    "furigana": "ステレオ"
+  },
+  {
+    "word": "医学",
+    "meaning": "medical science",
+    "furigana": "いがく"
+  },
+  {
+    "word": "テキスト",
+    "meaning": "text; text book",
+    "furigana": "テキスト"
+  },
+  {
+    "word": "～月",
+    "meaning": "month",
+    "furigana": "～つき"
+  },
+  {
+    "word": "折る",
+    "meaning": "to snap, to break; to bend",
+    "furigana": "おる"
+  },
+  {
+    "word": "～会",
+    "meaning": "~ meeting",
+    "furigana": "～かい"
+  },
+  {
+    "word": "うかがう",
+    "meaning": "to ask",
+    "furigana": "うかがう"
+  },
+  {
+    "word": "聞こえる",
+    "meaning": "to be heard, to be audible",
+    "furigana": "きこえる"
+  },
+  {
+    "word": "僕",
+    "meaning": "I (used by men towards those of equal or lower status)",
+    "furigana": "ぼく"
+  },
+  {
+    "word": "必ず",
+    "meaning": "surely, certainly",
+    "furigana": "かならず"
+  },
+  {
+    "word": "壊す",
+    "meaning": "to break, to break down",
+    "furigana": "こわす"
+  },
+  {
+    "word": "怒る",
+    "meaning": "to get angry; to scold angrily",
+    "furigana": "おこる"
+  },
+  {
+    "word": "床屋",
+    "meaning": "barber's (shop)",
+    "furigana": "とこや"
+  },
+  {
+    "word": "オートバイ",
+    "meaning": "motorcycle (lit: auto-bi(ke))",
+    "furigana": "オートバイ"
+  },
+  {
+    "word": "運動",
+    "meaning": "exercise",
+    "furigana": "うんどうする"
+  },
+  {
+    "word": "止む",
+    "meaning": "to cease, to stop",
+    "furigana": "やむ"
+  },
+  {
+    "word": "もし",
+    "meaning": "if",
+    "furigana": "もし"
+  },
+  {
+    "word": "表",
+    "meaning": "surface; front; outside",
+    "furigana": "おもて"
+  },
+  {
+    "word": "大学生",
+    "meaning": "college student, university student",
+    "furigana": "だいがくせい"
+  },
+  {
+    "word": "運転手",
+    "meaning": "driver (by occupation)",
+    "furigana": "うんてんしゅ"
+  },
+  {
+    "word": "予習",
+    "meaning": "preparation of lessons (for class)",
+    "furigana": "よしゅう"
+  },
+  {
+    "word": "心配",
+    "meaning": "worry, concern",
+    "furigana": "しんぱいする"
+  },
+  {
+    "word": "別",
+    "meaning": "distinction, different",
+    "furigana": "べつ"
+  },
+  {
+    "word": "非常に",
+    "meaning": "extremely; very",
+    "furigana": "ひじょうに"
+  },
+  {
+    "word": "お宅",
+    "meaning": "(someone else's) house; home -- polite word for 家 (いえ) --",
+    "furigana": "おたく"
+  },
+  {
+    "word": "柔らかい",
+    "meaning": "soft (in reference to texture), tender",
+    "furigana": "やわらかい"
+  },
+  {
+    "word": "拾う",
+    "meaning": "to pick up (something), to find",
+    "furigana": "ひろう"
+  },
+  {
+    "word": "～ございます",
+    "meaning": "to be (polite), to exist",
+    "furigana": "～ございます"
+  },
+  {
+    "word": "気",
+    "meaning": "spirit, mood",
+    "furigana": "き"
+  },
+  {
+    "word": "比べる",
+    "meaning": "to compare",
+    "furigana": "くらべる"
+  },
+  {
+    "word": "ほとんど",
+    "meaning": "mostly, almost",
+    "furigana": "ほとんど"
+  },
+  {
+    "word": "つもり",
+    "meaning": "intention, plan",
+    "furigana": "つもり"
+  },
+  {
+    "word": "郊外",
+    "meaning": "suburb, outskirts",
+    "furigana": "こうがい"
+  },
+  {
+    "word": "だめ",
+    "meaning": "useless, no good, hopeless",
+    "furigana": "だめ"
+  },
+  {
+    "word": "売り場",
+    "meaning": "place where things are sold",
+    "furigana": "うりば"
+  },
+  {
+    "word": "正月",
+    "meaning": "New Year, New Year's Day",
+    "furigana": "しょうがつ"
+  },
+  {
+    "word": "規則",
+    "meaning": "rule, regulation",
+    "furigana": "きそく"
+  },
+  {
+    "word": "うん",
+    "meaning": "yes (informal), all right (ok)",
+    "furigana": "うん"
+  },
+  {
+    "word": "発音",
+    "meaning": "pronunciation",
+    "furigana": "はつおん"
+  },
+  {
+    "word": "焼く",
+    "meaning": "to bake, to grill",
+    "furigana": "やく"
+  },
+  {
+    "word": "屋上",
+    "meaning": "rooftop",
+    "furigana": "おくじょう"
+  },
+  {
+    "word": "失礼",
+    "meaning": "discourtesy, impoliteness; Excuse me",
+    "furigana": "しつれい"
+  },
+  {
+    "word": "ごみ",
+    "meaning": "trash, garbage",
+    "furigana": "ごみ"
+  },
+  {
+    "word": "アフリカ",
+    "meaning": "Africa",
+    "furigana": "アフリカ"
+  },
+  {
+    "word": "点",
+    "meaning": "mark, score, grade; point, dot",
+    "furigana": "てん"
+  },
+  {
+    "word": "一生懸命",
+    "meaning": "very hard (as in \"to work hard\"), with utmost effort",
+    "furigana": "いっしょうけんめい"
+  },
+  {
+    "word": "今度",
+    "meaning": "now, this time, near future, one of these days, next time",
+    "furigana": "こんど"
+  },
+  {
+    "word": "機会",
+    "meaning": "chance, opportunity",
+    "furigana": "きかい"
+  },
+  {
+    "word": "建てる",
+    "meaning": "to build",
+    "furigana": "たてる"
+  },
+  {
+    "word": "複雑",
+    "meaning": "complexity, complication",
+    "furigana": "ふくざつ"
+  },
+  {
+    "word": "彼",
+    "meaning": "he, boyfriend",
+    "furigana": "かれ"
+  },
+  {
+    "word": "いらっしゃる",
+    "meaning": "-- honorific expression for いく, くる, and いる --",
+    "furigana": "いらっしゃる"
+  },
+  {
+    "word": "布団",
+    "meaning": "futon",
+    "furigana": "ふとん"
+  },
+  {
+    "word": "大事",
+    "meaning": "important, valuable, serious matter",
+    "furigana": "だいじ"
+  },
+  {
+    "word": "贈り物",
+    "meaning": "a gift; a present",
+    "furigana": "おくりもの"
+  },
+  {
+    "word": "泥棒",
+    "meaning": "thief; burglar",
+    "furigana": "どろぼう"
+  },
+  {
+    "word": "～製",
+    "meaning": "made in ~",
+    "furigana": "～せい"
+  },
+  {
+    "word": "注意",
+    "meaning": "caution, attention",
+    "furigana": "ちゅうい"
+  },
+  {
+    "word": "台風",
+    "meaning": "typhoon",
+    "furigana": "たいふう"
+  },
+  {
+    "word": "日",
+    "meaning": "sun, sunshine, day",
+    "furigana": "ひ"
+  },
+  {
+    "word": "～軒",
+    "meaning": "counter for houses",
+    "furigana": "～けん"
+  },
+  {
+    "word": "そう",
+    "meaning": "really, (is that) so; yes, right",
+    "furigana": "そう"
+  },
+  {
+    "word": "通る",
+    "meaning": "to pass (by), to go through",
+    "furigana": "とおる"
+  },
+  {
+    "word": "過ぎる",
+    "meaning": "to exceed, to go beyond",
+    "furigana": "すぎる"
+  },
+  {
+    "word": "レポート; リポート",
+    "meaning": "report",
+    "furigana": "レポート; リポート"
+  },
+  {
+    "word": "葉",
+    "meaning": "leaf",
+    "furigana": "は"
+  },
+  {
+    "word": "必要",
+    "meaning": "necessary",
+    "furigana": "ひつよう"
+  },
+  {
+    "word": "課長",
+    "meaning": "section manager",
+    "furigana": "かちょう"
+  },
+  {
+    "word": "地震",
+    "meaning": "earthquake",
+    "furigana": "じしん"
+  },
+  {
+    "word": "すると",
+    "meaning": "and, then",
+    "furigana": "すると"
+  },
+  {
+    "word": "止める",
+    "meaning": "to end, to stop",
+    "furigana": "やめる"
+  },
+  {
+    "word": "ガラス",
+    "meaning": "glass, pane",
+    "furigana": "ガラス"
+  },
+  {
+    "word": "～学部",
+    "meaning": "department of a university",
+    "furigana": "～がくぶ"
+  },
+  {
+    "word": "厳しい",
+    "meaning": "hard; rigorous; strict",
+    "furigana": "きびしい"
+  },
+  {
+    "word": "エスカレーター",
+    "meaning": "escalator",
+    "furigana": "エスカレーター"
+  },
+  {
+    "word": "人口",
+    "meaning": "population",
+    "furigana": "じんこう"
+  },
+  {
+    "word": "月",
+    "meaning": "moon",
+    "furigana": "つき"
+  },
+  {
+    "word": "絹",
+    "meaning": "silk",
+    "furigana": "きぬ"
+  },
+  {
+    "word": "ちっとも",
+    "meaning": "not at all (neg. verb)",
+    "furigana": "ちっとも"
+  },
+  {
+    "word": "深い",
+    "meaning": "deep, profound",
+    "furigana": "ふかい"
+  },
+  {
+    "word": "壊れる",
+    "meaning": "to be broken, to break",
+    "furigana": "こわれる"
+  },
+  {
+    "word": "揺れる",
+    "meaning": "to shake, to sway",
+    "furigana": "ゆれる"
+  },
+  {
+    "word": "落る",
+    "meaning": "to fall, to drop",
+    "furigana": "おちる"
+  },
+  {
+    "word": "できるだけ",
+    "meaning": "if at all possible, as much as possible",
+    "furigana": "できるだけ"
+  },
+  {
+    "word": "悲しい",
+    "meaning": "sad, sorrowful",
+    "furigana": "かなしい"
+  },
+  {
+    "word": "中学校",
+    "meaning": "junior high school pupil",
+    "furigana": "ちゅうがっこう"
+  },
+  {
+    "word": "ガス",
+    "meaning": "gas",
+    "furigana": "ガス"
+  },
+  {
+    "word": "祈る",
+    "meaning": "to pray; to wish",
+    "furigana": "いのる"
+  },
+  {
+    "word": "盛ん",
+    "meaning": "prosperous, active, thriving",
+    "furigana": "さかん"
+  },
+  {
+    "word": "アルバイト",
+    "meaning": "part-time job",
+    "furigana": "アルバイト"
+  },
+  {
+    "word": "起こす",
+    "meaning": "to wake (someone) up",
+    "furigana": "おこす"
+  },
+  {
+    "word": "致す",
+    "meaning": "-- extra-modest expression for する --",
+    "furigana": "いたす"
+  },
+  {
+    "word": "噛む",
+    "meaning": "to bite, to chew",
+    "furigana": "かむ"
+  },
+  {
+    "word": "赤ちゃん",
+    "meaning": "baby, infant",
+    "furigana": "あかちゃん"
+  },
+  {
+    "word": "浅い",
+    "meaning": "shallow, superficial",
+    "furigana": "あさい"
+  },
+  {
+    "word": "うそ",
+    "meaning": "lie",
+    "furigana": "嘘"
+  },
+  {
+    "word": "小説",
+    "meaning": "novel",
+    "furigana": "しょうせつ"
+  },
+  {
+    "word": "親",
+    "meaning": "a parent",
+    "furigana": "おや"
+  },
+  {
+    "word": "それに",
+    "meaning": "moreover; besides",
+    "furigana": "それに"
+  },
+  {
+    "word": "西洋",
+    "meaning": "the West, Western countries",
+    "furigana": "せいよう"
+  },
+  {
+    "word": "思う",
+    "meaning": "to think, to feel",
+    "furigana": "おもう"
+  },
+  {
+    "word": "パート (タイム)",
+    "meaning": "part time (esp. female part time employees)",
+    "furigana": "パート (タイム)"
+  },
+  {
+    "word": "時代",
+    "meaning": "age, period, epoch, era",
+    "furigana": "じだい"
+  },
+  {
+    "word": "申し上げる",
+    "meaning": "(humble)to say, to tell",
+    "furigana": "もうしあげる"
+  },
+  {
+    "word": "～式",
+    "meaning": "~ ceremony; ~ style",
+    "furigana": "～しき"
+  },
+  {
+    "word": "出席",
+    "meaning": "attendance",
+    "furigana": "しゅっせきする"
+  },
+  {
+    "word": "～家",
+    "meaning": "person who is specialized in ~",
+    "furigana": "～か"
+  },
+  {
+    "word": "迎える",
+    "meaning": "to welcome; to meet; to greet",
+    "furigana": "むかえる"
+  },
+  {
+    "word": "触る",
+    "meaning": "to touch, to feel",
+    "furigana": "さわる"
+  },
+  {
+    "word": "建て",
+    "meaning": "~ storied, separate housing",
+    "furigana": "～だて"
+  },
+  {
+    "word": "社長",
+    "meaning": "president of a company",
+    "furigana": "しゃちょう"
+  },
+  {
+    "word": "動物園",
+    "meaning": "zoo",
+    "furigana": "どうぶつえん"
+  },
+  {
+    "word": "捕まえる",
+    "meaning": "to catch, to arrest",
+    "furigana": "つかまえる"
+  },
+  {
+    "word": "季節",
+    "meaning": "season (in reference to weather)",
+    "furigana": "きせつ"
+  },
+  {
+    "word": "寄る",
+    "meaning": "to stop by",
+    "furigana": "よる"
+  },
+  {
+    "word": "決まる",
+    "meaning": "to be set; fixed (v.i.)",
+    "furigana": "きまる"
+  },
+  {
+    "word": "開く",
+    "meaning": "to open; to hold (an event)",
+    "furigana": "ひらく"
+  },
+  {
+    "word": "逃げる",
+    "meaning": "to escape, to run away",
+    "furigana": "にげる"
+  },
+  {
+    "word": "だから",
+    "meaning": "so; therefore",
+    "furigana": "だから"
+  },
+  {
+    "word": "残念",
+    "meaning": "regret; regrettable",
+    "furigana": "ざんねん"
+  },
+  {
+    "word": "畳",
+    "meaning": "tatami mat (Japanese straw mat)",
+    "furigana": "たたみ"
+  },
+  {
+    "word": "丁寧",
+    "meaning": "polite, courteous, careful",
+    "furigana": "ていねい"
+  },
+  {
+    "word": "地理",
+    "meaning": "geography",
+    "furigana": "ちり"
+  },
+  {
+    "word": "さっき",
+    "meaning": "a little while ago",
+    "furigana": "さっき"
+  },
+  {
+    "word": "怖い",
+    "meaning": "scary, frightening",
+    "furigana": "こわい"
+  },
+  {
+    "word": "包む",
+    "meaning": "to wrap, to cover",
+    "furigana": "つつむ"
+  },
+  {
+    "word": "なるべく",
+    "meaning": "if possible, as much as possible",
+    "furigana": "なるべく"
+  },
+  {
+    "word": "無理",
+    "meaning": "unreasonable, impossible",
+    "furigana": "むり"
+  },
+  {
+    "word": "サンドイッチ",
+    "meaning": "sandwich",
+    "furigana": "サンドイッチ"
+  },
+  {
+    "word": "会議室",
+    "meaning": "conference room",
+    "furigana": "かいぎしつ"
+  },
+  {
+    "word": "品物",
+    "meaning": "goods",
+    "furigana": "しなもの"
+  },
+  {
+    "word": "人形",
+    "meaning": "doll, figure",
+    "furigana": "にんぎょう"
+  },
+  {
+    "word": "利用",
+    "meaning": "use, utilization",
+    "furigana": "りよう"
+  },
+  {
+    "word": "飾る",
+    "meaning": "to decorate, to adorn",
+    "furigana": "かざる"
+  },
+  {
+    "word": "止める",
+    "meaning": "to stop (something)",
+    "furigana": "とめる"
+  },
+  {
+    "word": "恥ずかしい",
+    "meaning": "ashamed, embarrassed",
+    "furigana": "はずかしい"
+  },
+  {
+    "word": "いくら～ても",
+    "meaning": "however much one may ~",
+    "furigana": "いくら～ても"
+  },
+  {
+    "word": "用事",
+    "meaning": "business to take care of; tasks; errands",
+    "furigana": "ようじ"
+  },
+  {
+    "word": "ビル",
+    "meaning": "(abbr.) building",
+    "furigana": "ビル"
+  },
+  {
+    "word": "けんかする",
+    "meaning": "quarrel",
+    "furigana": "けんかする"
+  },
+  {
+    "word": "頑張る",
+    "meaning": "to try one's best, to try hard, to persist",
+    "furigana": "がんばる"
+  },
+  {
+    "word": "投げる",
+    "meaning": "to pitch, to cast away",
+    "furigana": "なげる"
+  },
+  {
+    "word": "故障",
+    "meaning": "breakdown",
+    "furigana": "こしょうする"
+  },
+  {
+    "word": "力",
+    "meaning": "strength, power",
+    "furigana": "ちから"
+  },
+  {
+    "word": "受ける",
+    "meaning": "to take (an examination, interview, etc.); to receive",
+    "furigana": "うける"
+  },
+  {
+    "word": "気分",
+    "meaning": "feeling, mood",
+    "furigana": "きぶん"
+  },
+  {
+    "word": "間違える",
+    "meaning": "to make a mistake",
+    "furigana": "まちがえる"
+  },
+  {
+    "word": "そんな",
+    "meaning": "such, like that, that sort of",
+    "furigana": "そんな"
+  },
+  {
+    "word": "星",
+    "meaning": "star",
+    "furigana": "ほし"
+  },
+  {
+    "word": "場合",
+    "meaning": "case, situation",
+    "furigana": "ばあい"
+  },
+  {
+    "word": "やっと",
+    "meaning": "at last, finally",
+    "furigana": "やっと"
+  },
+  {
+    "word": "足りる",
+    "meaning": "to be sufficient; to be enough",
+    "furigana": "たりる"
+  },
+  {
+    "word": "行う",
+    "meaning": "to carry out; to conduct (typically used in written language)",
+    "furigana": "おこなう"
+  },
+  {
+    "word": "ぶどう",
+    "meaning": "grapes",
+    "furigana": "ぶどう"
+  },
+  {
+    "word": "無くなる",
+    "meaning": "to disappear, to get lost",
+    "furigana": "なくなる"
+  },
+  {
+    "word": "準備",
+    "meaning": "prepare",
+    "furigana": "じゅんびする"
+  },
+  {
+    "word": "世界",
+    "meaning": "world",
+    "furigana": "せかい"
+  },
+  {
+    "word": "住所",
+    "meaning": "address; place of residence",
+    "furigana": "じゅうしょ"
+  },
+  {
+    "word": "再来月",
+    "meaning": "the month after next",
+    "furigana": "さらいげつ"
+  },
+  {
+    "word": "林",
+    "meaning": "woods, forest",
+    "furigana": "はやし"
+  },
+  {
+    "word": "倍",
+    "meaning": "double",
+    "furigana": "ばい"
+  },
+  {
+    "word": "痩せる",
+    "meaning": "to lose weight",
+    "furigana": "やせる"
+  },
+  {
+    "word": "線",
+    "meaning": "line, wire",
+    "furigana": "せん"
+  },
+  {
+    "word": "戦争",
+    "meaning": "war",
+    "furigana": "せんそう"
+  },
+  {
+    "word": "決める",
+    "meaning": "to decide (v.t.)",
+    "furigana": "きめる"
+  },
+  {
+    "word": "調べる",
+    "meaning": "to check; to look up; to inquire; to search",
+    "furigana": "しらべる"
+  },
+  {
+    "word": "寝坊",
+    "meaning": "sleeping in late",
+    "furigana": "ねぼう"
+  },
+  {
+    "word": "パパ",
+    "meaning": "papa, daddy",
+    "furigana": "パパ"
+  },
+  {
+    "word": "光る",
+    "meaning": "to shine, to glitter",
+    "furigana": "ひかる"
+  },
+  {
+    "word": "夫",
+    "meaning": "husband",
+    "furigana": "おっと"
+  },
+  {
+    "word": "雲",
+    "meaning": "cloud",
+    "furigana": "くも"
+  },
+  {
+    "word": "坂",
+    "meaning": "slope, hill",
+    "furigana": "さか"
+  },
+  {
+    "word": "～(て) しまう",
+    "meaning": "to end up ~",
+    "furigana": "～(て) しまう"
+  },
+  {
+    "word": "飛行場",
+    "meaning": "airport",
+    "furigana": "ひこうじょう"
+  },
+  {
+    "word": "柔道",
+    "meaning": "judo",
+    "furigana": "じゅうどう"
+  },
+  {
+    "word": "決して",
+    "meaning": "never",
+    "furigana": "けっして"
+  },
+  {
+    "word": "事務所",
+    "meaning": "office",
+    "furigana": "じむしょ"
+  },
+  {
+    "word": "連絡",
+    "meaning": "communication, contact, connection",
+    "furigana": "れんらく"
+  },
+  {
+    "word": "小学校",
+    "meaning": "elementary school",
+    "furigana": "しょうがっこう"
+  },
+  {
+    "word": "客",
+    "meaning": "guest, customer",
+    "furigana": "きゃく"
+  },
+  {
+    "word": "昔",
+    "meaning": "old days; past",
+    "furigana": "むかし"
+  },
+  {
+    "word": "美しい",
+    "meaning": "beautiful, lovely",
+    "furigana": "うつくしい"
+  },
+  {
+    "word": "捨てる",
+    "meaning": "throw away (trash), dump, discard",
+    "furigana": "すてる"
+  },
+  {
+    "word": "なさる",
+    "meaning": "-- honorific expression for する --",
+    "furigana": "なさる"
+  },
+  {
+    "word": "事",
+    "meaning": "thing(s), matter(s), fact",
+    "furigana": "こと"
+  },
+  {
+    "word": "どんどん",
+    "meaning": "quickly and steadily; at a rapid pace",
+    "furigana": "どんどん"
+  },
+  {
+    "word": "試合",
+    "meaning": "match, game, competition",
+    "furigana": "しあい"
+  },
+  {
+    "word": "適当",
+    "meaning": "fitness, suitability",
+    "furigana": "てきとう"
+  },
+  {
+    "word": "素晴らしい",
+    "meaning": "wonderful; terrific",
+    "furigana": "すばらしい"
+  },
+  {
+    "word": "美術館",
+    "meaning": "art gallery, art museum",
+    "furigana": "びじゅつかん"
+  },
+  {
+    "word": "文法",
+    "meaning": "grammar",
+    "furigana": "ぶんぽう"
+  },
+  {
+    "word": "終わり",
+    "meaning": "end",
+    "furigana": "おわり"
+  },
+  {
+    "word": "壁",
+    "meaning": "wall",
+    "furigana": "かべ"
+  },
+  {
+    "word": "一度",
+    "meaning": "once, one time",
+    "furigana": "いちど"
+  },
+  {
+    "word": "お礼",
+    "meaning": "expression of gratitude; thanking; gift of appreciation; bow",
+    "furigana": "おれい"
+  },
+  {
+    "word": "親切",
+    "meaning": "kindness",
+    "furigana": "しんせつ"
+  },
+  {
+    "word": "知らせる",
+    "meaning": "to notify",
+    "furigana": "しらせる"
+  },
+  {
+    "word": "歯医者",
+    "meaning": "dentist",
+    "furigana": "はいしゃ"
+  },
+  {
+    "word": "熱心",
+    "meaning": "enthusiasm",
+    "furigana": "ねっしん"
+  },
+  {
+    "word": "始める",
+    "meaning": "to start, to begin",
+    "furigana": "はじめる"
+  },
+  {
+    "word": "もらう",
+    "meaning": "to receive",
+    "furigana": "もらう"
+  },
+  {
+    "word": "泣く",
+    "meaning": "to cry",
+    "furigana": "なく"
+  },
+  {
+    "word": "治る",
+    "meaning": "to get better; to recover from illness (v.i.)",
+    "furigana": "なおる"
+  },
+  {
+    "word": "熱",
+    "meaning": "fever, temperature",
+    "furigana": "ねつ"
+  },
+  {
+    "word": "お祭り",
+    "meaning": "festival",
+    "furigana": "おまつり"
+  },
+  {
+    "word": "水道",
+    "meaning": "water service, water line",
+    "furigana": "すいどう"
+  },
+  {
+    "word": "匂い",
+    "meaning": "odor, smell",
+    "furigana": "におい"
+  },
+  {
+    "word": "ベル",
+    "meaning": "bell",
+    "furigana": "ベル"
+  },
+  {
+    "word": "赤ん坊",
+    "meaning": "baby",
+    "furigana": "あかんぼう"
+  },
+  {
+    "word": "おかしい",
+    "meaning": "strange; odd; funny",
+    "furigana": "おかしい"
+  },
+  {
+    "word": "事故",
+    "meaning": "accident",
+    "furigana": "じこ"
+  },
+  {
+    "word": "変",
+    "meaning": "strange, odd",
+    "furigana": "へん"
+  },
+  {
+    "word": "辞典",
+    "meaning": "encyclopedia, reference book",
+    "furigana": "じてん"
+  },
+  {
+    "word": "残る",
+    "meaning": "to remain (v.i.), to be left",
+    "furigana": "のこる"
+  },
+  {
+    "word": "立てる",
+    "meaning": "to stand (something) up, to erect (something)",
+    "furigana": "たてる"
+  },
+  {
+    "word": "くれる",
+    "meaning": "to give, to do for",
+    "furigana": "くれる"
+  },
+  {
+    "word": "～員",
+    "meaning": "member of ~",
+    "furigana": "～いん"
+  },
+  {
+    "word": "原因",
+    "meaning": "cause, origin, source",
+    "furigana": "げんいん"
+  },
+  {
+    "word": "驚く",
+    "meaning": "to be surprised, to be astonished",
+    "furigana": "おどろく"
+  },
+  {
+    "word": "いただく",
+    "meaning": "-- extra-modest expression for たべる and のむ; humble expression for もらう --",
+    "furigana": "頂く"
+  },
+  {
+    "word": "祖母",
+    "meaning": "grandmother",
+    "furigana": "そぼ"
+  },
+  {
+    "word": "場所",
+    "meaning": "place, location",
+    "furigana": "ばしょ"
+  },
+  {
+    "word": "答",
+    "meaning": "answer, response",
+    "furigana": "こたえ"
+  },
+  {
+    "word": "もちろん",
+    "meaning": "certainly, of course",
+    "furigana": "もちろん"
+  },
+  {
+    "word": "漬ける",
+    "meaning": "to soak, to moisten, to pickle",
+    "furigana": "つける"
+  },
+  {
+    "word": "受付",
+    "meaning": "reception(ist) desk",
+    "furigana": "うけつけ"
+  },
+  {
+    "word": "内",
+    "meaning": "within, inside",
+    "furigana": "うち"
+  },
+  {
+    "word": "スクリーン",
+    "meaning": "screen",
+    "furigana": "スクリーン"
+  },
+  {
+    "word": "増える",
+    "meaning": "to increase, to multiply",
+    "furigana": "ふえる"
+  },
+  {
+    "word": "または",
+    "meaning": "or, otherwise",
+    "furigana": "または"
+  },
+  {
+    "word": "けがする",
+    "meaning": "injury (to animate object), hurt",
+    "furigana": "けがする"
+  },
+  {
+    "word": "以下",
+    "meaning": "less than, below",
+    "furigana": "いか"
+  },
+  {
+    "word": "選ぶ",
+    "meaning": "to choose; to select",
+    "furigana": "えらぶ"
+  },
+  {
+    "word": "～ばかり",
+    "meaning": "just did ~, only",
+    "furigana": "～ばかり"
+  },
+  {
+    "word": "心",
+    "meaning": "heart, mind",
+    "furigana": "こころ"
+  },
+  {
+    "word": "～だす",
+    "meaning": "to start doing ~",
+    "furigana": "～だす"
+  },
+  {
+    "word": "サラダ",
+    "meaning": "salad",
+    "furigana": "サラダ"
+  },
+  {
+    "word": "届ける",
+    "meaning": "to deliver (v.t.)",
+    "furigana": "とどける"
+  },
+  {
+    "word": "あいさつする",
+    "meaning": "greet(ing)",
+    "furigana": "挨拶"
+  },
+  {
+    "word": "景色",
+    "meaning": "scenery, landscape",
+    "furigana": "けしき"
+  },
+  {
+    "word": "確か",
+    "meaning": "if I remember correctly; certain, definite",
+    "furigana": "たしか"
+  },
+  {
+    "word": "ステーキ",
+    "meaning": "steak",
+    "furigana": "ステーキ"
+  },
+  {
+    "word": "食料品",
+    "meaning": "foodstuff, groceries",
+    "furigana": "しょくりょうひん"
+  },
+  {
+    "word": "森",
+    "meaning": "forest",
+    "furigana": "もり"
+  },
+  {
+    "word": "以内",
+    "meaning": "within, less (no more) than",
+    "furigana": "いない"
+  },
+  {
+    "word": "予定",
+    "meaning": "plans, arrangement, schedule",
+    "furigana": "よてい"
+  },
+  {
+    "word": "オーバー",
+    "meaning": "overcoat; over, exceeding, exaggeration",
+    "furigana": "オーバー"
+  },
+  {
+    "word": "乾く",
+    "meaning": "to get dry",
+    "furigana": "かわく"
+  },
+  {
+    "word": "石",
+    "meaning": "stone",
+    "furigana": "いし"
+  },
+  {
+    "word": "思い出す",
+    "meaning": "to recall, to remember",
+    "furigana": "おもいだす"
+  },
+  {
+    "word": "踊る",
+    "meaning": "to dance",
+    "furigana": "おどる"
+  },
+  {
+    "word": "細かい",
+    "meaning": "small; fine, minute",
+    "furigana": "こまかい"
+  },
+  {
+    "word": "塗る",
+    "meaning": "to paint, to plaster",
+    "furigana": "ぬる"
+  },
+  {
+    "word": "ご主人",
+    "meaning": "(your, her) husband",
+    "furigana": "ごしゅじん"
+  },
+  {
+    "word": "珍しい",
+    "meaning": "unusual, rare",
+    "furigana": "めずらしい"
+  },
+  {
+    "word": "用",
+    "meaning": "errand, task, business (to take care of)",
+    "furigana": "よう"
+  },
+  {
+    "word": "公務員",
+    "meaning": "government worker, public servant",
+    "furigana": "こうむいん"
+  },
+  {
+    "word": "お嬢さん",
+    "meaning": "(someone's) daughter (polite)",
+    "furigana": "おじょうさん"
+  },
+  {
+    "word": "用意",
+    "meaning": "preparation",
+    "furigana": "ようい"
+  },
+  {
+    "word": "探す",
+    "meaning": "to search, to seek, to look for",
+    "furigana": "さがす"
+  },
+  {
+    "word": "形",
+    "meaning": "shape",
+    "furigana": "かたち"
+  },
+  {
+    "word": "運転",
+    "meaning": "driving",
+    "furigana": "うんてんする"
+  },
+  {
+    "word": "すっかり",
+    "meaning": "all, completely",
+    "furigana": "すっかり"
+  },
+  {
+    "word": "アナウンサー",
+    "meaning": "announcer",
+    "furigana": "アナウンサー"
+  },
+  {
+    "word": "お土産",
+    "meaning": "souvenir",
+    "furigana": "おみやげ"
+  },
+  {
+    "word": "消しゴム",
+    "meaning": "eraser",
+    "furigana": "けしゴム"
+  },
+  {
+    "word": "旅館",
+    "meaning": "a Japanese inn",
+    "furigana": "りょかん"
+  },
+  {
+    "word": "海岸",
+    "meaning": "coast, seashore",
+    "furigana": "かいがん"
+  },
+  {
+    "word": "寂しい",
+    "meaning": "lonely, lonesome",
+    "furigana": "さびしい"
+  },
+  {
+    "word": "火",
+    "meaning": "fire",
+    "furigana": "ひ"
+  },
+  {
+    "word": "育てる",
+    "meaning": "to raise (v.t.); to bring up",
+    "furigana": "そだてる"
+  },
+  {
+    "word": "味噌",
+    "meaning": "miso, bean paste",
+    "furigana": "みそ"
+  },
+  {
+    "word": "お祝い",
+    "meaning": "congratulation, celebration",
+    "furigana": "おいわい"
+  },
+  {
+    "word": "乗り物",
+    "meaning": "vehicle",
+    "furigana": "のりもの"
+  },
+  {
+    "word": "案内",
+    "meaning": "information, guidance",
+    "furigana": "あんないする"
+  },
+  {
+    "word": "通う",
+    "meaning": "to go back and forth; to commute",
+    "furigana": "かよう"
+  },
+  {
+    "word": "連れる",
+    "meaning": "to lead, to take (a person)",
+    "furigana": "つれる"
+  },
+  {
+    "word": "技術",
+    "meaning": "technique, technology, skill",
+    "furigana": "ぎじゅつ"
+  },
+  {
+    "word": "小鳥",
+    "meaning": "small bird",
+    "furigana": "ことり"
+  },
+  {
+    "word": "下宿",
+    "meaning": "lodging, boarding house",
+    "furigana": "げしゅく"
+  },
+  {
+    "word": "ジャム",
+    "meaning": "jam",
+    "furigana": "ジャム"
+  },
+  {
+    "word": "招待",
+    "meaning": "invitation",
+    "furigana": "しょうたいする"
+  },
+  {
+    "word": "鏡",
+    "meaning": "mirror",
+    "furigana": "かがみ"
+  },
+  {
+    "word": "はず",
+    "meaning": "it should be so",
+    "furigana": "はず"
+  },
+  {
+    "word": "法律",
+    "meaning": "law",
+    "furigana": "ほうりつ"
+  },
+  {
+    "word": "進む",
+    "meaning": "to advance, to proceed",
+    "furigana": "すすむ"
+  },
+  {
+    "word": "楽む",
+    "meaning": "to enjoy",
+    "furigana": "たのしむ"
+  },
+  {
+    "word": "貿易",
+    "meaning": "trade",
+    "furigana": "ぼうえき"
+  },
+  {
+    "word": "反対",
+    "meaning": "oppose, opposition, resistance",
+    "furigana": "はんたい"
+  },
+  {
+    "word": "おる",
+    "meaning": "-- extra-modest expression for いる --",
+    "furigana": "おる"
+  },
+  {
+    "word": "申す",
+    "meaning": "-- extra-modest (humble) expression for 言う (いう) --",
+    "furigana": "もうす"
+  },
+  {
+    "word": "試験",
+    "meaning": "an exam",
+    "furigana": "しけん"
+  },
+  {
+    "word": "真面目",
+    "meaning": "diligent, serious",
+    "furigana": "まじめ"
+  },
+  {
+    "word": "ごらんになる",
+    "meaning": "-- honorific expression for みる --",
+    "furigana": ""
+  },
+  {
+    "word": "店員",
+    "meaning": "clerk; shop-employee",
+    "furigana": "てんいん"
+  },
+  {
+    "word": "泊まる",
+    "meaning": "to stay (over night) (v.i.)",
+    "furigana": "とまる"
+  },
+  {
+    "word": "よろしい",
+    "meaning": "(hon.) good, OK, all right",
+    "furigana": "よろしい"
+  },
+  {
+    "word": "今夜",
+    "meaning": "this evening, tonight",
+    "furigana": "こんや"
+  },
+  {
+    "word": "おつり",
+    "meaning": "change; balance of money returned to the purchaser",
+    "furigana": "おつり"
+  },
+  {
+    "word": "チェックする",
+    "meaning": "check",
+    "furigana": "チェックする"
+  },
+  {
+    "word": "会話",
+    "meaning": "conversation",
+    "furigana": "かいわ"
+  },
+  {
+    "word": "空気",
+    "meaning": "air, atmosphere",
+    "furigana": "くうき"
+  },
+  {
+    "word": "交通",
+    "meaning": "traffic, transportation",
+    "furigana": "こうつう"
+  },
+  {
+    "word": "ワープロ",
+    "meaning": "word processor",
+    "furigana": "ワープロ"
+  },
+  {
+    "word": "喜ぶ",
+    "meaning": "to rejoice, to be delighted, to be glad",
+    "furigana": "よろこぶ"
+  },
+  {
+    "word": "急行",
+    "meaning": "express train or bus",
+    "furigana": "きゅうこう"
+  },
+  {
+    "word": "皆",
+    "meaning": "everyone",
+    "furigana": "みな"
+  },
+  {
+    "word": "味",
+    "meaning": "flavor, taste",
+    "furigana": "あじ"
+  },
+  {
+    "word": "空港",
+    "meaning": "airport",
+    "furigana": "くうこう"
+  },
+  {
+    "word": "手袋",
+    "meaning": "glove(s)",
+    "furigana": "てぶくろ"
+  },
+  {
+    "word": "校長",
+    "meaning": "principal, headmaster",
+    "furigana": "こうちょう"
+  },
+  {
+    "word": "ごちそう",
+    "meaning": "feast, treating (someone)",
+    "furigana": "ごちそう"
+  },
+  {
+    "word": "踊り",
+    "meaning": "dance",
+    "furigana": "おどり"
+  },
+  {
+    "word": "興味",
+    "meaning": "interest (in something)",
+    "furigana": "きょうみ"
+  },
+  {
+    "word": "引っ越す",
+    "meaning": "to move to a new place of residence",
+    "furigana": "ひっこす"
+  },
+  {
+    "word": "冷房",
+    "meaning": "cooling, air conditioning",
+    "furigana": "れいぼう"
+  },
+  {
+    "word": "都合",
+    "meaning": "circumstances, convenience",
+    "furigana": "つごう"
+  },
+  {
+    "word": "遠慮",
+    "meaning": "restraint, reserve, hesitate",
+    "furigana": "えんりょする"
+  },
+  {
+    "word": "亡くなる",
+    "meaning": "to pass away",
+    "furigana": "なくなる"
+  },
+  {
+    "word": "科学",
+    "meaning": "science",
+    "furigana": "かがく"
+  },
+  {
+    "word": "はっきり",
+    "meaning": "clearly, distinctly",
+    "furigana": "はっきり"
+  },
+  {
+    "word": "差し上げる",
+    "meaning": "-- humble expression for あげる --",
+    "furigana": "さしあげる"
+  },
+  {
+    "word": "気持ち",
+    "meaning": "feeling, sensation, mood",
+    "furigana": "きもち"
+  },
+  {
+    "word": "祖父",
+    "meaning": "grandfather",
+    "furigana": "そふ"
+  },
+  {
+    "word": "港",
+    "meaning": "harbor, port",
+    "furigana": "みなと"
+  },
+  {
+    "word": "予約",
+    "meaning": "reservation",
+    "furigana": "よやく"
+  },
+  {
+    "word": "凄い",
+    "meaning": "terrific, great",
+    "furigana": "すごい"
+  },
+  {
+    "word": "入学",
+    "meaning": "entry to school or university",
+    "furigana": "にゅうがくする"
+  },
+  {
+    "word": "片付ける",
+    "meaning": "to (clean) tidy up (v.t.), to put away",
+    "furigana": "かたづける"
+  },
+  {
+    "word": "写す",
+    "meaning": "to copy (v.t.); to photograph",
+    "furigana": "うつす"
+  },
+  {
+    "word": "パソコン",
+    "meaning": "(personal) computer",
+    "furigana": "パソコン"
+  },
+  {
+    "word": "部長",
+    "meaning": "department (division) manager",
+    "furigana": "ぶちょう"
+  },
+  {
+    "word": "火事",
+    "meaning": "fire",
+    "furigana": "かじ"
+  },
+  {
+    "word": "足す",
+    "meaning": "to add (numbers)",
+    "furigana": "たす"
+  },
+  {
+    "word": "教会",
+    "meaning": "church",
+    "furigana": "きょうかい"
+  },
+  {
+    "word": "彼ら",
+    "meaning": "they (usually male)",
+    "furigana": "かれら"
+  },
+  {
+    "word": "いっぱい",
+    "meaning": "full, to the utmost",
+    "furigana": "一杯"
+  },
+  {
+    "word": "アメリカ",
+    "meaning": "America, U.S.A.",
+    "furigana": "アメリカ"
+  },
+  {
+    "word": "男性",
+    "meaning": "man; male",
+    "furigana": "だんせい"
+  },
+  {
+    "word": "理由",
+    "meaning": "reason",
+    "furigana": "りゆう"
+  },
+  {
+    "word": "生産",
+    "meaning": "production; to produce",
+    "furigana": "せいさんする"
+  },
+  {
+    "word": "着物",
+    "meaning": "kimono; Japanese traditional dress",
+    "furigana": "きもの"
+  },
+  {
+    "word": "おもちゃ",
+    "meaning": "a toy",
+    "furigana": "おもちゃ"
+  },
+  {
+    "word": "暮れる",
+    "meaning": "to get dark, to come to an end",
+    "furigana": "くれる"
+  },
+  {
+    "word": "釣る",
+    "meaning": "to fish",
+    "furigana": "つる"
+  },
+  {
+    "word": "～ちゃん",
+    "meaning": "suffix for familiar (female) person",
+    "furigana": "～ちゃん"
+  },
+  {
+    "word": "打つ",
+    "meaning": "to hit, to strike",
+    "furigana": "うつ"
+  },
+  {
+    "word": "あんな",
+    "meaning": "such, like that",
+    "furigana": "あんな"
+  },
+  {
+    "word": "謝る",
+    "meaning": "to apologize",
+    "furigana": "あやまる"
+  },
+  {
+    "word": "昼間",
+    "meaning": "daytime, during the day",
+    "furigana": "ひるま"
+  },
+  {
+    "word": "教育",
+    "meaning": "education",
+    "furigana": "きょういく"
+  },
+  {
+    "word": "女性",
+    "meaning": "woman",
+    "furigana": "じょせい"
+  },
+  {
+    "word": "米",
+    "meaning": "uncooked rice",
+    "furigana": "こめ"
+  },
+  {
+    "word": "邪魔",
+    "meaning": "hindrance, intrusion",
+    "furigana": "じゃま"
+  },
+  {
+    "word": "国際",
+    "meaning": "international",
+    "furigana": "こくさい"
+  },
+  {
+    "word": "隅",
+    "meaning": "corner",
+    "furigana": "すみ"
+  },
+  {
+    "word": "伺う",
+    "meaning": "humble form of 行く (いく), 聞く (きく) and 来る (くる)",
+    "furigana": "うかがう"
+  },
+  {
+    "word": "再来週",
+    "meaning": "the week after next",
+    "furigana": "さらいしゅう"
+  },
+  {
+    "word": "夢",
+    "meaning": "a dream",
+    "furigana": "ゆめ"
+  },
+  {
+    "word": "喉",
+    "meaning": "throat",
+    "furigana": "のど"
+  },
+  {
+    "word": "最近",
+    "meaning": "recently, nowadays, in recent years, most recent, latest",
+    "furigana": "さいきん"
+  },
+  {
+    "word": "周り",
+    "meaning": "surroundings",
+    "furigana": "まわり"
+  },
+  {
+    "word": "歴史",
+    "meaning": "history",
+    "furigana": "れきし"
+  },
+  {
+    "word": "不便",
+    "meaning": "inconvenience",
+    "furigana": "ふべん"
+  },
+  {
+    "word": "血",
+    "meaning": "blood",
+    "furigana": "ち"
+  },
+  {
+    "word": "～続ける",
+    "meaning": "to continue doing ~",
+    "furigana": "～つづける"
+  },
+  {
+    "word": "毛",
+    "meaning": "hair, fur",
+    "furigana": "け"
+  },
+  {
+    "word": "ひどい",
+    "meaning": "terrible, awful, unfair, cruel",
+    "furigana": "ひどい"
+  },
+  {
+    "word": "例えば",
+    "meaning": "for example, e.g.",
+    "furigana": "たとえば"
+  },
+  {
+    "word": "中々",
+    "meaning": "very, considerably, quite",
+    "furigana": "なかなか"
+  },
+  {
+    "word": "随分",
+    "meaning": "extremely",
+    "furigana": "ずいぶん"
+  },
+  {
+    "word": "～やすい",
+    "meaning": "easy to do ~",
+    "furigana": "～やすい"
+  },
+  {
+    "word": "押し入れ",
+    "meaning": "closet",
+    "furigana": "おしいれ"
+  },
+  {
+    "word": "電灯",
+    "meaning": "electric light",
+    "furigana": "でんとう"
+  },
+  {
+    "word": "叱る",
+    "meaning": "to scold",
+    "furigana": "しかる"
+  },
+  {
+    "word": "サンダル",
+    "meaning": "sandal",
+    "furigana": "サンダル"
+  },
+  {
+    "word": "びっくりする",
+    "meaning": "to be surprised",
+    "furigana": "びっくりする"
+  },
+  {
+    "word": "うまい",
+    "meaning": "delicious; skillful; fortunate",
+    "furigana": "うまい"
+  },
+  {
+    "word": "変える",
+    "meaning": "to change, to alter, to vary",
+    "furigana": "かえる"
+  },
+  {
+    "word": "講堂",
+    "meaning": "auditorium",
+    "furigana": "こうどう"
+  },
+  {
+    "word": "子",
+    "meaning": "child",
+    "furigana": "こ"
+  },
+  {
+    "word": "沸かす",
+    "meaning": "to boil",
+    "furigana": "わかす"
+  },
+  {
+    "word": "レジ",
+    "meaning": "register",
+    "furigana": "レジ"
+  },
+  {
+    "word": "しばらく",
+    "meaning": "little while",
+    "furigana": "しばらく"
+  },
+  {
+    "word": "特に",
+    "meaning": "particularly",
+    "furigana": "とくに"
+  },
+  {
+    "word": "空く",
+    "meaning": "to open, to become empty (vacant)",
+    "furigana": "あく"
+  },
+  {
+    "word": "計画",
+    "meaning": "plan, project, schedule",
+    "furigana": "けいかくする"
+  },
+  {
+    "word": "通り",
+    "meaning": "~ Street, ~ Avenue",
+    "furigana": "とおり"
+  },
+  {
+    "word": "下着",
+    "meaning": "underwear",
+    "furigana": "したぎ"
+  },
+  {
+    "word": "経済",
+    "meaning": "economics, finance, economy",
+    "furigana": "けいざい"
+  },
+  {
+    "word": "こう",
+    "meaning": "like this, this way",
+    "furigana": "こう"
+  },
+  {
+    "word": "是非",
+    "meaning": "certainly, by all means; without fail",
+    "furigana": "ぜひ"
+  },
+  {
+    "word": "裏",
+    "meaning": "reverse side, back",
+    "furigana": "うら"
+  },
+  {
+    "word": "為",
+    "meaning": "good, advantage, in order to",
+    "furigana": "ため"
+  },
+  {
+    "word": "おいでになる",
+    "meaning": "(hon.) to be",
+    "furigana": "おいでになる"
+  },
+  {
+    "word": "変わる",
+    "meaning": "to change (v.i.), to be transformed, to vary",
+    "furigana": "かわる"
+  },
+  {
+    "word": "以外",
+    "meaning": "other than, with the exception of, excepting",
+    "furigana": "いがい"
+  },
+  {
+    "word": "済む",
+    "meaning": "to finish, to end",
+    "furigana": "すむ"
+  },
+  {
+    "word": "ハンバーグ",
+    "meaning": "hamburger steak",
+    "furigana": "ハンバーグ"
+  },
+  {
+    "word": "市",
+    "meaning": "city",
+    "furigana": "し"
+  },
+  {
+    "word": "引き出し",
+    "meaning": "drawer",
+    "furigana": "ひきだし"
+  },
+  {
+    "word": "遊び",
+    "meaning": "play",
+    "furigana": "あそび"
+  },
+  {
+    "word": "支度",
+    "meaning": "preparation",
+    "furigana": "したくする"
+  },
+  {
+    "word": "～始める",
+    "meaning": "to start doing ~",
+    "furigana": "～はじめる"
+  },
+  {
+    "word": "見える",
+    "meaning": "to be visible; -- polite verb meaning 来る (くる) --",
+    "furigana": "みえる"
+  },
+  {
+    "word": "十分",
+    "meaning": "enough",
+    "furigana": "じゅうぶん"
+  },
+  {
+    "word": "音",
+    "meaning": "sound, note",
+    "furigana": "おと"
+  },
+  {
+    "word": "きっと",
+    "meaning": "surely, definitely, undoubtedly, certainly",
+    "furigana": "きっと"
+  },
+  {
+    "word": "まず",
+    "meaning": "first (of all), to start with",
+    "furigana": "まず"
+  },
+  {
+    "word": "遠く",
+    "meaning": "far away, distant",
+    "furigana": "とおく"
+  },
+  {
+    "word": "大体",
+    "meaning": "approximately; in most cases; in general; to begin with (same as もともと)",
+    "furigana": "だいたい"
+  },
+  {
+    "word": "折れる",
+    "meaning": "to break, to be folded, to give in; to turn (a corner)",
+    "furigana": "おれる"
+  },
+  {
+    "word": "正しい",
+    "meaning": "correct",
+    "furigana": "ただしい"
+  },
+  {
+    "word": "輸入",
+    "meaning": "import",
+    "furigana": "ゆにゅう"
+  },
+  {
+    "word": "返事",
+    "meaning": "reply, answer",
+    "furigana": "へんじ"
+  },
+  {
+    "word": "都",
+    "meaning": "metropolitan",
+    "furigana": "と"
+  },
+  {
+    "word": "産業",
+    "meaning": "industry",
+    "furigana": "さんぎょう"
+  },
+  {
+    "word": "伝える",
+    "meaning": "to convey (a message); to tell, to report",
+    "furigana": "つたえる"
+  },
+  {
+    "word": "お金持ち",
+    "meaning": "rich person",
+    "furigana": "かねもち; おかねもち"
+  },
+  {
+    "word": "説明",
+    "meaning": "explanation",
+    "furigana": "せつめい"
+  },
+  {
+    "word": "島",
+    "meaning": "island",
+    "furigana": "しま"
+  },
+  {
+    "word": "道具",
+    "meaning": "tool",
+    "furigana": "どうぐ"
+  },
+  {
+    "word": "滑る",
+    "meaning": "to slide, to slip",
+    "furigana": "すべる"
+  },
+  {
+    "word": "それほど",
+    "meaning": "to that degree; extent",
+    "furigana": "それほど"
+  },
+  {
+    "word": "以上",
+    "meaning": "more than; this is all",
+    "furigana": "いじょう"
+  },
+  {
+    "word": "～まま",
+    "meaning": "as it is",
+    "furigana": "～まま"
+  },
+  {
+    "word": "特急",
+    "meaning": "limited express (train faster than an express)",
+    "furigana": "とっきゅう"
+  },
+  {
+    "word": "プレゼント",
+    "meaning": "present, gift",
+    "furigana": "プレゼント"
+  },
+  {
+    "word": "～(に) よると",
+    "meaning": "according to ~",
+    "furigana": "～(に) よると"
+  },
+  {
+    "word": "妻",
+    "meaning": "wife (humble)",
+    "furigana": "つま"
+  },
+  {
+    "word": "帰り",
+    "meaning": "return, coming back",
+    "furigana": "かえり"
+  },
+  {
+    "word": "具合",
+    "meaning": "condition, state, health",
+    "furigana": "ぐあい"
+  },
+  {
+    "word": "堅; 硬; 固い",
+    "meaning": "solid, hard, firm",
+    "furigana": "かたい"
+  },
+  {
+    "word": "駐車場",
+    "meaning": "parking lot",
+    "furigana": "ちゅうしゃじょう"
+  },
+  {
+    "word": "スーツ",
+    "meaning": "suit",
+    "furigana": "スーツ"
+  },
+  {
+    "word": "危険",
+    "meaning": "danger, risk, hazard",
+    "furigana": "きけん"
+  },
+  {
+    "word": "髪",
+    "meaning": "hair",
+    "furigana": "かみ"
+  },
+  {
+    "word": "天気予報",
+    "meaning": "weather forecast",
+    "furigana": "てんきよほう"
+  },
+  {
+    "word": "彼女",
+    "meaning": "girlfriend; she",
+    "furigana": "かのじょ"
+  },
+  {
+    "word": "間",
+    "meaning": "space, interval",
+    "furigana": "あいだ"
+  },
+  {
+    "word": "卒業",
+    "meaning": "graduation",
+    "furigana": "そつぎょう"
+  },
+  {
+    "word": "それで",
+    "meaning": "and (conj.), thereupon, because of that",
+    "furigana": "それで"
+  },
+  {
+    "word": "枝",
+    "meaning": "branch, twig",
+    "furigana": "えだ"
+  },
+  {
+    "word": "専門",
+    "meaning": "major; speciality",
+    "furigana": "せんもん"
+  },
+  {
+    "word": "そろそろ",
+    "meaning": "gradually, soon",
+    "furigana": "そろそろ"
+  },
+  {
+    "word": "送る",
+    "meaning": "to send, to dispatch",
+    "furigana": "おくる"
+  },
+  {
+    "word": "あげる",
+    "meaning": "to give",
+    "furigana": "あげる"
+  },
+  {
+    "word": "騒ぐ",
+    "meaning": "to make noise, to clamor",
+    "furigana": "さわぐ"
+  },
+  {
+    "word": "尋ねる",
+    "meaning": "to inquire (same as 質問する)",
+    "furigana": "たずねる"
+  },
+  {
+    "word": "放送",
+    "meaning": "broadcasting",
+    "furigana": "ほうそうする"
+  },
+  {
+    "word": "政治",
+    "meaning": "politics",
+    "furigana": "せいじ"
+  },
+  {
+    "word": "市民",
+    "meaning": "citizen",
+    "furigana": "しみん"
+  },
+  {
+    "word": "ファックス",
+    "meaning": "fax",
+    "furigana": "ファックス"
+  },
+  {
+    "word": "負ける",
+    "meaning": "to lose (a game) (v.i.), to be defeated",
+    "furigana": "まける"
+  },
+  {
+    "word": "指輪",
+    "meaning": "(finger) ring",
+    "furigana": "ゆびわ"
+  },
+  {
+    "word": "田舎",
+    "meaning": "rural, countryside",
+    "furigana": "いなか"
+  },
+  {
+    "word": "見つける",
+    "meaning": "to discover, to find (v.t.)",
+    "furigana": "みつける"
+  },
+  {
+    "word": "高校生",
+    "meaning": "high school student",
+    "furigana": "こうこうせい"
+  },
+  {
+    "word": "講義",
+    "meaning": "a lecture",
+    "furigana": "こうぎ"
+  },
+  {
+    "word": "そんなに",
+    "meaning": "so much, like that",
+    "furigana": "そんなに"
+  },
+  {
+    "word": "昼休み",
+    "meaning": "lunch break, noon recess",
+    "furigana": "ひるやすみ"
+  },
+  {
+    "word": "忘れ物",
+    "meaning": "lost article, something forgotten",
+    "furigana": "わすれもの"
+  },
+  {
+    "word": "下りる",
+    "meaning": "to get down, to go; come down",
+    "furigana": "おりる"
+  },
+  {
+    "word": "腕",
+    "meaning": "arm (in reference to body)",
+    "furigana": "うで"
+  },
+  {
+    "word": "訳",
+    "meaning": "reason; explanation",
+    "furigana": "わけ"
+  },
+  {
+    "word": "承知",
+    "meaning": "consent, acceptance",
+    "furigana": "しょうちする"
+  },
+  {
+    "word": "日記",
+    "meaning": "diary, journal",
+    "furigana": "にっき"
+  },
+  {
+    "word": "高校; 高等学校",
+    "meaning": "high school; senior high school",
+    "furigana": "こうこう; こうとうがっこう"
+  },
+  {
+    "word": "似る",
+    "meaning": "to resemble, to be similar",
+    "furigana": "にる"
+  },
+  {
+    "word": "～おわる",
+    "meaning": "to finish doing ~",
+    "furigana": "～おわる"
+  },
+  {
+    "word": "暖房",
+    "meaning": "heating",
+    "furigana": "だんぼう"
+  },
+  {
+    "word": "留守",
+    "meaning": "absence; not at home",
+    "furigana": "るす"
+  },
+  {
+    "word": "割合",
+    "meaning": "rate, ratio, percentage",
+    "furigana": "わりあい"
+  },
+  {
+    "word": "寺",
+    "meaning": "Buddhist temple",
+    "furigana": "てら"
+  },
+  {
+    "word": "慣れる",
+    "meaning": "to grow accustomed to",
+    "furigana": "なれる"
+  },
+  {
+    "word": "普通",
+    "meaning": "common; usual",
+    "furigana": "ふつう"
+  },
+  {
+    "word": "手伝う",
+    "meaning": "to help",
+    "furigana": "てつだう"
+  },
+  {
+    "word": "なるほど",
+    "meaning": "I see; I now understand",
+    "furigana": "なるほど"
+  },
+  {
+    "word": "くださる",
+    "meaning": "(hon.) to give, to confer",
+    "furigana": "くださる"
+  },
+  {
+    "word": "息子",
+    "meaning": "(humble) son",
+    "furigana": "むすこ"
+  },
+  {
+    "word": "お子さん",
+    "meaning": "(someone else's) child (polite)",
+    "furigana": "おこさん"
+  },
+  {
+    "word": "会場",
+    "meaning": "venue, meeting place",
+    "furigana": "かいじょう"
+  },
+  {
+    "word": "笑う",
+    "meaning": "to laugh, to smile",
+    "furigana": "わらう"
+  },
+  {
+    "word": "運ぶ",
+    "meaning": "to transport, to carry",
+    "furigana": "はこぶ"
+  },
+  {
+    "word": "文学",
+    "meaning": "literature",
+    "furigana": "ぶんがく"
+  },
+  {
+    "word": "光",
+    "meaning": "light",
+    "furigana": "ひかり"
+  },
+  {
+    "word": "お見舞い",
+    "meaning": "calling on someone who is ill, visit",
+    "furigana": "おみまい"
+  },
+  {
+    "word": "席",
+    "meaning": "a seat",
+    "furigana": "せき"
+  },
+  {
+    "word": "～様",
+    "meaning": "Mr., Mrs., Ms.",
+    "furigana": "～さま"
+  },
+  {
+    "word": "ご存じ",
+    "meaning": "knowing, acquaintance",
+    "furigana": "ごぞんじ"
+  },
+  {
+    "word": "下る",
+    "meaning": "to descend, to drop, to fall",
+    "furigana": "さがる"
+  },
+  {
+    "word": "字",
+    "meaning": "letter; character",
+    "furigana": "じ"
+  },
+  {
+    "word": "アジア",
+    "meaning": "Asia",
+    "furigana": "アジア"
+  },
+  {
+    "word": "褒める",
+    "meaning": "to praise; to say nice things",
+    "furigana": "ほめる"
+  },
+  {
+    "word": "空く",
+    "meaning": "to be empty (in reference to people), to be less crowded",
+    "furigana": "すく"
+  },
+  {
+    "word": "あ",
+    "meaning": "Ah",
+    "furigana": "あ"
+  },
+  {
+    "word": "最も",
+    "meaning": "most",
+    "furigana": "もっとも"
+  },
+  {
+    "word": "合う",
+    "meaning": "to fit, to match",
+    "furigana": "あう"
+  },
+  {
+    "word": "～代",
+    "meaning": "~ age; period",
+    "furigana": "～だい"
+  },
+  {
+    "word": "最後",
+    "meaning": "last, end",
+    "furigana": "さいご"
+  },
+  {
+    "word": "値段",
+    "meaning": "price",
+    "furigana": "ねだん"
+  },
+  {
+    "word": "退院",
+    "meaning": "leaving hospital",
+    "furigana": "たいいんする"
+  },
+  {
+    "word": "展覧会",
+    "meaning": "exhibition",
+    "furigana": "てんらんかい"
+  },
+  {
+    "word": "久しぶり",
+    "meaning": "it has been a long time; for the first time in a long time",
+    "furigana": "ひさしぶり"
+  },
+  {
+    "word": "カーテン",
+    "meaning": "curtain",
+    "furigana": "カーテン"
+  },
+  {
+    "word": "汽車",
+    "meaning": "train (steam)",
+    "furigana": "きしゃ"
+  },
+  {
+    "word": "遅れる",
+    "meaning": "to (be) become late",
+    "furigana": "おくれる"
+  },
+  {
+    "word": "見つかる",
+    "meaning": "to be found (v.i.), to be discovered",
+    "furigana": "みつかる"
+  },
+  {
+    "word": "召し上がる",
+    "meaning": "-- honorific form of 食べる (たべる) and 飲む (のむ) --",
+    "furigana": "めしあがる"
+  },
+  {
+    "word": "太る",
+    "meaning": "to gain weight",
+    "furigana": "ふとる"
+  },
+  {
+    "word": "注射",
+    "meaning": "injection",
+    "furigana": "ちゅうしゃ"
+  },
+  {
+    "word": "様",
+    "meaning": "way, manner, kind",
+    "furigana": "よう"
+  },
+  {
+    "word": "～おき",
+    "meaning": "after every ~",
+    "furigana": "～おき"
+  },
+  {
+    "word": "最初",
+    "meaning": "beginning, first",
+    "furigana": "さいしょ"
+  },
+  {
+    "word": "御～",
+    "meaning": "honorable ~",
+    "furigana": "ご～"
+  },
+  {
+    "word": "安心",
+    "meaning": "peace of mind, relief",
+    "furigana": "あんしん"
+  },
+  {
+    "word": "直る",
+    "meaning": "to be fixed",
+    "furigana": "なおる"
+  },
+  {
+    "word": "集める",
+    "meaning": "to collect, to gather (v.t.), to assemble",
+    "furigana": "あつめる"
+  },
+  {
+    "word": "直す",
+    "meaning": "to correct (v.t.); to fix",
+    "furigana": "なおす"
+  },
+  {
+    "word": "続く",
+    "meaning": "to be continued",
+    "furigana": "つづく"
+  },
+  {
+    "word": "先輩",
+    "meaning": "senior members of a group",
+    "furigana": "せんぱい"
+  },
+  {
+    "word": "約束",
+    "meaning": "arrangement, appointment, promise",
+    "furigana": "やくそく"
+  },
+  {
+    "word": "世話",
+    "meaning": "looking after; to look after",
+    "furigana": "せわする"
+  },
+  {
+    "word": "近所",
+    "meaning": "neighborhood",
+    "furigana": "きんじょ"
+  },
+  {
+    "word": "将来",
+    "meaning": "(in the) future; prospects",
+    "furigana": "しょうらい"
+  },
+  {
+    "word": "億",
+    "meaning": "hundred million",
+    "furigana": "おく"
+  },
+  {
+    "word": "数学",
+    "meaning": "mathematics",
+    "furigana": "すうがく"
+  },
+  {
+    "word": "文化",
+    "meaning": "culture",
+    "furigana": "ぶんか"
+  },
+  {
+    "word": "払う",
+    "meaning": "to pay",
+    "furigana": "はらう"
+  },
+  {
+    "word": "習慣",
+    "meaning": "custom (in reference to culture)",
+    "furigana": "しゅうかん"
+  },
+  {
+    "word": "焼ける",
+    "meaning": "to burn, to be roasted",
+    "furigana": "やける"
+  },
+  {
+    "word": "君",
+    "meaning": "you (informal for men)",
+    "furigana": "きみ"
+  },
+  {
+    "word": "冷える",
+    "meaning": "to grow cold, to cool down",
+    "furigana": "ひえる"
+  },
+  {
+    "word": "点く",
+    "meaning": "to be started, to be switched on",
+    "furigana": "つく"
+  },
+  {
+    "word": "この間",
+    "meaning": "the other day, recently",
+    "furigana": "このあいだ"
+  },
+  {
+    "word": "かっこう",
+    "meaning": "appearance, manner, shape, form, posture",
+    "furigana": "格好"
+  },
+  {
+    "word": "かまう",
+    "meaning": "to mind, to care about, to be concerned about",
+    "furigana": ""
+  },
+  {
+    "word": "続ける",
+    "meaning": "to continue, to keep up",
+    "furigana": "つづける"
+  },
+  {
+    "word": "落す",
+    "meaning": "to drop, to lose",
+    "furigana": "おとす"
+  },
+  {
+    "word": "明日",
+    "meaning": "tomorrow",
+    "furigana": "あす"
+  },
+  {
+    "word": "出発",
+    "meaning": "departure",
+    "furigana": "しゅっぱつする"
+  },
+  {
+    "word": "拝見",
+    "meaning": "(humble) (polite) seeing, look at",
+    "furigana": "はいけんする"
+  },
+  {
+    "word": "割れる",
+    "meaning": "to break",
+    "furigana": "われる"
+  },
+  {
+    "word": "背中",
+    "meaning": "back (of body)",
+    "furigana": "せなか"
+  },
+  {
+    "word": "新聞社",
+    "meaning": "newspaper company",
+    "furigana": "しんぶんしゃ"
+  },
+  {
+    "word": "いじめる",
+    "meaning": "to bully, to torment",
+    "furigana": "いじめる"
+  },
+  {
+    "word": "回る、回す",
+    "meaning": "to go around, to revolve",
+    "furigana": "まわる、まわす"
+  },
+  {
+    "word": "～君",
+    "meaning": "Mr. (junior) ~, master ~",
+    "furigana": "～くん"
+  },
+  {
+    "word": "おっしゃる",
+    "meaning": "-- honorific expression for いう --",
+    "furigana": "おっしゃる"
+  },
+  {
+    "word": "眠い",
+    "meaning": "sleepy, drowsy",
+    "furigana": "ねむい"
+  },
+  {
+    "word": "濡れる",
+    "meaning": "to get wet",
+    "furigana": "ぬれる"
+  },
+  {
+    "word": "倒れる",
+    "meaning": "to collapse, to break down",
+    "furigana": "たおれる"
+  },
+  {
+    "word": "スーパー (マーケット)",
+    "meaning": "supermarket",
+    "furigana": "スーパー (マーケット)"
+  },
+  {
+    "word": "アクセサリー",
+    "meaning": "accessory",
+    "furigana": "アクセサリー"
+  },
+  {
+    "word": "考える",
+    "meaning": "to think (about); to consider",
+    "furigana": "かんがえる"
+  },
+  {
+    "word": "向かう",
+    "meaning": "to face, to go towards",
+    "furigana": "むかう"
+  },
+  {
+    "word": "自由",
+    "meaning": "freedom",
+    "furigana": "じゆう"
+  },
+  {
+    "word": "仕方",
+    "meaning": "way (of doing something)",
+    "furigana": "しかた"
+  },
+  {
+    "word": "首",
+    "meaning": "neck",
+    "furigana": "くび"
+  },
+  {
+    "word": "程",
+    "meaning": "degree, extent",
+    "furigana": "ほど"
+  },
+  {
+    "word": "代わり",
+    "meaning": "substitute, replacement",
+    "furigana": "かわり"
+  },
+  {
+    "word": "失敗",
+    "meaning": "failure, mistake",
+    "furigana": "しっぱい"
+  },
+  {
+    "word": "工業",
+    "meaning": "(manufacturing) industry",
+    "furigana": "こうぎょう"
+  },
+  {
+    "word": "移る",
+    "meaning": "to move (from a house); to transfer (from a department); to shift",
+    "furigana": "うつる"
+  },
+  {
+    "word": "スーツケース",
+    "meaning": "suitcase",
+    "furigana": "スーツケース"
+  },
+  {
+    "word": "ひげ",
+    "meaning": "beard",
+    "furigana": "ひげ"
+  },
+  {
+    "word": "研究室",
+    "meaning": "the professor's office; laboratory",
+    "furigana": "けんきゅうしつ"
+  },
+  {
+    "word": "工場",
+    "meaning": "factory",
+    "furigana": "こうじょう"
+  },
+  {
+    "word": "紹介",
+    "meaning": "an introduction",
+    "furigana": "しょうかい"
+  },
+  {
+    "word": "けれど; けれども",
+    "meaning": "but, although",
+    "furigana": "けれど; けれども"
+  },
+  {
+    "word": "舟",
+    "meaning": "ship, boat",
+    "furigana": "ふね"
+  },
+  {
+    "word": "動く",
+    "meaning": "to move",
+    "furigana": "うごく"
+  },
+  {
+    "word": "～(に) ついて",
+    "meaning": "about, concerning",
+    "furigana": "～(に) ついて"
+  },
+  {
+    "word": "コンサート",
+    "meaning": "concert",
+    "furigana": "コンサート"
+  },
+  {
+    "word": "虫",
+    "meaning": "insect",
+    "furigana": "むし"
+  },
+  {
+    "word": "優しい",
+    "meaning": "kind (person), gentle (person), easy (problem)",
+    "furigana": "やさしい"
+  },
+  {
+    "word": "コンピュータ; コンピューター",
+    "meaning": "computer",
+    "furigana": "コンピュータ; コンピューター"
+  },
+  {
+    "word": "植える",
+    "meaning": "to plant",
+    "furigana": "うえる"
+  },
+  {
+    "word": "両方",
+    "meaning": "both sides, both parties",
+    "furigana": "りょうほう"
+  },
+  {
+    "word": "汚れる",
+    "meaning": "to become dirty",
+    "furigana": "よごれる"
+  },
+  {
+    "word": "水泳",
+    "meaning": "swimming",
+    "furigana": "すいえい"
+  },
+  {
+    "word": "経験",
+    "meaning": "experience",
+    "furigana": "けいけんする"
+  },
+  {
+    "word": "勝つ",
+    "meaning": "to win",
+    "furigana": "かつ"
+  },
+  {
+    "word": "砂",
+    "meaning": "sand",
+    "furigana": "すな"
+  },
+  {
+    "word": "警察",
+    "meaning": "police; police station",
+    "furigana": "けいさつ"
+  },
+  {
+    "word": "取り替える",
+    "meaning": "to exchange, to replace",
+    "furigana": "とりかえる"
+  },
+  {
+    "word": "急ぐ",
+    "meaning": "to hurry, to be in a hurry, to rush",
+    "furigana": "いそぐ"
+  },
+  {
+    "word": "簡単",
+    "meaning": "simple",
+    "furigana": "かんたん"
+  },
+  {
+    "word": "参る",
+    "meaning": "humble expression for 行く and 来る",
+    "furigana": "まいる"
+  },
+  {
+    "word": "全然",
+    "meaning": "not at all; wholly, entirely",
+    "furigana": "ぜんぜん"
+  },
+  {
+    "word": "特別",
+    "meaning": "special",
+    "furigana": "とくべつ"
+  },
+  {
+    "word": "復習",
+    "meaning": "review (of lessons), revision",
+    "furigana": "ふくしゅう"
+  },
+  {
+    "word": "間に合う",
+    "meaning": "to be in time for",
+    "furigana": "まにあう"
+  },
+  {
+    "word": "役に立つ",
+    "meaning": "to be helpful, to be useful",
+    "furigana": "やくにたつ"
+  },
+  {
+    "word": "もうすぐ",
+    "meaning": "very soon; in a few moments; days",
+    "furigana": "もうすぐ"
+  },
+  {
+    "word": "真中",
+    "meaning": "middle, center",
+    "furigana": "まんなか"
+  },
+  {
+    "word": "戻る",
+    "meaning": "to return (v.i.); to come back",
+    "furigana": "もどる"
+  },
+  {
+    "word": "研究",
+    "meaning": "study, research, investigation",
+    "furigana": "けんきゅう"
+  },
+  {
+    "word": "ケーキ",
+    "meaning": "cake",
+    "furigana": "ケーキ"
+  },
+  {
+    "word": "草",
+    "meaning": "grass",
+    "furigana": "くさ"
+  },
+  {
+    "word": "込む",
+    "meaning": "to be crowded",
+    "furigana": "こむ"
+  },
+  {
+    "word": "この頃",
+    "meaning": "these days, nowadays",
+    "furigana": "このごろ"
+  },
+  {
+    "word": "訪ねる",
+    "meaning": "to visit",
+    "furigana": "たずねる"
+  },
+  {
+    "word": "下げる",
+    "meaning": "to lower (v.t.); to hang",
+    "furigana": "さげる"
+  },
+  {
+    "word": "花見",
+    "meaning": "cherry-blossom viewing",
+    "furigana": "はなみ"
+  },
+  {
+    "word": "途中",
+    "meaning": "on the way, midway",
+    "furigana": "とちゅう"
+  },
+  {
+    "word": "入院",
+    "meaning": "hospitalization",
+    "furigana": "にゅういんする"
+  },
+  {
+    "word": "乗り換える",
+    "meaning": "to transfer (trains), to change (bus, train, etc.)",
+    "furigana": "のりかえる"
+  },
+  {
+    "word": "別れる",
+    "meaning": "to part from, to separate",
+    "furigana": "わかれる"
+  },
+  {
+    "word": "～町",
+    "meaning": "the town of ~",
+    "furigana": "～ちょう"
+  },
+  {
+    "word": "安全",
+    "meaning": "safety, security",
+    "furigana": "あんぜん"
+  },
+  {
+    "word": "看護婦",
+    "meaning": "(female) nurse",
+    "furigana": "かんごふ"
+  },
+  {
+    "word": "見物",
+    "meaning": "sightseeing",
+    "furigana": "けんぶつ"
+  },
+  {
+    "word": "相談",
+    "meaning": "consultation",
+    "furigana": "そうだんする"
+  },
+  {
+    "word": "ガソリンスタンド",
+    "meaning": "gas station, service station",
+    "furigana": "ガソリンスタンド"
+  },
+  {
+    "word": "テニス",
+    "meaning": "tennis",
+    "furigana": "テニス"
+  },
+  {
+    "word": "眠る",
+    "meaning": "to sleep",
+    "furigana": "ねむる"
+  },
+  {
+    "word": "上がる",
+    "meaning": "to rise, to go up",
+    "furigana": "あがる"
+  },
+  {
+    "word": "翻訳",
+    "meaning": "translation",
+    "furigana": "ほんやく"
+  },
+  {
+    "word": "食事",
+    "meaning": "meal",
+    "furigana": "しょくじする"
+  },
+  {
+    "word": "おかげ",
+    "meaning": "thanks or owing to",
+    "furigana": "お陰"
+  },
+  {
+    "word": "娘",
+    "meaning": "daughter (humble)",
+    "furigana": "むすめ"
+  },
+  {
+    "word": "湯",
+    "meaning": "hot water",
+    "furigana": "ゆ"
+  },
+  {
+    "word": "競争",
+    "meaning": "competition, contest",
+    "furigana": "きょうそう"
+  },
+  {
+    "word": "会議",
+    "meaning": "business meeting; conference",
+    "furigana": "かいぎ"
+  },
+  {
+    "word": "湖",
+    "meaning": "lake",
+    "furigana": "みずうみ"
+  },
+  {
+    "word": "集まる",
+    "meaning": "to gather (v.i.), to collect",
+    "furigana": "あつまる"
+  },
+  {
+    "word": "～にくい",
+    "meaning": "difficult to do ~",
+    "furigana": "～にくい"
+  },
+  {
+    "word": "生活",
+    "meaning": "living, life; to live",
+    "furigana": "せいかつする"
+  },
+  {
+    "word": "糸",
+    "meaning": "thread",
+    "furigana": "いと"
+  },
+  {
+    "word": "関係",
+    "meaning": "relation(ship), connection",
+    "furigana": "かんけい"
+  },
+  {
+    "word": "ピアノ",
+    "meaning": "piano",
+    "furigana": "ピアノ"
+  },
+  {
+    "word": "～目",
+    "meaning": "number ~ sequence, ~nd; ~th",
+    "furigana": "～め"
+  },
+  {
+    "word": "番組",
+    "meaning": "broadcast program",
+    "furigana": "ばんぐみ"
+  },
+  {
+    "word": "急",
+    "meaning": "urgent, sudden; steep",
+    "furigana": "きゅう"
+  },
+  {
+    "word": "棚",
+    "meaning": "shelves, rack",
+    "furigana": "たな"
+  },
+  {
+    "word": "木綿",
+    "meaning": "cotton",
+    "furigana": "もめん"
+  },
+  {
+    "word": "輸出",
+    "meaning": "export",
+    "furigana": "ゆしゅつする"
+  },
+  {
+    "word": "タイプ",
+    "meaning": "type, style",
+    "furigana": "タイプ"
+  },
+  {
+    "word": "すり",
+    "meaning": "pickpocket",
+    "furigana": "すり"
+  },
+  {
+    "word": "うれしい",
+    "meaning": "to be happy; to be glad",
+    "furigana": "嬉しい"
+  },
+  {
+    "word": "アルコール",
+    "meaning": "alcohol",
+    "furigana": "アルコール"
+  },
+  {
+    "word": "ソフト",
+    "meaning": "soft; soft hat; software",
+    "furigana": "ソフト"
+  },
+  {
+    "word": "神社",
+    "meaning": "Shinto shrine",
+    "furigana": "じんじゃ"
+  },
+  {
+    "word": "大分",
+    "meaning": "fairly well, to a large extent, considerably, pretty much",
+    "furigana": "だいぶ"
+  },
+  {
+    "word": "楽しみ",
+    "meaning": "pleasure, joy",
+    "furigana": "たのしみ"
+  },
+  {
+    "word": "趣味",
+    "meaning": "hobby; pastime",
+    "furigana": "しゅみ"
+  },
+  {
+    "word": "電報",
+    "meaning": "telegram",
+    "furigana": "でんぽう"
+  },
+  {
+    "word": "家内",
+    "meaning": "(one's own) wife",
+    "furigana": "かない"
+  },
+  {
+    "word": "指",
+    "meaning": "finger",
+    "furigana": "ゆび"
+  },
+  {
+    "word": "これから",
+    "meaning": "from now on, after this",
+    "furigana": "これから"
+  },
+  {
+    "word": "たまに",
+    "meaning": "occasionally",
+    "furigana": "たまに"
+  },
+  {
+    "word": "社会",
+    "meaning": "society",
+    "furigana": "しゃかい"
+  }
+]
