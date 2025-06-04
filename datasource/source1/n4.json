@@ -1,4420 +1,3635 @@
 [
-	{
-		"word": "雲",
-		"meaning": "cloud",
-		"furigana": "くも",
-		"romaji": "kumo",
-		"level": 4
-	},
-	{
-		"word": "サンドイッチ",
-		"meaning": "sandwich",
-		"furigana": "",
-		"romaji": "sandoitchi",
-		"level": 4
-	},
-	{
-		"word": "故障",
-		"meaning": "to break-down",
-		"furigana": "こしょう・する",
-		"romaji": "koshō-suru",
-		"level": 4
-	},
-	{
-		"word": "怖い",
-		"meaning": "frightening",
-		"furigana": "こわい",
-		"romaji": "kowai",
-		"level": 4
-	},
-	{
-		"word": "エスカレーター",
-		"meaning": "escalator",
-		"furigana": "",
-		"romaji": "esukarētā",
-		"level": 4
-	},
-	{
-		"word": "運ぶ",
-		"meaning": "to transport",
-		"furigana": "はこぶ",
-		"romaji": "hakobu",
-		"level": 4
-	},
-	{
-		"word": "受ける",
-		"meaning": "to take a lesson or test",
-		"furigana": "うける",
-		"romaji": "ukeru",
-		"level": 4
-	},
-	{
-		"word": "お嬢さん",
-		"meaning": "young lady",
-		"furigana": "おじょうさん",
-		"romaji": "ojōsan",
-		"level": 4
-	},
-	{
-		"word": "首",
-		"meaning": "neck",
-		"furigana": "くび",
-		"romaji": "kubi",
-		"level": 4
-	},
-	{
-		"word": "市民",
-		"meaning": "citizen",
-		"furigana": "しみん",
-		"romaji": "shimin",
-		"level": 4
-	},
-	{
-		"word": "付く",
-		"meaning": "to be attached",
-		"furigana": "つく",
-		"romaji": "tsuku",
-		"level": 4
-	},
-	{
-		"word": "すく",
-		"meaning": "to become empty",
-		"furigana": "",
-		"romaji": "suku",
-		"level": 4
-	},
-	{
-		"word": "こと",
-		"meaning": "thing, matter",
-		"furigana": "",
-		"romaji": "koto",
-		"level": 4
-	},
-	{
-		"word": "訪ねる",
-		"meaning": "to visit",
-		"furigana": "たずねる",
-		"romaji": "tazuneru",
-		"level": 4
-	},
-	{
-		"word": "お祝い",
-		"meaning": "congratulation",
-		"furigana": "おいわい",
-		"romaji": "oiwai",
-		"level": 4
-	},
-	{
-		"word": "一生懸命",
-		"meaning": "with utmost effort",
-		"furigana": "いっしょうけんめい",
-		"romaji": "isshōkenmei",
-		"level": 4
-	},
-	{
-		"word": "済む",
-		"meaning": "to finish",
-		"furigana": "すむ",
-		"romaji": "sumu",
-		"level": 4
-	},
-	{
-		"word": "アメリカ",
-		"meaning": "America",
-		"furigana": "",
-		"romaji": "amerika",
-		"level": 4
-	},
-	{
-		"word": "復習",
-		"meaning": "revision",
-		"furigana": "ふくしゅう",
-		"romaji": "fukushū",
-		"level": 4
-	},
-	{
-		"word": "急",
-		"meaning": "urgent, steep",
-		"furigana": "きゅう",
-		"romaji": "kyū",
-		"level": 4
-	},
-	{
-		"word": "これから",
-		"meaning": "after this",
-		"furigana": "",
-		"romaji": "korekara",
-		"level": 4
-	},
-	{
-		"word": "指輪",
-		"meaning": "finger ring",
-		"furigana": "ゆびわ",
-		"romaji": "yubiwa",
-		"level": 4
-	},
-	{
-		"word": "美しい",
-		"meaning": "beautiful",
-		"furigana": "うつくしい",
-		"romaji": "utsukushii",
-		"level": 4
-	},
-	{
-		"word": "直る",
-		"meaning": "to be fixed, to be repaired",
-		"furigana": "なおる",
-		"romaji": "naoru",
-		"level": 4
-	},
-	{
-		"word": "水泳",
-		"meaning": "swimming",
-		"furigana": "すいえい",
-		"romaji": "suiei",
-		"level": 4
-	},
-	{
-		"word": "真中",
-		"meaning": "middle",
-		"furigana": "まんなか",
-		"romaji": "mannaka",
-		"level": 4
-	},
-	{
-		"word": "発音",
-		"meaning": "pronunciation",
-		"furigana": "はつおん",
-		"romaji": "hatsuon",
-		"level": 4
-	},
-	{
-		"word": "手伝う",
-		"meaning": "to assist",
-		"furigana": "てつだう",
-		"romaji": "tetsudau",
-		"level": 4
-	},
-	{
-		"word": "折れる",
-		"meaning": "to break or be folded",
-		"furigana": "おれる",
-		"romaji": "oreru",
-		"level": 4
-	},
-	{
-		"word": "一度",
-		"meaning": "once",
-		"furigana": "いちど",
-		"romaji": "ichido",
-		"level": 4
-	},
-	{
-		"word": "高等学校",
-		"meaning": "high school",
-		"furigana": "こうとうがっこう",
-		"romaji": "kōtōgakkō",
-		"level": 4
-	},
-	{
-		"word": "アルコール",
-		"meaning": "alcohol",
-		"furigana": "",
-		"romaji": "arukōru",
-		"level": 4
-	},
-	{
-		"word": "アナウンサー",
-		"meaning": "announcer",
-		"furigana": "",
-		"romaji": "anaunsā",
-		"level": 4
-	},
-	{
-		"word": "最初",
-		"meaning": "beginning, first",
-		"furigana": "さいしょ",
-		"romaji": "saisho",
-		"level": 4
-	},
-	{
-		"word": "投げる",
-		"meaning": "to throw or cast away",
-		"furigana": "なげる",
-		"romaji": "nageru",
-		"level": 4
-	},
-	{
-		"word": "変える",
-		"meaning": "to change",
-		"furigana": "かえる",
-		"romaji": "kaeru",
-		"level": 4
-	},
-	{
-		"word": "昼間",
-		"meaning": "daytime, during the day",
-		"furigana": "ひるま",
-		"romaji": "hiruma",
-		"level": 4
-	},
-	{
-		"word": "神社",
-		"meaning": "Shinto shrine",
-		"furigana": "じんじゃ",
-		"romaji": "jinja",
-		"level": 4
-	},
-	{
-		"word": "食料品",
-		"meaning": "groceries",
-		"furigana": "しょくりょうひん",
-		"romaji": "shokuryōhin",
-		"level": 4
-	},
-	{
-		"word": "丁寧",
-		"meaning": "polite",
-		"furigana": "ていねい",
-		"romaji": "teinei",
-		"level": 4
-	},
-	{
-		"word": "規則",
-		"meaning": "regulations",
-		"furigana": "きそく",
-		"romaji": "kisoku",
-		"level": 4
-	},
-	{
-		"word": "もうすぐ",
-		"meaning": "soon",
-		"furigana": "",
-		"romaji": "mōsugu",
-		"level": 4
-	},
-	{
-		"word": "絹",
-		"meaning": "silk",
-		"furigana": "きぬ",
-		"romaji": "kinu",
-		"level": 4
-	},
-	{
-		"word": "怒る",
-		"meaning": "to get angry, to be angry",
-		"furigana": "おこる",
-		"romaji": "okoru",
-		"level": 4
-	},
-	{
-		"word": "用",
-		"meaning": "use",
-		"furigana": "よう",
-		"romaji": "yō",
-		"level": 4
-	},
-	{
-		"word": "致す",
-		"meaning": "(humble) to do",
-		"furigana": "いたす",
-		"romaji": "itasu",
-		"level": 4
-	},
-	{
-		"word": "海岸",
-		"meaning": "coast",
-		"furigana": "かいがん",
-		"romaji": "kaigan",
-		"level": 4
-	},
-	{
-		"word": "経済",
-		"meaning": "finance, economy",
-		"furigana": "けいざい",
-		"romaji": "keizai",
-		"level": 4
-	},
-	{
-		"word": "以上",
-		"meaning": "more than, this is all",
-		"furigana": "いじょう",
-		"romaji": "ijō",
-		"level": 4
-	},
-	{
-		"word": "掛ける",
-		"meaning": "to hang something",
-		"furigana": "かける",
-		"romaji": "kakeru",
-		"level": 4
-	},
-	{
-		"word": "届ける",
-		"meaning": "to reach",
-		"furigana": "とどける",
-		"romaji": "todokeru",
-		"level": 4
-	},
-	{
-		"word": "適当",
-		"meaning": "suitability",
-		"furigana": "てきとう",
-		"romaji": "tekitō",
-		"level": 4
-	},
-	{
-		"word": "祖父",
-		"meaning": "grandfather",
-		"furigana": "そふ",
-		"romaji": "sofu",
-		"level": 4
-	},
-	{
-		"word": "研究室",
-		"meaning": "study room, laboratory",
-		"furigana": "けんきゅうしつ",
-		"romaji": "kenkyūshitsu",
-		"level": 4
-	},
-	{
-		"word": "文学",
-		"meaning": "literature",
-		"furigana": "ぶんがく",
-		"romaji": "bungaku",
-		"level": 4
-	},
-	{
-		"word": "生きる",
-		"meaning": "to live",
-		"furigana": "いきる",
-		"romaji": "ikiru",
-		"level": 4
-	},
-	{
-		"word": "それほど",
-		"meaning": "to that extent",
-		"furigana": "",
-		"romaji": "sorehodo",
-		"level": 4
-	},
-	{
-		"word": "うまい",
-		"meaning": "delicious",
-		"furigana": "",
-		"romaji": "umai",
-		"level": 4
-	},
-	{
-		"word": "ずいぶん",
-		"meaning": "extremely",
-		"furigana": "",
-		"romaji": "zuibun",
-		"level": 4
-	},
-	{
-		"word": "お・金持ち",
-		"meaning": "rich man",
-		"furigana": "かねもち / おかねもち",
-		"romaji": "kanemochi / okanemochi",
-		"level": 4
-	},
-	{
-		"word": "続く",
-		"meaning": "to be continued",
-		"furigana": "つづく",
-		"romaji": "tsuzuku",
-		"level": 4
-	},
-	{
-		"word": "受付",
-		"meaning": "receipt",
-		"furigana": "うけつけ",
-		"romaji": "uketsuke",
-		"level": 4
-	},
-	{
-		"word": "代わり",
-		"meaning": "substitute, alternate",
-		"furigana": "かわり",
-		"romaji": "kawari",
-		"level": 4
-	},
-	{
-		"word": "残る",
-		"meaning": "to remain",
-		"furigana": "のこる",
-		"romaji": "nokoru",
-		"level": 4
-	},
-	{
-		"word": "世話",
-		"meaning": "to look after",
-		"furigana": "せわ・する",
-		"romaji": "sewa-suru",
-		"level": 4
-	},
-	{
-		"word": "スーツケース",
-		"meaning": "suitcase",
-		"furigana": "",
-		"romaji": "sūtsukēsu",
-		"level": 4
-	},
-	{
-		"word": "くれる",
-		"meaning": "to give",
-		"furigana": "",
-		"romaji": "kureru",
-		"level": 4
-	},
-	{
-		"word": "会話",
-		"meaning": "conversation",
-		"furigana": "かいわ",
-		"romaji": "kaiwa",
-		"level": 4
-	},
-	{
-		"word": "向かう",
-		"meaning": "to face",
-		"furigana": "むかう",
-		"romaji": "mukau",
-		"level": 4
-	},
-	{
-		"word": "増える",
-		"meaning": "to increase",
-		"furigana": "ふえる",
-		"romaji": "fueru",
-		"level": 4
-	},
-	{
-		"word": "紹介",
-		"meaning": "introduction",
-		"furigana": "しょうかい",
-		"romaji": "shōkai",
-		"level": 4
-	},
-	{
-		"word": "だから",
-		"meaning": "so, therefore",
-		"furigana": "",
-		"romaji": "dakara",
-		"level": 4
-	},
-	{
-		"word": "季節",
-		"meaning": "season",
-		"furigana": "きせつ",
-		"romaji": "kisetsu",
-		"level": 4
-	},
-	{
-		"word": "そんなに",
-		"meaning": "so much, like that",
-		"furigana": "",
-		"romaji": "sonnani",
-		"level": 4
-	},
-	{
-		"word": "このあいだ",
-		"meaning": "the other day, recently",
-		"furigana": "",
-		"romaji": "konoaida",
-		"level": 4
-	},
-	{
-		"word": "虫",
-		"meaning": "insect",
-		"furigana": "むし",
-		"romaji": "mushi",
-		"level": 4
-	},
-	{
-		"word": "祖母",
-		"meaning": "grandmother",
-		"furigana": "そぼ",
-		"romaji": "sobo",
-		"level": 4
-	},
-	{
-		"word": "いらっしゃる",
-		"meaning": "(respectful) to be, to come or to go",
-		"furigana": "",
-		"romaji": "irassharu",
-		"level": 4
-	},
-	{
-		"word": "変",
-		"meaning": "strange",
-		"furigana": "へん",
-		"romaji": "hen",
-		"level": 4
-	},
-	{
-		"word": "ぶどう",
-		"meaning": "grapes",
-		"furigana": "",
-		"romaji": "budō",
-		"level": 4
-	},
-	{
-		"word": "直す",
-		"meaning": "to fix, to repair",
-		"furigana": "なおす",
-		"romaji": "naosu",
-		"level": 4
-	},
-	{
-		"word": "世界",
-		"meaning": "the world",
-		"furigana": "せかい",
-		"romaji": "sekai",
-		"level": 4
-	},
-	{
-		"word": "食事",
-		"meaning": "to have a meal",
-		"furigana": "しょくじ・する",
-		"romaji": "shokuji-suru",
-		"level": 4
-	},
-	{
-		"word": "うそ",
-		"meaning": "a lie",
-		"furigana": "",
-		"romaji": "uso",
-		"level": 4
-	},
-	{
-		"word": "合う",
-		"meaning": "to match",
-		"furigana": "あう",
-		"romaji": "au",
-		"level": 4
-	},
-	{
-		"word": "小鳥",
-		"meaning": "small bird",
-		"furigana": "ことり",
-		"romaji": "kotori",
-		"level": 4
-	},
-	{
-		"word": "電報",
-		"meaning": "telegram",
-		"furigana": "でんぽう",
-		"romaji": "denpō",
-		"level": 4
-	},
-	{
-		"word": "星",
-		"meaning": "star",
-		"furigana": "ほし",
-		"romaji": "hoshi",
-		"level": 4
-	},
-	{
-		"word": "申す",
-		"meaning": "(humble) to be called, to say",
-		"furigana": "もうす",
-		"romaji": "mōsu",
-		"level": 4
-	},
-	{
-		"word": "失敗",
-		"meaning": "failure, mistake",
-		"furigana": "しっぱい",
-		"romaji": "shippai",
-		"level": 4
-	},
-	{
-		"word": "汽車",
-		"meaning": "steam train",
-		"furigana": "きしゃ",
-		"romaji": "kisha",
-		"level": 4
-	},
-	{
-		"word": "下宿",
-		"meaning": "lodging",
-		"furigana": "げしゅく",
-		"romaji": "geshuku",
-		"level": 4
-	},
-	{
-		"word": "思う",
-		"meaning": "to think, to feel",
-		"furigana": "おもう",
-		"romaji": "omō",
-		"level": 4
-	},
-	{
-		"word": "機会",
-		"meaning": "opportunity",
-		"furigana": "きかい",
-		"romaji": "kikai",
-		"level": 4
-	},
-	{
-		"word": "皆",
-		"meaning": "everybody",
-		"furigana": "みな",
-		"romaji": "mina",
-		"level": 4
-	},
-	{
-		"word": "苦い",
-		"meaning": "bitter",
-		"furigana": "にがい",
-		"romaji": "nigai",
-		"level": 4
-	},
-	{
-		"word": "特に",
-		"meaning": "particularly, especially",
-		"furigana": "とくに",
-		"romaji": "tokuni",
-		"level": 4
-	},
-	{
-		"word": "乾く",
-		"meaning": "to get dry",
-		"furigana": "かわく",
-		"romaji": "kawaku",
-		"level": 4
-	},
-	{
-		"word": "葉",
-		"meaning": "leaf",
-		"furigana": "は",
-		"romaji": "ha",
-		"level": 4
-	},
-	{
-		"word": "かっこう",
-		"meaning": "appearance",
-		"furigana": "",
-		"romaji": "kakkō",
-		"level": 4
-	},
-	{
-		"word": "昼休み",
-		"meaning": "noon break",
-		"furigana": "ひるやすみ",
-		"romaji": "hiruyasumi",
-		"level": 4
-	},
-	{
-		"word": "以下",
-		"meaning": "less than",
-		"furigana": "いか",
-		"romaji": "ika",
-		"level": 4
-	},
-	{
-		"word": "彼ら",
-		"meaning": "they",
-		"furigana": "かれら",
-		"romaji": "karera",
-		"level": 4
-	},
-	{
-		"word": "寄る",
-		"meaning": "to visit",
-		"furigana": "よる",
-		"romaji": "yoru",
-		"level": 4
-	},
-	{
-		"word": "字",
-		"meaning": "character",
-		"furigana": "じ",
-		"romaji": "ji",
-		"level": 4
-	},
-	{
-		"word": "厳しい",
-		"meaning": "strict",
-		"furigana": "きびしい",
-		"romaji": "kibishii",
-		"level": 4
-	},
-	{
-		"word": "優しい",
-		"meaning": "kind",
-		"furigana": "やさしい",
-		"romaji": "yasashii",
-		"level": 4
-	},
-	{
-		"word": "たいてい",
-		"meaning": "usually",
-		"furigana": "",
-		"romaji": "taitei",
-		"level": 4
-	},
-	{
-		"word": "花見",
-		"meaning": "cherry-blossom viewing",
-		"furigana": "はなみ",
-		"romaji": "hanami",
-		"level": 4
-	},
-	{
-		"word": "注射",
-		"meaning": "injection",
-		"furigana": "ちゅうしゃ",
-		"romaji": "chūsha",
-		"level": 4
-	},
-	{
-		"word": "大分",
-		"meaning": "greatly",
-		"furigana": "だいぶ",
-		"romaji": "daibu",
-		"level": 4
-	},
-	{
-		"word": "ベル",
-		"meaning": "bell",
-		"furigana": "",
-		"romaji": "beru",
-		"level": 4
-	},
-	{
-		"word": "景色",
-		"meaning": "scene, landscape",
-		"furigana": "けしき",
-		"romaji": "keshiki",
-		"level": 4
-	},
-	{
-		"word": "しかる",
-		"meaning": "a particular",
-		"furigana": "",
-		"romaji": "shikaru",
-		"level": 4
-	},
-	{
-		"word": "日記",
-		"meaning": "journal",
-		"furigana": "にっき",
-		"romaji": "nikki",
-		"level": 4
-	},
-	{
-		"word": "お礼",
-		"meaning": "expression of gratitude",
-		"furigana": "おれい",
-		"romaji": "orei",
-		"level": 4
-	},
-	{
-		"word": "集る",
-		"meaning": "to gather",
-		"furigana": "あつまる",
-		"romaji": "atsumaru",
-		"level": 4
-	},
-	{
-		"word": "大体",
-		"meaning": "generally",
-		"furigana": "だいたい",
-		"romaji": "daitai",
-		"level": 4
-	},
-	{
-		"word": "なるほど",
-		"meaning": "now I understand",
-		"furigana": "",
-		"romaji": "naruhodo",
-		"level": 4
-	},
-	{
-		"word": "公務員",
-		"meaning": "government worker",
-		"furigana": "こうむいん",
-		"romaji": "kōmuin",
-		"level": 4
-	},
-	{
-		"word": "警察",
-		"meaning": "police",
-		"furigana": "けいさつ",
-		"romaji": "keisatsu",
-		"level": 4
-	},
-	{
-		"word": "空気",
-		"meaning": "air, atmosphere",
-		"furigana": "くうき",
-		"romaji": "kūki",
-		"level": 4
-	},
-	{
-		"word": "周り",
-		"meaning": "surroundings",
-		"furigana": "まわり",
-		"romaji": "mawari",
-		"level": 4
-	},
-	{
-		"word": "汚れる",
-		"meaning": "to get dirty",
-		"furigana": "よごれる",
-		"romaji": "yogoreru",
-		"level": 4
-	},
-	{
-		"word": "約束",
-		"meaning": "promise",
-		"furigana": "やくそく",
-		"romaji": "yakusoku",
-		"level": 4
-	},
-	{
-		"word": "砂",
-		"meaning": "sand",
-		"furigana": "すな",
-		"romaji": "suna",
-		"level": 4
-	},
-	{
-		"word": "笑う",
-		"meaning": "to laugh, to smile",
-		"furigana": "わらう",
-		"romaji": "warau",
-		"level": 4
-	},
-	{
-		"word": "しっかり",
-		"meaning": "firmly, steadily",
-		"furigana": "",
-		"romaji": "shikkari",
-		"level": 4
-	},
-	{
-		"word": "住所",
-		"meaning": "an address, a residence",
-		"furigana": "じゅうしょ",
-		"romaji": "jūsho",
-		"level": 4
-	},
-	{
-		"word": "すり",
-		"meaning": "pickpocket",
-		"furigana": "",
-		"romaji": "suri",
-		"level": 4
-	},
-	{
-		"word": "注意",
-		"meaning": "caution",
-		"furigana": "ちゅうい",
-		"romaji": "chūi",
-		"level": 4
-	},
-	{
-		"word": "仕方",
-		"meaning": "method",
-		"furigana": "しかた",
-		"romaji": "shikata",
-		"level": 4
-	},
-	{
-		"word": "無理",
-		"meaning": "impossible",
-		"furigana": "むり",
-		"romaji": "muri",
-		"level": 4
-	},
-	{
-		"word": "触る",
-		"meaning": "to touch",
-		"furigana": "さわる",
-		"romaji": "sawaru",
-		"level": 4
-	},
-	{
-		"word": "押し入れ",
-		"meaning": "closet",
-		"furigana": "おしいれ",
-		"romaji": "oshiire",
-		"level": 4
-	},
-	{
-		"word": "さ来月",
-		"meaning": "the month after next",
-		"furigana": "さらいげつ",
-		"romaji": "saraigetsu",
-		"level": 4
-	},
-	{
-		"word": "ビル",
-		"meaning": "building or bill",
-		"furigana": "",
-		"romaji": "biru",
-		"level": 4
-	},
-	{
-		"word": "歯医者",
-		"meaning": "dentist",
-		"furigana": "はいしゃ",
-		"romaji": "haisha",
-		"level": 4
-	},
-	{
-		"word": "知らせる",
-		"meaning": "to notify",
-		"furigana": "しらせる",
-		"romaji": "shiraseru",
-		"level": 4
-	},
-	{
-		"word": "点",
-		"meaning": "point, dot",
-		"furigana": "てん",
-		"romaji": "ten",
-		"level": 4
-	},
-	{
-		"word": "予定",
-		"meaning": "arrangement",
-		"furigana": "よてい",
-		"romaji": "yotei",
-		"level": 4
-	},
-	{
-		"word": "火事",
-		"meaning": "fire",
-		"furigana": "かじ",
-		"romaji": "kaji",
-		"level": 4
-	},
-	{
-		"word": "出席",
-		"meaning": "to attend",
-		"furigana": "しゅっせき・する",
-		"romaji": "shusseki-suru",
-		"level": 4
-	},
-	{
-		"word": "壁",
-		"meaning": "wall",
-		"furigana": "かべ",
-		"romaji": "kabe",
-		"level": 4
-	},
-	{
-		"word": "植える",
-		"meaning": "to plant, to grow",
-		"furigana": "うえる",
-		"romaji": "ueru",
-		"level": 4
-	},
-	{
-		"word": "生産",
-		"meaning": "to produce",
-		"furigana": "せいさん・する",
-		"romaji": "seisan-suru",
-		"level": 4
-	},
-	{
-		"word": "法律",
-		"meaning": "law",
-		"furigana": "ほうりつ",
-		"romaji": "hōritsu",
-		"level": 4
-	},
-	{
-		"word": "見つかる",
-		"meaning": "to be discovered",
-		"furigana": "みつかる",
-		"romaji": "mitsukaru",
-		"level": 4
-	},
-	{
-		"word": "港",
-		"meaning": "harbour",
-		"furigana": "みなと",
-		"romaji": "minato",
-		"level": 4
-	},
-	{
-		"word": "連れる",
-		"meaning": "to lead",
-		"furigana": "つれる",
-		"romaji": "tsureru",
-		"level": 4
-	},
-	{
-		"word": "見つける",
-		"meaning": "to discover",
-		"furigana": "みつける",
-		"romaji": "mitsukeru",
-		"level": 4
-	},
-	{
-		"word": "辞典",
-		"meaning": "dictionary",
-		"furigana": "じてん",
-		"romaji": "jiten",
-		"level": 4
-	},
-	{
-		"word": "乗り換える",
-		"meaning": "to change between buses or trains",
-		"furigana": "のりかえる",
-		"romaji": "norikaeru",
-		"level": 4
-	},
-	{
-		"word": "役に立つ",
-		"meaning": "to be helpful",
-		"furigana": "やくにたつ",
-		"romaji": "yakunitatsu",
-		"level": 4
-	},
-	{
-		"word": "写す",
-		"meaning": "to copy or photograph",
-		"furigana": "うつす",
-		"romaji": "utsusu",
-		"level": 4
-	},
-	{
-		"word": "理由",
-		"meaning": "reason",
-		"furigana": "りゆう",
-		"romaji": "riyū",
-		"level": 4
-	},
-	{
-		"word": "たまに",
-		"meaning": "occasionally",
-		"furigana": "",
-		"romaji": "tamani",
-		"level": 4
-	},
-	{
-		"word": "プレゼント",
-		"meaning": "present",
-		"furigana": "",
-		"romaji": "purezento",
-		"level": 4
-	},
-	{
-		"word": "いっぱい",
-		"meaning": "full",
-		"furigana": "",
-		"romaji": "ippai",
-		"level": 4
-	},
-	{
-		"word": "運動",
-		"meaning": "to exercise",
-		"furigana": "うんどう・する",
-		"romaji": "undō-suru",
-		"level": 4
-	},
-	{
-		"word": "見える",
-		"meaning": "to be in sight",
-		"furigana": "みえる",
-		"romaji": "mieru",
-		"level": 4
-	},
-	{
-		"word": "申し上げる",
-		"meaning": "(humble) to say, to tell",
-		"furigana": "もうしあげる",
-		"romaji": "mōshiageru",
-		"level": 4
-	},
-	{
-		"word": "冷える",
-		"meaning": "to grow cold",
-		"furigana": "ひえる",
-		"romaji": "hieru",
-		"level": 4
-	},
-	{
-		"word": "痩せる",
-		"meaning": "to become thin",
-		"furigana": "やせる",
-		"romaji": "yaseru",
-		"level": 4
-	},
-	{
-		"word": "屋上",
-		"meaning": "rooftop",
-		"furigana": "おくじょう",
-		"romaji": "okujō",
-		"level": 4
-	},
-	{
-		"word": "ステレオ",
-		"meaning": "stereo",
-		"furigana": "",
-		"romaji": "sutereo",
-		"level": 4
-	},
-	{
-		"word": "そう",
-		"meaning": "really",
-		"furigana": "",
-		"romaji": "sō",
-		"level": 4
-	},
-	{
-		"word": "お土産",
-		"meaning": "souvenir",
-		"furigana": "おみやげ",
-		"romaji": "omiyage",
-		"level": 4
-	},
-	{
-		"word": "泥棒",
-		"meaning": "thief",
-		"furigana": "どろぼう",
-		"romaji": "dorobō",
-		"level": 4
-	},
-	{
-		"word": "お祭り",
-		"meaning": "festival",
-		"furigana": "おまつり",
-		"romaji": "omatsuri",
-		"level": 4
-	},
-	{
-		"word": "浅い",
-		"meaning": "shallow, superficial",
-		"furigana": "あさい",
-		"romaji": "asai",
-		"level": 4
-	},
-	{
-		"word": "お見舞い",
-		"meaning": "calling on someone who is ill, enquiry",
-		"furigana": "おみまい",
-		"romaji": "omimai",
-		"level": 4
-	},
-	{
-		"word": "アルバイト",
-		"meaning": "part-time job",
-		"furigana": "",
-		"romaji": "arubaito",
-		"level": 4
-	},
-	{
-		"word": "おつり",
-		"meaning": "change from purchase, balance",
-		"furigana": "",
-		"romaji": "otsuri",
-		"level": 4
-	},
-	{
-		"word": "輸入",
-		"meaning": "to import",
-		"furigana": "ゆにゅう・する",
-		"romaji": "yunyū-suru",
-		"level": 4
-	},
-	{
-		"word": "人口",
-		"meaning": "population",
-		"furigana": "じんこう",
-		"romaji": "jinkō",
-		"level": 4
-	},
-	{
-		"word": "興味",
-		"meaning": "an interest",
-		"furigana": "きょうみ",
-		"romaji": "kyōmi",
-		"level": 4
-	},
-	{
-		"word": "時代",
-		"meaning": "era",
-		"furigana": "じだい",
-		"romaji": "jidai",
-		"level": 4
-	},
-	{
-		"word": "特急",
-		"meaning": "limited express train (faster than an express train)",
-		"furigana": "とっきゅう",
-		"romaji": "tokkyū",
-		"level": 4
-	},
-	{
-		"word": "腕",
-		"meaning": "arm",
-		"furigana": "うで",
-		"romaji": "ude",
-		"level": 4
-	},
-	{
-		"word": "気分",
-		"meaning": "mood",
-		"furigana": "きぶん",
-		"romaji": "kibun",
-		"level": 4
-	},
-	{
-		"word": "上る",
-		"meaning": "to rise",
-		"furigana": "あがる",
-		"romaji": "agaru",
-		"level": 4
-	},
-	{
-		"word": "いただく",
-		"meaning": "(humble) to receive",
-		"furigana": "",
-		"romaji": "itadaku",
-		"level": 4
-	},
-	{
-		"word": "泊まる",
-		"meaning": "to lodge at",
-		"furigana": "とまる",
-		"romaji": "tomaru",
-		"level": 4
-	},
-	{
-		"word": "盗む",
-		"meaning": "to steal",
-		"furigana": "ぬすむ",
-		"romaji": "nusumu",
-		"level": 4
-	},
-	{
-		"word": "ひげ",
-		"meaning": "beard",
-		"furigana": "",
-		"romaji": "hige",
-		"level": 4
-	},
-	{
-		"word": "坂",
-		"meaning": "slope, hill",
-		"furigana": "さか",
-		"romaji": "saka",
-		"level": 4
-	},
-	{
-		"word": "よろしい",
-		"meaning": "(respectful) OK, all right",
-		"furigana": "",
-		"romaji": "yoroshii",
-		"level": 4
-	},
-	{
-		"word": "技術",
-		"meaning": "art, technology, skill",
-		"furigana": "ぎじゅつ",
-		"romaji": "gijutsu",
-		"level": 4
-	},
-	{
-		"word": "為",
-		"meaning": "in order to",
-		"furigana": "ため",
-		"romaji": "tame",
-		"level": 4
-	},
-	{
-		"word": "小説",
-		"meaning": "novel",
-		"furigana": "しょうせつ",
-		"romaji": "shōsetsu",
-		"level": 4
-	},
-	{
-		"word": "調べる",
-		"meaning": "to investigate",
-		"furigana": "しらべる",
-		"romaji": "shiraberu",
-		"level": 4
-	},
-	{
-		"word": "趣味",
-		"meaning": "hobby",
-		"furigana": "しゅみ",
-		"romaji": "shumi",
-		"level": 4
-	},
-	{
-		"word": "運転手",
-		"meaning": "driver",
-		"furigana": "うんてんしゅ",
-		"romaji": "untenshu",
-		"level": 4
-	},
-	{
-		"word": "深い",
-		"meaning": "deep",
-		"furigana": "ふかい",
-		"romaji": "fukai",
-		"level": 4
-	},
-	{
-		"word": "林",
-		"meaning": "woods, forester",
-		"furigana": "はやし",
-		"romaji": "hayashi",
-		"level": 4
-	},
-	{
-		"word": "小学校",
-		"meaning": "elementary school",
-		"furigana": "しょうがっこう",
-		"romaji": "shōgakkō",
-		"level": 4
-	},
-	{
-		"word": "まず",
-		"meaning": "first of all",
-		"furigana": "",
-		"romaji": "mazu",
-		"level": 4
-	},
-	{
-		"word": "気持ち",
-		"meaning": "feeling, mood",
-		"furigana": "きもち",
-		"romaji": "kimochi",
-		"level": 4
-	},
-	{
-		"word": "思い出す",
-		"meaning": "to remember",
-		"furigana": "おもいだす",
-		"romaji": "omoidasu",
-		"level": 4
-	},
-	{
-		"word": "留守",
-		"meaning": "absence",
-		"furigana": "るす",
-		"romaji": "rusu",
-		"level": 4
-	},
-	{
-		"word": "続ける",
-		"meaning": "to continue",
-		"furigana": "つづける",
-		"romaji": "tsuzukeru",
-		"level": 4
-	},
-	{
-		"word": "草",
-		"meaning": "grass",
-		"furigana": "くさ",
-		"romaji": "kusa",
-		"level": 4
-	},
-	{
-		"word": "途中",
-		"meaning": "on the way",
-		"furigana": "とちゅう",
-		"romaji": "tochū",
-		"level": 4
-	},
-	{
-		"word": "できるだけ",
-		"meaning": "as much as possible",
-		"furigana": "",
-		"romaji": "dekirudake",
-		"level": 4
-	},
-	{
-		"word": "お宅",
-		"meaning": "(polite) your house",
-		"furigana": "おたく",
-		"romaji": "otaku",
-		"level": 4
-	},
-	{
-		"word": "召し上がる",
-		"meaning": "(polite) to eat",
-		"furigana": "めしあがる",
-		"romaji": "meshiagaru",
-		"level": 4
-	},
-	{
-		"word": "悲しい",
-		"meaning": "sad",
-		"furigana": "かなしい",
-		"romaji": "kanashii",
-		"level": 4
-	},
-	{
-		"word": "子",
-		"meaning": "child",
-		"furigana": "こ",
-		"romaji": "ko",
-		"level": 4
-	},
-	{
-		"word": "運転",
-		"meaning": "to drive",
-		"furigana": "うんてん・する",
-		"romaji": "unten-suru",
-		"level": 4
-	},
-	{
-		"word": "はっきり",
-		"meaning": "clearly",
-		"furigana": "",
-		"romaji": "hakkiri",
-		"level": 4
-	},
-	{
-		"word": "折る",
-		"meaning": "to break or to fold",
-		"furigana": "おる",
-		"romaji": "oru",
-		"level": 4
-	},
-	{
-		"word": "今度",
-		"meaning": "now, next time",
-		"furigana": "こんど",
-		"romaji": "kondo",
-		"level": 4
-	},
-	{
-		"word": "アフリカ",
-		"meaning": "Africa",
-		"furigana": "",
-		"romaji": "afurika",
-		"level": 4
-	},
-	{
-		"word": "壊れる",
-		"meaning": "to be broken",
-		"furigana": "こわれる",
-		"romaji": "kowareru",
-		"level": 4
-	},
-	{
-		"word": "番組",
-		"meaning": "television or radio program",
-		"furigana": "ばんぐみ",
-		"romaji": "bangumi",
-		"level": 4
-	},
-	{
-		"word": "捕まえる",
-		"meaning": "to seize",
-		"furigana": "つかまえる",
-		"romaji": "tsukamaeru",
-		"level": 4
-	},
-	{
-		"word": "タイプ",
-		"meaning": "type, style",
-		"furigana": "",
-		"romaji": "taipu",
-		"level": 4
-	},
-	{
-		"word": "毛",
-		"meaning": "hair or fur",
-		"furigana": "け",
-		"romaji": "ke",
-		"level": 4
-	},
-	{
-		"word": "落る",
-		"meaning": "to fall or drop",
-		"furigana": "おちる",
-		"romaji": "ochiru",
-		"level": 4
-	},
-	{
-		"word": "場合",
-		"meaning": "situation",
-		"furigana": "ばあい",
-		"romaji": "baai",
-		"level": 4
-	},
-	{
-		"word": "意見",
-		"meaning": "opinion",
-		"furigana": "いけん",
-		"romaji": "iken",
-		"level": 4
-	},
-	{
-		"word": "通る",
-		"meaning": "to go through",
-		"furigana": "とおる",
-		"romaji": "tōru",
-		"level": 4
-	},
-	{
-		"word": "着物",
-		"meaning": "kimono",
-		"furigana": "きもの",
-		"romaji": "kimono",
-		"level": 4
-	},
-	{
-		"word": "森",
-		"meaning": "forest",
-		"furigana": "もり",
-		"romaji": "mori",
-		"level": 4
-	},
-	{
-		"word": "市",
-		"meaning": "city",
-		"furigana": "し",
-		"romaji": "shi",
-		"level": 4
-	},
-	{
-		"word": "ほど",
-		"meaning": "extent",
-		"furigana": "",
-		"romaji": "hodo",
-		"level": 4
-	},
-	{
-		"word": "入院",
-		"meaning": "to hospitalise",
-		"furigana": "にゅういん・する",
-		"romaji": "nyūin-suru",
-		"level": 4
-	},
-	{
-		"word": "カーテン",
-		"meaning": "curtain",
-		"furigana": "",
-		"romaji": "kāten",
-		"level": 4
-	},
-	{
-		"word": "動く",
-		"meaning": "to move",
-		"furigana": "うごく",
-		"romaji": "ugoku",
-		"level": 4
-	},
-	{
-		"word": "ぜひ",
-		"meaning": "without fail",
-		"furigana": "",
-		"romaji": "zehi",
-		"level": 4
-	},
-	{
-		"word": "すばらしい",
-		"meaning": "wonderful",
-		"furigana": "",
-		"romaji": "subarashii",
-		"level": 4
-	},
-	{
-		"word": "参る",
-		"meaning": "(humble) to go, to come",
-		"furigana": "まいる",
-		"romaji": "mairu",
-		"level": 4
-	},
-	{
-		"word": "ねっしん",
-		"meaning": "enthusiasm",
-		"furigana": "",
-		"romaji": "nesshin",
-		"level": 4
-	},
-	{
-		"word": "講堂",
-		"meaning": "auditorium",
-		"furigana": "こうどう",
-		"romaji": "kōdō",
-		"level": 4
-	},
-	{
-		"word": "もし",
-		"meaning": "if",
-		"furigana": "",
-		"romaji": "moshi",
-		"level": 4
-	},
-	{
-		"word": "ぬれる",
-		"meaning": "to get wet",
-		"furigana": "",
-		"romaji": "nureru",
-		"level": 4
-	},
-	{
-		"word": "非常に",
-		"meaning": "extremely",
-		"furigana": "ひじょうに",
-		"romaji": "hijōni",
-		"level": 4
-	},
-	{
-		"word": "文法",
-		"meaning": "grammar",
-		"furigana": "ぶんぽう",
-		"romaji": "bunpō",
-		"level": 4
-	},
-	{
-		"word": "表",
-		"meaning": "the front",
-		"furigana": "おもて",
-		"romaji": "omote",
-		"level": 4
-	},
-	{
-		"word": "おっしゃる",
-		"meaning": "(respectful) to say",
-		"furigana": "",
-		"romaji": "ossharu",
-		"level": 4
-	},
-	{
-		"word": "西洋",
-		"meaning": "western countries",
-		"furigana": "せいよう",
-		"romaji": "seiyō",
-		"level": 4
-	},
-	{
-		"word": "両方",
-		"meaning": "both sides",
-		"furigana": "りょうほう",
-		"romaji": "ryōhō",
-		"level": 4
-	},
-	{
-		"word": "払う",
-		"meaning": "to pay",
-		"furigana": "はらう",
-		"romaji": "harau",
-		"level": 4
-	},
-	{
-		"word": "地理",
-		"meaning": "geography",
-		"furigana": "ちり",
-		"romaji": "chiri",
-		"level": 4
-	},
-	{
-		"word": "あかちゃん",
-		"meaning": "infant",
-		"furigana": "",
-		"romaji": "akachan",
-		"level": 4
-	},
-	{
-		"word": "似る",
-		"meaning": "to be similar",
-		"furigana": "にる",
-		"romaji": "niru",
-		"level": 4
-	},
-	{
-		"word": "踊る",
-		"meaning": "to dance",
-		"furigana": "おどる",
-		"romaji": "odoru",
-		"level": 4
-	},
-	{
-		"word": "うれしい",
-		"meaning": "glad",
-		"furigana": "",
-		"romaji": "ureshii",
-		"level": 4
-	},
-	{
-		"word": "事故",
-		"meaning": "accident",
-		"furigana": "じこ",
-		"romaji": "jiko",
-		"level": 4
-	},
-	{
-		"word": "さっき",
-		"meaning": "some time ago",
-		"furigana": "",
-		"romaji": "sakki",
-		"level": 4
-	},
-	{
-		"word": "赤ん坊",
-		"meaning": "baby",
-		"furigana": "あかんぼう",
-		"romaji": "akanbō",
-		"level": 4
-	},
-	{
-		"word": "寂しい",
-		"meaning": "lonely",
-		"furigana": "さびしい",
-		"romaji": "sabishii",
-		"level": 4
-	},
-	{
-		"word": "複雑",
-		"meaning": "complexity, complication",
-		"furigana": "ふくざつ",
-		"romaji": "fukuzatsu",
-		"level": 4
-	},
-	{
-		"word": "眠る",
-		"meaning": "to sleep",
-		"furigana": "ねむる",
-		"romaji": "nemuru",
-		"level": 4
-	},
-	{
-		"word": "近所",
-		"meaning": "neighbourhood",
-		"furigana": "きんじょ",
-		"romaji": "kinjo",
-		"level": 4
-	},
-	{
-		"word": "ごみ",
-		"meaning": "rubbish",
-		"furigana": "",
-		"romaji": "gomi",
-		"level": 4
-	},
-	{
-		"word": "例えば",
-		"meaning": "for example",
-		"furigana": "たとえば",
-		"romaji": "tatoeba",
-		"level": 4
-	},
-	{
-		"word": "チェック・する",
-		"meaning": "to check",
-		"furigana": "",
-		"romaji": "chekku-suru",
-		"level": 4
-	},
-	{
-		"word": "御主人",
-		"meaning": "(honorable) your husband",
-		"furigana": "ごしゅじん",
-		"romaji": "goshujin",
-		"level": 4
-	},
-	{
-		"word": "テキスト",
-		"meaning": "text, text book",
-		"furigana": "",
-		"romaji": "tekisuto",
-		"level": 4
-	},
-	{
-		"word": "ごちそう",
-		"meaning": "a feast",
-		"furigana": "",
-		"romaji": "gochisō",
-		"level": 4
-	},
-	{
-		"word": "起す",
-		"meaning": "to wake",
-		"furigana": "おこす",
-		"romaji": "okosu",
-		"level": 4
-	},
-	{
-		"word": "テニス",
-		"meaning": "tennis",
-		"furigana": "",
-		"romaji": "tenisu",
-		"level": 4
-	},
-	{
-		"word": "パソコン",
-		"meaning": "personal computer",
-		"furigana": "",
-		"romaji": "pasokon",
-		"level": 4
-	},
-	{
-		"word": "研究",
-		"meaning": "research",
-		"furigana": "けんきゅう",
-		"romaji": "kenkyū",
-		"level": 4
-	},
-	{
-		"word": "聞こえる",
-		"meaning": "to be heard",
-		"furigana": "きこえる",
-		"romaji": "kikoeru",
-		"level": 4
-	},
-	{
-		"word": "間違える",
-		"meaning": "to make a mistake",
-		"furigana": "まちがえる",
-		"romaji": "machigaeru",
-		"level": 4
-	},
-	{
-		"word": "看護婦",
-		"meaning": "female nurse",
-		"furigana": "かんごふ",
-		"romaji": "kangofu",
-		"level": 4
-	},
-	{
-		"word": "会議室",
-		"meaning": "meeting room",
-		"furigana": "かいぎしつ",
-		"romaji": "kaigishitsu",
-		"level": 4
-	},
-	{
-		"word": "とこや",
-		"meaning": "barber",
-		"furigana": "",
-		"romaji": "tokoya",
-		"level": 4
-	},
-	{
-		"word": "試合",
-		"meaning": "match, game",
-		"furigana": "しあい",
-		"romaji": "shiai",
-		"level": 4
-	},
-	{
-		"word": "止む",
-		"meaning": "to stop",
-		"furigana": "やむ",
-		"romaji": "yamu",
-		"level": 4
-	},
-	{
-		"word": "のど",
-		"meaning": "throat",
-		"furigana": "",
-		"romaji": "nodo",
-		"level": 4
-	},
-	{
-		"word": "戦争",
-		"meaning": "war",
-		"furigana": "せんそう",
-		"romaji": "sensō",
-		"level": 4
-	},
-	{
-		"word": "降り出す",
-		"meaning": "to start to rain",
-		"furigana": "ふりだす",
-		"romaji": "furidasu",
-		"level": 4
-	},
-	{
-		"word": "コンピュータ / コンピューター",
-		"meaning": "computer",
-		"furigana": "",
-		"romaji": "konpyūta / konpyūtā",
-		"level": 4
-	},
-	{
-		"word": "盛ん",
-		"meaning": "popularity, prosperous",
-		"furigana": "さかん",
-		"romaji": "sakan",
-		"level": 4
-	},
-	{
-		"word": "取り替える",
-		"meaning": "to exchange",
-		"furigana": "とりかえる",
-		"romaji": "torikaeru",
-		"level": 4
-	},
-	{
-		"word": "支度",
-		"meaning": "to prepare",
-		"furigana": "したく・する",
-		"romaji": "shitaku-suru",
-		"level": 4
-	},
-	{
-		"word": "社会",
-		"meaning": "society, public",
-		"furigana": "しゃかい",
-		"romaji": "shakai",
-		"level": 4
-	},
-	{
-		"word": "沸く",
-		"meaning": "to boil, to grow hot, to get excited",
-		"furigana": "わく",
-		"romaji": "waku",
-		"level": 4
-	},
-	{
-		"word": "ちっとも",
-		"meaning": "not at all (used with a negative verb)",
-		"furigana": "",
-		"romaji": "chittomo",
-		"level": 4
-	},
-	{
-		"word": "おかげ",
-		"meaning": "owing to",
-		"furigana": "",
-		"romaji": "okage",
-		"level": 4
-	},
-	{
-		"word": "ステーキ",
-		"meaning": "steak",
-		"furigana": "",
-		"romaji": "sutēki",
-		"level": 4
-	},
-	{
-		"word": "消しゴム",
-		"meaning": "eraser",
-		"furigana": "けしゴム",
-		"romaji": "keshigomu",
-		"level": 4
-	},
-	{
-		"word": "遠慮",
-		"meaning": "to be reserved, to be restrained",
-		"furigana": "えんりょ・する",
-		"romaji": "enryo-suru",
-		"level": 4
-	},
-	{
-		"word": "工場",
-		"meaning": "factory",
-		"furigana": "こうじょう",
-		"romaji": "kōjō",
-		"level": 4
-	},
-	{
-		"word": "僕",
-		"meaning": "I (used by males)",
-		"furigana": "ぼく",
-		"romaji": "boku",
-		"level": 4
-	},
-	{
-		"word": "招待",
-		"meaning": "to invite",
-		"furigana": "しょうたい・する",
-		"romaji": "shōtai-suru",
-		"level": 4
-	},
-	{
-		"word": "彼",
-		"meaning": "he, boyfriend",
-		"furigana": "かれ",
-		"romaji": "kare",
-		"level": 4
-	},
-	{
-		"word": "妻",
-		"meaning": "(humble) wife",
-		"furigana": "つま",
-		"romaji": "tsuma",
-		"level": 4
-	},
-	{
-		"word": "石",
-		"meaning": "stone",
-		"furigana": "いし",
-		"romaji": "ishi",
-		"level": 4
-	},
-	{
-		"word": "簡単",
-		"meaning": "simple",
-		"furigana": "かんたん",
-		"romaji": "kantan",
-		"level": 4
-	},
-	{
-		"word": "残念",
-		"meaning": "disappointment",
-		"furigana": "ざんねん",
-		"romaji": "zannen",
-		"level": 4
-	},
-	{
-		"word": "血",
-		"meaning": "blood",
-		"furigana": "ち",
-		"romaji": "chi",
-		"level": 4
-	},
-	{
-		"word": "ピアノ",
-		"meaning": "piano",
-		"furigana": "",
-		"romaji": "piano",
-		"level": 4
-	},
-	{
-		"word": "おかしい",
-		"meaning": "strange or funny",
-		"furigana": "",
-		"romaji": "okashii",
-		"level": 4
-	},
-	{
-		"word": "家内",
-		"meaning": "housewife",
-		"furigana": "かない",
-		"romaji": "kanai",
-		"level": 4
-	},
-	{
-		"word": "試験",
-		"meaning": "examination",
-		"furigana": "しけん",
-		"romaji": "shiken",
-		"level": 4
-	},
-	{
-		"word": "布団",
-		"meaning": "Japanese bedding, futon",
-		"furigana": "ふとん",
-		"romaji": "futon",
-		"level": 4
-	},
-	{
-		"word": "枝",
-		"meaning": "branch, twig",
-		"furigana": "えだ",
-		"romaji": "eda",
-		"level": 4
-	},
-	{
-		"word": "二階建て",
-		"meaning": "two storied",
-		"furigana": "にかいだて",
-		"romaji": "nikaidate",
-		"level": 4
-	},
-	{
-		"word": "大学生",
-		"meaning": "university student",
-		"furigana": "だいがくせい",
-		"romaji": "daigakusei",
-		"level": 4
-	},
-	{
-		"word": "楽む",
-		"meaning": "to enjoy oneself",
-		"furigana": "たのしむ",
-		"romaji": "tanoshimu",
-		"level": 4
-	},
-	{
-		"word": "遠く",
-		"meaning": "distant",
-		"furigana": "とおく",
-		"romaji": "tōku",
-		"level": 4
-	},
-	{
-		"word": "今夜",
-		"meaning": "tonight",
-		"furigana": "こんや",
-		"romaji": "kon'ya",
-		"level": 4
-	},
-	{
-		"word": "決める",
-		"meaning": "to decide",
-		"furigana": "きめる",
-		"romaji": "kimeru",
-		"level": 4
-	},
-	{
-		"word": "なるべく",
-		"meaning": "as much as possible",
-		"furigana": "",
-		"romaji": "narubeku",
-		"level": 4
-	},
-	{
-		"word": "引き出す",
-		"meaning": "to withdraw",
-		"furigana": "ひきだす",
-		"romaji": "hikidasu",
-		"level": 4
-	},
-	{
-		"word": "明日",
-		"meaning": "tomorrow",
-		"furigana": "あす",
-		"romaji": "asu",
-		"level": 4
-	},
-	{
-		"word": "割れる",
-		"meaning": "to break",
-		"furigana": "われる",
-		"romaji": "wareru",
-		"level": 4
-	},
-	{
-		"word": "田舎",
-		"meaning": "countryside",
-		"furigana": "いなか",
-		"romaji": "inaka",
-		"level": 4
-	},
-	{
-		"word": "寺",
-		"meaning": "temple",
-		"furigana": "てら",
-		"romaji": "tera",
-		"level": 4
-	},
-	{
-		"word": "釣る",
-		"meaning": "to fish",
-		"furigana": "つる",
-		"romaji": "tsuru",
-		"level": 4
-	},
-	{
-		"word": "建てる",
-		"meaning": "to build",
-		"furigana": "たてる",
-		"romaji": "tateru",
-		"level": 4
-	},
-	{
-		"word": "久しぶり",
-		"meaning": "after a long time",
-		"furigana": "ひさしぶり",
-		"romaji": "hisashiburi",
-		"level": 4
-	},
-	{
-		"word": "男性",
-		"meaning": "male",
-		"furigana": "だんせい",
-		"romaji": "dansei",
-		"level": 4
-	},
-	{
-		"word": "割合",
-		"meaning": "rate, ratio, percentage",
-		"furigana": "わりあい",
-		"romaji": "wariai",
-		"level": 4
-	},
-	{
-		"word": "相談",
-		"meaning": "to discuss",
-		"furigana": "そうだん・する",
-		"romaji": "sōdan-suru",
-		"level": 4
-	},
-	{
-		"word": "足す",
-		"meaning": "to add a number",
-		"furigana": "たす",
-		"romaji": "tasu",
-		"level": 4
-	},
-	{
-		"word": "社長",
-		"meaning": "company president",
-		"furigana": "しゃちょう",
-		"romaji": "shachō",
-		"level": 4
-	},
-	{
-		"word": "経験",
-		"meaning": "to experience",
-		"furigana": "けいけん・する",
-		"romaji": "keiken-suru",
-		"level": 4
-	},
-	{
-		"word": "訳",
-		"meaning": "meaning, reason",
-		"furigana": "わけ",
-		"romaji": "wake",
-		"level": 4
-	},
-	{
-		"word": "足りる",
-		"meaning": "to be enough",
-		"furigana": "たりる",
-		"romaji": "tariru",
-		"level": 4
-	},
-	{
-		"word": "味噌",
-		"meaning": "bean paste",
-		"furigana": "みそ",
-		"romaji": "miso",
-		"level": 4
-	},
-	{
-		"word": "もらう",
-		"meaning": "to receive",
-		"furigana": "",
-		"romaji": "morau",
-		"level": 4
-	},
-	{
-		"word": "どんどん",
-		"meaning": "more and more",
-		"furigana": "",
-		"romaji": "dondon",
-		"level": 4
-	},
-	{
-		"word": "工業",
-		"meaning": "the manufacturing industry",
-		"furigana": "こうぎょう",
-		"romaji": "kōgyō",
-		"level": 4
-	},
-	{
-		"word": "終わり",
-		"meaning": "the end",
-		"furigana": "おわり",
-		"romaji": "owari",
-		"level": 4
-	},
-	{
-		"word": "いじめる",
-		"meaning": "to tease",
-		"furigana": "",
-		"romaji": "ijimeru",
-		"level": 4
-	},
-	{
-		"word": "立てる",
-		"meaning": "to stand something up",
-		"furigana": "たてる",
-		"romaji": "tateru",
-		"level": 4
-	},
-	{
-		"word": "歴史",
-		"meaning": "history",
-		"furigana": "れきし",
-		"romaji": "rekishi",
-		"level": 4
-	},
-	{
-		"word": "おいでになる",
-		"meaning": "(respectful) to be",
-		"furigana": "",
-		"romaji": "oideninaru",
-		"level": 4
-	},
-	{
-		"word": "うち",
-		"meaning": "within",
-		"furigana": "",
-		"romaji": "uchi",
-		"level": 4
-	},
-	{
-		"word": "それで",
-		"meaning": "because of that",
-		"furigana": "",
-		"romaji": "sorede",
-		"level": 4
-	},
-	{
-		"word": "ワープロ",
-		"meaning": "word processor",
-		"furigana": "",
-		"romaji": "wāpuro",
-		"level": 4
-	},
-	{
-		"word": "漫画",
-		"meaning": "comic",
-		"furigana": "まんが",
-		"romaji": "manga",
-		"level": 4
-	},
-	{
-		"word": "親",
-		"meaning": "parents",
-		"furigana": "おや",
-		"romaji": "oya",
-		"level": 4
-	},
-	{
-		"word": "安全",
-		"meaning": "safety",
-		"furigana": "あんぜん",
-		"romaji": "anzen",
-		"level": 4
-	},
-	{
-		"word": "案内",
-		"meaning": "to guide",
-		"furigana": "あんない・する",
-		"romaji": "annai-suru",
-		"level": 4
-	},
-	{
-		"word": "棚",
-		"meaning": "shelves",
-		"furigana": "たな",
-		"romaji": "tana",
-		"level": 4
-	},
-	{
-		"word": "不便",
-		"meaning": "inconvenience",
-		"furigana": "ふべん",
-		"romaji": "fuben",
-		"level": 4
-	},
-	{
-		"word": "間",
-		"meaning": "a space",
-		"furigana": "あいだ",
-		"romaji": "aida",
-		"level": 4
-	},
-	{
-		"word": "恥ずかしい",
-		"meaning": "embarrassed",
-		"furigana": "はずかしい",
-		"romaji": "hazukashii",
-		"level": 4
-	},
-	{
-		"word": "打つ",
-		"meaning": "to hit",
-		"furigana": "うつ",
-		"romaji": "utsu",
-		"level": 4
-	},
-	{
-		"word": "倒れる",
-		"meaning": "to break down",
-		"furigana": "たおれる",
-		"romaji": "taoreru",
-		"level": 4
-	},
-	{
-		"word": "光",
-		"meaning": "light",
-		"furigana": "ひかり",
-		"romaji": "hikari",
-		"level": 4
-	},
-	{
-		"word": "交通",
-		"meaning": "traffic, transportation",
-		"furigana": "こうつう",
-		"romaji": "kōtsū",
-		"level": 4
-	},
-	{
-		"word": "やはり / やっぱり",
-		"meaning": "as I thought, absolutely",
-		"furigana": "",
-		"romaji": "yahari / yappari",
-		"level": 4
-	},
-	{
-		"word": "スクリーン",
-		"meaning": "screen",
-		"furigana": "",
-		"romaji": "sukurīn",
-		"level": 4
-	},
-	{
-		"word": "細かい",
-		"meaning": "small, fine",
-		"furigana": "こまかい",
-		"romaji": "komakai",
-		"level": 4
-	},
-	{
-		"word": "夫",
-		"meaning": "husband",
-		"furigana": "おっと",
-		"romaji": "otto",
-		"level": 4
-	},
-	{
-		"word": "差し上げる",
-		"meaning": "(polite) to give",
-		"furigana": "さしあげる",
-		"romaji": "sashiageru",
-		"level": 4
-	},
-	{
-		"word": "壊す",
-		"meaning": "to break",
-		"furigana": "こわす",
-		"romaji": "kowasu",
-		"level": 4
-	},
-	{
-		"word": "そんな",
-		"meaning": "that sort of",
-		"furigana": "",
-		"romaji": "sonna",
-		"level": 4
-	},
-	{
-		"word": "レジ",
-		"meaning": "register",
-		"furigana": "",
-		"romaji": "reji",
-		"level": 4
-	},
-	{
-		"word": "戻る",
-		"meaning": "to turn back",
-		"furigana": "もどる",
-		"romaji": "modoru",
-		"level": 4
-	},
-	{
-		"word": "国際",
-		"meaning": "international",
-		"furigana": "こくさい",
-		"romaji": "kokusai",
-		"level": 4
-	},
-	{
-		"word": "音",
-		"meaning": "sound, note",
-		"furigana": "おと",
-		"romaji": "oto",
-		"level": 4
-	},
-	{
-		"word": "はず",
-		"meaning": "it should be so",
-		"furigana": "",
-		"romaji": "hazu",
-		"level": 4
-	},
-	{
-		"word": "必要",
-		"meaning": "necessary",
-		"furigana": "ひつよう",
-		"romaji": "hitsuyō",
-		"level": 4
-	},
-	{
-		"word": "産業",
-		"meaning": "industry",
-		"furigana": "さんぎょう",
-		"romaji": "sangyō",
-		"level": 4
-	},
-	{
-		"word": "進む",
-		"meaning": "to make progress",
-		"furigana": "すすむ",
-		"romaji": "susumu",
-		"level": 4
-	},
-	{
-		"word": "しばらく",
-		"meaning": "little while",
-		"furigana": "",
-		"romaji": "shibaraku",
-		"level": 4
-	},
-	{
-		"word": "鏡",
-		"meaning": "mirror",
-		"furigana": "かがみ",
-		"romaji": "kagami",
-		"level": 4
-	},
-	{
-		"word": "ソフト",
-		"meaning": "soft",
-		"furigana": "",
-		"romaji": "sofuto",
-		"level": 4
-	},
-	{
-		"word": "ちゃん",
-		"meaning": "suffix for familiar female person",
-		"furigana": "",
-		"romaji": "chan",
-		"level": 4
-	},
-	{
-		"word": "日",
-		"meaning": "day, sun",
-		"furigana": "ひ",
-		"romaji": "hi",
-		"level": 4
-	},
-	{
-		"word": "珍しい",
-		"meaning": "rare",
-		"furigana": "めずらしい",
-		"romaji": "mezurashii",
-		"level": 4
-	},
-	{
-		"word": "都合",
-		"meaning": "circumstances, convenience",
-		"furigana": "つごう",
-		"romaji": "tsugō",
-		"level": 4
-	},
-	{
-		"word": "忘れ物",
-		"meaning": "lost article",
-		"furigana": "わすれもの",
-		"romaji": "wasuremono",
-		"level": 4
-	},
-	{
-		"word": "驚く",
-		"meaning": "to be surprised",
-		"furigana": "おどろく",
-		"romaji": "odoroku",
-		"level": 4
-	},
-	{
-		"word": "逃げる",
-		"meaning": "to escape",
-		"furigana": "にげる",
-		"romaji": "nigeru",
-		"level": 4
-	},
-	{
-		"word": "心",
-		"meaning": "core, heart",
-		"furigana": "こころ",
-		"romaji": "kokoro",
-		"level": 4
-	},
-	{
-		"word": "つもり",
-		"meaning": "intention",
-		"furigana": "",
-		"romaji": "tsumori",
-		"level": 4
-	},
-	{
-		"word": "中学校",
-		"meaning": "junior high school, middle school",
-		"furigana": "ちゅうがっこう",
-		"romaji": "chūgakkō",
-		"level": 4
-	},
-	{
-		"word": "隅",
-		"meaning": "corner, nook",
-		"furigana": "すみ",
-		"romaji": "sumi",
-		"level": 4
-	},
-	{
-		"word": "開く",
-		"meaning": "to open an event",
-		"furigana": "ひらく",
-		"romaji": "hiraku",
-		"level": 4
-	},
-	{
-		"word": "ジャム",
-		"meaning": "jam",
-		"furigana": "",
-		"romaji": "jamu",
-		"level": 4
-	},
-	{
-		"word": "決る",
-		"meaning": "to be decided",
-		"furigana": "きまる",
-		"romaji": "kimaru",
-		"level": 4
-	},
-	{
-		"word": "力",
-		"meaning": "strength, power",
-		"furigana": "ちから",
-		"romaji": "chikara",
-		"level": 4
-	},
-	{
-		"word": "ねだん",
-		"meaning": "price",
-		"furigana": "",
-		"romaji": "nedan",
-		"level": 4
-	},
-	{
-		"word": "太る",
-		"meaning": "to become fat",
-		"furigana": "ふとる",
-		"romaji": "futoru",
-		"level": 4
-	},
-	{
-		"word": "計画",
-		"meaning": "to plan",
-		"furigana": "けいかく・する",
-		"romaji": "keikaku-suru",
-		"level": 4
-	},
-	{
-		"word": "勝つ",
-		"meaning": "to win",
-		"furigana": "かつ",
-		"romaji": "katsu",
-		"level": 4
-	},
-	{
-		"word": "眠い",
-		"meaning": "sleepy",
-		"furigana": "ねむい",
-		"romaji": "nemui",
-		"level": 4
-	},
-	{
-		"word": "先輩",
-		"meaning": "senior",
-		"furigana": "せんぱい",
-		"romaji": "senpai",
-		"level": 4
-	},
-	{
-		"word": "翻訳",
-		"meaning": "translation",
-		"furigana": "ほんやく",
-		"romaji": "hon'yaku",
-		"level": 4
-	},
-	{
-		"word": "女性",
-		"meaning": "woman",
-		"furigana": "じょせい",
-		"romaji": "josei",
-		"level": 4
-	},
-	{
-		"word": "形",
-		"meaning": "shape",
-		"furigana": "かたち",
-		"romaji": "katachi",
-		"level": 4
-	},
-	{
-		"word": "ご存じ",
-		"meaning": "knowing, acquaintance",
-		"furigana": "ごぞんじ",
-		"romaji": "gozonji",
-		"level": 4
-	},
-	{
-		"word": "あんな",
-		"meaning": "such",
-		"furigana": "",
-		"romaji": "anna",
-		"level": 4
-	},
-	{
-		"word": "このごろ",
-		"meaning": "these days, nowadays",
-		"furigana": "",
-		"romaji": "konogoro",
-		"level": 4
-	},
-	{
-		"word": "滑る",
-		"meaning": "to slide, to slip",
-		"furigana": "すべる",
-		"romaji": "suberu",
-		"level": 4
-	},
-	{
-		"word": "沸かす",
-		"meaning": "to boil, to heat",
-		"furigana": "わかす",
-		"romaji": "wakasu",
-		"level": 4
-	},
-	{
-		"word": "移る",
-		"meaning": "to move house or transfer",
-		"furigana": "うつる",
-		"romaji": "utsuru",
-		"level": 4
-	},
-	{
-		"word": "選ぶ",
-		"meaning": "to choose",
-		"furigana": "えらぶ",
-		"romaji": "erabu",
-		"level": 4
-	},
-	{
-		"word": "高校生",
-		"meaning": "high school student",
-		"furigana": "こうこうせい",
-		"romaji": "kōkōsei",
-		"level": 4
-	},
-	{
-		"word": "さ来週",
-		"meaning": "the week after next",
-		"furigana": "さらいしゅう",
-		"romaji": "saraishū",
-		"level": 4
-	},
-	{
-		"word": "うん",
-		"meaning": "(informal) yes",
-		"furigana": "",
-		"romaji": "un",
-		"level": 4
-	},
-	{
-		"word": "帰り",
-		"meaning": "return",
-		"furigana": "かえり",
-		"romaji": "kaeri",
-		"level": 4
-	},
-	{
-		"word": "湯",
-		"meaning": "hot water",
-		"furigana": "ゆ",
-		"romaji": "yu",
-		"level": 4
-	},
-	{
-		"word": "昔",
-		"meaning": "olden days, former",
-		"furigana": "むかし",
-		"romaji": "mukashi",
-		"level": 4
-	},
-	{
-		"word": "味",
-		"meaning": "flavour",
-		"furigana": "あじ",
-		"romaji": "aji",
-		"level": 4
-	},
-	{
-		"word": "アジア",
-		"meaning": "Asia",
-		"furigana": "",
-		"romaji": "ajia",
-		"level": 4
-	},
-	{
-		"word": "人形",
-		"meaning": "doll, figure",
-		"furigana": "にんぎょう",
-		"romaji": "ningyō",
-		"level": 4
-	},
-	{
-		"word": "治る",
-		"meaning": "to be cured, to heal",
-		"furigana": "なおる",
-		"romaji": "naoru",
-		"level": 4
-	},
-	{
-		"word": "自由",
-		"meaning": "freedom",
-		"furigana": "じゆう",
-		"romaji": "jiyū",
-		"level": 4
-	},
-	{
-		"word": "パート",
-		"meaning": "part time",
-		"furigana": "",
-		"romaji": "pāto",
-		"level": 4
-	},
-	{
-		"word": "ガラス",
-		"meaning": "a glass pane",
-		"furigana": "",
-		"romaji": "garasu",
-		"level": 4
-	},
-	{
-		"word": "大事",
-		"meaning": "important, valuable, serious matter",
-		"furigana": "だいじ",
-		"romaji": "daiji",
-		"level": 4
-	},
-	{
-		"word": "遅れる",
-		"meaning": "to be late",
-		"furigana": "おくれる",
-		"romaji": "okureru",
-		"level": 4
-	},
-	{
-		"word": "会場",
-		"meaning": "assembly hall or meeting place",
-		"furigana": "かいじょう",
-		"romaji": "kaijō",
-		"level": 4
-	},
-	{
-		"word": "あげる",
-		"meaning": "to give",
-		"furigana": "",
-		"romaji": "ageru",
-		"level": 4
-	},
-	{
-		"word": "利用",
-		"meaning": "utilization",
-		"furigana": "りよう",
-		"romaji": "riyō",
-		"level": 4
-	},
-	{
-		"word": "泳ぎ方",
-		"meaning": "way of swimming",
-		"furigana": "およぎかた",
-		"romaji": "oyogikata",
-		"level": 4
-	},
-	{
-		"word": "普通",
-		"meaning": "usually, or a train that stops at every station",
-		"furigana": "ふつう",
-		"romaji": "futsū",
-		"level": 4
-	},
-	{
-		"word": "ガス",
-		"meaning": "petrol",
-		"furigana": "",
-		"romaji": "gasu",
-		"level": 4
-	},
-	{
-		"word": "必ず",
-		"meaning": "certainly, necessarily",
-		"furigana": "かならず",
-		"romaji": "kanarazu",
-		"level": 4
-	},
-	{
-		"word": "競争",
-		"meaning": "competition",
-		"furigana": "きょうそう",
-		"romaji": "kyōsō",
-		"level": 4
-	},
-	{
-		"word": "承知",
-		"meaning": "to consent",
-		"furigana": "しょうち・する",
-		"romaji": "shōchi-suru",
-		"level": 4
-	},
-	{
-		"word": "焼く",
-		"meaning": "to bake, to grill",
-		"furigana": "やく",
-		"romaji": "yaku",
-		"level": 4
-	},
-	{
-		"word": "別",
-		"meaning": "different",
-		"furigana": "べつ",
-		"romaji": "betsu",
-		"level": 4
-	},
-	{
-		"word": "過ぎる",
-		"meaning": "to exceed",
-		"furigana": "すぎる",
-		"romaji": "sugiru",
-		"level": 4
-	},
-	{
-		"word": "連絡",
-		"meaning": "contact",
-		"furigana": "れんらく",
-		"romaji": "renraku",
-		"level": 4
-	},
-	{
-		"word": "すると",
-		"meaning": "then",
-		"furigana": "",
-		"romaji": "suruto",
-		"level": 4
-	},
-	{
-		"word": "暮れる",
-		"meaning": "to get dark, to come to an end",
-		"furigana": "くれる",
-		"romaji": "kureru",
-		"level": 4
-	},
-	{
-		"word": "喜ぶ",
-		"meaning": "to be delighted",
-		"furigana": "よろこぶ",
-		"romaji": "yorokobu",
-		"level": 4
-	},
-	{
-		"word": "習慣",
-		"meaning": "custom, manners",
-		"furigana": "しゅうかん",
-		"romaji": "shūkan",
-		"level": 4
-	},
-	{
-		"word": "部長",
-		"meaning": "head of a section",
-		"furigana": "ぶちょう",
-		"romaji": "buchō",
-		"level": 4
-	},
-	{
-		"word": "祈る",
-		"meaning": "to pray",
-		"furigana": "いのる",
-		"romaji": "inoru",
-		"level": 4
-	},
-	{
-		"word": "水道",
-		"meaning": "water supply",
-		"furigana": "すいどう",
-		"romaji": "suidō",
-		"level": 4
-	},
-	{
-		"word": "とうとう",
-		"meaning": "finally, after all",
-		"furigana": "",
-		"romaji": "tōtō",
-		"level": 4
-	},
-	{
-		"word": "道具",
-		"meaning": "tool, means",
-		"furigana": "どうぐ",
-		"romaji": "dōgu",
-		"level": 4
-	},
-	{
-		"word": "ケーキ",
-		"meaning": "cake",
-		"furigana": "",
-		"romaji": "kēki",
-		"level": 4
-	},
-	{
-		"word": "郊外",
-		"meaning": "outskirts",
-		"furigana": "こうがい",
-		"romaji": "kōgai",
-		"level": 4
-	},
-	{
-		"word": "おもちゃ",
-		"meaning": "toy",
-		"furigana": "",
-		"romaji": "omocha",
-		"level": 4
-	},
-	{
-		"word": "最近",
-		"meaning": "latest, nowadays",
-		"furigana": "さいきん",
-		"romaji": "saikin",
-		"level": 4
-	},
-	{
-		"word": "もちろん",
-		"meaning": "of course",
-		"furigana": "",
-		"romaji": "mochiron",
-		"level": 4
-	},
-	{
-		"word": "天気予報",
-		"meaning": "weather forecast",
-		"furigana": "てんきよほう",
-		"romaji": "tenkiyohō",
-		"level": 4
-	},
-	{
-		"word": "乗り物",
-		"meaning": "vehicle",
-		"furigana": "のりもの",
-		"romaji": "norimono",
-		"level": 4
-	},
-	{
-		"word": "亡くなる",
-		"meaning": "to die",
-		"furigana": "なくなる",
-		"romaji": "nakunaru",
-		"level": 4
-	},
-	{
-		"word": "尋ねる",
-		"meaning": "to ask",
-		"furigana": "たずねる",
-		"romaji": "tazuneru",
-		"level": 4
-	},
-	{
-		"word": "髪",
-		"meaning": "hair",
-		"furigana": "かみ",
-		"romaji": "kami",
-		"level": 4
-	},
-	{
-		"word": "売り場",
-		"meaning": "place where things are sold",
-		"furigana": "うりば",
-		"romaji": "uriba",
-		"level": 4
-	},
-	{
-		"word": "下着",
-		"meaning": "underwear",
-		"furigana": "したぎ",
-		"romaji": "shitagi",
-		"level": 4
-	},
-	{
-		"word": "鳴る",
-		"meaning": "to sound",
-		"furigana": "なる",
-		"romaji": "naru",
-		"level": 4
-	},
-	{
-		"word": "飛行場",
-		"meaning": "airport",
-		"furigana": "ひこうじょう",
-		"romaji": "hikōjō",
-		"level": 4
-	},
-	{
-		"word": "都",
-		"meaning": "metropolitan",
-		"furigana": "と",
-		"romaji": "to",
-		"level": 4
-	},
-	{
-		"word": "親切",
-		"meaning": "kindness",
-		"furigana": "しんせつ",
-		"romaji": "shinsetsu",
-		"level": 4
-	},
-	{
-		"word": "政治",
-		"meaning": "politics, government",
-		"furigana": "せいじ",
-		"romaji": "seiji",
-		"level": 4
-	},
-	{
-		"word": "予約",
-		"meaning": "reservation",
-		"furigana": "よやく",
-		"romaji": "yoyaku",
-		"level": 4
-	},
-	{
-		"word": "泣く",
-		"meaning": "to weep",
-		"furigana": "なく",
-		"romaji": "naku",
-		"level": 4
-	},
-	{
-		"word": "すっと",
-		"meaning": "straight, all of a sudden",
-		"furigana": "",
-		"romaji": "sutto",
-		"level": 4
-	},
-	{
-		"word": "君",
-		"meaning": "(informal) You (used by men towards women)",
-		"furigana": "きみ",
-		"romaji": "kimi",
-		"level": 4
-	},
-	{
-		"word": "娘",
-		"meaning": "(humble) daughter",
-		"furigana": "むすめ",
-		"romaji": "musume",
-		"level": 4
-	},
-	{
-		"word": "踏む",
-		"meaning": "to step on",
-		"furigana": "ふむ",
-		"romaji": "fumu",
-		"level": 4
-	},
-	{
-		"word": "店員",
-		"meaning": "shop assistant",
-		"furigana": "てんいん",
-		"romaji": "ten'in",
-		"level": 4
-	},
-	{
-		"word": "通う",
-		"meaning": "to commute",
-		"furigana": "かよう",
-		"romaji": "kayō",
-		"level": 4
-	},
-	{
-		"word": "彼女",
-		"meaning": "she, girlfriend",
-		"furigana": "かのじょ",
-		"romaji": "kanojo",
-		"level": 4
-	},
-	{
-		"word": "場所",
-		"meaning": "location",
-		"furigana": "ばしょ",
-		"romaji": "basho",
-		"level": 4
-	},
-	{
-		"word": "木綿",
-		"meaning": "cotton",
-		"furigana": "もめん",
-		"romaji": "momen",
-		"level": 4
-	},
-	{
-		"word": "畳",
-		"meaning": "Japanese straw mat",
-		"furigana": "たたみ",
-		"romaji": "tatami",
-		"level": 4
-	},
-	{
-		"word": "裏",
-		"meaning": "reverse side",
-		"furigana": "うら",
-		"romaji": "ura",
-		"level": 4
-	},
-	{
-		"word": "びっくり・する",
-		"meaning": "to be surprised",
-		"furigana": "",
-		"romaji": "bikkuri-suru",
-		"level": 4
-	},
-	{
-		"word": "地震",
-		"meaning": "earthquake",
-		"furigana": "じしん",
-		"romaji": "jishin",
-		"level": 4
-	},
-	{
-		"word": "湖",
-		"meaning": "lake",
-		"furigana": "みずうみ",
-		"romaji": "mizūmi",
-		"level": 4
-	},
-	{
-		"word": "危険",
-		"meaning": "danger",
-		"furigana": "きけん",
-		"romaji": "kiken",
-		"level": 4
-	},
-	{
-		"word": "出発",
-		"meaning": "to depart",
-		"furigana": "しゅっぱつ・する",
-		"romaji": "shuppatsu-suru",
-		"level": 4
-	},
-	{
-		"word": "予習",
-		"meaning": "preparation for a lesson",
-		"furigana": "よしゅう",
-		"romaji": "yoshū",
-		"level": 4
-	},
-	{
-		"word": "将来",
-		"meaning": "future, prospects",
-		"furigana": "しょうらい",
-		"romaji": "shōrai",
-		"level": 4
-	},
-	{
-		"word": "遊び",
-		"meaning": "play",
-		"furigana": "あそび",
-		"romaji": "asobi",
-		"level": 4
-	},
-	{
-		"word": "変わる",
-		"meaning": "to change",
-		"furigana": "かわる",
-		"romaji": "kawaru",
-		"level": 4
-	},
-	{
-		"word": "柔道",
-		"meaning": "judo",
-		"furigana": "じゅうどう",
-		"romaji": "jūdō",
-		"level": 4
-	},
-	{
-		"word": "説明",
-		"meaning": "explanation",
-		"furigana": "せつめい",
-		"romaji": "setsumei",
-		"level": 4
-	},
-	{
-		"word": "返事",
-		"meaning": "reply",
-		"furigana": "へんじ",
-		"romaji": "henji",
-		"level": 4
-	},
-	{
-		"word": "特別",
-		"meaning": "special",
-		"furigana": "とくべつ",
-		"romaji": "tokubetsu",
-		"level": 4
-	},
-	{
-		"word": "下りる",
-		"meaning": "to get off",
-		"furigana": "おりる",
-		"romaji": "oriru",
-		"level": 4
-	},
-	{
-		"word": "暖房",
-		"meaning": "heating",
-		"furigana": "だんぼう",
-		"romaji": "danbō",
-		"level": 4
-	},
-	{
-		"word": "伝える",
-		"meaning": "to report",
-		"furigana": "つたえる",
-		"romaji": "tsutaeru",
-		"level": 4
-	},
-	{
-		"word": "展覧会",
-		"meaning": "exhibition",
-		"furigana": "てんらんかい",
-		"romaji": "tenrankai",
-		"level": 4
-	},
-	{
-		"word": "ガソリン",
-		"meaning": "petrol",
-		"furigana": "",
-		"romaji": "gasorin",
-		"level": 4
-	},
-	{
-		"word": "中々",
-		"meaning": "considerably",
-		"furigana": "なかなか",
-		"romaji": "nakanaka",
-		"level": 4
-	},
-	{
-		"word": "糸",
-		"meaning": "thread",
-		"furigana": "いと",
-		"romaji": "ito",
-		"level": 4
-	},
-	{
-		"word": "倍",
-		"meaning": "double",
-		"furigana": "ばい",
-		"romaji": "bai",
-		"level": 4
-	},
-	{
-		"word": "課長",
-		"meaning": "section manager",
-		"furigana": "かちょう",
-		"romaji": "kachō",
-		"level": 4
-	},
-	{
-		"word": "見物",
-		"meaning": "sightseeing",
-		"furigana": "けんぶつ",
-		"romaji": "kenbutsu",
-		"level": 4
-	},
-	{
-		"word": "ガソリンスタンド",
-		"meaning": "petrol station",
-		"furigana": "",
-		"romaji": "gasorinsutando",
-		"level": 4
-	},
-	{
-		"word": "席",
-		"meaning": "seat",
-		"furigana": "せき",
-		"romaji": "seki",
-		"level": 4
-	},
-	{
-		"word": "関係",
-		"meaning": "relationship",
-		"furigana": "かんけい",
-		"romaji": "kankei",
-		"level": 4
-	},
-	{
-		"word": "拝見",
-		"meaning": "(humble) to look at",
-		"furigana": "はいけん・する",
-		"romaji": "haiken-suru",
-		"level": 4
-	},
-	{
-		"word": "台風",
-		"meaning": "typhoon",
-		"furigana": "たいふう",
-		"romaji": "taifū",
-		"level": 4
-	},
-	{
-		"word": "片付ける",
-		"meaning": "to tidy up",
-		"furigana": "かたづける",
-		"romaji": "katazukeru",
-		"level": 4
-	},
-	{
-		"word": "舟",
-		"meaning": "ship",
-		"furigana": "ふね",
-		"romaji": "fune",
-		"level": 4
-	},
-	{
-		"word": "または",
-		"meaning": "or, otherwise",
-		"furigana": "",
-		"romaji": "mataha",
-		"level": 4
-	},
-	{
-		"word": "教育",
-		"meaning": "education",
-		"furigana": "きょういく",
-		"romaji": "kyōiku",
-		"level": 4
-	},
-	{
-		"word": "引っ越す",
-		"meaning": "to move house",
-		"furigana": "ひっこす",
-		"romaji": "hikkosu",
-		"level": 4
-	},
-	{
-		"word": "会議",
-		"meaning": "meeting",
-		"furigana": "かいぎ",
-		"romaji": "kaigi",
-		"level": 4
-	},
-	{
-		"word": "米",
-		"meaning": "uncooked rice",
-		"furigana": "こめ",
-		"romaji": "kome",
-		"level": 4
-	},
-	{
-		"word": "もっとも",
-		"meaning": "extremely",
-		"furigana": "",
-		"romaji": "mottomo",
-		"level": 4
-	},
-	{
-		"word": "かまう",
-		"meaning": "to mind",
-		"furigana": "",
-		"romaji": "kamau",
-		"level": 4
-	},
-	{
-		"word": "教会",
-		"meaning": "church",
-		"furigana": "きょうかい",
-		"romaji": "kyōkai",
-		"level": 4
-	},
-	{
-		"word": "落す",
-		"meaning": "to drop",
-		"furigana": "おとす",
-		"romaji": "otosu",
-		"level": 4
-	},
-	{
-		"word": "まじめ",
-		"meaning": "serious",
-		"furigana": "",
-		"romaji": "majime",
-		"level": 4
-	},
-	{
-		"word": "謝る",
-		"meaning": "to apologize",
-		"furigana": "あやまる",
-		"romaji": "ayamaru",
-		"level": 4
-	},
-	{
-		"word": "におい",
-		"meaning": "a smell",
-		"furigana": "",
-		"romaji": "nioi",
-		"level": 4
-	},
-	{
-		"word": "騒ぐ",
-		"meaning": "to make noise, to be excited",
-		"furigana": "さわぐ",
-		"romaji": "sawagu",
-		"level": 4
-	},
-	{
-		"word": "島",
-		"meaning": "island",
-		"furigana": "しま",
-		"romaji": "shima",
-		"level": 4
-	},
-	{
-		"word": "すっかり",
-		"meaning": "completely",
-		"furigana": "",
-		"romaji": "sukkari",
-		"level": 4
-	},
-	{
-		"word": "答",
-		"meaning": "response",
-		"furigana": "こたえ",
-		"romaji": "kotae",
-		"level": 4
-	},
-	{
-		"word": "原因",
-		"meaning": "cause, source",
-		"furigana": "げんいん",
-		"romaji": "gen'in",
-		"level": 4
-	},
-	{
-		"word": "動物園",
-		"meaning": "zoo",
-		"furigana": "どうぶつえん",
-		"romaji": "dōbutsuen",
-		"level": 4
-	},
-	{
-		"word": "スーツ",
-		"meaning": "suit",
-		"furigana": "",
-		"romaji": "sūtsu",
-		"level": 4
-	},
-	{
-		"word": "ああ",
-		"meaning": "like that",
-		"furigana": "",
-		"romaji": "aa",
-		"level": 4
-	},
-	{
-		"word": "最後",
-		"meaning": "last, end",
-		"furigana": "さいご",
-		"romaji": "saigo",
-		"level": 4
-	},
-	{
-		"word": "うかがう",
-		"meaning": "to visit",
-		"furigana": "",
-		"romaji": "ukagau",
-		"level": 4
-	},
-	{
-		"word": "ほとんど",
-		"meaning": "mostly",
-		"furigana": "",
-		"romaji": "hotondo",
-		"level": 4
-	},
-	{
-		"word": "夢",
-		"meaning": "dream",
-		"furigana": "ゆめ",
-		"romaji": "yume",
-		"level": 4
-	},
-	{
-		"word": "つき",
-		"meaning": "moon",
-		"furigana": "",
-		"romaji": "tsuki",
-		"level": 4
-	},
-	{
-		"word": "高校",
-		"meaning": "high school",
-		"furigana": "こうこう",
-		"romaji": "kōkō",
-		"level": 4
-	},
-	{
-		"word": "気",
-		"meaning": "spirit, mood",
-		"furigana": "き",
-		"romaji": "ki",
-		"level": 4
-	},
-	{
-		"word": "正しい",
-		"meaning": "correct",
-		"furigana": "ただしい",
-		"romaji": "tadashii",
-		"level": 4
-	},
-	{
-		"word": "輸出",
-		"meaning": "to export",
-		"furigana": "ゆしゅつ・する",
-		"romaji": "yushutsu-suru",
-		"level": 4
-	},
-	{
-		"word": "文化",
-		"meaning": "culture",
-		"furigana": "ぶんか",
-		"romaji": "bunka",
-		"level": 4
-	},
-	{
-		"word": "だめ",
-		"meaning": "no good",
-		"furigana": "",
-		"romaji": "dame",
-		"level": 4
-	},
-	{
-		"word": "けれど / けれども",
-		"meaning": "however",
-		"furigana": "",
-		"romaji": "keredo / keredomo",
-		"level": 4
-	},
-	{
-		"word": "飾る",
-		"meaning": "to decorate",
-		"furigana": "かざる",
-		"romaji": "kazaru",
-		"level": 4
-	},
-	{
-		"word": "準備",
-		"meaning": "to prepare",
-		"furigana": "じゅんび・する",
-		"romaji": "junbi-suru",
-		"level": 4
-	},
-	{
-		"word": "卒業",
-		"meaning": "graduation",
-		"furigana": "そつぎょう",
-		"romaji": "sotsugyō",
-		"level": 4
-	},
-	{
-		"word": "間に合う",
-		"meaning": "to be in time for",
-		"furigana": "まにあう",
-		"romaji": "maniau",
-		"level": 4
-	},
-	{
-		"word": "それに",
-		"meaning": "moreover",
-		"furigana": "",
-		"romaji": "soreni",
-		"level": 4
-	},
-	{
-		"word": "具合",
-		"meaning": "condition, health",
-		"furigana": "ぐあい",
-		"romaji": "guai",
-		"level": 4
-	},
-	{
-		"word": "贈り物",
-		"meaning": "gift",
-		"furigana": "おくりもの",
-		"romaji": "okurimono",
-		"level": 4
-	},
-	{
-		"word": "堅 / 硬/固い",
-		"meaning": "hard",
-		"furigana": "かたい",
-		"romaji": "katai",
-		"level": 4
-	},
-	{
-		"word": "貿易",
-		"meaning": "trade",
-		"furigana": "ぼうえき",
-		"romaji": "bōeki",
-		"level": 4
-	},
-	{
-		"word": "考える",
-		"meaning": "to consider",
-		"furigana": "かんがえる",
-		"romaji": "kangaeru",
-		"level": 4
-	},
-	{
-		"word": "別れる",
-		"meaning": "to separate",
-		"furigana": "わかれる",
-		"romaji": "wakareru",
-		"level": 4
-	},
-	{
-		"word": "サラダ",
-		"meaning": "salad",
-		"furigana": "",
-		"romaji": "sarada",
-		"level": 4
-	},
-	{
-		"word": "寝坊",
-		"meaning": "sleeping in late",
-		"furigana": "ねぼう",
-		"romaji": "nebō",
-		"level": 4
-	},
-	{
-		"word": "科学",
-		"meaning": "science",
-		"furigana": "かがく",
-		"romaji": "kagaku",
-		"level": 4
-	},
-	{
-		"word": "こう",
-		"meaning": "this way",
-		"furigana": "",
-		"romaji": "kō",
-		"level": 4
-	},
-	{
-		"word": "光る",
-		"meaning": "to shine, to glitter",
-		"furigana": "ひかる",
-		"romaji": "hikaru",
-		"level": 4
-	},
-	{
-		"word": "息子",
-		"meaning": "(humble) son",
-		"furigana": "むすこ",
-		"romaji": "musuko",
-		"level": 4
-	},
-	{
-		"word": "育てる",
-		"meaning": "to rear, to bring up",
-		"furigana": "そだてる",
-		"romaji": "sodateru",
-		"level": 4
-	},
-	{
-		"word": "きっと",
-		"meaning": "surely",
-		"furigana": "",
-		"romaji": "kitto",
-		"level": 4
-	},
-	{
-		"word": "空く",
-		"meaning": "to open, to become empty",
-		"furigana": "あく",
-		"romaji": "aku",
-		"level": 4
-	},
-	{
-		"word": "冷房",
-		"meaning": "air conditioning",
-		"furigana": "れいぼう",
-		"romaji": "reibō",
-		"level": 4
-	},
-	{
-		"word": "コンサート",
-		"meaning": "concert",
-		"furigana": "",
-		"romaji": "konsāto",
-		"level": 4
-	},
-	{
-		"word": "始める",
-		"meaning": "to begin",
-		"furigana": "はじめる",
-		"romaji": "hajimeru",
-		"level": 4
-	},
-	{
-		"word": "電灯",
-		"meaning": "electric light",
-		"furigana": "でんとう",
-		"romaji": "dentō",
-		"level": 4
-	},
-	{
-		"word": "医学",
-		"meaning": "medical science",
-		"furigana": "いがく",
-		"romaji": "igaku",
-		"level": 4
-	},
-	{
-		"word": "柔らかい",
-		"meaning": "soft",
-		"furigana": "やわらかい",
-		"romaji": "yawarakai",
-		"level": 4
-	},
-	{
-		"word": "下げる",
-		"meaning": "to hang, to lower, to move back",
-		"furigana": "さげる",
-		"romaji": "sageru",
-		"level": 4
-	},
-	{
-		"word": "校長",
-		"meaning": "headmaster",
-		"furigana": "こうちょう",
-		"romaji": "kōchō",
-		"level": 4
-	},
-	{
-		"word": "新聞社",
-		"meaning": "newspaper company",
-		"furigana": "しんぶんしゃ",
-		"romaji": "shinbunsha",
-		"level": 4
-	},
-	{
-		"word": "ファックス",
-		"meaning": "fax",
-		"furigana": "",
-		"romaji": "fakkusu",
-		"level": 4
-	},
-	{
-		"word": "放送",
-		"meaning": "to broadcast",
-		"furigana": "ほうそう・する",
-		"romaji": "hōsō-suru",
-		"level": 4
-	},
-	{
-		"word": "やっと",
-		"meaning": "at last",
-		"furigana": "",
-		"romaji": "yatto",
-		"level": 4
-	},
-	{
-		"word": "オートバイ",
-		"meaning": "motorcycle",
-		"furigana": "",
-		"romaji": "ōtobai",
-		"level": 4
-	},
-	{
-		"word": "レポート / リポート",
-		"meaning": "report",
-		"furigana": "",
-		"romaji": "repōto / ripōto",
-		"level": 4
-	},
-	{
-		"word": "心配",
-		"meaning": "to worry",
-		"furigana": "しんぱい・する",
-		"romaji": "shinpai-suru",
-		"level": 4
-	},
-	{
-		"word": "急行",
-		"meaning": "speedy, express",
-		"furigana": "きゅうこう",
-		"romaji": "kyūkō",
-		"level": 4
-	},
-	{
-		"word": "拾う",
-		"meaning": "to pick up, to gather",
-		"furigana": "ひろう",
-		"romaji": "hirō",
-		"level": 4
-	},
-	{
-		"word": "塗る",
-		"meaning": "to paint, to plaster",
-		"furigana": "ぬる",
-		"romaji": "nuru",
-		"level": 4
-	},
-	{
-		"word": "線",
-		"meaning": "line",
-		"furigana": "せん",
-		"romaji": "sen",
-		"level": 4
-	},
-	{
-		"word": "用意",
-		"meaning": "preparation",
-		"furigana": "ようい",
-		"romaji": "yōi",
-		"level": 4
-	},
-	{
-		"word": "生活",
-		"meaning": "to live",
-		"furigana": "せいかつ・する",
-		"romaji": "seikatsu-suru",
-		"level": 4
-	},
-	{
-		"word": "退院",
-		"meaning": "to leave hospital",
-		"furigana": "たいいん・する",
-		"romaji": "taiin-suru",
-		"level": 4
-	},
-	{
-		"word": "けが・する",
-		"meaning": "to injure",
-		"furigana": "",
-		"romaji": "kega-suru",
-		"level": 4
-	},
-	{
-		"word": "揺れる",
-		"meaning": "to shake, to sway",
-		"furigana": "ゆれる",
-		"romaji": "yureru",
-		"level": 4
-	},
-	{
-		"word": "入学",
-		"meaning": "to enter school or university",
-		"furigana": "にゅうがく・する",
-		"romaji": "nyūgaku-suru",
-		"level": 4
-	},
-	{
-		"word": "数学",
-		"meaning": "mathematics, arithmetic",
-		"furigana": "すうがく",
-		"romaji": "sūgaku",
-		"level": 4
-	},
-	{
-		"word": "ぜんぜん",
-		"meaning": "not entirely (used in a negative sentence)",
-		"furigana": "",
-		"romaji": "zenzen",
-		"level": 4
-	},
-	{
-		"word": "急ぐ",
-		"meaning": "to hurry",
-		"furigana": "いそぐ",
-		"romaji": "isogu",
-		"level": 4
-	},
-	{
-		"word": "ひどい",
-		"meaning": "awful",
-		"furigana": "",
-		"romaji": "hidoi",
-		"level": 4
-	},
-	{
-		"word": "品物",
-		"meaning": "goods",
-		"furigana": "しなもの",
-		"romaji": "shinamono",
-		"level": 4
-	},
-	{
-		"word": "比べる",
-		"meaning": "to compare",
-		"furigana": "くらべる",
-		"romaji": "kuraberu",
-		"level": 4
-	},
-	{
-		"word": "包む",
-		"meaning": "to wrap",
-		"furigana": "つつむ",
-		"romaji": "tsutsumu",
-		"level": 4
-	},
-	{
-		"word": "十分",
-		"meaning": "enough",
-		"furigana": "じゅうぶん",
-		"romaji": "jūbun",
-		"level": 4
-	},
-	{
-		"word": "ハンドバッグ",
-		"meaning": "handbag　",
-		"furigana": "",
-		"romaji": "handobaggu",
-		"level": 4
-	},
-	{
-		"word": "決して",
-		"meaning": "never",
-		"furigana": "けっして",
-		"romaji": "kesshite",
-		"level": 4
-	},
-	{
-		"word": "無くなる",
-		"meaning": "to disappear, to get lost",
-		"furigana": "なくなる",
-		"romaji": "nakunaru",
-		"level": 4
-	},
-	{
-		"word": "用事",
-		"meaning": "things to do",
-		"furigana": "ようじ",
-		"romaji": "yōji",
-		"level": 4
-	},
-	{
-		"word": "なさる",
-		"meaning": "(respectful) to do",
-		"furigana": "",
-		"romaji": "nasaru",
-		"level": 4
-	},
-	{
-		"word": "億",
-		"meaning": "one hundred million",
-		"furigana": "おく",
-		"romaji": "oku",
-		"level": 4
-	},
-	{
-		"word": "楽しみ",
-		"meaning": "joy",
-		"furigana": "たのしみ",
-		"romaji": "tanoshimi",
-		"level": 4
-	},
-	{
-		"word": "サンダル",
-		"meaning": "sandal",
-		"furigana": "",
-		"romaji": "sandaru",
-		"level": 4
-	},
-	{
-		"word": "客",
-		"meaning": "guest, customer",
-		"furigana": "きゃく",
-		"romaji": "kyaku",
-		"level": 4
-	},
-	{
-		"word": "反対",
-		"meaning": "opposition",
-		"furigana": "はんたい",
-		"romaji": "hantai",
-		"level": 4
-	},
-	{
-		"word": "火",
-		"meaning": "fire",
-		"furigana": "ひ",
-		"romaji": "hi",
-		"level": 4
-	},
-	{
-		"word": "空港",
-		"meaning": "airport",
-		"furigana": "くうこう",
-		"romaji": "kūkō",
-		"level": 4
-	},
-	{
-		"word": "慣れる",
-		"meaning": "to grow accustomed to",
-		"furigana": "なれる",
-		"romaji": "nareru",
-		"level": 4
-	},
-	{
-		"word": "旅館",
-		"meaning": "Japanese hotel",
-		"furigana": "りょかん",
-		"romaji": "ryokan",
-		"level": 4
-	},
-	{
-		"word": "噛む",
-		"meaning": "to bite, to chew",
-		"furigana": "かむ",
-		"romaji": "kamu",
-		"level": 4
-	},
-	{
-		"word": "漬ける",
-		"meaning": "to soak, to pickle",
-		"furigana": "つける",
-		"romaji": "tsukeru",
-		"level": 4
-	},
-	{
-		"word": "踊り",
-		"meaning": "a dance",
-		"furigana": "おどり",
-		"romaji": "odori",
-		"level": 4
-	},
-	{
-		"word": "講義",
-		"meaning": "lecture",
-		"furigana": "こうぎ",
-		"romaji": "kōgi",
-		"level": 4
-	},
-	{
-		"word": "送る",
-		"meaning": "to send",
-		"furigana": "おくる",
-		"romaji": "okuru",
-		"level": 4
-	},
-	{
-		"word": "迎える",
-		"meaning": "to go out to meet",
-		"furigana": "むかえる",
-		"romaji": "mukaeru",
-		"level": 4
-	},
-	{
-		"word": "凄い",
-		"meaning": "terrific",
-		"furigana": "すごい",
-		"romaji": "sugoi",
-		"level": 4
-	},
-	{
-		"word": "以内",
-		"meaning": "within",
-		"furigana": "いない",
-		"romaji": "inai",
-		"level": 4
-	},
-	{
-		"word": "探す",
-		"meaning": "to look for",
-		"furigana": "さがす",
-		"romaji": "sagasu",
-		"level": 4
-	},
-	{
-		"word": "行う",
-		"meaning": "to do",
-		"furigana": "おこなう",
-		"romaji": "okonau",
-		"level": 4
-	},
-	{
-		"word": "引き出し",
-		"meaning": "drawer, drawing out",
-		"furigana": "ひきだし",
-		"romaji": "hikidashi",
-		"level": 4
-	},
-	{
-		"word": "焼ける",
-		"meaning": "to burn, to be roasted",
-		"furigana": "やける",
-		"romaji": "yakeru",
-		"level": 4
-	},
-	{
-		"word": "けんか・する",
-		"meaning": "to quarrel",
-		"furigana": "",
-		"romaji": "kenka-suru",
-		"level": 4
-	},
-	{
-		"word": "背中",
-		"meaning": "back of the body",
-		"furigana": "せなか",
-		"romaji": "senaka",
-		"level": 4
-	},
-	{
-		"word": "込む",
-		"meaning": "to be crowded",
-		"furigana": "こむ",
-		"romaji": "komu",
-		"level": 4
-	},
-	{
-		"word": "あいさつ・する",
-		"meaning": "to greet",
-		"furigana": "",
-		"romaji": "aisatsu-suru",
-		"level": 4
-	},
-	{
-		"word": "負ける",
-		"meaning": "to lose",
-		"furigana": "まける",
-		"romaji": "makeru",
-		"level": 4
-	},
-	{
-		"word": "ごらんになる",
-		"meaning": "(respectful) to see",
-		"furigana": "",
-		"romaji": "goranninaru",
-		"level": 4
-	},
-	{
-		"word": "事務所",
-		"meaning": "office",
-		"furigana": "じむしょ",
-		"romaji": "jimusho",
-		"level": 4
-	},
-	{
-		"word": "そろそろ",
-		"meaning": "gradually, soon",
-		"furigana": "",
-		"romaji": "sorosoro",
-		"level": 4
-	},
-	{
-		"word": "美術館",
-		"meaning": "art gallery",
-		"furigana": "びじゅつかん",
-		"romaji": "bijutsukan",
-		"level": 4
-	},
-	{ "word": "あ", "meaning": "Ah", "furigana": "", "romaji": "a", "level": 4 },
-	{
-		"word": "以外",
-		"meaning": "with the exception of",
-		"furigana": "いがい",
-		"romaji": "igai",
-		"level": 4
-	},
-	{
-		"word": "じゃま",
-		"meaning": "hindrance, intrusion",
-		"furigana": "",
-		"romaji": "jama",
-		"level": 4
-	},
-	{
-		"word": "安心",
-		"meaning": "relief",
-		"furigana": "あんしん",
-		"romaji": "anshin",
-		"level": 4
-	},
-	{
-		"word": "集める",
-		"meaning": "to collect something",
-		"furigana": "あつめる",
-		"romaji": "atsumeru",
-		"level": 4
-	},
-	{
-		"word": "捨てる",
-		"meaning": "to throw away",
-		"furigana": "すてる",
-		"romaji": "suteru",
-		"level": 4
-	},
-	{
-		"word": "駐車場",
-		"meaning": "parking lot",
-		"furigana": "ちゅうしゃじょう",
-		"romaji": "chūshajō",
-		"level": 4
-	},
-	{
-		"word": "確か",
-		"meaning": "definite",
-		"furigana": "たしか",
-		"romaji": "tashika",
-		"level": 4
-	},
-	{
-		"word": "手袋",
-		"meaning": "glove",
-		"furigana": "てぶくろ",
-		"romaji": "tebukuro",
-		"level": 4
-	},
-	{
-		"word": "熱",
-		"meaning": "fever",
-		"furigana": "ねつ",
-		"romaji": "netsu",
-		"level": 4
-	},
-	{
-		"word": "指",
-		"meaning": "finger",
-		"furigana": "ゆび",
-		"romaji": "yubi",
-		"level": 4
-	},
-	{
-		"word": "止める",
-		"meaning": "to stop something",
-		"furigana": "とめる",
-		"romaji": "tomeru",
-		"level": 4
-	},
-	{
-		"word": "アクセサリー",
-		"meaning": "accessory",
-		"furigana": "",
-		"romaji": "akusesarī",
-		"level": 4
-	},
-	{
-		"word": "下る",
-		"meaning": "to get down, to descend",
-		"furigana": "さがる",
-		"romaji": "sagaru",
-		"level": 4
-	},
-	{
-		"word": "ほめる",
-		"meaning": "to praise",
-		"furigana": "",
-		"romaji": "homeru",
-		"level": 4
-	},
-	{
-		"word": "回る",
-		"meaning": "to go around",
-		"furigana": "まわる",
-		"romaji": "mawaru",
-		"level": 4
-	},
-	{
-		"word": "くださる",
-		"meaning": "(respectful) to give",
-		"furigana": "",
-		"romaji": "kudasaru",
-		"level": 4
-	}
+  {
+    "word": "雲",
+    "meaning_en": "cloud",
+    "furigana": "くも",
+    "meaning_ko": ["구름"]
+  },
+  {
+    "word": "サンドイッチ",
+    "meaning_en": "sandwich",
+    "furigana": "",
+    "meaning_ko": ["샌드위치"]
+  },
+  {
+    "word": "故障",
+    "meaning_en": "to break-down",
+    "furigana": "こしょう・する",
+    "meaning_ko": ["고장나다", "고장"]
+  },
+  {
+    "word": "怖い",
+    "meaning_en": "frightening",
+    "furigana": "こわい",
+    "meaning_ko": ["무서운", "무섭다"]
+  },
+  {
+    "word": "エスカレーター",
+    "meaning_en": "escalator",
+    "furigana": "",
+    "meaning_ko": ["에스컬레이터"]
+  },
+  {
+    "word": "運ぶ",
+    "meaning_en": "to transport",
+    "furigana": "はこぶ",
+    "meaning_ko": ["운반하다", "옮기다"]
+  },
+  {
+    "word": "受ける",
+    "meaning_en": "to take a lesson or test",
+    "furigana": "うける",
+    "meaning_ko": ["수업을 듣다", "시험을 보다"]
+  },
+  {
+    "word": "お嬢さん",
+    "meaning_en": "young lady",
+    "furigana": "おじょうさん",
+    "meaning_ko": ["아가씨", "젊은 여성"]
+  },
+  {
+    "word": "首",
+    "meaning_en": "neck",
+    "furigana": "くび",
+    "meaning_ko": ["목"]
+  },
+  {
+    "word": "市民",
+    "meaning_en": "citizen",
+    "furigana": "しみん",
+    "meaning_ko": ["시민"]
+  },
+  {
+    "word": "付く",
+    "meaning_en": "to be attached",
+    "furigana": "つく",
+    "meaning_ko": ["붙다", "달라붙다"]
+  },
+  {
+    "word": "すく",
+    "meaning_en": "to become empty",
+    "furigana": "",
+    "meaning_ko": ["비다", "텅 비다"]
+  },
+  {
+    "word": "こと",
+    "meaning_en": "thing, matter",
+    "furigana": "",
+    "meaning_ko": ["것", "일"]
+  },
+  {
+    "word": "訪ねる",
+    "meaning_en": "to visit",
+    "furigana": "たずねる",
+    "meaning_ko": ["방문하다"]
+  },
+  {
+    "word": "お祝い",
+    "meaning_en": "congratulation",
+    "furigana": "おいわい",
+    "meaning_ko": ["축하", "축하하다"]
+  },
+  {
+    "word": "一生懸命",
+    "meaning_en": "with utmost effort",
+    "furigana": "いっしょうけんめい",
+    "meaning_ko": ["열심히", "최선을 다해"]
+  },
+  {
+    "word": "済む",
+    "meaning_en": "to finish",
+    "furigana": "すむ",
+    "meaning_ko": ["끝나다", "마치다"]
+  },
+  {
+    "word": "アメリカ",
+    "meaning_en": "America",
+    "furigana": "",
+    "meaning_ko": ["미국"]
+  },
+  {
+    "word": "復習",
+    "meaning_en": "revision",
+    "furigana": "ふくしゅう",
+    "meaning_ko": ["복습"]
+  },
+  {
+    "word": "急",
+    "meaning_en": "urgent, steep",
+    "furigana": "きゅう",
+    "meaning_ko": ["급한", "가파른"]
+  },
+  {
+    "word": "これから",
+    "meaning_en": "after this",
+    "furigana": "",
+    "meaning_ko": ["이제부터", "앞으로"]
+  },
+  {
+    "word": "指輪",
+    "meaning_en": "finger ring",
+    "furigana": "ゆびわ",
+    "meaning_ko": ["반지"]
+  },
+  {
+    "word": "美しい",
+    "meaning_en": "beautiful",
+    "furigana": "うつくしい",
+    "meaning_ko": ["아름다운"]
+  },
+  {
+    "word": "直る",
+    "meaning_en": "to be fixed, to be repaired",
+    "furigana": "なおる",
+    "meaning_ko": ["고쳐지다", "수리되다"]
+  },
+  {
+    "word": "水泳",
+    "meaning_en": "swimming",
+    "furigana": "すいえい",
+    "meaning_ko": ["수영"]
+  },
+  {
+    "word": "真中",
+    "meaning_en": "middle",
+    "furigana": "まんなか",
+    "meaning_ko": ["가운데", "중앙"]
+  },
+  {
+    "word": "発音",
+    "meaning_en": "pronunciation",
+    "furigana": "はつおん",
+    "meaning_ko": ["발음"]
+  },
+  {
+    "word": "手伝う",
+    "meaning_en": "to assist",
+    "furigana": "てつだう",
+    "meaning_ko": ["돕다", "도와주다"]
+  },
+  {
+    "word": "折れる",
+    "meaning_en": "to break or be folded",
+    "furigana": "おれる",
+    "meaning_ko": ["부러지다", "접히다"]
+  },
+  {
+    "word": "一度",
+    "meaning_en": "once",
+    "furigana": "いちど",
+    "meaning_ko": ["한 번"]
+  },
+  {
+    "word": "高等学校",
+    "meaning_en": "high school",
+    "furigana": "こうとうがっこう",
+    "meaning_ko": ["고등학교"]
+  },
+  {
+    "word": "アルコール",
+    "meaning_en": "alcohol",
+    "furigana": "",
+    "meaning_ko": ["알코올"]
+  },
+  {
+    "word": "アナウンサー",
+    "meaning_en": "announcer",
+    "furigana": "",
+    "meaning_ko": ["아나운서"]
+  },
+  {
+    "word": "最初",
+    "meaning_en": "beginning, first",
+    "furigana": "さいしょ",
+    "meaning_ko": ["처음", "시작"]
+  },
+  {
+    "word": "投げる",
+    "meaning_en": "to throw or cast away",
+    "furigana": "なげる",
+    "meaning_ko": ["던지다", "버리다"]
+  },
+  {
+    "word": "変える",
+    "meaning_en": "to change",
+    "furigana": "かえる",
+    "meaning_ko": ["바꾸다", "변경하다"]
+  },
+  {
+    "word": "昼間",
+    "meaning_en": "daytime, during the day",
+    "furigana": "ひるま",
+    "meaning_ko": ["낮", "주간"]
+  },
+  {
+    "word": "神社",
+    "meaning_en": "Shinto shrine",
+    "furigana": "じんじゃ",
+    "meaning_ko": ["신사"]
+  },
+  {
+    "word": "食料品",
+    "meaning_en": "groceries",
+    "furigana": "しょくりょうひん",
+    "meaning_ko": ["식료품"]
+  },
+  {
+    "word": "丁寧",
+    "meaning_en": "polite",
+    "furigana": "ていねい",
+    "meaning_ko": ["정중한", "공손한"]
+  },
+  {
+    "word": "規則",
+    "meaning_en": "regulations",
+    "furigana": "きそく",
+    "meaning_ko": ["규칙", "규정"]
+  },
+  {
+    "word": "もうすぐ",
+    "meaning_en": "soon",
+    "furigana": "",
+    "meaning_ko": ["곧", "머지않아"]
+  },
+  {
+    "word": "絹",
+    "meaning_en": "silk",
+    "furigana": "きぬ",
+    "meaning_ko": ["비단", "실크"]
+  },
+  {
+    "word": "怒る",
+    "meaning_en": "to get angry, to be angry",
+    "furigana": "おこる",
+    "meaning_ko": ["화내다", "화나다"]
+  },
+  {
+    "word": "用",
+    "meaning_en": "use",
+    "furigana": "よう",
+    "meaning_ko": ["용도", "사용"]
+  },
+  {
+    "word": "致す",
+    "meaning_en": "(humble) to do",
+    "furigana": "いたす",
+    "meaning_ko": ["하다(겸양)"]
+  },
+  {
+    "word": "海岸",
+    "meaning_en": "coast",
+    "furigana": "かいがん",
+    "meaning_ko": ["해안", "해변"]
+  },
+  {
+    "word": "経済",
+    "meaning_en": "finance, economy",
+    "furigana": "けいざい",
+    "meaning_ko": ["경제", "금융"]
+  },
+  {
+    "word": "以上",
+    "meaning_en": "more than, this is all",
+    "furigana": "いじょう",
+    "meaning_ko": ["이상", "그 이상"]
+  },
+  {
+    "word": "掛ける",
+    "meaning_en": "to hang something",
+    "furigana": "かける",
+    "meaning_ko": ["걸다", "매달다"]
+  },
+  {
+    "word": "届ける",
+    "meaning_en": "to reach",
+    "furigana": "とどける",
+    "meaning_ko": ["전달하다", "도달하다"]
+  },
+  {
+    "word": "適当",
+    "meaning_en": "suitability",
+    "furigana": "てきとう",
+    "meaning_ko": ["적당함", "적합함"]
+  },
+  {
+    "word": "祖父",
+    "meaning_en": "grandfather",
+    "furigana": "そふ",
+    "meaning_ko": ["할아버지"]
+  },
+  {
+    "word": "研究室",
+    "meaning_en": "study room, laboratory",
+    "furigana": "けんきゅうしつ",
+    "meaning_ko": ["연구실"]
+  },
+  {
+    "word": "文学",
+    "meaning_en": "literature",
+    "furigana": "ぶんがく",
+    "meaning_ko": ["문학"]
+  },
+  {
+    "word": "生きる",
+    "meaning_en": "to live",
+    "furigana": "いきる",
+    "meaning_ko": ["살다", "생존하다"]
+  },
+  {
+    "word": "それほど",
+    "meaning_en": "to that extent",
+    "furigana": "",
+    "meaning_ko": ["그 정도로", "그렇게"]
+  },
+  {
+    "word": "うまい",
+    "meaning_en": "delicious",
+    "furigana": "",
+    "meaning_ko": ["맛있는", "훌륭한"]
+  },
+  {
+    "word": "ずいぶん",
+    "meaning_en": "extremely",
+    "furigana": "",
+    "meaning_ko": ["상당히", "매우"]
+  },
+  {
+    "word": "お・金持ち",
+    "meaning_en": "rich man",
+    "furigana": "かねもち / おかねもち",
+    "meaning_ko": ["부자", "돈 많은 사람"]
+  },
+  {
+    "word": "続く",
+    "meaning_en": "to be continued",
+    "furigana": "つづく",
+    "meaning_ko": ["계속되다", "이어지다"]
+  },
+  {
+    "word": "受付",
+    "meaning_en": "receipt",
+    "furigana": "うけつけ",
+    "meaning_ko": ["접수", "접수처"]
+  },
+  {
+    "word": "代わり",
+    "meaning_en": "substitute, alternate",
+    "furigana": "かわり",
+    "meaning_ko": ["대신", "대체"]
+  },
+  {
+    "word": "残る",
+    "meaning_en": "to remain",
+    "furigana": "のこる",
+    "meaning_ko": ["남다", "남음"]
+  },
+  {
+    "word": "世話",
+    "meaning_en": "to look after",
+    "furigana": "せわ・する",
+    "meaning_ko": ["돌보다", "보살핌"]
+  },
+  {
+    "word": "スーツケース",
+    "meaning_en": "suitcase",
+    "furigana": "",
+    "meaning_ko": ["여행가방", "캐리어"]
+  },
+  {
+    "word": "くれる",
+    "meaning_en": "to give",
+    "furigana": "",
+    "meaning_ko": ["주다"]
+  },
+  {
+    "word": "会話",
+    "meaning_en": "conversation",
+    "furigana": "かいわ",
+    "meaning_ko": ["대화", "회화"]
+  },
+  {
+    "word": "向かう",
+    "meaning_en": "to face",
+    "furigana": "むかう",
+    "meaning_ko": ["향하다", "마주보다"]
+  },
+  {
+    "word": "増える",
+    "meaning_en": "to increase",
+    "furigana": "ふえる",
+    "meaning_ko": ["증가하다", "늘어나다"]
+  },
+  {
+    "word": "紹介",
+    "meaning_en": "introduction",
+    "furigana": "しょうかい",
+    "meaning_ko": ["소개"]
+  },
+  {
+    "word": "だから",
+    "meaning_en": "so, therefore",
+    "furigana": "",
+    "meaning_ko": ["그래서", "그러므로"]
+  },
+  {
+    "word": "季節",
+    "meaning_en": "season",
+    "furigana": "きせつ",
+    "meaning_ko": ["계절"]
+  },
+  {
+    "word": "そんなに",
+    "meaning_en": "so much, like that",
+    "furigana": "",
+    "meaning_ko": ["그렇게 많이", "그 정도로"]
+  },
+  {
+    "word": "このあいだ",
+    "meaning_en": "the other day, recently",
+    "furigana": "",
+    "meaning_ko": ["요전", "최근"]
+  },
+  {
+    "word": "虫",
+    "meaning_en": "insect",
+    "furigana": "むし",
+    "meaning_ko": ["벌레", "곤충"]
+  },
+  {
+    "word": "祖母",
+    "meaning_en": "grandmother",
+    "furigana": "そぼ",
+    "meaning_ko": ["할머니"]
+  },
+  {
+    "word": "いらっしゃる",
+    "meaning_en": "(respectful) to be, to come or to go",
+    "furigana": "",
+    "meaning_ko": ["계시다", "오시다", "가시다"]
+  },
+  {
+    "word": "変",
+    "meaning_en": "strange",
+    "furigana": "へん",
+    "meaning_ko": ["이상한", "이상함"]
+  },
+  {
+    "word": "ぶどう",
+    "meaning_en": "grapes",
+    "furigana": "",
+    "meaning_ko": ["포도"]
+  },
+  {
+    "word": "直す",
+    "meaning_en": "to fix, to repair",
+    "furigana": "なおす",
+    "meaning_ko": ["고치다", "수리하다"]
+  },
+  {
+    "word": "世界",
+    "meaning_en": "the world",
+    "furigana": "せかい",
+    "meaning_ko": ["세계"]
+  },
+  {
+    "word": "食事",
+    "meaning_en": "to have a meal",
+    "furigana": "しょくじ・する",
+    "meaning_ko": ["식사하다", "식사"]
+  },
+  {
+    "word": "うそ",
+    "meaning_en": "a lie",
+    "furigana": "",
+    "meaning_ko": ["거짓말"]
+  },
+  {
+    "word": "合う",
+    "meaning_en": "to match",
+    "furigana": "あう",
+    "meaning_ko": ["맞다", "일치하다"]
+  },
+  {
+    "word": "小鳥",
+    "meaning_en": "small bird",
+    "furigana": "ことり",
+    "meaning_ko": ["작은 새", "작은 조류"]
+  },
+  {
+    "word": "電報",
+    "meaning_en": "telegram",
+    "furigana": "でんぽう",
+    "meaning_ko": ["전보"]
+  },
+  {
+    "word": "星",
+    "meaning_en": "star",
+    "furigana": "ほし",
+    "meaning_ko": ["별"]
+  },
+  {
+    "word": "申す",
+    "meaning_en": "(humble) to be called, to say",
+    "furigana": "もうす",
+    "meaning_ko": ["말씀드리다", "부르다(겸양)"]
+  },
+  {
+    "word": "失敗",
+    "meaning_en": "failure, mistake",
+    "furigana": "しっぱい",
+    "meaning_ko": ["실패", "실수"]
+  },
+  {
+    "word": "汽車",
+    "meaning_en": "steam train",
+    "furigana": "きしゃ",
+    "meaning_ko": ["기차", "증기기관차"]
+  },
+  {
+    "word": "下宿",
+    "meaning_en": "lodging",
+    "furigana": "げしゅく",
+    "meaning_ko": ["하숙"]
+  },
+  {
+    "word": "思う",
+    "meaning_en": "to think, to feel",
+    "furigana": "おもう",
+    "meaning_ko": ["생각하다", "느끼다"]
+  },
+  {
+    "word": "機会",
+    "meaning_en": "opportunity",
+    "furigana": "きかい",
+    "meaning_ko": ["기회"]
+  },
+  {
+    "word": "皆",
+    "meaning_en": "everybody",
+    "furigana": "みな",
+    "meaning_ko": ["모두", "모든 사람"]
+  },
+  {
+    "word": "苦い",
+    "meaning_en": "bitter",
+    "furigana": "にがい",
+    "meaning_ko": ["쓴", "씁쓸한"]
+  },
+  {
+    "word": "特に",
+    "meaning_en": "particularly, especially",
+    "furigana": "とくに",
+    "meaning_ko": ["특히", "특별히"]
+  },
+  {
+    "word": "乾く",
+    "meaning_en": "to get dry",
+    "furigana": "かわく",
+    "meaning_ko": ["마르다", "건조하다"]
+  },
+  {
+    "word": "葉",
+    "meaning_en": "leaf",
+    "furigana": "は",
+    "meaning_ko": ["잎", "잎사귀"]
+  },
+  {
+    "word": "かっこう",
+    "meaning_en": "appearance",
+    "furigana": "",
+    "meaning_ko": ["모습", "외모"]
+  },
+  {
+    "word": "昼休み",
+    "meaning_en": "noon break",
+    "furigana": "ひるやすみ",
+    "meaning_ko": ["점심시간", "정오 휴식"]
+  },
+  {
+    "word": "以下",
+    "meaning_en": "less than",
+    "furigana": "いか",
+    "meaning_ko": ["이하"]
+  },
+  {
+    "word": "彼ら",
+    "meaning_en": "they",
+    "furigana": "かれら",
+    "meaning_ko": ["그들"]
+  },
+  {
+    "word": "寄る",
+    "meaning_en": "to visit",
+    "furigana": "よる",
+    "meaning_ko": ["들르다", "방문하다"]
+  },
+  {
+    "word": "字",
+    "meaning_en": "character",
+    "furigana": "じ",
+    "meaning_ko": ["글자", "문자"]
+  },
+  {
+    "word": "厳しい",
+    "meaning_en": "strict",
+    "furigana": "きびしい",
+    "meaning_ko": ["엄격한", "엄한"]
+  },
+  {
+    "word": "優しい",
+    "meaning_en": "kind",
+    "furigana": "やさしい",
+    "meaning_ko": ["상냥한", "친절한"]
+  },
+  {
+    "word": "たいてい",
+    "meaning_en": "usually",
+    "furigana": "",
+    "meaning_ko": ["대개", "보통"]
+  },
+  {
+    "word": "花見",
+    "meaning_en": "cherry-blossom viewing",
+    "furigana": "はなみ",
+    "meaning_ko": ["꽃구경", "벚꽃놀이"]
+  },
+  {
+    "word": "注射",
+    "meaning_en": "injection",
+    "furigana": "ちゅうしゃ",
+    "meaning_ko": ["주사"]
+  },
+  {
+    "word": "大分",
+    "meaning_en": "greatly",
+    "furigana": "だいぶ",
+    "meaning_ko": ["상당히", "많이"]
+  },
+  {
+    "word": "ベル",
+    "meaning_en": "bell",
+    "furigana": "",
+    "meaning_ko": ["벨"]
+  },
+  {
+    "word": "景色",
+    "meaning_en": "scene, landscape",
+    "furigana": "けしき",
+    "meaning_ko": ["경치", "풍경"]
+  },
+  {
+    "word": "しかる",
+    "meaning_en": "a particular",
+    "furigana": "",
+    "meaning_ko": ["특정한", "특별한"]
+  },
+  {
+    "word": "日記",
+    "meaning_en": "journal",
+    "furigana": "にっき",
+    "meaning_ko": ["일기"]
+  },
+  {
+    "word": "お礼",
+    "meaning_en": "expression of gratitude",
+    "furigana": "おれい",
+    "meaning_ko": ["감사의 표현", "감사 인사"]
+  },
+  {
+    "word": "集る",
+    "meaning_en": "to gather",
+    "furigana": "あつまる",
+    "meaning_ko": ["모이다", "집합하다"]
+  },
+  {
+    "word": "大体",
+    "meaning_en": "generally",
+    "furigana": "だいたい",
+    "meaning_ko": ["대체로", "일반적으로"]
+  },
+  {
+    "word": "なるほど",
+    "meaning_en": "now I understand",
+    "furigana": "",
+    "meaning_ko": ["아하", "이해했다"]
+  },
+  {
+    "word": "公務員",
+    "meaning_en": "government worker",
+    "furigana": "こうむいん",
+    "meaning_ko": ["공무원"]
+  },
+  {
+    "word": "警察",
+    "meaning_en": "police",
+    "furigana": "けいさつ",
+    "meaning_ko": ["경찰"]
+  },
+  {
+    "word": "空気",
+    "meaning_en": "air, atmosphere",
+    "furigana": "くうき",
+    "meaning_ko": ["공기", "대기"]
+  },
+  {
+    "word": "周り",
+    "meaning_en": "surroundings",
+    "furigana": "まわり",
+    "meaning_ko": ["주변", "둘레"]
+  },
+  {
+    "word": "汚れる",
+    "meaning_en": "to get dirty",
+    "furigana": "よごれる",
+    "meaning_ko": ["더러워지다", "오염되다"]
+  },
+  {
+    "word": "約束",
+    "meaning_en": "promise",
+    "furigana": "やくそく",
+    "meaning_ko": ["약속"]
+  },
+  {
+    "word": "砂",
+    "meaning_en": "sand",
+    "furigana": "すな",
+    "meaning_ko": ["모래"]
+  },
+  {
+    "word": "笑う",
+    "meaning_en": "to laugh, to smile",
+    "furigana": "わらう",
+    "meaning_ko": ["웃다", "미소짓다"]
+  },
+  {
+    "word": "しっかり",
+    "meaning_en": "firmly, steadily",
+    "furigana": "",
+    "meaning_ko": ["단단히", "확실히"]
+  },
+  {
+    "word": "住所",
+    "meaning_en": "an address, a residence",
+    "furigana": "じゅうしょ",
+    "meaning_ko": ["주소", "거주지"]
+  },
+  {
+    "word": "すり",
+    "meaning_en": "pickpocket",
+    "furigana": "",
+    "meaning_ko": ["소매치기"]
+  },
+  {
+    "word": "注意",
+    "meaning_en": "caution",
+    "furigana": "ちゅうい",
+    "meaning_ko": ["주의", "경계"]
+  },
+  {
+    "word": "仕方",
+    "meaning_en": "method",
+    "furigana": "しかた",
+    "meaning_ko": ["방법", "수단"]
+  },
+  {
+    "word": "無理",
+    "meaning_en": "impossible",
+    "furigana": "むり",
+    "meaning_ko": ["무리", "불가능"]
+  },
+  {
+    "word": "触る",
+    "meaning_en": "to touch",
+    "furigana": "さわる",
+    "meaning_ko": ["만지다", "접촉하다"]
+  },
+  {
+    "word": "押し入れ",
+    "meaning_en": "closet",
+    "furigana": "おしいれ",
+    "meaning_ko": ["벽장", "옷장"]
+  },
+  {
+    "word": "さ来月",
+    "meaning_en": "the month after next",
+    "furigana": "さらいげつ",
+    "meaning_ko": ["다다음 달"]
+  },
+  {
+    "word": "ビル",
+    "meaning_en": "building or bill",
+    "furigana": "",
+    "meaning_ko": ["빌딩", "건물"]
+  },
+  {
+    "word": "歯医者",
+    "meaning_en": "dentist",
+    "furigana": "はいしゃ",
+    "meaning_ko": ["치과의사"]
+  },
+  {
+    "word": "知らせる",
+    "meaning_en": "to notify",
+    "furigana": "しらせる",
+    "meaning_ko": ["알리다", "통지하다"]
+  },
+  {
+    "word": "点",
+    "meaning_en": "point, dot",
+    "furigana": "てん",
+    "meaning_ko": ["점", "포인트"]
+  },
+  {
+    "word": "予定",
+    "meaning_en": "arrangement",
+    "furigana": "よてい",
+    "meaning_ko": ["예정", "계획"]
+  },
+  {
+    "word": "火事",
+    "meaning_en": "fire",
+    "furigana": "かじ",
+    "meaning_ko": ["화재", "불"]
+  },
+  {
+    "word": "出席",
+    "meaning_en": "to attend",
+    "furigana": "しゅっせき・する",
+    "meaning_ko": ["출석하다", "참석하다"]
+  },
+  {
+    "word": "壁",
+    "meaning_en": "wall",
+    "furigana": "かべ",
+    "meaning_ko": ["벽"]
+  },
+  {
+    "word": "植える",
+    "meaning_en": "to plant, to grow",
+    "furigana": "うえる",
+    "meaning_ko": ["심다", "재배하다"]
+  },
+  {
+    "word": "生産",
+    "meaning_en": "to produce",
+    "furigana": "せいさん・する",
+    "meaning_ko": ["생산하다", "제조하다"]
+  },
+  {
+    "word": "法律",
+    "meaning_en": "law",
+    "furigana": "ほうりつ",
+    "meaning_ko": ["법률", "법"]
+  },
+  {
+    "word": "見つかる",
+    "meaning_en": "to be discovered",
+    "furigana": "みつかる",
+    "meaning_ko": ["발견되다", "찾아지다"]
+  },
+  {
+    "word": "港",
+    "meaning_en": "harbour",
+    "furigana": "みなと",
+    "meaning_ko": ["항구"]
+  },
+  {
+    "word": "連れる",
+    "meaning_en": "to lead",
+    "furigana": "つれる",
+    "meaning_ko": ["데리다", "이끌다"]
+  },
+  {
+    "word": "見つける",
+    "meaning_en": "to discover",
+    "furigana": "みつける",
+    "meaning_ko": ["발견하다", "찾다"]
+  },
+  {
+    "word": "辞典",
+    "meaning_en": "dictionary",
+    "furigana": "じてん",
+    "meaning_ko": ["사전"]
+  },
+  {
+    "word": "乗り換える",
+    "meaning_en": "to change between buses or trains",
+    "furigana": "のりかえる",
+    "meaning_ko": ["환승하다", "갈아타다"]
+  },
+  {
+    "word": "役に立つ",
+    "meaning_en": "to be helpful",
+    "furigana": "やくにたつ",
+    "meaning_ko": ["도움이 되다", "유용하다"]
+  },
+  {
+    "word": "写す",
+    "meaning_en": "to copy or photograph",
+    "furigana": "うつす",
+    "meaning_ko": ["복사하다", "촬영하다"]
+  },
+  {
+    "word": "理由",
+    "meaning_en": "reason",
+    "furigana": "りゆう",
+    "meaning_ko": ["이유"]
+  },
+  {
+    "word": "たまに",
+    "meaning_en": "occasionally",
+    "furigana": "",
+    "meaning_ko": ["가끔", "이따금"]
+  },
+  {
+    "word": "プレゼント",
+    "meaning_en": "present",
+    "furigana": "",
+    "meaning_ko": ["선물"]
+  },
+  {
+    "word": "いっぱい",
+    "meaning_en": "full",
+    "furigana": "",
+    "meaning_ko": ["가득 찬", "가득하다"]
+  },
+  {
+    "word": "運動",
+    "meaning_en": "to exercise",
+    "furigana": "うんどう・する",
+    "meaning_ko": ["운동하다", "운동"]
+  },
+  {
+    "word": "見える",
+    "meaning_en": "to be in sight",
+    "furigana": "みえる",
+    "meaning_ko": ["보이다"]
+  },
+  {
+    "word": "申し上げる",
+    "meaning_en": "(humble) to say, to tell",
+    "furigana": "もうしあげる",
+    "meaning_ko": ["말씀드리다(겸양)"]
+  },
+  {
+    "word": "冷える",
+    "meaning_en": "to grow cold",
+    "furigana": "ひえる",
+    "meaning_ko": ["차가워지다", "식다"]
+  },
+  {
+    "word": "痩せる",
+    "meaning_en": "to become thin",
+    "furigana": "やせる",
+    "meaning_ko": ["마르다", "살이 빠지다"]
+  },
+  {
+    "word": "屋上",
+    "meaning_en": "rooftop",
+    "furigana": "おくじょう",
+    "meaning_ko": ["옥상"]
+  },
+  {
+    "word": "ステレオ",
+    "meaning_en": "stereo",
+    "furigana": "",
+    "meaning_ko": ["스테레오"]
+  },
+  {
+    "word": "そう",
+    "meaning_en": "really",
+    "furigana": "",
+    "meaning_ko": ["정말로", "진짜로"]
+  },
+  {
+    "word": "お土産",
+    "meaning_en": "souvenir",
+    "furigana": "おみやげ",
+    "meaning_ko": ["기념품", "선물"]
+  },
+  {
+    "word": "泥棒",
+    "meaning_en": "thief",
+    "furigana": "どろぼう",
+    "meaning_ko": ["도둑"]
+  },
+  {
+    "word": "お祭り",
+    "meaning_en": "festival",
+    "furigana": "おまつり",
+    "meaning_ko": ["축제"]
+  },
+  {
+    "word": "浅い",
+    "meaning_en": "shallow, superficial",
+    "furigana": "あさい",
+    "meaning_ko": ["얕은", "피상적인"]
+  },
+  {
+    "word": "お見舞い",
+    "meaning_en": "calling on someone who is ill, enquiry",
+    "furigana": "おみまい",
+    "meaning_ko": ["문병", "위문"]
+  },
+  {
+    "word": "アルバイト",
+    "meaning_en": "part-time job",
+    "furigana": "",
+    "meaning_ko": ["아르바이트", "파트타임"]
+  },
+  {
+    "word": "おつり",
+    "meaning_en": "change from purchase, balance",
+    "furigana": "",
+    "meaning_ko": ["거스름돈"]
+  },
+  {
+    "word": "輸入",
+    "meaning_en": "to import",
+    "furigana": "ゆにゅう・する",
+    "meaning_ko": ["수입하다", "수입"]
+  },
+  {
+    "word": "人口",
+    "meaning_en": "population",
+    "furigana": "じんこう",
+    "meaning_ko": ["인구"]
+  },
+  {
+    "word": "興味",
+    "meaning_en": "an interest",
+    "furigana": "きょうみ",
+    "meaning_ko": ["흥미", "관심"]
+  },
+  {
+    "word": "時代",
+    "meaning_en": "era",
+    "furigana": "じだい",
+    "meaning_ko": ["시대"]
+  },
+  {
+    "word": "特急",
+    "meaning_en": "limited express train (faster than an express train)",
+    "furigana": "とっきゅう",
+    "meaning_ko": ["특급열차"]
+  },
+  {
+    "word": "腕",
+    "meaning_en": "arm",
+    "furigana": "うで",
+    "meaning_ko": ["팔"]
+  },
+  {
+    "word": "気分",
+    "meaning_en": "mood",
+    "furigana": "きぶん",
+    "meaning_ko": ["기분"]
+  },
+  {
+    "word": "上る",
+    "meaning_en": "to rise",
+    "furigana": "あがる",
+    "meaning_ko": ["오르다", "상승하다"]
+  },
+  {
+    "word": "いただく",
+    "meaning_en": "(humble) to receive",
+    "furigana": "",
+    "meaning_ko": ["받다(겸양)"]
+  },
+  {
+    "word": "泊まる",
+    "meaning_en": "to lodge at",
+    "furigana": "とまる",
+    "meaning_ko": ["숙박하다", "묵다"]
+  },
+  {
+    "word": "盗む",
+    "meaning_en": "to steal",
+    "furigana": "ぬすむ",
+    "meaning_ko": ["훔치다", "도둑질하다"]
+  },
+  {
+    "word": "ひげ",
+    "meaning_en": "beard",
+    "furigana": "",
+    "meaning_ko": ["수염"]
+  },
+  {
+    "word": "坂",
+    "meaning_en": "slope, hill",
+    "furigana": "さか",
+    "meaning_ko": ["언덕", "비탈"]
+  },
+  {
+    "word": "よろしい",
+    "meaning_en": "(respectful) OK, all right",
+    "furigana": "",
+    "meaning_ko": ["좋다(존경)", "괜찮다"]
+  },
+  {
+    "word": "技術",
+    "meaning_en": "art, technology, skill",
+    "furigana": "ぎじゅつ",
+    "meaning_ko": ["기술", "기능"]
+  },
+  {
+    "word": "為",
+    "meaning_en": "in order to",
+    "furigana": "ため",
+    "meaning_ko": ["위해", "~하기 위해"]
+  },
+  {
+    "word": "小説",
+    "meaning_en": "novel",
+    "furigana": "しょうせつ",
+    "meaning_ko": ["소설"]
+  },
+  {
+    "word": "調べる",
+    "meaning_en": "to investigate",
+    "furigana": "しらべる",
+    "meaning_ko": ["조사하다", "살피다"]
+  },
+  {
+    "word": "趣味",
+    "meaning_en": "hobby",
+    "furigana": "しゅみ",
+    "meaning_ko": ["취미"]
+  },
+  {
+    "word": "運転手",
+    "meaning_en": "driver",
+    "furigana": "うんてんしゅ",
+    "meaning_ko": ["운전사", "기사"]
+  },
+  {
+    "word": "深い",
+    "meaning_en": "deep",
+    "furigana": "ふかい",
+    "meaning_ko": ["깊은"]
+  },
+  {
+    "word": "林",
+    "meaning_en": "woods, forester",
+    "furigana": "はやし",
+    "meaning_ko": ["숲", "삼림"]
+  },
+  {
+    "word": "小学校",
+    "meaning_en": "elementary school",
+    "furigana": "しょうがっこう",
+    "meaning_ko": ["초등학교"]
+  },
+  {
+    "word": "まず",
+    "meaning_en": "first of all",
+    "furigana": "",
+    "meaning_ko": ["우선", "먼저"]
+  },
+  {
+    "word": "気持ち",
+    "meaning_en": "feeling, mood",
+    "furigana": "きもち",
+    "meaning_ko": ["기분", "감정"]
+  },
+  {
+    "word": "思い出す",
+    "meaning_en": "to remember",
+    "furigana": "おもいだす",
+    "meaning_ko": ["기억하다", "생각해내다"]
+  },
+  {
+    "word": "留守",
+    "meaning_en": "absence",
+    "furigana": "るす",
+    "meaning_ko": ["부재", "집을 비움"]
+  },
+  {
+    "word": "続ける",
+    "meaning_en": "to continue",
+    "furigana": "つづける",
+    "meaning_ko": ["계속하다", "이어가다"]
+  },
+  {
+    "word": "草",
+    "meaning_en": "grass",
+    "furigana": "くさ",
+    "meaning_ko": ["풀", "잔디"]
+  },
+  {
+    "word": "途中",
+    "meaning_en": "on the way",
+    "furigana": "とちゅう",
+    "meaning_ko": ["도중", "가는 길"]
+  },
+  {
+    "word": "できるだけ",
+    "meaning_en": "as much as possible",
+    "furigana": "",
+    "meaning_ko": ["될 수 있는 한", "가능한 한"]
+  },
+  {
+    "word": "お宅",
+    "meaning_en": "(polite) your house",
+    "furigana": "おたく",
+    "meaning_ko": ["댁", "집(존칭)"]
+  },
+  {
+    "word": "召し上がる",
+    "meaning_en": "(polite) to eat",
+    "furigana": "めしあがる",
+    "meaning_ko": ["드시다(존경)"]
+  },
+  {
+    "word": "悲しい",
+    "meaning_en": "sad",
+    "furigana": "かなしい",
+    "meaning_ko": ["슬픈"]
+  },
+  {
+    "word": "子",
+    "meaning_en": "child",
+    "furigana": "こ",
+    "meaning_ko": ["아이", "자식"]
+  },
+  {
+    "word": "運転",
+    "meaning_en": "to drive",
+    "furigana": "うんてん・する",
+    "meaning_ko": ["운전하다", "운전"]
+  },
+  {
+    "word": "はっきり",
+    "meaning_en": "clearly",
+    "furigana": "",
+    "meaning_ko": ["분명히", "확실히"]
+  },
+  {
+    "word": "折る",
+    "meaning_en": "to break or to fold",
+    "furigana": "おる",
+    "meaning_ko": ["꺾다", "접다"]
+  },
+  {
+    "word": "今度",
+    "meaning_en": "now, next time",
+    "furigana": "こんど",
+    "meaning_ko": ["이번", "다음 번"]
+  },
+  {
+    "word": "アフリカ",
+    "meaning_en": "Africa",
+    "furigana": "",
+    "meaning_ko": ["아프리카"]
+  },
+  {
+    "word": "壊れる",
+    "meaning_en": "to be broken",
+    "furigana": "こわれる",
+    "meaning_ko": ["고장나다", "부서지다"]
+  },
+  {
+    "word": "番組",
+    "meaning_en": "television or radio program",
+    "furigana": "ばんぐみ",
+    "meaning_ko": ["프로그램", "방송"]
+  },
+  {
+    "word": "捕まえる",
+    "meaning_en": "to seize",
+    "furigana": "つかまえる",
+    "meaning_ko": ["잡다", "붙잡다"]
+  },
+  {
+    "word": "タイプ",
+    "meaning_en": "type, style",
+    "furigana": "",
+    "meaning_ko": ["타입", "유형"]
+  },
+  {
+    "word": "毛",
+    "meaning_en": "hair or fur",
+    "furigana": "け",
+    "meaning_ko": ["털", "머리카락"]
+  },
+  {
+    "word": "落る",
+    "meaning_en": "to fall or drop",
+    "furigana": "おちる",
+    "meaning_ko": ["떨어지다", "낙하하다"]
+  },
+  {
+    "word": "場合",
+    "meaning_en": "situation",
+    "furigana": "ばあい",
+    "meaning_ko": ["경우", "상황"]
+  },
+  {
+    "word": "意見",
+    "meaning_en": "opinion",
+    "furigana": "いけん",
+    "meaning_ko": ["의견"]
+  },
+  {
+    "word": "通る",
+    "meaning_en": "to go through",
+    "furigana": "とおる",
+    "meaning_ko": ["지나가다", "통과하다"]
+  },
+  {
+    "word": "着物",
+    "meaning_en": "kimono",
+    "furigana": "きもの",
+    "meaning_ko": ["기모노", "일본 전통 옷"]
+  },
+  {
+    "word": "森",
+    "meaning_en": "forest",
+    "furigana": "もり",
+    "meaning_ko": ["숲", "삼림"]
+  },
+  {
+    "word": "市",
+    "meaning_en": "city",
+    "furigana": "し",
+    "meaning_ko": ["도시", "시"]
+  },
+  {
+    "word": "ほど",
+    "meaning_en": "extent",
+    "furigana": "",
+    "meaning_ko": ["정도", "범위"]
+  },
+  {
+    "word": "入院",
+    "meaning_en": "to hospitalise",
+    "furigana": "にゅういん・する",
+    "meaning_ko": ["입원하다"]
+  },
+  {
+    "word": "カーテン",
+    "meaning_en": "curtain",
+    "furigana": "",
+    "meaning_ko": ["커튼"]
+  },
+  {
+    "word": "動く",
+    "meaning_en": "to move",
+    "furigana": "うごく",
+    "meaning_ko": ["움직이다", "이동하다"]
+  },
+  {
+    "word": "ぜひ",
+    "meaning_en": "without fail",
+    "furigana": "",
+    "meaning_ko": ["꼭", "반드시"]
+  },
+  {
+    "word": "すばらしい",
+    "meaning_en": "wonderful",
+    "furigana": "",
+    "meaning_ko": ["훌륭한", "멋진"]
+  },
+  {
+    "word": "参る",
+    "meaning_en": "(humble) to go, to come",
+    "furigana": "まいる",
+    "meaning_ko": ["가다(겸양)", "오다(겸양)"]
+  },
+  {
+    "word": "ねっしん",
+    "meaning_en": "enthusiasm",
+    "furigana": "",
+    "meaning_ko": ["열정", "열심"]
+  },
+  {
+    "word": "講堂",
+    "meaning_en": "auditorium",
+    "furigana": "こうどう",
+    "meaning_ko": ["강당"]
+  },
+  {
+    "word": "もし",
+    "meaning_en": "if",
+    "furigana": "",
+    "meaning_ko": ["만약"]
+  },
+  {
+    "word": "ぬれる",
+    "meaning_en": "to get wet",
+    "furigana": "",
+    "meaning_ko": ["젖다"]
+  },
+  {
+    "word": "非常に",
+    "meaning_en": "extremely",
+    "furigana": "ひじょうに",
+    "meaning_ko": ["매우", "대단히"]
+  },
+  {
+    "word": "文法",
+    "meaning_en": "grammar",
+    "furigana": "ぶんぽう",
+    "meaning_ko": ["문법"]
+  },
+  {
+    "word": "表",
+    "meaning_en": "the front",
+    "furigana": "おもて",
+    "meaning_ko": ["앞면", "표면"]
+  },
+  {
+    "word": "おっしゃる",
+    "meaning_en": "(respectful) to say",
+    "furigana": "",
+    "meaning_ko": ["말씀하시다(존경)"]
+  },
+  {
+    "word": "西洋",
+    "meaning_en": "western countries",
+    "furigana": "せいよう",
+    "meaning_ko": ["서양"]
+  },
+  {
+    "word": "両方",
+    "meaning_en": "both sides",
+    "furigana": "りょうほう",
+    "meaning_ko": ["양쪽", "양방향"]
+  },
+  {
+    "word": "払う",
+    "meaning_en": "to pay",
+    "furigana": "はらう",
+    "meaning_ko": ["지불하다", "내다"]
+  },
+  {
+    "word": "地理",
+    "meaning_en": "geography",
+    "furigana": "ちり",
+    "meaning_ko": ["지리"]
+  },
+  {
+    "word": "あかちゃん",
+    "meaning_en": "infant",
+    "furigana": "",
+    "meaning_ko": ["아기", "영아"]
+  },
+  {
+    "word": "似る",
+    "meaning_en": "to be similar",
+    "furigana": "にる",
+    "meaning_ko": ["닮다", "비슷하다"]
+  },
+  {
+    "word": "踊る",
+    "meaning_en": "to dance",
+    "furigana": "おどる",
+    "meaning_ko": ["춤추다"]
+  },
+  {
+    "word": "うれしい",
+    "meaning_en": "glad",
+    "furigana": "",
+    "meaning_ko": ["기쁘다"]
+  },
+  {
+    "word": "事故",
+    "meaning_en": "accident",
+    "furigana": "じこ",
+    "meaning_ko": ["사고"]
+  },
+  {
+    "word": "さっき",
+    "meaning_en": "some time ago",
+    "furigana": "",
+    "meaning_ko": ["아까", "조금 전"]
+  },
+  {
+    "word": "赤ん坊",
+    "meaning_en": "baby",
+    "furigana": "あかんぼう",
+    "meaning_ko": ["아기", "영아"]
+  },
+  {
+    "word": "寂しい",
+    "meaning_en": "lonely",
+    "furigana": "さびしい",
+    "meaning_ko": ["외로운", "쓸쓸한"]
+  },
+  {
+    "word": "複雑",
+    "meaning_en": "complexity, complication",
+    "furigana": "ふくざつ",
+    "meaning_ko": ["복잡함", "복잡한"]
+  },
+  {
+    "word": "眠る",
+    "meaning_en": "to sleep",
+    "furigana": "ねむる",
+    "meaning_ko": ["잠들다", "자다"]
+  },
+  {
+    "word": "近所",
+    "meaning_en": "neighbourhood",
+    "furigana": "きんじょ",
+    "meaning_ko": ["근처", "이웃"]
+  },
+  {
+    "word": "ごみ",
+    "meaning_en": "rubbish",
+    "furigana": "",
+    "meaning_ko": ["쓰레기"]
+  },
+  {
+    "word": "例えば",
+    "meaning_en": "for example",
+    "furigana": "たとえば",
+    "meaning_ko": ["예를 들어"]
+  },
+  {
+    "word": "チェック・する",
+    "meaning_en": "to check",
+    "furigana": "",
+    "meaning_ko": ["확인하다", "점검하다"]
+  },
+  {
+    "word": "御主人",
+    "meaning_en": "(honorable) your husband",
+    "furigana": "ごしゅじん",
+    "meaning_ko": ["남편(존칭)"]
+  },
+  {
+    "word": "テキスト",
+    "meaning_en": "text, text book",
+    "furigana": "",
+    "meaning_ko": ["텍스트", "교과서"]
+  },
+  {
+    "word": "ごちそう",
+    "meaning_en": "a feast",
+    "furigana": "",
+    "meaning_ko": ["진수성찬", "잔치"]
+  },
+  {
+    "word": "起す",
+    "meaning_en": "to wake",
+    "furigana": "おこす",
+    "meaning_ko": ["깨우다", "일으키다"]
+  },
+  {
+    "word": "テニス",
+    "meaning_en": "tennis",
+    "furigana": "",
+    "meaning_ko": ["테니스"]
+  },
+  {
+    "word": "パソコン",
+    "meaning_en": "personal computer",
+    "furigana": "",
+    "meaning_ko": ["컴퓨터", "PC"]
+  },
+  {
+    "word": "研究",
+    "meaning_en": "research",
+    "furigana": "けんきゅう",
+    "meaning_ko": ["연구"]
+  },
+  {
+    "word": "聞こえる",
+    "meaning_en": "to be heard",
+    "furigana": "きこえる",
+    "meaning_ko": ["들리다"]
+  },
+  {
+    "word": "間違える",
+    "meaning_en": "to make a mistake",
+    "furigana": "まちがえる",
+    "meaning_ko": ["실수하다", "잘못하다"]
+  },
+  {
+    "word": "看護婦",
+    "meaning_en": "female nurse",
+    "furigana": "かんごふ",
+    "meaning_ko": ["여자 간호사"]
+  },
+  {
+    "word": "会議室",
+    "meaning_en": "meeting room",
+    "furigana": "かいぎしつ",
+    "meaning_ko": ["회의실"]
+  },
+  {
+    "word": "とこや",
+    "meaning_en": "barber",
+    "furigana": "",
+    "meaning_ko": ["이발소", "이발사"]
+  },
+  {
+    "word": "試合",
+    "meaning_en": "match, game",
+    "furigana": "しあい",
+    "meaning_ko": ["시합", "경기"]
+  },
+  {
+    "word": "止む",
+    "meaning_en": "to stop",
+    "furigana": "やむ",
+    "meaning_ko": ["멈추다", "그치다"]
+  },
+  {
+    "word": "のど",
+    "meaning_en": "throat",
+    "furigana": "",
+    "meaning_ko": ["목구멍", "목"]
+  },
+  {
+    "word": "戦争",
+    "meaning_en": "war",
+    "furigana": "せんそう",
+    "meaning_ko": ["전쟁"]
+  },
+  {
+    "word": "降り出す",
+    "meaning_en": "to start to rain",
+    "furigana": "ふりだす",
+    "meaning_ko": ["비가 내리기 시작하다"]
+  },
+  {
+    "word": "コンピュータ / コンピューター",
+    "meaning_en": "computer",
+    "furigana": "",
+    "meaning_ko": ["컴퓨터"]
+  },
+  {
+    "word": "盛ん",
+    "meaning_en": "popularity, prosperous",
+    "furigana": "さかん",
+    "meaning_ko": ["번성함", "인기 있음"]
+  },
+  {
+    "word": "取り替える",
+    "meaning_en": "to exchange",
+    "furigana": "とりかえる",
+    "meaning_ko": ["교환하다", "바꾸다"]
+  },
+  {
+    "word": "支度",
+    "meaning_en": "to prepare",
+    "furigana": "したく・する",
+    "meaning_ko": ["준비하다", "채비하다"]
+  },
+  {
+    "word": "社会",
+    "meaning_en": "society, public",
+    "furigana": "しゃかい",
+    "meaning_ko": ["사회", "공공"]
+  },
+  {
+    "word": "沸く",
+    "meaning_en": "to boil, to grow hot, to get excited",
+    "furigana": "わく",
+    "meaning_ko": ["끓다", "흥분하다"]
+  },
+  {
+    "word": "ちっとも",
+    "meaning_en": "not at all (used with a negative verb)",
+    "furigana": "",
+    "meaning_ko": ["전혀", "조금도"]
+  },
+  {
+    "word": "おかげ",
+    "meaning_en": "owing to",
+    "furigana": "",
+    "meaning_ko": ["덕분에"]
+  },
+  {
+    "word": "ステーキ",
+    "meaning_en": "steak",
+    "furigana": "",
+    "meaning_ko": ["스테이크"]
+  },
+  {
+    "word": "消しゴム",
+    "meaning_en": "eraser",
+    "furigana": "けしゴム",
+    "meaning_ko": ["지우개"]
+  },
+  {
+    "word": "遠慮",
+    "meaning_en": "to be reserved, to be restrained",
+    "furigana": "えんりょ・する",
+    "meaning_ko": ["사양하다", "삼가다"]
+  },
+  {
+    "word": "工場",
+    "meaning_en": "factory",
+    "furigana": "こうじょう",
+    "meaning_ko": ["공장"]
+  },
+  {
+    "word": "僕",
+    "meaning_en": "I (used by males)",
+    "furigana": "ぼく",
+    "meaning_ko": ["나(남성)"]
+  },
+  {
+    "word": "招待",
+    "meaning_en": "to invite",
+    "furigana": "しょうたい・する",
+    "meaning_ko": ["초대하다", "초청하다"]
+  },
+  {
+    "word": "彼",
+    "meaning_en": "he, boyfriend",
+    "furigana": "かれ",
+    "meaning_ko": ["그", "남자친구"]
+  },
+  {
+    "word": "妻",
+    "meaning_en": "(humble) wife",
+    "furigana": "つま",
+    "meaning_ko": ["아내(겸양)"]
+  },
+  {
+    "word": "石",
+    "meaning_en": "stone",
+    "furigana": "いし",
+    "meaning_ko": ["돌"]
+  },
+  {
+    "word": "簡単",
+    "meaning_en": "simple",
+    "furigana": "かんたん",
+    "meaning_ko": ["간단한", "쉬운"]
+  },
+  {
+    "word": "残念",
+    "meaning_en": "disappointment",
+    "furigana": "ざんねん",
+    "meaning_ko": ["유감", "아쉬움"]
+  },
+  {
+    "word": "혈",
+    "meaning_en": "blood",
+    "furigana": "ち",
+    "meaning_ko": ["피", "혈액"]
+  },
+  {
+    "word": "ピア노",
+    "meaning_en": "piano",
+    "furigana": "",
+    "meaning_ko": ["피아노"]
+  },
+  {
+    "word": "おかしい",
+    "meaning_en": "strange or funny",
+    "furigana": "",
+    "meaning_ko": ["이상한", "우스운"]
+  },
+  {
+    "word": "家内",
+    "meaning_en": "housewife",
+    "furigana": "かない",
+    "meaning_ko": ["아내", "주부"]
+  },
+  {
+    "word": "試験",
+    "meaning_en": "examination",
+    "furigana": "しけん",
+    "meaning_ko": ["시험"]
+  },
+  {
+    "word": "布団",
+    "meaning_en": "Japanese bedding, futon",
+    "furigana": "ふとん",
+    "meaning_ko": ["이불", "후톤"]
+  },
+  {
+    "word": "枝",
+    "meaning_en": "branch, twig",
+    "furigana": "えだ",
+    "meaning_ko": ["가지", "나뭇가지"]
+  },
+  {
+    "word": "二階建て",
+    "meaning_en": "two storied",
+    "furigana": "にかいだて",
+    "meaning_ko": ["2층 건물"]
+  },
+  {
+    "word": "大学生",
+    "meaning_en": "university student",
+    "furigana": "だいがくせい",
+    "meaning_ko": ["대학생"]
+  },
+  {
+    "word": "楽む",
+    "meaning_en": "to enjoy oneself",
+    "furigana": "たのしむ",
+    "meaning_ko": ["즐기다", "재미있게 보내다"]
+  },
+  {
+    "word": "遠く",
+    "meaning_en": "distant",
+    "furigana": "とおく",
+    "meaning_ko": ["먼", "멀리"]
+  },
+  {
+    "word": "今夜",
+    "meaning_en": "tonight",
+    "furigana": "こんや",
+    "meaning_ko": ["오늘 밤"]
+  },
+  {
+    "word": "決める",
+    "meaning_en": "to decide",
+    "furigana": "きめる",
+    "meaning_ko": ["결정하다", "정하다"]
+  },
+  {
+    "word": "なるべく",
+    "meaning_en": "as much as possible",
+    "furigana": "",
+    "meaning_ko": ["가능한 한", "될 수 있으면"]
+  },
+  {
+    "word": "引き出す",
+    "meaning_en": "to withdraw",
+    "furigana": "ひきだす",
+    "meaning_ko": ["인출하다", "꺼내다"]
+  },
+  {
+    "word": "明日",
+    "meaning_en": "tomorrow",
+    "furigana": "あす",
+    "meaning_ko": ["내일"]
+  },
+  {
+    "word": "割れる",
+    "meaning_en": "to break",
+    "furigana": "われる",
+    "meaning_ko": ["깨지다", "부서지다"]
+  },
+  {
+    "word": "田舎",
+    "meaning_en": "countryside",
+    "furigana": "いなか",
+    "meaning_ko": ["시골", "농촌"]
+  },
+  {
+    "word": "寺",
+    "meaning_en": "temple",
+    "furigana": "てら",
+    "meaning_ko": ["절", "사원"]
+  },
+  {
+    "word": "釣る",
+    "meaning_en": "to fish",
+    "furigana": "つる",
+    "meaning_ko": ["낚시하다"]
+  },
+  {
+    "word": "建てる",
+    "meaning_en": "to build",
+    "furigana": "たてる",
+    "meaning_ko": ["짓다", "건설하다"]
+  },
+  {
+    "word": "久しぶり",
+    "meaning_en": "after a long time",
+    "furigana": "ひさしぶり",
+    "meaning_ko": ["오랜만"]
+  },
+  {
+    "word": "男性",
+    "meaning_en": "male",
+    "furigana": "だんせい",
+    "meaning_ko": ["남성"]
+  },
+  {
+    "word": "割合",
+    "meaning_en": "rate, ratio, percentage",
+    "furigana": "わりあい",
+    "meaning_ko": ["비율", "비례"]
+  },
+  {
+    "word": "相談",
+    "meaning_en": "to discuss",
+    "furigana": "そうだん・する",
+    "meaning_ko": ["상담하다", "의논하다"]
+  },
+  {
+    "word": "足す",
+    "meaning_en": "to add a number",
+    "furigana": "たす",
+    "meaning_ko": ["더하다", "합산하다"]
+  },
+  {
+    "word": "社長",
+    "meaning_en": "company president",
+    "furigana": "しゃちょう",
+    "meaning_ko": ["사장"]
+  },
+  {
+    "word": "研究室",
+    "meaning_en": "study room, laboratory",
+    "furigana": "けんきゅうしつ",
+    "meaning_ko": ["연구실"]
+  },
+  {
+    "word": "文学",
+    "meaning_en": "literature",
+    "furigana": "ぶんがく",
+    "meaning_ko": ["문학"]
+  },
+  {
+    "word": "生きる",
+    "meaning_en": "to live",
+    "furigana": "いきる",
+    "meaning_ko": ["살다", "생존하다"]
+  },
+  {
+    "word": "それほど",
+    "meaning_en": "to that extent",
+    "furigana": "",
+    "meaning_ko": ["그 정도로", "그렇게"]
+  },
+  {
+    "word": "うまい",
+    "meaning_en": "delicious",
+    "furigana": "",
+    "meaning_ko": ["맛있는", "훌륭한"]
+  },
+  {
+    "word": "ずいぶん",
+    "meaning_en": "extremely",
+    "furigana": "",
+    "meaning_ko": ["상당히", "매우"]
+  },
+  {
+    "word": "お・金持ち",
+    "meaning_en": "rich man",
+    "furigana": "かねもち / おかねもち",
+    "meaning_ko": ["부자", "돈 많은 사람"]
+  },
+  {
+    "word": "続く",
+    "meaning_en": "to be continued",
+    "furigana": "つづく",
+    "meaning_ko": ["계속되다", "이어지다"]
+  },
+  {
+    "word": "受付",
+    "meaning_en": "receipt",
+    "furigana": "うけつけ",
+    "meaning_ko": ["접수", "접수처"]
+  },
+  {
+    "word": "代わり",
+    "meaning_en": "substitute, alternate",
+    "furigana": "かわり",
+    "meaning_ko": ["대신", "대체"]
+  },
+  {
+    "word": "残る",
+    "meaning_en": "to remain",
+    "furigana": "のこる",
+    "meaning_ko": ["남다", "남음"]
+  },
+  {
+    "word": "世話",
+    "meaning_en": "to look after",
+    "furigana": "せわ・する",
+    "meaning_ko": ["돌보다", "보살핌"]
+  },
+  {
+    "word": "スーツケース",
+    "meaning_en": "suitcase",
+    "furigana": "",
+    "meaning_ko": ["여행가방", "캐리어"]
+  },
+  {
+    "word": "くれる",
+    "meaning_en": "to give",
+    "furigana": "",
+    "meaning_ko": ["주다"]
+  },
+  {
+    "word": "会話",
+    "meaning_en": "conversation",
+    "furigana": "かいわ",
+    "meaning_ko": ["대화", "회화"]
+  },
+  {
+    "word": "向かう",
+    "meaning_en": "to face",
+    "furigana": "むかう",
+    "meaning_ko": ["향하다", "마주보다"]
+  },
+  {
+    "word": "増える",
+    "meaning_en": "to increase",
+    "furigana": "ふえる",
+    "meaning_ko": ["증가하다", "늘어나다"]
+  },
+  {
+    "word": "紹介",
+    "meaning_en": "introduction",
+    "furigana": "しょうかい",
+    "meaning_ko": ["소개"]
+  },
+  {
+    "word": "だから",
+    "meaning_en": "so, therefore",
+    "furigana": "",
+    "meaning_ko": ["그래서", "그러므로"]
+  },
+  {
+    "word": "季節",
+    "meaning_en": "season",
+    "furigana": "きせつ",
+    "meaning_ko": ["계절"]
+  },
+  {
+    "word": "そんなに",
+    "meaning_en": "so much, like that",
+    "furigana": "",
+    "meaning_ko": ["그렇게 많이", "그 정도로"]
+  },
+  {
+    "word": "このあいだ",
+    "meaning_en": "the other day, recently",
+    "furigana": "",
+    "meaning_ko": ["요전", "최근"]
+  },
+  {
+    "word": "虫",
+    "meaning_en": "insect",
+    "furigana": "むし",
+    "meaning_ko": ["벌레", "곤충"]
+  },
+  {
+    "word": "祖母",
+    "meaning_en": "grandmother",
+    "furigana": "そぼ",
+    "meaning_ko": ["할머니"]
+  },
+  {
+    "word": "いらっしゃる",
+    "meaning_en": "(respectful) to be, to come or to go",
+    "furigana": "",
+    "meaning_ko": ["계시다", "오시다", "가시다"]
+  },
+  {
+    "word": "変",
+    "meaning_en": "strange",
+    "furigana": "へん",
+    "meaning_ko": ["이상한", "이상함"]
+  },
+  {
+    "word": "ぶどう",
+    "meaning_en": "grapes",
+    "furigana": "",
+    "meaning_ko": ["포도"]
+  },
+  {
+    "word": "直す",
+    "meaning_en": "to fix, to repair",
+    "furigana": "なおす",
+    "meaning_ko": ["고치다", "수리하다"]
+  },
+  {
+    "word": "世界",
+    "meaning_en": "the world",
+    "furigana": "せかい",
+    "meaning_ko": ["세계"]
+  },
+  {
+    "word": "食事",
+    "meaning_en": "to have a meal",
+    "furigana": "しょくじ・する",
+    "meaning_ko": ["식사하다", "식사"]
+  },
+  {
+    "word": "うそ",
+    "meaning_en": "a lie",
+    "furigana": "",
+    "meaning_ko": ["거짓말"]
+  },
+  {
+    "word": "合う",
+    "meaning_en": "to match",
+    "furigana": "あう",
+    "meaning_ko": ["맞다", "일치하다"]
+  },
+  {
+    "word": "小鳥",
+    "meaning_en": "small bird",
+    "furigana": "ことり",
+    "meaning_ko": ["작은 새", "작은 조류"]
+  },
+  {
+    "word": "電報",
+    "meaning_en": "telegram",
+    "furigana": "でんぽう",
+    "meaning_ko": ["전보"]
+  },
+  {
+    "word": "星",
+    "meaning_en": "star",
+    "furigana": "ほし",
+    "meaning_ko": ["별"]
+  },
+  {
+    "word": "申す",
+    "meaning_en": "(humble) to be called, to say",
+    "furigana": "もうす",
+    "meaning_ko": ["말씀드리다", "부르다(겸양)"]
+  },
+  {
+    "word": "失敗",
+    "meaning_en": "failure, mistake",
+    "furigana": "しっぱい",
+    "meaning_ko": ["실패", "실수"]
+  },
+  {
+    "word": "汽車",
+    "meaning_en": "steam train",
+    "furigana": "きしゃ",
+    "meaning_ko": ["기차", "증기기관차"]
+  },
+  {
+    "word": "下宿",
+    "meaning_en": "lodging",
+    "furigana": "げしゅく",
+    "meaning_ko": ["하숙"]
+  },
+  {
+    "word": "思う",
+    "meaning_en": "to think, to feel",
+    "furigana": "おもう",
+    "meaning_ko": ["생각하다", "느끼다"]
+  },
+  {
+    "word": "機会",
+    "meaning_en": "opportunity",
+    "furigana": "きかい",
+    "meaning_ko": ["기회"]
+  },
+  {
+    "word": "皆",
+    "meaning_en": "everybody",
+    "furigana": "みな",
+    "meaning_ko": ["모두", "모든 사람"]
+  },
+  {
+    "word": "苦い",
+    "meaning_en": "bitter",
+    "furigana": "にがい",
+    "meaning_ko": ["쓴", "씁쓸한"]
+  },
+  {
+    "word": "特に",
+    "meaning_en": "particularly, especially",
+    "furigana": "とくに",
+    "meaning_ko": ["특히", "특별히"]
+  },
+  {
+    "word": "乾く",
+    "meaning_en": "to get dry",
+    "furigana": "かわく",
+    "meaning_ko": ["마르다", "건조하다"]
+  },
+  {
+    "word": "葉",
+    "meaning_en": "leaf",
+    "furigana": "は",
+    "meaning_ko": ["잎", "잎사귀"]
+  },
+  {
+    "word": "かっこう",
+    "meaning_en": "appearance",
+    "furigana": "",
+    "meaning_ko": ["모습", "외모"]
+  },
+  {
+    "word": "昼休み",
+    "meaning_en": "noon break",
+    "furigana": "ひるやすみ",
+    "meaning_ko": ["점심시간", "정오 휴식"]
+  },
+  {
+    "word": "以下",
+    "meaning_en": "less than",
+    "furigana": "いか",
+    "meaning_ko": ["이하"]
+  },
+  {
+    "word": "彼ら",
+    "meaning_en": "they",
+    "furigana": "かれら",
+    "meaning_ko": ["그들"]
+  },
+  {
+    "word": "寄る",
+    "meaning_en": "to visit",
+    "furigana": "よる",
+    "meaning_ko": ["들르다", "방문하다"]
+  },
+  {
+    "word": "字",
+    "meaning_en": "character",
+    "furigana": "じ",
+    "meaning_ko": ["글자", "문자"]
+  },
+  {
+    "word": "厳しい",
+    "meaning_en": "strict",
+    "furigana": "きびしい",
+    "meaning_ko": ["엄격한", "엄한"]
+  },
+  {
+    "word": "優しい",
+    "meaning_en": "kind",
+    "furigana": "やさしい",
+    "meaning_ko": ["상냥한", "친절한"]
+  },
+  {
+    "word": "たいてい",
+    "meaning_en": "usually",
+    "furigana": "",
+    "meaning_ko": ["대개", "보통"]
+  },
+  {
+    "word": "花見",
+    "meaning_en": "cherry-blossom viewing",
+    "furigana": "はなみ",
+    "meaning_ko": ["꽃구경", "벚꽃놀이"]
+  },
+  {
+    "word": "注射",
+    "meaning_en": "injection",
+    "furigana": "ちゅうしゃ",
+    "meaning_ko": ["주사"]
+  },
+  {
+    "word": "大分",
+    "meaning_en": "greatly",
+    "furigana": "だいぶ",
+    "meaning_ko": ["상당히", "많이"]
+  },
+  {
+    "word": "ベル",
+    "meaning_en": "bell",
+    "furigana": "",
+    "meaning_ko": ["벨"]
+  },
+  {
+    "word": "景色",
+    "meaning_en": "scene, landscape",
+    "furigana": "けしき",
+    "meaning_ko": ["경치", "풍경"]
+  },
+  {
+    "word": "しかる",
+    "meaning_en": "a particular",
+    "furigana": "",
+    "meaning_ko": ["특정한", "특별한"]
+  },
+  {
+    "word": "日記",
+    "meaning_en": "journal",
+    "furigana": "にっき",
+    "meaning_ko": ["일기"]
+  },
+  {
+    "word": "お礼",
+    "meaning_en": "expression of gratitude",
+    "furigana": "おれい",
+    "meaning_ko": ["감사의 표현", "감사 인사"]
+  },
+  {
+    "word": "集る",
+    "meaning_en": "to gather",
+    "furigana": "あつまる",
+    "meaning_ko": ["모이다", "집합하다"]
+  },
+  {
+    "word": "大体",
+    "meaning_en": "generally",
+    "furigana": "だいたい",
+    "meaning_ko": ["대체로", "일반적으로"]
+  },
+  {
+    "word": "なるほど",
+    "meaning_en": "now I understand",
+    "furigana": "",
+    "meaning_ko": ["아하", "이해했다"]
+  },
+  {
+    "word": "公務員",
+    "meaning_en": "government worker",
+    "furigana": "こうむいん",
+    "meaning_ko": ["공무원"]
+  },
+  {
+    "word": "警察",
+    "meaning_en": "police",
+    "furigana": "けいさつ",
+    "meaning_ko": ["경찰"]
+  },
+  {
+    "word": "空気",
+    "meaning_en": "air, atmosphere",
+    "furigana": "くうき",
+    "meaning_ko": ["공기", "대기"]
+  },
+  {
+    "word": "周り",
+    "meaning_en": "surroundings",
+    "furigana": "まわり",
+    "meaning_ko": ["주변", "둘레"]
+  },
+  {
+    "word": "汚れる",
+    "meaning_en": "to get dirty",
+    "furigana": "よごれる",
+    "meaning_ko": ["더러워지다", "오염되다"]
+  },
+  {
+    "word": "約束",
+    "meaning_en": "promise",
+    "furigana": "やくそく",
+    "meaning_ko": ["약속"]
+  },
+  {
+    "word": "砂",
+    "meaning_en": "sand",
+    "furigana": "すな",
+    "meaning_ko": ["모래"]
+  },
+  {
+    "word": "笑う",
+    "meaning_en": "to laugh, to smile",
+    "furigana": "わらう",
+    "meaning_ko": ["웃다", "미소짓다"]
+  },
+  {
+    "word": "しっかり",
+    "meaning_en": "firmly, steadily",
+    "furigana": "",
+    "meaning_ko": ["단단히", "확실히"]
+  },
+  {
+    "word": "住所",
+    "meaning_en": "an address, a residence",
+    "furigana": "じゅうしょ",
+    "meaning_ko": ["주소", "거주지"]
+  },
+  {
+    "word": "すり",
+    "meaning_en": "pickpocket",
+    "furigana": "",
+    "meaning_ko": ["소매치기"]
+  },
+  {
+    "word": "注意",
+    "meaning_en": "caution",
+    "furigana": "ちゅうい",
+    "meaning_ko": ["주의", "경계"]
+  },
+  {
+    "word": "仕方",
+    "meaning_en": "method",
+    "furigana": "しかた",
+    "meaning_ko": ["방법", "수단"]
+  },
+  {
+    "word": "無理",
+    "meaning_en": "impossible",
+    "furigana": "むり",
+    "meaning_ko": ["무리", "불가능"]
+  },
+  {
+    "word": "触る",
+    "meaning_en": "to touch",
+    "furigana": "さわる",
+    "meaning_ko": ["만지다", "접촉하다"]
+  },
+  {
+    "word": "押し入れ",
+    "meaning_en": "closet",
+    "furigana": "おしいれ",
+    "meaning_ko": ["벽장", "옷장"]
+  },
+  {
+    "word": "さ来月",
+    "meaning_en": "the month after next",
+    "furigana": "さらいげつ",
+    "meaning_ko": ["다다음 달"]
+  },
+  {
+    "word": "ビル",
+    "meaning_en": "building or bill",
+    "furigana": "",
+    "meaning_ko": ["빌딩", "건물"]
+  },
+  {
+    "word": "歯医者",
+    "meaning_en": "dentist",
+    "furigana": "はいしゃ",
+    "meaning_ko": ["치과의사"]
+  },
+  {
+    "word": "知らせる",
+    "meaning_en": "to notify",
+    "furigana": "しらせる",
+    "meaning_ko": ["알리다", "통지하다"]
+  },
+  {
+    "word": "点",
+    "meaning_en": "point, dot",
+    "furigana": "てん",
+    "meaning_ko": ["점", "포인트"]
+  },
+  {
+    "word": "予定",
+    "meaning_en": "arrangement",
+    "furigana": "よてい",
+    "meaning_ko": ["예정", "계획"]
+  },
+  {
+    "word": "火事",
+    "meaning_en": "fire",
+    "furigana": "かじ",
+    "meaning_ko": ["화재", "불"]
+  },
+  {
+    "word": "出席",
+    "meaning_en": "to attend",
+    "furigana": "しゅっせき・する",
+    "meaning_ko": ["출석하다", "참석하다"]
+  },
+  {
+    "word": "壁",
+    "meaning_en": "wall",
+    "furigana": "かべ",
+    "meaning_ko": ["벽"]
+  },
+  {
+    "word": "植える",
+    "meaning_en": "to plant, to grow",
+    "furigana": "うえる",
+    "meaning_ko": ["심다", "재배하다"]
+  },
+  {
+    "word": "生産",
+    "meaning_en": "to produce",
+    "furigana": "せいさん・する",
+    "meaning_ko": ["생산하다", "제조하다"]
+  },
+  {
+    "word": "法律",
+    "meaning_en": "law",
+    "furigana": "ほうりつ",
+    "meaning_ko": ["법률", "법"]
+  },
+  {
+    "word": "見つかる",
+    "meaning_en": "to be discovered",
+    "furigana": "みつかる",
+    "meaning_ko": ["발견되다", "찾아지다"]
+  },
+  {
+    "word": "港",
+    "meaning_en": "harbour",
+    "furigana": "みなと",
+    "meaning_ko": ["항구"]
+  },
+  {
+    "word": "連れる",
+    "meaning_en": "to lead",
+    "furigana": "つれる",
+    "meaning_ko": ["데리다", "이끌다"]
+  },
+  {
+    "word": "見つける",
+    "meaning_en": "to discover",
+    "furigana": "みつける",
+    "meaning_ko": ["발견하다", "찾다"]
+  },
+  {
+    "word": "辞典",
+    "meaning_en": "dictionary",
+    "furigana": "じてん",
+    "meaning_ko": ["사전"]
+  },
+  {
+    "word": "乗り換える",
+    "meaning_en": "to change between buses or trains",
+    "furigana": "のりかえる",
+    "meaning_ko": ["환승하다", "갈아타다"]
+  },
+  {
+    "word": "役に立つ",
+    "meaning_en": "to be helpful",
+    "furigana": "やくにたつ",
+    "meaning_ko": ["도움이 되다", "유용하다"]
+  },
+  {
+    "word": "写す",
+    "meaning_en": "to copy or photograph",
+    "furigana": "うつす",
+    "meaning_ko": ["복사하다", "촬영하다"]
+  },
+  {
+    "word": "理由",
+    "meaning_en": "reason",
+    "furigana": "りゆう",
+    "meaning_ko": ["이유"]
+  },
+  {
+    "word": "たまに",
+    "meaning_en": "occasionally",
+    "furigana": "",
+    "meaning_ko": ["가끔", "이따금"]
+  },
+  {
+    "word": "プレゼント",
+    "meaning_en": "present",
+    "furigana": "",
+    "meaning_ko": ["선물"]
+  },
+  {
+    "word": "いっぱい",
+    "meaning_en": "full",
+    "furigana": "",
+    "meaning_ko": ["가득 찬", "가득하다"]
+  },
+  {
+    "word": "運動",
+    "meaning_en": "to exercise",
+    "furigana": "うんどう・する",
+    "meaning_ko": ["운동하다", "운동"]
+  },
+  {
+    "word": "見える",
+    "meaning_en": "to be in sight",
+    "furigana": "みえる",
+    "meaning_ko": ["보이다"]
+  },
+  {
+    "word": "申し上げる",
+    "meaning_en": "(humble) to say, to tell",
+    "furigana": "もうしあげる",
+    "meaning_ko": ["말씀드리다(겸양)"]
+  },
+  {
+    "word": "冷える",
+    "meaning_en": "to grow cold",
+    "furigana": "ひえる",
+    "meaning_ko": ["차가워지다", "식다"]
+  },
+  {
+    "word": "痩せる",
+    "meaning_en": "to become thin",
+    "furigana": "やせる",
+    "meaning_ko": ["마르다", "살이 빠지다"]
+  },
+  {
+    "word": "屋上",
+    "meaning_en": "rooftop",
+    "furigana": "おくじょう",
+    "meaning_ko": ["옥상"]
+  },
+  {
+    "word": "ステレオ",
+    "meaning_en": "stereo",
+    "furigana": "",
+    "meaning_ko": ["스테레오"]
+  },
+  {
+    "word": "そう",
+    "meaning_en": "really",
+    "furigana": "",
+    "meaning_ko": ["정말로", "진짜로"]
+  },
+  {
+    "word": "お土産",
+    "meaning_en": "souvenir",
+    "furigana": "おみやげ",
+    "meaning_ko": ["기념품", "선물"]
+  },
+  {
+    "word": "泥棒",
+    "meaning_en": "thief",
+    "furigana": "どろぼう",
+    "meaning_ko": ["도둑"]
+  },
+  {
+    "word": "お祭り",
+    "meaning_en": "festival",
+    "furigana": "おまつり",
+    "meaning_ko": ["축제"]
+  },
+  {
+    "word": "浅い",
+    "meaning_en": "shallow, superficial",
+    "furigana": "あさい",
+    "meaning_ko": ["얕은", "피상적인"]
+  },
+  {
+    "word": "お見舞い",
+    "meaning_en": "calling on someone who is ill, enquiry",
+    "furigana": "おみまい",
+    "meaning_ko": ["문병", "위문"]
+  },
+  {
+    "word": "アルバイト",
+    "meaning_en": "part-time job",
+    "furigana": "",
+    "meaning_ko": ["아르바이트", "파트타임"]
+  },
+  {
+    "word": "おつり",
+    "meaning_en": "change from purchase, balance",
+    "furigana": "",
+    "meaning_ko": ["거스름돈"]
+  },
+  {
+    "word": "輸入",
+    "meaning_en": "to import",
+    "furigana": "ゆにゅう・する",
+    "meaning_ko": ["수입하다", "수입"]
+  },
+  {
+    "word": "人口",
+    "meaning_en": "population",
+    "furigana": "じんこう",
+    "meaning_ko": ["인구"]
+  },
+  {
+    "word": "興味",
+    "meaning_en": "an interest",
+    "furigana": "きょうみ",
+    "meaning_ko": ["흥미", "관심"]
+  },
+  {
+    "word": "時代",
+    "meaning_en": "era",
+    "furigana": "じだい",
+    "meaning_ko": ["시대"]
+  },
+  {
+    "word": "特急",
+    "meaning_en": "limited express train (faster than an express train)",
+    "furigana": "とっきゅう",
+    "meaning_ko": ["특급열차"]
+  },
+  {
+    "word": "腕",
+    "meaning_en": "arm",
+    "furigana": "うで",
+    "meaning_ko": ["팔"]
+  },
+  {
+    "word": "気分",
+    "meaning_en": "mood",
+    "furigana": "きぶん",
+    "meaning_ko": ["기분"]
+  },
+  {
+    "word": "上る",
+    "meaning_en": "to rise",
+    "furigana": "あがる",
+    "meaning_ko": ["오르다", "상승하다"]
+  },
+  {
+    "word": "いただく",
+    "meaning_en": "(humble) to receive",
+    "furigana": "",
+    "meaning_ko": ["받다(겸양)"]
+  },
+  {
+    "word": "泊まる",
+    "meaning_en": "to lodge at",
+    "furigana": "とまる",
+    "meaning_ko": ["숙박하다", "묵다"]
+  },
+  {
+    "word": "盗む",
+    "meaning_en": "to steal",
+    "furigana": "ぬすむ",
+    "meaning_ko": ["훔치다", "도둑질하다"]
+  },
+  {
+    "word": "ひげ",
+    "meaning_en": "beard",
+    "furigana": "",
+    "meaning_ko": ["수염"]
+  },
+  {
+    "word": "坂",
+    "meaning_en": "slope, hill",
+    "furigana": "さか",
+    "meaning_ko": ["언덕", "비탈"]
+  },
+  {
+    "word": "よろしい",
+    "meaning_en": "(respectful) OK, all right",
+    "furigana": "",
+    "meaning_ko": ["좋다(존경)", "괜찮다"]
+  },
+  {
+    "word": "技術",
+    "meaning_en": "art, technology, skill",
+    "furigana": "ぎじゅつ",
+    "meaning_ko": ["기술", "기능"]
+  },
+  {
+    "word": "為",
+    "meaning_en": "in order to",
+    "furigana": "ため",
+    "meaning_ko": ["위해", "~하기 위해"]
+  },
+  {
+    "word": "小説",
+    "meaning_en": "novel",
+    "furigana": "しょうせつ",
+    "meaning_ko": ["소설"]
+  },
+  {
+    "word": "調べる",
+    "meaning_en": "to investigate",
+    "furigana": "しらべる",
+    "meaning_ko": ["조사하다", "살피다"]
+  },
+  {
+    "word": "趣味",
+    "meaning_en": "hobby",
+    "furigana": "しゅみ",
+    "meaning_ko": ["취미"]
+  },
+  {
+    "word": "運転手",
+    "meaning_en": "driver",
+    "furigana": "うんてんしゅ",
+    "meaning_ko": ["운전사", "기사"]
+  },
+  {
+    "word": "深い",
+    "meaning_en": "deep",
+    "furigana": "ふかい",
+    "meaning_ko": ["깊은"]
+  },
+  {
+    "word": "林",
+    "meaning_en": "woods, forester",
+    "furigana": "はやし",
+    "meaning_ko": ["숲", "삼림"]
+  },
+  {
+    "word": "小学校",
+    "meaning_en": "elementary school",
+    "furigana": "しょうがっこう",
+    "meaning_ko": ["초등학교"]
+  },
+  {
+    "word": "まず",
+    "meaning_en": "first of all",
+    "furigana": "",
+    "meaning_ko": ["우선", "먼저"]
+  },
+  {
+    "word": "気持ち",
+    "meaning_en": "feeling, mood",
+    "furigana": "きもち",
+    "meaning_ko": ["기분", "감정"]
+  },
+  {
+    "word": "思い出す",
+    "meaning_en": "to remember",
+    "furigana": "おもいだす",
+    "meaning_ko": ["기억하다", "생각해내다"]
+  },
+  {
+    "word": "留守",
+    "meaning_en": "absence",
+    "furigana": "るす",
+    "meaning_ko": ["부재", "집을 비움"]
+  },
+  {
+    "word": "続ける",
+    "meaning_en": "to continue",
+    "furigana": "つづける",
+    "meaning_ko": ["계속하다", "이어가다"]
+  },
+  {
+    "word": "草",
+    "meaning_en": "grass",
+    "furigana": "くさ",
+    "meaning_ko": ["풀", "잔디"]
+  },
+  {
+    "word": "途中",
+    "meaning_en": "on the way",
+    "furigana": "とちゅう",
+    "meaning_ko": ["도중", "가는 길"]
+  },
+  {
+    "word": "できるだけ",
+    "meaning_en": "as much as possible",
+    "furigana": "",
+    "meaning_ko": ["될 수 있는 한", "가능한 한"]
+  },
+  {
+    "word": "お宅",
+    "meaning_en": "(polite) your house",
+    "furigana": "おたく",
+    "meaning_ko": ["댁", "집(존칭)"]
+  },
+  {
+    "word": "召し上がる",
+    "meaning_en": "(polite) to eat",
+    "furigana": "めしあがる",
+    "meaning_ko": ["드시다(존경)"]
+  },
+  {
+    "word": "悲しい",
+    "meaning_en": "sad",
+    "furigana": "かなしい",
+    "meaning_ko": ["슬픈"]
+  },
+  {
+    "word": "子",
+    "meaning_en": "child",
+    "furigana": "こ",
+    "meaning_ko": ["아이", "자식"]
+  },
+  {
+    "word": "運転",
+    "meaning_en": "to drive",
+    "furigana": "うんてん・する",
+    "meaning_ko": ["운전하다", "운전"]
+  },
+  {
+    "word": "はっきり",
+    "meaning_en": "clearly",
+    "furigana": "",
+    "meaning_ko": ["분명히", "확실히"]
+  },
+  {
+    "word": "折る",
+    "meaning_en": "to break or to fold",
+    "furigana": "おる",
+    "meaning_ko": ["꺾다", "접다"]
+  },
+  {
+    "word": "今度",
+    "meaning_en": "now, next time",
+    "furigana": "こんど",
+    "meaning_ko": ["이번", "다음 번"]
+  },
+  {
+    "word": "アフリカ",
+    "meaning_en": "Africa",
+    "furigana": "",
+    "meaning_ko": ["아프리카"]
+  },
+  {
+    "word": "壊れる",
+    "meaning_en": "to be broken",
+    "furigana": "こわれる",
+    "meaning_ko": ["고장나다", "부서지다"]
+  },
+  {
+    "word": "番組",
+    "meaning_en": "television or radio program",
+    "furigana": "ばんぐみ",
+    "meaning_ko": ["프로그램", "방송"]
+  },
+  {
+    "word": "捕まえる",
+    "meaning_en": "to seize",
+    "furigana": "つかまえる",
+    "meaning_ko": ["잡다", "붙잡다"]
+  },
+  {
+    "word": "タイプ",
+    "meaning_en": "type, style",
+    "furigana": "",
+    "meaning_ko": ["타입", "유형"]
+  },
+  {
+    "word": "毛",
+    "meaning_en": "hair or fur",
+    "furigana": "け",
+    "meaning_ko": ["털", "머리카락"]
+  },
+  {
+    "word": "落る",
+    "meaning_en": "to fall or drop",
+    "furigana": "おちる",
+    "meaning_ko": ["떨어지다", "낙하하다"]
+  },
+  {
+    "word": "場合",
+    "meaning_en": "situation",
+    "furigana": "ばあい",
+    "meaning_ko": ["경우", "상황"]
+  },
+  {
+    "word": "意見",
+    "meaning_en": "opinion",
+    "furigana": "いけん",
+    "meaning_ko": ["의견"]
+  },
+  {
+    "word": "通る",
+    "meaning_en": "to go through",
+    "furigana": "とおる",
+    "meaning_ko": ["지나가다", "통과하다"]
+  },
+  {
+    "word": "着物",
+    "meaning_en": "kimono",
+    "furigana": "きもの",
+    "meaning_ko": ["기모노", "일본 전통 옷"]
+  },
+  {
+    "word": "森",
+    "meaning_en": "forest",
+    "furigana": "もり",
+    "meaning_ko": ["숲", "삼림"]
+  },
+  {
+    "word": "市",
+    "meaning_en": "city",
+    "furigana": "し",
+    "meaning_ko": ["도시", "시"]
+  },
+  {
+    "word": "ほど",
+    "meaning_en": "extent",
+    "furigana": "",
+    "meaning_ko": ["정도", "범위"]
+  },
+  {
+    "word": "入院",
+    "meaning_en": "to hospitalise",
+    "furigana": "にゅういん・する",
+    "meaning_ko": ["입원하다"]
+  },
+  {
+    "word": "カーテン",
+    "meaning_en": "curtain",
+    "furigana": "",
+    "meaning_ko": ["커튼"]
+  },
+  {
+    "word": "動く",
+    "meaning_en": "to move",
+    "furigana": "うごく",
+    "meaning_ko": ["움직이다", "이동하다"]
+  },
+  {
+    "word": "ぜひ",
+    "meaning_en": "without fail",
+    "furigana": "",
+    "meaning_ko": ["꼭", "반드시"]
+  },
+  {
+    "word": "すばらしい",
+    "meaning_en": "wonderful",
+    "furigana": "",
+    "meaning_ko": ["훌륭한", "멋진"]
+  },
+  {
+    "word": "参る",
+    "meaning_en": "(humble) to go, to come",
+    "furigana": "まいる",
+    "meaning_ko": ["가다(겸양)", "오다(겸양)"]
+  },
+  {
+    "word": "ねっしん",
+    "meaning_en": "enthusiasm",
+    "furigana": "",
+    "meaning_ko": ["열정", "열심"]
+  },
+  {
+    "word": "講堂",
+    "meaning_en": "auditorium",
+    "furigana": "こうどう",
+    "meaning_ko": ["강당"]
+  },
+  {
+    "word": "もし",
+    "meaning_en": "if",
+    "furigana": "",
+    "meaning_ko": ["만약"]
+  },
+  {
+    "word": "ぬれる",
+    "meaning_en": "to get wet",
+    "furigana": "",
+    "meaning_ko": ["젖다"]
+  },
+  {
+    "word": "非常に",
+    "meaning_en": "extremely",
+    "furigana": "ひじょうに",
+    "meaning_ko": ["매우", "대단히"]
+  },
+  {
+    "word": "文法",
+    "meaning_en": "grammar",
+    "furigana": "ぶんぽう",
+    "meaning_ko": ["문법"]
+  },
+  {
+    "word": "表",
+    "meaning_en": "the front",
+    "furigana": "おもて",
+    "meaning_ko": ["앞면", "표면"]
+  },
+  {
+    "word": "おっしゃる",
+    "meaning_en": "(respectful) to say",
+    "furigana": "",
+    "meaning_ko": ["말씀하시다(존경)"]
+  },
+  {
+    "word": "西洋",
+    "meaning_en": "western countries",
+    "furigana": "せいよう",
+    "meaning_ko": ["서양"]
+  },
+  {
+    "word": "両方",
+    "meaning_en": "both sides",
+    "furigana": "りょうほう",
+    "meaning_ko": ["양쪽", "양방향"]
+  },
+  {
+    "word": "払う",
+    "meaning_en": "to pay",
+    "furigana": "はらう",
+    "meaning_ko": ["지불하다", "내다"]
+  },
+  {
+    "word": "地理",
+    "meaning_en": "geography",
+    "furigana": "ちり",
+    "meaning_ko": ["지리"]
+  },
+  {
+    "word": "あかちゃん",
+    "meaning_en": "infant",
+    "furigana": "",
+    "meaning_ko": ["아기", "영아"]
+  },
+  {
+    "word": "似る",
+    "meaning_en": "to be similar",
+    "furigana": "にる",
+    "meaning_ko": ["닮다", "비슷하다"]
+  },
+  {
+    "word": "踊る",
+    "meaning_en": "to dance",
+    "furigana": "おどる",
+    "meaning_ko": ["춤추다"]
+  },
+  {
+    "word": "うれしい",
+    "meaning_en": "glad",
+    "furigana": "",
+    "meaning_ko": ["기쁘다"]
+  },
+  {
+    "word": "事故",
+    "meaning_en": "accident",
+    "furigana": "じこ",
+    "meaning_ko": ["사고"]
+  },
+  {
+    "word": "さっき",
+    "meaning_en": "some time ago",
+    "furigana": "",
+    "meaning_ko": ["아까", "조금 전"]
+  },
+  {
+    "word": "赤ん坊",
+    "meaning_en": "baby",
+    "furigana": "あかんぼう",
+    "meaning_ko": ["아기", "영아"]
+  },
+  {
+    "word": "寂しい",
+    "meaning_en": "lonely",
+    "furigana": "さびしい",
+    "meaning_ko": ["외로운", "쓸쓸한"]
+  },
+  {
+    "word": "複雑",
+    "meaning_en": "complexity, complication",
+    "furigana": "ふくざつ",
+    "meaning_ko": ["복잡함", "복잡한"]
+  },
+  {
+    "word": "眠る",
+    "meaning_en": "to sleep",
+    "furigana": "ねむる",
+    "meaning_ko": ["잠들다", "자다"]
+  },
+  {
+    "word": "近所",
+    "meaning_en": "neighbourhood",
+    "furigana": "きんじょ",
+    "meaning_ko": ["근처", "이웃"]
+  },
+  {
+    "word": "ごみ",
+    "meaning_en": "rubbish",
+    "furigana": "",
+    "meaning_ko": ["쓰레기"]
+  },
+  {
+    "word": "例えば",
+    "meaning_en": "for example",
+    "furigana": "たとえば",
+    "meaning_ko": ["예를 들어"]
+  },
+  {
+    "word": "チェック・する",
+    "meaning_en": "to check",
+    "furigana": "",
+    "meaning_ko": ["확인하다", "점검하다"]
+  },
+  {
+    "word": "御主人",
+    "meaning_en": "(honorable) your husband",
+    "furigana": "ごしゅじん",
+    "meaning_ko": ["남편(존칭)"]
+  },
+  {
+    "word": "テキスト",
+    "meaning_en": "text, text book",
+    "furigana": "",
+    "meaning_ko": ["텍스트", "교과서"]
+  },
+  {
+    "word": "ごちそう",
+    "meaning_en": "a feast",
+    "furigana": "",
+    "meaning_ko": ["진수성찬", "잔치"]
+  },
+  {
+    "word": "起す",
+    "meaning_en": "to wake",
+    "furigana": "おこす",
+    "meaning_ko": ["깨우다", "일으키다"]
+  },
+  {
+    "word": "テニス",
+    "meaning_en": "tennis",
+    "furigana": "",
+    "meaning_ko": ["테니스"]
+  },
+  {
+    "word": "パソコン",
+    "meaning_en": "personal computer",
+    "furigana": "",
+    "meaning_ko": ["컴퓨터", "PC"]
+  },
+  {
+    "word": "研究",
+    "meaning_en": "research",
+    "furigana": "けんきゅう",
+    "meaning_ko": ["연구"]
+  },
+  {
+    "word": "聞こえる",
+    "meaning_en": "to be heard",
+    "furigana": "きこえる",
+    "meaning_ko": ["들리다"]
+  },
+  {
+    "word": "間違える",
+    "meaning_en": "to make a mistake",
+    "furigana": "まちがえる",
+    "meaning_ko": ["실수하다", "잘못하다"]
+  },
+  {
+    "word": "看護婦",
+    "meaning_en": "female nurse",
+    "furigana": "かんごふ",
+    "meaning_ko": ["여자 간호사"]
+  },
+  {
+    "word": "会議室",
+    "meaning_en": "meeting room",
+    "furigana": "かいぎしつ",
+    "meaning_ko": ["회의실"]
+  },
+  {
+    "word": "とこや",
+    "meaning_en": "barber",
+    "furigana": "",
+    "meaning_ko": ["이발소", "이발사"]
+  },
+  {
+    "word": "試合",
+    "meaning_en": "match, game",
+    "furigana": "しあい",
+    "meaning_ko": ["시합", "경기"]
+  },
+  {
+    "word": "止む",
+    "meaning_en": "to stop",
+    "furigana": "やむ",
+    "meaning_ko": ["멈추다", "그치다"]
+  },
+  {
+    "word": "のど",
+    "meaning_en": "throat",
+    "furigana": "",
+    "meaning_ko": ["목구멍", "목"]
+  },
+  {
+    "word": "戦争",
+    "meaning_en": "war",
+    "furigana": "せんそう",
+    "meaning_ko": ["전쟁"]
+  },
+  {
+    "word": "降り出す",
+    "meaning_en": "to start to rain",
+    "furigana": "ふりだす",
+    "meaning_ko": ["비가 내리기 시작하다"]
+  },
+  {
+    "word": "コンピュータ / コンピューター",
+    "meaning_en": "computer",
+    "furigana": "",
+    "meaning_ko": ["컴퓨터"]
+  },
+  {
+    "word": "盛ん",
+    "meaning_en": "popularity, prosperous",
+    "furigana": "さかん",
+    "meaning_ko": ["번성함", "인기 있음"]
+  },
+  {
+    "word": "取り替える",
+    "meaning_en": "to exchange",
+    "furigana": "とりかえる",
+    "meaning_ko": ["교환하다", "바꾸다"]
+  },
+  {
+    "word": "支度",
+    "meaning_en": "to prepare",
+    "furigana": "したく・する",
+    "meaning_ko": ["준비하다", "채비하다"]
+  },
+  {
+    "word": "社会",
+    "meaning_en": "society, public",
+    "furigana": "しゃかい",
+    "meaning_ko": ["사회", "공공"]
+  },
+  {
+    "word": "沸く",
+    "meaning_en": "to boil, to grow hot, to get excited",
+    "furigana": "わく",
+    "meaning_ko": ["끓다", "흥분하다"]
+  },
+  {
+    "word": "ちっとも",
+    "meaning_en": "not at all (used with a negative verb)",
+    "furigana": "",
+    "meaning_ko": ["전혀", "조금도"]
+  },
+  {
+    "word": "おかげ",
+    "meaning_en": "owing to",
+    "furigana": "",
+    "meaning_ko": ["덕분에"]
+  },
+  {
+    "word": "ステーキ",
+    "meaning_en": "steak",
+    "furigana": "",
+    "meaning_ko": ["스테이크"]
+  },
+  {
+    "word": "消しゴム",
+    "meaning_en": "eraser",
+    "furigana": "けしゴム",
+    "meaning_ko": ["지우개"]
+  },
+  {
+    "word": "遠慮",
+    "meaning_en": "to be reserved, to be restrained",
+    "furigana": "えんりょ・する",
+    "meaning_ko": ["사양하다", "삼가다"]
+  },
+  {
+    "word": "工場",
+    "meaning_en": "factory",
+    "furigana": "こうじょう",
+    "meaning_ko": ["공장"]
+  },
+  {
+    "word": "僕",
+    "meaning_en": "I (used by males)",
+    "furigana": "ぼく",
+    "meaning_ko": ["나(남성)"]
+  },
+  {
+    "word": "招待",
+    "meaning_en": "to invite",
+    "furigana": "しょうたい・する",
+    "meaning_ko": ["초대하다", "초청하다"]
+  },
+  {
+    "word": "彼",
+    "meaning_en": "he, boyfriend",
+    "furigana": "かれ",
+    "meaning_ko": ["그", "남자친구"]
+  },
+  {
+    "word": "妻",
+    "meaning_en": "(humble) wife",
+    "furigana": "つま",
+    "meaning_ko": ["아내(겸양)"]
+  },
+  {
+    "word": "石",
+    "meaning_en": "stone",
+    "furigana": "いし",
+    "meaning_ko": ["돌"]
+  },
+  {
+    "word": "簡単",
+    "meaning_en": "simple",
+    "furigana": "かんたん",
+    "meaning_ko": ["간단한", "쉬운"]
+  },
+  {
+    "word": "残念",
+    "meaning_en": "disappointment",
+    "furigana": "ざんねん",
+    "meaning_ko": ["유감", "아쉬움"]
+  },
+  {
+    "word": "혈",
+    "meaning_en": "blood",
+    "furigana": "ち",
+    "meaning_ko": ["피", "혈액"]
+  },
+  {
+    "word": "ピア노",
+    "meaning_en": "piano",
+    "furigana": "",
+    "meaning_ko": ["피아노"]
+  },
+  {
+    "word": "おかしい",
+    "meaning_en": "strange or funny",
+    "furigana": "",
+    "meaning_ko": ["이상한", "우스운"]
+  },
+  {
+    "word": "家内",
+    "meaning_en": "housewife",
+    "furigana": "かない",
+    "meaning_ko": ["아내", "주부"]
+  },
+  {
+    "word": "試験",
+    "meaning_en": "examination",
+    "furigana": "しけん",
+    "meaning_ko": ["시험"]
+  },
+  {
+    "word": "布団",
+    "meaning_en": "Japanese bedding, futon",
+    "furigana": "ふとん",
+    "meaning_ko": ["이불", "후톤"]
+  },
+  {
+    "word": "枝",
+    "meaning_en": "branch, twig",
+    "furigana": "えだ",
+    "meaning_ko": ["가지", "나뭇가지"]
+  },
+  {
+    "word": "二階建て",
+    "meaning_en": "two storied",
+    "furigana": "にかいだて",
+    "meaning_ko": ["2층 건물"]
+  },
+  {
+    "word": "大学生",
+    "meaning_en": "university student",
+    "furigana": "だいがくせい",
+    "meaning_ko": ["대학생"]
+  },
+  {
+    "word": "楽む",
+    "meaning_en": "to enjoy oneself",
+    "furigana": "たのしむ",
+    "meaning_ko": ["즐기다", "재미있게 보내다"]
+  },
+  {
+    "word": "遠く",
+    "meaning_en": "distant",
+    "furigana": "とおく",
+    "meaning_ko": ["먼", "멀리"]
+  },
+  {
+    "word": "今夜",
+    "meaning_en": "tonight",
+    "furigana": "こんや",
+    "meaning_ko": ["오늘 밤"]
+  },
+  {
+    "word": "決める",
+    "meaning_en": "to decide",
+    "furigana": "きめる",
+    "meaning_ko": ["결정하다", "정하다"]
+  },
+  {
+    "word": "なるべく",
+    "meaning_en": "as much as possible",
+    "furigana": "",
+    "meaning_ko": ["가능한 한", "될 수 있으면"]
+  },
+  {
+    "word": "引き出す",
+    "meaning_en": "to withdraw",
+    "furigana": "ひきだす",
+    "meaning_ko": ["인출하다", "꺼내다"]
+  },
+  {
+    "word": "明日",
+    "meaning_en": "tomorrow",
+    "furigana": "あす",
+    "meaning_ko": ["내일"]
+  },
+  {
+    "word": "割れる",
+    "meaning_en": "to break",
+    "furigana": "われる",
+    "meaning_ko": ["깨지다", "부서지다"]
+  },
+  {
+    "word": "田舎",
+    "meaning_en": "countryside",
+    "furigana": "いなか",
+    "meaning_ko": ["시골", "농촌"]
+  },
+  {
+    "word": "寺",
+    "meaning_en": "temple",
+    "furigana": "てら",
+    "meaning_ko": ["절", "사원"]
+  },
+  {
+    "word": "釣る",
+    "meaning_en": "to fish",
+    "furigana": "つる",
+    "meaning_ko": ["낚시하다"]
+  },
+  {
+    "word": "建てる",
+    "meaning_en": "to build",
+    "furigana": "たてる",
+    "meaning_ko": ["짓다", "건설하다"]
+  },
+  {
+    "word": "久しぶり",
+    "meaning_en": "after a long time",
+    "furigana": "ひさしぶり",
+    "meaning_ko": ["오랜만"]
+  },
+  {
+    "word": "男性",
+    "meaning_en": "male",
+    "furigana": "だんせい",
+    "meaning_ko": ["남성"]
+  },
+  {
+    "word": "割合",
+    "meaning_en": "rate, ratio, percentage",
+    "furigana": "わりあい",
+    "meaning_ko": ["비율", "비례"]
+  },
+  {
+    "word": "相談",
+    "meaning_en": "to discuss",
+    "furigana": "そうだん・する",
+    "meaning_ko": ["상담하다", "의논하다"]
+  },
+  {
+    "word": "足す",
+    "meaning_en": "to add a number",
+    "furigana": "たす",
+    "meaning_ko": ["더하다", "합산하다"]
+  },
+  {
+    "word": "社長",
+    "meaning_en": "company president",
+    "furigana": "しゃちょう",
+    "meaning_ko": ["사장"]
+  },
+  {
+    "meaning_ko": ["방해", "장애"]
+  },
+  {
+    "word": "안심",
+    "meaning_en": "relief",
+    "furigana": "あんしん",
+    "meaning_ko": ["안심"]
+  },
+  {
+    "word": "모으다",
+    "meaning_en": "to collect something",
+    "furigana": "あつめる",
+    "meaning_ko": ["모으다", "수집하다"]
+  },
+  {
+    "word": "버리다",
+    "meaning_en": "to throw away",
+    "furigana": "すてる",
+    "meaning_ko": ["버리다"]
+  },
+  {
+    "word": "주차장",
+    "meaning_en": "parking lot",
+    "furigana": "ちゅうしゃじょう",
+    "meaning_ko": ["주차장"]
+  },
+  {
+    "word": "확실하다",
+    "meaning_en": "definite",
+    "furigana": "たしか",
+    "meaning_ko": ["확실하다", "분명하다"]
+  },
+  {
+    "word": "장갑",
+    "meaning_en": "glove",
+    "furigana": "てぶくろ",
+    "meaning_ko": ["장갑"]
+  },
+  {
+    "word": "열",
+    "meaning_en": "fever",
+    "furigana": "ねつ",
+    "meaning_ko": ["열"]
+  },
+  {
+    "word": "손가락",
+    "meaning_en": "finger",
+    "furigana": "ゆび",
+    "meaning_ko": ["손가락"]
+  },
+  {
+    "word": "멈추다",
+    "meaning_en": "to stop something",
+    "furigana": "とめる",
+    "meaning_ko": ["멈추다", "정지하다"]
+  },
+  {
+    "word": "액세서리",
+    "meaning_en": "accessory",
+    "furigana": "",
+    "meaning_ko": ["액세서리"]
+  },
+  {
+    "word": "내려가다",
+    "meaning_en": "to get down, to descend",
+    "furigana": "さ가る",
+    "meaning_ko": ["내려가다", "하강하다"]
+  },
+  {
+    "word": "칭찬하다",
+    "meaning_en": "to praise",
+    "furigana": "",
+    "meaning_ko": ["칭찬하다"]
+  },
+  {
+    "word": "돌다",
+    "meaning_en": "to go around",
+    "furigana": "まわる",
+    "meaning_ko": ["돌다", "회전하다"]
+  },
+  {
+    "word": "주시다",
+    "meaning_en": "(respectful) to give",
+    "furigana": "",
+    "meaning_ko": ["주시다(존경)"]
+  }
 ]
