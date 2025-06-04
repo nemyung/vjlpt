@@ -1,4 +1,5 @@
 import fs from "node:fs";
+import path from "node:path";
 
 import n1 from "./n1.json";
 import n2 from "./n2.json";
@@ -17,8 +18,11 @@ const files = [
 files.forEach(({ data, name }) => {
   const parsed = data.map((a) => ({
     word: a.word,
-    meaning: a.meaning,
+    meaning_en: a.meaning,
     furigana: a.furigana,
   }));
-  fs.writeFileSync(`${name}-parsed.json`, JSON.stringify(parsed, null, 2));
+  fs.writeFileSync(
+    path.join(import.meta.dirname, `${name}-parsed.json`),
+    JSON.stringify(parsed, null, 2)
+  );
 });
