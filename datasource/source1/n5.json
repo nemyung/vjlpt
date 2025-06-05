@@ -1,3974 +1,3974 @@
 [
-  {
-    "word": "毎朝",
-    "meaning_en": "every morning",
-    "furigana": "まいあさ",
-    "meaning_ko": ["매일 아침"]
-  },
-  {
-    "word": "問題",
-    "meaning_en": "problem",
-    "furigana": "もんだい",
-    "meaning_ko": ["문제"]
-  },
-  {
-    "word": "お茶",
-    "meaning_en": "green tea",
-    "furigana": "おちゃ",
-    "meaning_ko": ["녹차"]
-  },
-  {
-    "word": "黒",
-    "meaning_en": "black",
-    "furigana": "くろ",
-    "meaning_ko": ["검은 빛깔", "검정색"]
-  },
-  {
-    "word": "台所",
-    "meaning_en": "kitchen",
-    "furigana": "だいどころ",
-    "meaning_ko": ["부엌", "주방"]
-  },
-  {
-    "word": "葉書",
-    "meaning_en": "postcard",
-    "furigana": "はがき",
-    "meaning_ko": ["엽서"]
-  },
-  {
-    "word": "ペン",
-    "meaning_en": "pen",
-    "furigana": "",
-    "meaning_ko": ["펜"]
-  },
-  {
-    "word": "ニュース",
-    "meaning_en": "news",
-    "furigana": "",
-    "meaning_ko": ["뉴스"]
-  },
-  {
-    "word": "花瓶",
-    "meaning_en": "a vase",
-    "furigana": "かびん",
-    "meaning_ko": ["꽃병"]
-  },
-  {
-    "word": "フォーク",
-    "meaning_en": "fork",
-    "furigana": "",
-    "meaning_ko": ["포크"]
-  },
-  {
-    "word": "引く",
-    "meaning_en": "to pull",
-    "furigana": "ひく",
-    "meaning_ko": ["끌다", "당기다"]
-  },
-  {
-    "word": "フィルム",
-    "meaning_en": "roll of film",
-    "furigana": "",
-    "meaning_ko": ["필름"]
-  },
-  {
-    "word": "磨く",
-    "meaning_en": "to brush teeth, to polish",
-    "furigana": "みがく",
-    "meaning_ko": ["이를 닦다", "닦다", "광내다"]
-  },
-  {
-    "word": "押す",
-    "meaning_en": "to push, to stamp something",
-    "furigana": "おす",
-    "meaning_ko": ["밀다", "도장을 찍다"]
-  },
-  {
-    "word": "売る",
-    "meaning_en": "to sell",
-    "furigana": "うる",
-    "meaning_ko": ["팔다"]
-  },
-  {
-    "word": "電気",
-    "meaning_en": "electricity, electric light",
-    "furigana": "でんき",
-    "meaning_ko": ["전기", "전등"]
-  },
-  {
-    "word": "並ぶ",
-    "meaning_en": "to line up, to stand in a line",
-    "furigana": "ならぶ",
-    "meaning_ko": ["줄을 서다", "늘어서다"]
-  },
-  {
-    "word": "病気",
-    "meaning_en": "illness",
-    "furigana": "びょうき",
-    "meaning_ko": ["병", "질병"]
-  },
-  {
-    "word": "ポケット",
-    "meaning_en": "pocket",
-    "furigana": "",
-    "meaning_ko": ["주머니"]
-  },
-  {
-    "word": "頭",
-    "meaning_en": "head",
-    "furigana": "あたま",
-    "meaning_ko": ["머리"]
-  },
-  {
-    "word": "はし",
-    "meaning_en": "chopsticks",
-    "furigana": "",
-    "meaning_ko": ["젓가락"]
-  },
-  {
-    "word": "英語",
-    "meaning_en": "English language",
-    "furigana": "えいご",
-    "meaning_ko": ["영어"]
-  },
-  {
-    "word": "家",
-    "meaning_en": "house",
-    "furigana": "いえ",
-    "meaning_ko": ["집"]
-  },
-  {
-    "word": "一月",
-    "meaning_en": "one month",
-    "furigana": "ひとつき",
-    "meaning_ko": ["한 달"]
-  },
-  {
-    "word": "暑い",
-    "meaning_en": "hot",
-    "furigana": "あつい",
-    "meaning_ko": ["덥다", "뜨겁다"]
-  },
-  {
-    "word": "遊ぶ",
-    "meaning_en": "to play, to make a visit",
-    "furigana": "あそぶ",
-    "meaning_ko": ["놀다", "방문하다"]
-  },
-  {
-    "word": "取る",
-    "meaning_en": "to take something",
-    "furigana": "とる",
-    "meaning_ko": ["잡다", "취하다", "받다"]
-  },
-  {
-    "word": "九",
-    "meaning_en": "nine",
-    "furigana": "きゅう / く",
-    "meaning_ko": ["구"]
-  },
-  {
-    "word": "閉める",
-    "meaning_en": "to close something",
-    "furigana": "しめる",
-    "meaning_ko": ["닫다"]
-  },
-  {
-    "word": "たいへん",
-    "meaning_en": "very",
-    "furigana": "",
-    "meaning_ko": ["매우"]
-  },
-  {
-    "word": "奥さん",
-    "meaning_en": "(honorable) wife",
-    "furigana": "おくさん",
-    "meaning_ko": ["아내"]
-  },
-  {
-    "word": "作文",
-    "meaning_en": "composition, writing",
-    "furigana": "さくぶん",
-    "meaning_ko": ["글쓰기"]
-  },
-  {
-    "word": "便利",
-    "meaning_en": "useful, convenient",
-    "furigana": "べんり",
-    "meaning_ko": ["편리한", "편의"]
-  },
-  {
-    "word": "右",
-    "meaning_en": "right side",
-    "furigana": "みぎ",
-    "meaning_ko": ["오른쪽"]
-  },
-  {
-    "word": "寒い",
-    "meaning_en": "cold",
-    "furigana": "さむい",
-    "meaning_ko": ["추운", "쌀쌀한"]
-  },
-  {
-    "word": "あびる",
-    "meaning_en": "to bathe, to shower",
-    "furigana": "",
-    "meaning_ko": ["몸을 씻다", "샤워하다"]
-  },
-  {
-    "word": "十",
-    "meaning_en": "ten",
-    "furigana": "じゅう  とお",
-    "meaning_ko": ["십"]
-  },
-  {
-    "word": "中",
-    "meaning_en": "middle",
-    "furigana": "なか",
-    "meaning_ko": ["중간"]
-  },
-  {
-    "word": "消す",
-    "meaning_en": "to erase, to turn off power",
-    "furigana": "けす",
-    "meaning_ko": ["지우다", "전원을 끄다"]
-  },
-  {
-    "word": "近く",
-    "meaning_en": "near",
-    "furigana": "ちかく",
-    "meaning_ko": ["가까운", "가까움"]
-  },
-  {
-    "word": "七つ",
-    "meaning_en": "seven",
-    "furigana": "ななつ",
-    "meaning_ko": ["칠"]
-  },
-  {
-    "word": "テープレコーダー",
-    "meaning_en": "tape recorder",
-    "furigana": "",
-    "meaning_ko": ["테이프 레코더"]
-  },
-  {
-    "word": "目",
-    "meaning_en": "eye",
-    "furigana": "め",
-    "meaning_ko": ["눈"]
-  },
-  {
-    "word": "空",
-    "meaning_en": "sky",
-    "furigana": "そら",
-    "meaning_ko": ["하늘"]
-  },
-  {
-    "word": "六日",
-    "meaning_en": "six days, sixth day of the month",
-    "furigana": "むいか",
-    "meaning_ko": ["여섯 날"]
-  },
-  {
-    "word": "座る",
-    "meaning_en": "to sit",
-    "furigana": "すわる",
-    "meaning_ko": ["앉다"]
-  },
-  {
-    "word": "年",
-    "meaning_en": "year",
-    "furigana": "とし",
-    "meaning_ko": ["년"]
-  },
-  {
-    "word": "男の子",
-    "meaning_en": "boy",
-    "furigana": "おとこのこ",
-    "meaning_ko": ["남자 아이"]
-  },
-  {
-    "word": "狭い",
-    "meaning_en": "narrow",
-    "furigana": "せまい",
-    "meaning_ko": ["좁은", "좁은"]
-  },
-  {
-    "word": "冷蔵庫",
-    "meaning_en": "refrigerator",
-    "furigana": "れいぞうこ",
-    "meaning_ko": ["냉장고"]
-  },
-  {
-    "word": "カメラ",
-    "meaning_en": "camera",
-    "furigana": "",
-    "meaning_ko": ["카메라"]
-  },
-  {
-    "word": "玄関",
-    "meaning_en": "entry hall",
-    "furigana": "げんかん",
-    "meaning_ko": ["천장문"]
-  },
-  {
-    "word": "違う",
-    "meaning_en": "to differ",
-    "furigana": "ちがう",
-    "meaning_ko": ["다른", "다르다"]
-  },
-  {
-    "word": "危ない",
-    "meaning_en": "dangerous",
-    "furigana": "あぶない",
-    "meaning_ko": ["위험한", "위험함"]
-  },
-  {
-    "word": "分かる",
-    "meaning_en": "to be understood",
-    "furigana": "わかる",
-    "meaning_ko": ["이해하다", "이해함"]
-  },
-  {
-    "word": "言う",
-    "meaning_en": "to say",
-    "furigana": "いう",
-    "meaning_ko": ["말하다", "말함"]
-  },
-  {
-    "word": "飲む",
-    "meaning_en": "to drink",
-    "furigana": "のむ",
-    "meaning_ko": ["마시다", "마심"]
-  },
-  {
-    "word": "練習",
-    "meaning_en": "to practice",
-    "furigana": "れんしゅうする",
-    "meaning_ko": ["연습하다", "연습함"]
-  },
-  {
-    "word": "何",
-    "meaning_en": "what",
-    "furigana": "なん / なに",
-    "meaning_ko": ["무엇", "무엇"]
-  },
-  {
-    "word": "厚い",
-    "meaning_en": "kind, deep, thick",
-    "furigana": "あつい",
-    "meaning_ko": ["두꺼운", "두껍다", "두꺼움"]
-  },
-  {
-    "word": "毎月",
-    "meaning_en": "every month",
-    "furigana": "まいげつ / まいつき",
-    "meaning_ko": ["매월", "매월"]
-  },
-  {
-    "word": "閉まる",
-    "meaning_en": "to close, to be closed",
-    "furigana": "しまる",
-    "meaning_ko": ["닫히다", "닫힘"]
-  },
-  {
-    "word": "脱ぐ",
-    "meaning_en": "to take off clothes",
-    "furigana": "ぬぐ",
-    "meaning_ko": ["옷을 벗다", "벗다"]
-  },
-  {
-    "word": "黒い",
-    "meaning_en": "black",
-    "furigana": "くろい",
-    "meaning_ko": ["검은", "검정"]
-  },
-  {
-    "word": "登る",
-    "meaning_en": "to climb",
-    "furigana": "のぼる",
-    "meaning_ko": ["오르다", "오르기"]
-  },
-  {
-    "word": "汚い",
-    "meaning_en": "dirty",
-    "furigana": "きたない",
-    "meaning_ko": ["더러운", "더러움"]
-  },
-  {
-    "word": "雨",
-    "meaning_en": "rain",
-    "furigana": "あめ",
-    "meaning_ko": ["비"]
-  },
-  {
-    "word": "お皿",
-    "meaning_en": "plate, dish",
-    "furigana": "おさら",
-    "meaning_ko": ["접시", "음식"]
-  },
-  {
-    "word": "速い",
-    "meaning_en": "quick",
-    "furigana": "はやい",
-    "meaning_ko": ["빠른", "빠르다"]
-  },
-  {
-    "word": "お風呂",
-    "meaning_en": "bath",
-    "furigana": "おふろ",
-    "meaning_ko": ["샤워", "샤워하다"]
-  },
-  {
-    "word": "新しい",
-    "meaning_en": "new",
-    "furigana": "あたらしい",
-    "meaning_ko": ["새로운", "신선한"]
-  },
-  {
-    "word": "廊下",
-    "meaning_en": "corridor",
-    "furigana": "ろうか",
-    "meaning_ko": ["복도"]
-  },
-  {
-    "word": "茶色",
-    "meaning_en": "brown",
-    "furigana": "ちゃいろ",
-    "meaning_ko": ["갈색"]
-  },
-  {
-    "word": "コート",
-    "meaning_en": "coat, tennis court",
-    "furigana": "",
-    "meaning_ko": ["코트", "테니스 코트"]
-  },
-  {
-    "word": "手紙",
-    "meaning_en": "letter",
-    "furigana": "てがみ",
-    "meaning_ko": ["편지"]
-  },
-  {
-    "word": "要る",
-    "meaning_en": "to need",
-    "furigana": "いる",
-    "meaning_ko": ["필요하다", "필요함"]
-  },
-  {
-    "word": "こっち",
-    "meaning_en": "this person or way",
-    "furigana": "",
-    "meaning_ko": ["이 사람이나 방법"]
-  },
-  {
-    "word": "スプーン",
-    "meaning_en": "spoon",
-    "furigana": "",
-    "meaning_ko": ["스푼"]
-  },
-  {
-    "word": "時々",
-    "meaning_en": "sometimes",
-    "furigana": "ときどき",
-    "meaning_ko": ["가끔", "가끔"]
-  },
-  {
-    "word": "傘",
-    "meaning_en": "umbrella",
-    "furigana": "かさ",
-    "meaning_ko": ["우산"]
-  },
-  {
-    "word": "いい / よい",
-    "meaning_en": "good",
-    "furigana": "",
-    "meaning_ko": ["좋은", "좋다"]
-  },
-  {
-    "word": "電話",
-    "meaning_en": "telephone",
-    "furigana": "でんわ",
-    "meaning_ko": ["전화"]
-  },
-  {
-    "word": "勤める",
-    "meaning_en": "to work for someone",
-    "furigana": "つとめる",
-    "meaning_ko": ["누군가를 위해 일하다", "일하다"]
-  },
-  {
-    "word": "安い",
-    "meaning_en": "cheap",
-    "furigana": "やすい",
-    "meaning_ko": ["싼", "싼"]
-  },
-  {
-    "word": "どう",
-    "meaning_en": "how, in what way",
-    "furigana": "",
-    "meaning_ko": ["어떻게", "방식"]
-  },
-  {
-    "word": "道",
-    "meaning_en": "street",
-    "furigana": "みち",
-    "meaning_ko": ["도로"]
-  },
-  {
-    "word": "バス",
-    "meaning_en": "bus",
-    "furigana": "",
-    "meaning_ko": ["버스"]
-  },
-  {
-    "word": "クラス",
-    "meaning_en": "class",
-    "furigana": "",
-    "meaning_ko": ["클래스"]
-  },
-  {
-    "word": "差す",
-    "meaning_en": "to stretch out hands, to raise an umbrella",
-    "furigana": "さす",
-    "meaning_ko": ["손을 뻗다", "우산을 올리다"]
-  },
-  {
-    "word": "スポーツ",
-    "meaning_en": "sport",
-    "furigana": "",
-    "meaning_ko": ["스포츠"]
-  },
-  {
-    "word": "どっち",
-    "meaning_en": "which",
-    "furigana": "",
-    "meaning_ko": ["어느 쪽"]
-  },
-  {
-    "word": "そば",
-    "meaning_en": "near, beside",
-    "furigana": "",
-    "meaning_ko": ["가까운", "옆"]
-  },
-  {
-    "word": "新聞",
-    "meaning_en": "newspaper",
-    "furigana": "しんぶん",
-    "meaning_ko": ["신문"]
-  },
-  {
-    "word": "どうして",
-    "meaning_en": "for what reason",
-    "furigana": "",
-    "meaning_ko": ["어떤 이유로"]
-  },
-  {
-    "word": "庭",
-    "meaning_en": "garden",
-    "furigana": "にわ",
-    "meaning_ko": ["정원"]
-  },
-  {
-    "word": "大きな",
-    "meaning_en": "big",
-    "furigana": "おおきな",
-    "meaning_ko": ["큰", "크다"]
-  },
-  {
-    "word": "辺",
-    "meaning_en": "area",
-    "furigana": "へん",
-    "meaning_ko": ["지역"]
-  },
-  {
-    "word": "番号",
-    "meaning_en": "number",
-    "furigana": "ばんごう",
-    "meaning_ko": ["번호"]
-  },
-  {
-    "word": "家族",
-    "meaning_en": "family",
-    "furigana": "かぞく",
-    "meaning_ko": ["가족"]
-  },
-  {
-    "word": "下手",
-    "meaning_en": "unskillful",
-    "furigana": "へた",
-    "meaning_ko": ["못 된", "못된"]
-  },
-  {
-    "word": "料理",
-    "meaning_en": "cuisine",
-    "furigana": "りょうり",
-    "meaning_ko": ["요리"]
-  },
-  {
-    "word": "カレー",
-    "meaning_en": "curry",
-    "furigana": "",
-    "meaning_ko": ["카레"]
-  },
-  {
-    "word": "六",
-    "meaning_en": "six",
-    "furigana": "ろく",
-    "meaning_ko": ["육"]
-  },
-  {
-    "word": "今年",
-    "meaning_en": "this year",
-    "furigana": "ことし",
-    "meaning_ko": ["올해"]
-  },
-  {
-    "word": "初めて",
-    "meaning_en": "for the first time",
-    "furigana": "はじめて",
-    "meaning_ko": ["처음으로"]
-  },
-  {
-    "word": "風邪",
-    "meaning_en": "a cold",
-    "furigana": "かぜ",
-    "meaning_ko": ["감기"]
-  },
-  {
-    "word": "赤い",
-    "meaning_en": "red",
-    "furigana": "あかい",
-    "meaning_ko": ["빨간", "빨갛다"]
-  },
-  {
-    "word": "甘い",
-    "meaning_en": "sweet",
-    "furigana": "あまい",
-    "meaning_ko": ["달다", "달콤한"]
-  },
-  {
-    "word": "西",
-    "meaning_en": "west",
-    "furigana": "にし",
-    "meaning_ko": ["서"]
-  },
-  {
-    "word": "毎週",
-    "meaning_en": "every week",
-    "furigana": "まいしゅう",
-    "meaning_ko": ["매주", "매주"]
-  },
-  {
-    "word": "いつも",
-    "meaning_en": "always",
-    "furigana": "",
-    "meaning_ko": ["항상"]
-  },
-  {
-    "word": "五つ",
-    "meaning_en": "five",
-    "furigana": "いつつ",
-    "meaning_ko": ["다섯"]
-  },
-  {
-    "word": "建物",
-    "meaning_en": "building",
-    "furigana": "たてもの",
-    "meaning_ko": ["건물"]
-  },
-  {
-    "word": "なる",
-    "meaning_en": "to become",
-    "furigana": "",
-    "meaning_ko": ["되다"]
-  },
-  {
-    "word": "まっすぐ",
-    "meaning_en": "straight ahead, direct",
-    "furigana": "",
-    "meaning_ko": ["직진하다", "직선"]
-  },
-  {
-    "word": "作る",
-    "meaning_en": "to make",
-    "furigana": "つくる",
-    "meaning_ko": ["만들다", "제작하다"]
-  },
-  {
-    "word": "風",
-    "meaning_en": "wind",
-    "furigana": "かぜ",
-    "meaning_ko": ["바람"]
-  },
-  {
-    "word": "少し",
-    "meaning_en": "few",
-    "furigana": "すこし",
-    "meaning_ko": ["적은", "적다"]
-  },
-  {
-    "word": "大学",
-    "meaning_en": "university",
-    "furigana": "だいがく",
-    "meaning_ko": ["대학"]
-  },
-  {
-    "word": "シャツ",
-    "meaning_en": "shirt",
-    "furigana": "",
-    "meaning_ko": ["셔츠"]
-  },
-  {
-    "word": "病院",
-    "meaning_en": "hospital",
-    "furigana": "びょういん",
-    "meaning_ko": ["병원"]
-  },
-  {
-    "word": "会社",
-    "meaning_en": "company",
-    "furigana": "かいしゃ",
-    "meaning_ko": ["회사"]
-  },
-  {
-    "word": "無くす",
-    "meaning_en": "to lose something",
-    "furigana": "なくす",
-    "meaning_ko": ["잃다", "잃어버리다"]
-  },
-  {
-    "word": "スリッパ",
-    "meaning_en": "slippers",
-    "furigana": "",
-    "meaning_ko": ["슬리퍼"]
-  },
-  {
-    "word": "地下鉄",
-    "meaning_en": "underground train",
-    "furigana": "ちかてつ",
-    "meaning_ko": ["지하철"]
-  },
-  {
-    "word": "ページ",
-    "meaning_en": "page",
-    "furigana": "",
-    "meaning_ko": ["페이지"]
-  },
-  {
-    "word": "曇る",
-    "meaning_en": "to become cloudy, to become dim",
-    "furigana": "くもる",
-    "meaning_ko": ["흐리다", "어두워지다"]
-  },
-  {
-    "word": "辞書",
-    "meaning_en": "dictionary",
-    "furigana": "じしょ",
-    "meaning_ko": ["사전"]
-  },
-  {
-    "word": "万年筆",
-    "meaning_en": "fountain pen",
-    "furigana": "まんねんひつ",
-    "meaning_ko": ["만년필"]
-  },
-  {
-    "word": "海",
-    "meaning_en": "sea",
-    "furigana": "うみ",
-    "meaning_ko": ["바다"]
-  },
-  {
-    "word": "エレベーター",
-    "meaning_en": "elevator",
-    "furigana": "",
-    "meaning_ko": ["엘리베이터"]
-  },
-  {
-    "word": "たぶん",
-    "meaning_en": "probably",
-    "furigana": "",
-    "meaning_ko": ["아마"]
-  },
-  {
-    "word": "夕方",
-    "meaning_en": "evening",
-    "furigana": "ゆうがた",
-    "meaning_ko": ["저녁"]
-  },
-  {
-    "word": "東",
-    "meaning_en": "east",
-    "furigana": "ひがし",
-    "meaning_ko": ["동"]
-  },
-  {
-    "word": "声",
-    "meaning_en": "voice",
-    "furigana": "こえ",
-    "meaning_ko": ["목소리"]
-  },
-  {
-    "word": "撮る",
-    "meaning_en": "to take a photo or record a film",
-    "furigana": "とる",
-    "meaning_ko": ["사진을 찍다", "촬영하다"]
-  },
-  {
-    "word": "私",
-    "meaning_en": "(humble) I, myself",
-    "furigana": "わたくし",
-    "meaning_ko": ["나", "나 자신"]
-  },
-  {
-    "word": "両親",
-    "meaning_en": "both parents",
-    "furigana": "りょうしん",
-    "meaning_ko": ["두 부모"]
-  },
-  {
-    "word": "きれい",
-    "meaning_en": "pretty, clean",
-    "furigana": "",
-    "meaning_ko": ["예쁜", "깨끗한"]
-  },
-  {
-    "word": "どうぞ",
-    "meaning_en": "please",
-    "furigana": "",
-    "meaning_ko": ["부탁합니다", "부탁함"]
-  },
-  {
-    "word": "好き",
-    "meaning_en": "likeable",
-    "furigana": "すき",
-    "meaning_ko": ["좋아하는", "좋다"]
-  },
-  {
-    "word": "静か",
-    "meaning_en": "quiet",
-    "furigana": "しずか",
-    "meaning_ko": ["조용한", "조용함"]
-  },
-  {
-    "word": "お父さん",
-    "meaning_en": "(honorable) father",
-    "furigana": "おとうさん",
-    "meaning_ko": ["아버지"]
-  },
-  {
-    "word": "人",
-    "meaning_en": "person",
-    "furigana": "ひと",
-    "meaning_ko": ["사람"]
-  },
-  {
-    "word": "覚える",
-    "meaning_en": "to remember",
-    "furigana": "おぼえる",
-    "meaning_ko": ["기억하다", "기억함"]
-  },
-  {
-    "word": "休み",
-    "meaning_en": "rest, holiday",
-    "furigana": "やすみ",
-    "meaning_ko": ["휴일", "휴가"]
-  },
-  {
-    "word": "池",
-    "meaning_en": "pond",
-    "furigana": "いけ",
-    "meaning_ko": ["연못"]
-  },
-  {
-    "word": "始まる",
-    "meaning_en": "to begin",
-    "furigana": "はじまる",
-    "meaning_ko": ["시작하다", "시작함"]
-  },
-  {
-    "word": "困る",
-    "meaning_en": "to be worried",
-    "furigana": "こまる",
-    "meaning_ko": ["걱정하다", "걱정함"]
-  },
-  {
-    "word": "ほか",
-    "meaning_en": "other, the rest",
-    "furigana": "",
-    "meaning_ko": ["기타", "나머지"]
-  },
-  {
-    "word": "ちゃわん",
-    "meaning_en": "rice bowl",
-    "furigana": "",
-    "meaning_ko": ["밥그릇"]
-  },
-  {
-    "word": "疲れる",
-    "meaning_en": "to get tired",
-    "furigana": "つかれる",
-    "meaning_ko": ["피곤하다", "피곤함"]
-  },
-  {
-    "word": "掃除",
-    "meaning_en": "to clean, to sweep",
-    "furigana": "そうじする",
-    "meaning_ko": ["청소하다", "청소함"]
-  },
-  {
-    "word": "賑やか",
-    "meaning_en": "bustling, busy",
-    "furigana": "にぎやか",
-    "meaning_ko": ["활기찬", "활기찬"]
-  },
-  {
-    "word": "一つ",
-    "meaning_en": "one",
-    "furigana": "ひとつ",
-    "meaning_ko": ["하나"]
-  },
-  {
-    "word": "来週",
-    "meaning_en": "next week",
-    "furigana": "らいしゅう",
-    "meaning_ko": ["다음주"]
-  },
-  {
-    "word": "財布",
-    "meaning_en": "wallet",
-    "furigana": "さいふ",
-    "meaning_ko": ["지갑"]
-  },
-  {
-    "word": "知る",
-    "meaning_en": "to know",
-    "furigana": "しる",
-    "meaning_ko": ["알다", "알고 있음"]
-  },
-  {
-    "word": "教える",
-    "meaning_en": "to teach, to tell",
-    "furigana": "おしえる",
-    "meaning_ko": ["가르치다", "가르침"]
-  },
-  {
-    "word": "朝御飯",
-    "meaning_en": "breakfast",
-    "furigana": "あさごはん",
-    "meaning_ko": ["아침밥"]
-  },
-  {
-    "word": "飛ぶ",
-    "meaning_en": "to fly, to hop",
-    "furigana": "とぶ",
-    "meaning_ko": ["날다", "뛰다"]
-  },
-  {
-    "word": "言葉",
-    "meaning_en": "word, language",
-    "furigana": "ことば",
-    "meaning_ko": ["말", "언어"]
-  },
-  {
-    "word": "キロ / キログラム",
-    "meaning_en": "kilogram",
-    "furigana": "",
-    "meaning_ko": ["킬로그램"]
-  },
-  {
-    "word": "赤",
-    "meaning_en": "red",
-    "furigana": "あか",
-    "meaning_ko": ["빨간", "빨갛다"]
-  },
-  {
-    "word": "自分",
-    "meaning_en": "oneself",
-    "furigana": "じぶん",
-    "meaning_ko": ["나 자신"]
-  },
-  {
-    "word": "デパート",
-    "meaning_en": "department store",
-    "furigana": "",
-    "meaning_ko": ["디파트몰"]
-  },
-  {
-    "word": "薄い",
-    "meaning_en": "thin, weak",
-    "furigana": "うすい",
-    "meaning_ko": ["얇은", "얇다"]
-  },
-  {
-    "word": "高い",
-    "meaning_en": "tall, expensive",
-    "furigana": "たかい",
-    "meaning_ko": ["높은", "비싸다"]
-  },
-  {
-    "word": "帰る",
-    "meaning_en": "to go back",
-    "furigana": "かえる",
-    "meaning_ko": ["돌아가다", "돌아감"]
-  },
-  {
-    "word": "はい",
-    "meaning_en": "yes",
-    "furigana": "",
-    "meaning_ko": ["예"]
-  },
-  {
-    "word": "卵",
-    "meaning_en": "egg",
-    "furigana": "たまご",
-    "meaning_ko": ["계란"]
-  },
-  {
-    "word": "低い",
-    "meaning_en": "short, low",
-    "furigana": "ひくい",
-    "meaning_ko": ["짧은", "짧다"]
-  },
-  {
-    "word": "なぜ",
-    "meaning_en": "why",
-    "furigana": "",
-    "meaning_ko": ["왜"]
-  },
-  {
-    "word": "一日",
-    "meaning_en": "(1) one day, (2) first of month",
-    "furigana": "いちにち",
-    "meaning_ko": ["하루", "한 날"]
-  },
-  {
-    "word": "いいえ",
-    "meaning_en": "no",
-    "furigana": "",
-    "meaning_ko": ["아니요"]
-  },
-  {
-    "word": "小さな",
-    "meaning_en": "little",
-    "furigana": "ちいさな",
-    "meaning_ko": ["작은", "작다"]
-  },
-  {
-    "word": "時間",
-    "meaning_en": "time",
-    "furigana": "じかん",
-    "meaning_ko": ["시간"]
-  },
-  {
-    "word": "上げる",
-    "meaning_en": "to give",
-    "furigana": "あげる",
-    "meaning_ko": ["주다", "주어주다"]
-  },
-  {
-    "word": "ふろ",
-    "meaning_en": "bath",
-    "furigana": "",
-    "meaning_ko": ["샤워"]
-  },
-  {
-    "word": "生徒",
-    "meaning_en": "pupil",
-    "furigana": "せいと",
-    "meaning_ko": ["학생"]
-  },
-  {
-    "word": "レストラン",
-    "meaning_en": "restaurant",
-    "furigana": "",
-    "meaning_ko": ["레스토랑"]
-  },
-  {
-    "word": "出す",
-    "meaning_en": "to put out",
-    "furigana": "だす",
-    "meaning_ko": ["내다", "내주다"]
-  },
-  {
-    "word": "かわいい",
-    "meaning_en": "cute",
-    "furigana": "",
-    "meaning_ko": ["귀여운", "귀여움"]
-  },
-  {
-    "word": "音楽",
-    "meaning_en": "music",
-    "furigana": "おんがく",
-    "meaning_ko": ["음악"]
-  },
-  {
-    "word": "歌",
-    "meaning_en": "song",
-    "furigana": "うた",
-    "meaning_ko": ["노래"]
-  },
-  {
-    "word": "いちばん",
-    "meaning_en": "best, first",
-    "furigana": "",
-    "meaning_ko": ["최고의", "첫번째"]
-  },
-  {
-    "word": "咲く",
-    "meaning_en": "to bloom",
-    "furigana": "さく",
-    "meaning_ko": ["핀다", "핀기"]
-  },
-  {
-    "word": "山",
-    "meaning_en": "mountain",
-    "furigana": "やま",
-    "meaning_ko": ["산"]
-  },
-  {
-    "word": "テレビ",
-    "meaning_en": "television",
-    "furigana": "",
-    "meaning_ko": ["텔레비전"]
-  },
-  {
-    "word": "授業",
-    "meaning_en": "lesson, class work",
-    "furigana": "じゅぎょう",
-    "meaning_ko": ["수업", "수업 과제"]
-  },
-  {
-    "word": "暖かい",
-    "meaning_en": "warm",
-    "furigana": "あたたかい",
-    "meaning_ko": ["따뜻한", "따뜻함"]
-  },
-  {
-    "word": "セーター",
-    "meaning_en": "sweater, jumper",
-    "furigana": "",
-    "meaning_ko": ["스웨터", "점퍼"]
-  },
-  {
-    "word": "自転車",
-    "meaning_en": "bicycle",
-    "furigana": "じてんしゃ",
-    "meaning_ko": ["자전거"]
-  },
-  {
-    "word": "ラジカセ / ラジオカセット",
-    "meaning_en": "radio cassette player",
-    "furigana": "",
-    "meaning_ko": ["라디오 카세트 플레이어"]
-  },
-  {
-    "word": "つける",
-    "meaning_en": "to turn on",
-    "furigana": "",
-    "meaning_ko": ["켜다", "켜기"]
-  },
-  {
-    "word": "さ来年",
-    "meaning_en": "year after next",
-    "furigana": "さらいねん",
-    "meaning_ko": ["다음 해"]
-  },
-  {
-    "word": "学校",
-    "meaning_en": "school",
-    "furigana": "がっこう",
-    "meaning_ko": ["학교"]
-  },
-  {
-    "word": "いくら",
-    "meaning_en": "how much?",
-    "furigana": "",
-    "meaning_ko": ["얼마나?"]
-  },
-  {
-    "word": "四",
-    "meaning_en": "four",
-    "furigana": "し / よん",
-    "meaning_ko": ["네"]
-  },
-  {
-    "word": "入る",
-    "meaning_en": "to enter, to contain",
-    "furigana": "はいる",
-    "meaning_ko": ["들어가다", "들어가는 것을 포함하다"]
-  },
-  {
-    "word": "曇り",
-    "meaning_en": "cloudy weather",
-    "furigana": "くもり",
-    "meaning_ko": ["흐린 날씨"]
-  },
-  {
-    "word": "外国",
-    "meaning_en": "foreign country",
-    "furigana": "がいこく",
-    "meaning_ko": ["외국"]
-  },
-  {
-    "word": "温い",
-    "meaning_en": "luke warm",
-    "furigana": "ぬるい",
-    "meaning_ko": ["따뜻한", "따뜻함"]
-  },
-  {
-    "word": "そうして / そして",
-    "meaning_en": "and",
-    "furigana": "",
-    "meaning_ko": ["그리고", "그리하여"]
-  },
-  {
-    "word": "どうも",
-    "meaning_en": "thanks",
-    "furigana": "",
-    "meaning_ko": ["감사합니다", "감사함"]
-  },
-  {
-    "word": "仕事",
-    "meaning_en": "job",
-    "furigana": "しごと",
-    "meaning_ko": ["일", "직업"]
-  },
-  {
-    "word": "窓",
-    "meaning_en": "window",
-    "furigana": "まど",
-    "meaning_ko": ["창문"]
-  },
-  {
-    "word": "晩",
-    "meaning_en": "evening",
-    "furigana": "ばん",
-    "meaning_ko": ["저녁"]
-  },
-  {
-    "word": "難しい",
-    "meaning_en": "difficult",
-    "furigana": "むずかしい",
-    "meaning_ko": ["어려운", "어려움"]
-  },
-  {
-    "word": "村",
-    "meaning_en": "village",
-    "furigana": "むら",
-    "meaning_ko": ["마을"]
-  },
-  {
-    "word": "鉛筆",
-    "meaning_en": "pencil",
-    "furigana": "えんぴつ",
-    "meaning_ko": ["연필"]
-  },
-  {
-    "word": "長い",
-    "meaning_en": "long",
-    "furigana": "ながい",
-    "meaning_ko": ["긴", "길다"]
-  },
-  {
-    "word": "生まれる",
-    "meaning_en": "to be born",
-    "furigana": "うまれる",
-    "meaning_ko": ["태어나다", "태어남"]
-  },
-  {
-    "word": "雑誌",
-    "meaning_en": "magazine",
-    "furigana": "ざっし",
-    "meaning_ko": ["잡지"]
-  },
-  {
-    "word": "国",
-    "meaning_en": "country",
-    "furigana": "くに",
-    "meaning_ko": ["나라"]
-  },
-  {
-    "word": "おまわりさん",
-    "meaning_en": "friendly term for policeman",
-    "furigana": "",
-    "meaning_ko": ["경찰관을 위한 친근한 호칭"]
-  },
-  {
-    "word": "今朝",
-    "meaning_en": "this morning",
-    "furigana": "けさ",
-    "meaning_ko": ["오늘 아침"]
-  },
-  {
-    "word": "晴れる",
-    "meaning_en": "to be sunny",
-    "furigana": "はれる",
-    "meaning_ko": ["화창해지다", "화창해짐"]
-  },
-  {
-    "word": "夕飯",
-    "meaning_en": "dinner",
-    "furigana": "ゆうはん",
-    "meaning_ko": ["저녁 식사"]
-  },
-  {
-    "word": "一緒",
-    "meaning_en": "together",
-    "furigana": "いっしょ",
-    "meaning_ko": ["함께", "함께"]
-  },
-  {
-    "word": "どれ",
-    "meaning_en": "which (of three or more)",
-    "furigana": "",
-    "meaning_ko": ["세 가지 중 어느 것"]
-  },
-  {
-    "word": "立つ",
-    "meaning_en": "to stand",
-    "furigana": "たつ",
-    "meaning_ko": ["일어나다", "일어서다"]
-  },
-  {
-    "word": "元気",
-    "meaning_en": "health, vitality",
-    "furigana": "げんき",
-    "meaning_ko": ["건강", "생기"]
-  },
-  {
-    "word": "天気",
-    "meaning_en": "weather",
-    "furigana": "てんき",
-    "meaning_ko": ["날씨"]
-  },
-  {
-    "word": "医者",
-    "meaning_en": "medical doctor",
-    "furigana": "いしゃ",
-    "meaning_ko": ["의사"]
-  },
-  {
-    "word": "七",
-    "meaning_en": "seven",
-    "furigana": "しち / なな",
-    "meaning_ko": ["칠"]
-  },
-  {
-    "word": "はく",
-    "meaning_en": "to wear, to put on trousers",
-    "furigana": "",
-    "meaning_ko": ["바지를 입다", "바지 입기"]
-  },
-  {
-    "word": "だんだん",
-    "meaning_en": "gradually",
-    "furigana": "",
-    "meaning_ko": ["점차적으로"]
-  },
-  {
-    "word": "戸",
-    "meaning_en": "Japanese style door",
-    "furigana": "と",
-    "meaning_ko": ["일본식 문"]
-  },
-  {
-    "word": "ノート",
-    "meaning_en": "notebook, exercise book",
-    "furigana": "",
-    "meaning_ko": ["노트북", "연습장"]
-  },
-  {
-    "word": "また",
-    "meaning_en": "again, and",
-    "furigana": "",
-    "meaning_ko": ["다시", "그리고"]
-  },
-  {
-    "word": "今日",
-    "meaning_en": "today",
-    "furigana": "きょう",
-    "meaning_ko": ["오늘"]
-  },
-  {
-    "word": "とても",
-    "meaning_en": "very",
-    "furigana": "",
-    "meaning_ko": ["매우"]
-  },
-  {
-    "word": "一昨年",
-    "meaning_en": "year before last",
-    "furigana": "おととし",
-    "meaning_ko": ["작년"]
-  },
-  {
-    "word": "文章",
-    "meaning_en": "sentence, text",
-    "furigana": "ぶんしょう",
-    "meaning_ko": ["문장", "글"]
-  },
-  {
-    "word": "公園",
-    "meaning_en": "park",
-    "furigana": "こうえん",
-    "meaning_ko": ["공원"]
-  },
-  {
-    "word": "借りる",
-    "meaning_en": "to borrow",
-    "furigana": "かりる",
-    "meaning_ko": ["빌리다", "빌림"]
-  },
-  {
-    "word": "口",
-    "meaning_en": "mouth, opening",
-    "furigana": "くち",
-    "meaning_ko": ["입", "입구"]
-  },
-  {
-    "word": "持つ",
-    "meaning_en": "to hold",
-    "furigana": "もつ",
-    "meaning_ko": ["가지고 있다", "가지다"]
-  },
-  {
-    "word": "上着",
-    "meaning_en": "jacket",
-    "furigana": "うわぎ",
-    "meaning_ko": ["위의 옷", "재킷"]
-  },
-  {
-    "word": "秋",
-    "meaning_en": "autumn",
-    "furigana": "あき",
-    "meaning_ko": ["가을"]
-  },
-  {
-    "word": "悪い",
-    "meaning_en": "bad",
-    "furigana": "わるい",
-    "meaning_ko": ["나쁜", "나쁨"]
-  },
-  {
-    "word": "青い",
-    "meaning_en": "blue",
-    "furigana": "あおい",
-    "meaning_ko": ["푸른", "푸르다"]
-  },
-  {
-    "word": "住む",
-    "meaning_en": "to live in",
-    "furigana": "すむ",
-    "meaning_ko": ["살다", "삶다"]
-  },
-  {
-    "word": "かける",
-    "meaning_en": "to call by phone",
-    "furigana": "",
-    "meaning_ko": ["전화를 걸다", "전화하다"]
-  },
-  {
-    "word": "木曜日",
-    "meaning_en": "Thursday",
-    "furigana": "もくようび",
-    "meaning_ko": ["목요일"]
-  },
-  {
-    "word": "忘れる",
-    "meaning_en": "to forget",
-    "furigana": "わすれる",
-    "meaning_ko": ["잊다", "잊어버리다"]
-  },
-  {
-    "word": "お手洗い",
-    "meaning_en": "bathroom",
-    "furigana": "おてあらい",
-    "meaning_ko": ["화장실"]
-  },
-  {
-    "word": "写真",
-    "meaning_en": "photograph",
-    "furigana": "しゃしん",
-    "meaning_ko": ["사진"]
-  },
-  {
-    "word": "ゼロ",
-    "meaning_en": "zero",
-    "furigana": "",
-    "meaning_ko": ["제로"]
-  },
-  {
-    "word": "いろいろ",
-    "meaning_en": "various",
-    "furigana": "",
-    "meaning_ko": ["다양한"]
-  },
-  {
-    "word": "もう",
-    "meaning_en": "already",
-    "furigana": "",
-    "meaning_ko": ["이미"]
-  },
-  {
-    "word": "会う",
-    "meaning_en": "to meet",
-    "furigana": "あう",
-    "meaning_ko": ["만나다", "만남"]
-  },
-  {
-    "word": "南",
-    "meaning_en": "south",
-    "furigana": "みなみ",
-    "meaning_ko": ["남"]
-  },
-  {
-    "word": "五日",
-    "meaning_en": "five days, fifth day",
-    "furigana": "いつか",
-    "meaning_ko": ["다섯 날"]
-  },
-  {
-    "word": "着る",
-    "meaning_en": "to put on from the shoulders down",
-    "furigana": "きる",
-    "meaning_ko": ["어깨 아래부터 입다", "입다"]
-  },
-  {
-    "word": "そこ",
-    "meaning_en": "that place",
-    "furigana": "",
-    "meaning_ko": ["그 장소"]
-  },
-  {
-    "word": "終る",
-    "meaning_en": "to finish",
-    "furigana": "おわる",
-    "meaning_ko": ["마치다", "마침"]
-  },
-  {
-    "word": "どの",
-    "meaning_en": "which",
-    "furigana": "",
-    "meaning_ko": ["어느 것"]
-  },
-  {
-    "word": "読む",
-    "meaning_en": "to read",
-    "furigana": "よむ",
-    "meaning_ko": ["읽다", "읽기"]
-  },
-  {
-    "word": "それでは",
-    "meaning_en": "in that situation",
-    "furigana": "",
-    "meaning_ko": ["그 상황에서"]
-  },
-  {
-    "word": "来月",
-    "meaning_en": "next month",
-    "furigana": "らいげつ",
-    "meaning_ko": ["다음 달"]
-  },
-  {
-    "word": "果物",
-    "meaning_en": "fruit",
-    "furigana": "くだもの",
-    "meaning_ko": ["과일"]
-  },
-  {
-    "word": "止まる",
-    "meaning_en": "to come to a halt",
-    "furigana": "とまる",
-    "meaning_ko": ["멈추다", "멈춤"]
-  },
-  {
-    "word": "着く",
-    "meaning_en": "to arrive at",
-    "furigana": "つく",
-    "meaning_ko": ["도착하다", "도착함"]
-  },
-  {
-    "word": "大好き",
-    "meaning_en": "to be very likeable",
-    "furigana": "だいすき",
-    "meaning_ko": ["매우 좋아하는", "매우 좋다"]
-  },
-  {
-    "word": "妹",
-    "meaning_en": "(humble) younger sister",
-    "furigana": "いもうと",
-    "meaning_ko": ["언니"]
-  },
-  {
-    "word": "夏",
-    "meaning_en": "summer",
-    "furigana": "なつ",
-    "meaning_ko": ["여름"]
-  },
-  {
-    "word": "今晩",
-    "meaning_en": "this evening",
-    "furigana": "こんばん",
-    "meaning_ko": ["오늘 저녁"]
-  },
-  {
-    "word": "塩",
-    "meaning_en": "salt",
-    "furigana": "しお",
-    "meaning_ko": ["소금"]
-  },
-  {
-    "word": "先週",
-    "meaning_en": "last week",
-    "furigana": "せんしゅう",
-    "meaning_ko": ["지난주"]
-  },
-  {
-    "word": "欲しい",
-    "meaning_en": "want",
-    "furigana": "ほしい",
-    "meaning_ko": ["원하는", "원함"]
-  },
-  {
-    "word": "木",
-    "meaning_en": "tree, wood",
-    "furigana": "き",
-    "meaning_ko": ["나무", "나무"]
-  },
-  {
-    "word": "ほんとう",
-    "meaning_en": "truth",
-    "furigana": "",
-    "meaning_ko": ["진실"]
-  },
-  {
-    "word": "薬",
-    "meaning_en": "medicine",
-    "furigana": "くすり",
-    "meaning_ko": ["약"]
-  },
-  {
-    "word": "お菓子",
-    "meaning_en": "sweets, candy",
-    "furigana": "おかし",
-    "meaning_ko": ["과자"]
-  },
-  {
-    "word": "金曜日",
-    "meaning_en": "Friday",
-    "furigana": "きんようび",
-    "meaning_ko": ["금요일"]
-  },
-  {
-    "word": "まずい",
-    "meaning_en": "unpleasant",
-    "furigana": "",
-    "meaning_ko": ["기분이 나쁜", "기분 나쁨"]
-  },
-  {
-    "word": "お酒",
-    "meaning_en": "alcohol, rice wine",
-    "furigana": "おさけ",
-    "meaning_ko": ["술", "떡소주"]
-  },
-  {
-    "word": "多い",
-    "meaning_en": "many",
-    "furigana": "おおい",
-    "meaning_ko": ["많은", "많다"]
-  },
-  {
-    "word": "動物",
-    "meaning_en": "animal",
-    "furigana": "どうぶつ",
-    "meaning_ko": ["동물"]
-  },
-  {
-    "word": "切符",
-    "meaning_en": "ticket",
-    "furigana": "きっぷ",
-    "meaning_ko": ["표"]
-  },
-  {
-    "word": "キロ / キロメートル",
-    "meaning_en": "kilometre",
-    "furigana": "",
-    "meaning_ko": ["킬로미터"]
-  },
-  {
-    "word": "呼ぶ",
-    "meaning_en": "to call out, to invite",
-    "furigana": "よぶ",
-    "meaning_ko": ["부르다", "초대하다"]
-  },
-  {
-    "word": "体",
-    "meaning_en": "body",
-    "furigana": "からだ",
-    "meaning_ko": ["몸"]
-  },
-  {
-    "word": "ゆっくりと",
-    "meaning_en": "slowly",
-    "furigana": "",
-    "meaning_ko": ["천천히"]
-  },
-  {
-    "word": "二日",
-    "meaning_en": "two days, second day of the month",
-    "furigana": "ふつか",
-    "meaning_ko": ["두 날"]
-  },
-  {
-    "word": "大人",
-    "meaning_en": "adult",
-    "furigana": "おとな",
-    "meaning_ko": ["성인"]
-  },
-  {
-    "word": "歯",
-    "meaning_en": "tooth",
-    "furigana": "は",
-    "meaning_ko": ["이", "이"]
-  },
-  {
-    "word": "冬",
-    "meaning_en": "winter",
-    "furigana": "ふゆ",
-    "meaning_ko": ["겨울"]
-  },
-  {
-    "word": "所",
-    "meaning_en": "place",
-    "furigana": "ところ",
-    "meaning_ko": ["장소"]
-  },
-  {
-    "word": "吹く",
-    "meaning_en": "to blow",
-    "furigana": "ふく",
-    "meaning_ko": ["불어나다", "불어남"]
-  },
-  {
-    "word": "足",
-    "meaning_en": "foot, leg",
-    "furigana": "あし",
-    "meaning_ko": ["발", "다리"]
-  },
-  {
-    "word": "箱",
-    "meaning_en": "box",
-    "furigana": "はこ",
-    "meaning_ko": ["상자"]
-  },
-  {
-    "word": "八",
-    "meaning_en": "eight",
-    "furigana": "はち",
-    "meaning_ko": ["여덟"]
-  },
-  {
-    "word": "朝",
-    "meaning_en": "morning",
-    "furigana": "あさ",
-    "meaning_ko": ["아침"]
-  },
-  {
-    "word": "一昨日",
-    "meaning_en": "day before yesterday",
-    "furigana": "おととい",
-    "meaning_ko": ["어제"]
-  },
-  {
-    "word": "有名",
-    "meaning_en": "famous",
-    "furigana": "ゆうめい",
-    "meaning_ko": ["유명한", "유명함"]
-  },
-  {
-    "word": "二十日",
-    "meaning_en": "twenty days, twentieth",
-    "furigana": "はつか",
-    "meaning_ko": ["스물 날"]
-  },
-  {
-    "word": "近い",
-    "meaning_en": "near",
-    "furigana": "ちかい",
-    "meaning_ko": ["가까운", "가까움"]
-  },
-  {
-    "word": "ください",
-    "meaning_en": "please",
-    "furigana": "",
-    "meaning_ko": ["부탁합니다", "부탁함"]
-  },
-  {
-    "word": "時計",
-    "meaning_en": "watch, clock",
-    "furigana": "とけい",
-    "meaning_ko": ["시계"]
-  },
-  {
-    "word": "午後",
-    "meaning_en": "afternoon",
-    "furigana": "ごご",
-    "meaning_ko": ["오후"]
-  },
-  {
-    "word": "食べ物",
-    "meaning_en": "food",
-    "furigana": "たべもの",
-    "meaning_ko": ["음식"]
-  },
-  {
-    "word": "降る",
-    "meaning_en": "to fall, e.g. rain or snow",
-    "furigana": "ふる",
-    "meaning_ko": ["내리다", "눈이 내리다"]
-  },
-  {
-    "word": "易しい",
-    "meaning_en": "easy, simple",
-    "furigana": "やさしい",
-    "meaning_ko": ["쉬운", "쉽다"]
-  },
-  {
-    "word": "大使館",
-    "meaning_en": "embassy",
-    "furigana": "たいしかん",
-    "meaning_ko": ["대사관"]
-  },
-  {
-    "word": "誰",
-    "meaning_en": "who",
-    "furigana": "だれ",
-    "meaning_ko": ["누구"]
-  },
-  {
-    "word": "上",
-    "meaning_en": "on top of",
-    "furigana": "うえ",
-    "meaning_ko": ["위에"]
-  },
-  {
-    "word": "五",
-    "meaning_en": "five",
-    "furigana": "ご",
-    "meaning_ko": ["다섯"]
-  },
-  {
-    "word": "十日",
-    "meaning_en": "ten days, the tenth day",
-    "furigana": "とおか",
-    "meaning_ko": ["열 날"]
-  },
-  {
-    "word": "どちら",
-    "meaning_en": "which of two",
-    "furigana": "",
-    "meaning_ko": ["두 가지 중 어느 것"]
-  },
-  {
-    "word": "プール",
-    "meaning_en": "swimming pool",
-    "furigana": "",
-    "meaning_ko": ["수영장"]
-  },
-  {
-    "word": "小さい",
-    "meaning_en": "little",
-    "furigana": "ちいさい",
-    "meaning_ko": ["작은", "작다"]
-  },
-  {
-    "word": "今週",
-    "meaning_en": "this week",
-    "furigana": "こんしゅう",
-    "meaning_ko": ["이번 주"]
-  },
-  {
-    "word": "肉",
-    "meaning_en": "meat",
-    "furigana": "にく",
-    "meaning_ko": ["고기"]
-  },
-  {
-    "word": "零",
-    "meaning_en": "zero",
-    "furigana": "れい",
-    "meaning_ko": ["제로"]
-  },
-  {
-    "word": "豚肉",
-    "meaning_en": "pork",
-    "furigana": "ぶたにく",
-    "meaning_ko": ["돼지고기"]
-  },
-  {
-    "word": "広い",
-    "meaning_en": "spacious, wide",
-    "furigana": "ひろい",
-    "meaning_ko": ["넓은", "넓다"]
-  },
-  {
-    "word": "靴下",
-    "meaning_en": "socks",
-    "furigana": "くつした",
-    "meaning_ko": ["양말"]
-  },
-  {
-    "word": "一人",
-    "meaning_en": "one person",
-    "furigana": "ひとり",
-    "meaning_ko": ["한 사람"]
-  },
-  {
-    "word": "かぎ",
-    "meaning_en": "key",
-    "furigana": "",
-    "meaning_ko": ["열쇠"]
-  },
-  {
-    "word": "向こう",
-    "meaning_en": "over there",
-    "furigana": "むこう",
-    "meaning_ko": ["저편"]
-  },
-  {
-    "word": "上手",
-    "meaning_en": "skillful",
-    "furigana": "じょうず",
-    "meaning_ko": ["능숙한", "능숙함"]
-  },
-  {
-    "word": "牛肉",
-    "meaning_en": "beef",
-    "furigana": "ぎゅうにく",
-    "meaning_ko": ["쇠고기"]
-  },
-  {
-    "word": "話",
-    "meaning_en": "talk, story",
-    "furigana": "はなし",
-    "meaning_ko": ["이야기", "이야기하다"]
-  },
-  {
-    "word": "毎晩",
-    "meaning_en": "every night",
-    "furigana": "まいばん",
-    "meaning_ko": ["매일 밤"]
-  },
-  {
-    "word": "三つ",
-    "meaning_en": "three",
-    "furigana": "みっつ",
-    "meaning_ko": ["세 가지"]
-  },
-  {
-    "word": "吸う",
-    "meaning_en": "to smoke, to suck",
-    "furigana": "すう",
-    "meaning_ko": ["흡연하다", "흡연함"]
-  },
-  {
-    "word": "銀行",
-    "meaning_en": "bank",
-    "furigana": "ぎんこう",
-    "meaning_ko": ["은행"]
-  },
-  {
-    "word": "大切",
-    "meaning_en": "important",
-    "furigana": "たいせつ",
-    "meaning_ko": ["중요한", "중요함"]
-  },
-  {
-    "word": "学生",
-    "meaning_en": "student",
-    "furigana": "がくせい",
-    "meaning_ko": ["학생"]
-  },
-  {
-    "word": "部屋",
-    "meaning_en": "room",
-    "furigana": "へや",
-    "meaning_ko": ["방"]
-  },
-  {
-    "word": "昼御飯",
-    "meaning_en": "midday meal",
-    "furigana": "ひるごはん",
-    "meaning_ko": ["점심 식사"]
-  },
-  {
-    "word": "下",
-    "meaning_en": "below",
-    "furigana": "した",
-    "meaning_ko": ["아래"]
-  },
-  {
-    "word": "二つ",
-    "meaning_en": "two",
-    "furigana": "ふたつ",
-    "meaning_ko": ["두 가지"]
-  },
-  {
-    "word": "百",
-    "meaning_en": "hundred",
-    "furigana": "ひゃく",
-    "meaning_ko": ["백"]
-  },
-  {
-    "word": "地図",
-    "meaning_en": "map",
-    "furigana": "ちず",
-    "meaning_ko": ["지도"]
-  },
-  {
-    "word": "八百屋",
-    "meaning_en": "greengrocer",
-    "furigana": "やおや",
-    "meaning_ko": ["오이집"]
-  },
-  {
-    "word": "ネクタイ",
-    "meaning_en": "tie, necktie",
-    "furigana": "",
-    "meaning_ko": ["넥타이"]
-  },
-  {
-    "word": "去年",
-    "meaning_en": "last year",
-    "furigana": "きょねん",
-    "meaning_ko": ["작년"]
-  },
-  {
-    "word": "火曜日",
-    "meaning_en": "Tuesday",
-    "furigana": "かようび",
-    "meaning_ko": ["화요일"]
-  },
-  {
-    "word": "乗る",
-    "meaning_en": "to get on, to ride",
-    "furigana": "のる",
-    "meaning_ko": ["타다", "탑승하다"]
-  },
-  {
-    "word": "弟",
-    "meaning_en": "younger brother",
-    "furigana": "おとうと",
-    "meaning_ko": ["어린 남동생"]
-  },
-  {
-    "word": "あなた",
-    "meaning_en": "you",
-    "furigana": "",
-    "meaning_ko": ["당신"]
-  },
-  {
-    "word": "千",
-    "meaning_en": "thousand",
-    "furigana": "せん",
-    "meaning_ko": ["천"]
-  },
-  {
-    "word": "緑",
-    "meaning_en": "green",
-    "furigana": "みどり",
-    "meaning_ko": ["녹색"]
-  },
-  {
-    "word": "とり肉",
-    "meaning_en": "chicken meat",
-    "furigana": "とりにく",
-    "meaning_ko": ["닭고기"]
-  },
-  {
-    "word": "軽い",
-    "meaning_en": "light",
-    "furigana": "かるい",
-    "meaning_ko": ["가벼운", "가벼움"]
-  },
-  {
-    "word": "あまり",
-    "meaning_en": "not very",
-    "furigana": "",
-    "meaning_ko": ["매우 안 그러나"]
-  },
-  {
-    "word": "帽子",
-    "meaning_en": "hat",
-    "furigana": "ぼうし",
-    "meaning_ko": ["모자"]
-  },
-  {
-    "word": "丈夫",
-    "meaning_en": "strong, durable",
-    "furigana": "じょうぶ",
-    "meaning_ko": ["강한", "강함"]
-  },
-  {
-    "word": "入れる",
-    "meaning_en": "to put in",
-    "furigana": "いれる",
-    "meaning_ko": ["넣다", "넣기"]
-  },
-  {
-    "word": "二十歳",
-    "meaning_en": "20 years old, 20th year",
-    "furigana": "はたち",
-    "meaning_ko": ["스물 살"]
-  },
-  {
-    "word": "三日",
-    "meaning_en": "three days, third day of the month",
-    "furigana": "みっか",
-    "meaning_ko": ["세 날"]
-  },
-  {
-    "word": "遠い",
-    "meaning_en": "far",
-    "furigana": "とおい",
-    "meaning_ko": ["먼", "먼"]
-  },
-  {
-    "word": "夏休み",
-    "meaning_en": "summer holiday",
-    "furigana": "なつやすみ",
-    "meaning_ko": ["여름 휴가"]
-  },
-  {
-    "word": "友達",
-    "meaning_en": "friend",
-    "furigana": "ともだち",
-    "meaning_ko": ["친구"]
-  },
-  {
-    "word": "横",
-    "meaning_en": "beside, side, width",
-    "furigana": "よこ",
-    "meaning_ko": ["옆", "너비"]
-  },
-  {
-    "word": "冷たい",
-    "meaning_en": "cold to the touch",
-    "furigana": "つめたい",
-    "meaning_ko": ["쌀쌀한", "쌀쌀함"]
-  },
-  {
-    "word": "夜",
-    "meaning_en": "evening, night",
-    "furigana": "よる",
-    "meaning_ko": ["밤", "밤"]
-  },
-  {
-    "word": "トイレ",
-    "meaning_en": "toilet",
-    "furigana": "",
-    "meaning_ko": ["화장실"]
-  },
-  {
-    "word": "おなか",
-    "meaning_en": "stomach",
-    "furigana": "",
-    "meaning_ko": ["배"]
-  },
-  {
-    "word": "どこ",
-    "meaning_en": "where",
-    "furigana": "",
-    "meaning_ko": ["어디"]
-  },
-  {
-    "word": "暇",
-    "meaning_en": "free time",
-    "furigana": "ひま",
-    "meaning_ko": ["시간이 남음"]
-  },
-  {
-    "word": "鳴く",
-    "meaning_en": "animal noise. to chirp, roar or croak etc.",
-    "furigana": "なく",
-    "meaning_ko": ["울다", "울음소리"]
-  },
-  {
-    "word": "隣",
-    "meaning_en": "next door to",
-    "furigana": "となり",
-    "meaning_ko": ["옆집"]
-  },
-  {
-    "word": "先生",
-    "meaning_en": "teacher, doctor",
-    "furigana": "せんせい",
-    "meaning_ko": ["선생님", "의사"]
-  },
-  {
-    "word": "出口",
-    "meaning_en": "exit",
-    "furigana": "でぐち",
-    "meaning_ko": ["출구"]
-  },
-  {
-    "word": "後ろ",
-    "meaning_en": "behind",
-    "furigana": "うしろ",
-    "meaning_ko": ["뒤"]
-  },
-  {
-    "word": "先月",
-    "meaning_en": "last month",
-    "furigana": "せんげつ",
-    "meaning_ko": ["지난 달"]
-  },
-  {
-    "word": "テープ",
-    "meaning_en": "tape",
-    "furigana": "",
-    "meaning_ko": ["테이프"]
-  },
-  {
-    "word": "お姉さん",
-    "meaning_en": "(honorable) older sister",
-    "furigana": "おねえさん",
-    "meaning_ko": ["누이"]
-  },
-  {
-    "word": "じゃ / じゃあ",
-    "meaning_en": "well then…",
-    "furigana": "",
-    "meaning_ko": ["그럼…"]
-  },
-  {
-    "word": "本",
-    "meaning_en": "book",
-    "furigana": "ほん",
-    "meaning_ko": ["책"]
-  },
-  {
-    "word": "泳ぐ",
-    "meaning_en": "to swim",
-    "furigana": "およぐ",
-    "meaning_ko": ["수영하다", "수영함"]
-  },
-  {
-    "word": "灰皿",
-    "meaning_en": "ashtray",
-    "furigana": "はいざら",
-    "meaning_ko": ["쇠불"]
-  },
-  {
-    "word": "門",
-    "meaning_en": "gate",
-    "furigana": "もん",
-    "meaning_ko": ["문"]
-  },
-  {
-    "word": "荷物",
-    "meaning_en": "luggage",
-    "furigana": "にもつ",
-    "meaning_ko": ["짐"]
-  },
-  {
-    "word": "この",
-    "meaning_en": "this",
-    "furigana": "",
-    "meaning_ko": ["이 것"]
-  },
-  {
-    "word": "書く",
-    "meaning_en": "to write",
-    "furigana": "かく",
-    "meaning_ko": ["쓰다", "쓰기"]
-  },
-  {
-    "word": "毎年",
-    "meaning_en": "every year",
-    "furigana": "まいねん / まいとし",
-    "meaning_ko": ["매년", "매년"]
-  },
-  {
-    "word": "明日",
-    "meaning_en": "tomorrow",
-    "furigana": "あした",
-    "meaning_ko": ["내일"]
-  },
-  {
-    "word": "ホテル",
-    "meaning_en": "hotel",
-    "furigana": "",
-    "meaning_ko": ["호텔"]
-  },
-  {
-    "word": "降りる",
-    "meaning_en": "to get off, to descend",
-    "furigana": "おりる",
-    "meaning_ko": ["내리다", "내려가다"]
-  },
-  {
-    "word": "重い",
-    "meaning_en": "heavy",
-    "furigana": "おもい",
-    "meaning_ko": ["무거운", "무거움"]
-  },
-  {
-    "word": "電車",
-    "meaning_en": "electric train",
-    "furigana": "でんしゃ",
-    "meaning_ko": ["전기 기차"]
-  },
-  {
-    "word": "痛い",
-    "meaning_en": "painful",
-    "furigana": "いたい",
-    "meaning_ko": ["아픈", "아픔"]
-  },
-  {
-    "word": "話す",
-    "meaning_en": "to speak",
-    "furigana": "はなす",
-    "meaning_ko": ["이야기하다", "이야기함"]
-  },
-  {
-    "word": "りっぱ",
-    "meaning_en": "splendid",
-    "furigana": "",
-    "meaning_ko": ["멋진", "멋짐"]
-  },
-  {
-    "word": "つまらない",
-    "meaning_en": "boring",
-    "furigana": "",
-    "meaning_ko": ["지루한", "지루함"]
-  },
-  {
-    "word": "よく",
-    "meaning_en": "often, well",
-    "furigana": "",
-    "meaning_ko": ["자주", "잘"]
-  },
-  {
-    "word": "嫌",
-    "meaning_en": "unpleasant",
-    "furigana": "いや",
-    "meaning_ko": ["싫은", "싫다"]
-  },
-  {
-    "word": "宿題",
-    "meaning_en": "homework",
-    "furigana": "しゅくだい",
-    "meaning_ko": ["숙제"]
-  },
-  {
-    "word": "死ぬ",
-    "meaning_en": "to die",
-    "furigana": "しぬ",
-    "meaning_ko": ["죽다", "죽음"]
-  },
-  {
-    "word": "みんな",
-    "meaning_en": "everyone",
-    "furigana": "",
-    "meaning_ko": ["모두"]
-  },
-  {
-    "word": "万",
-    "meaning_en": "ten thousand",
-    "furigana": "まん",
-    "meaning_ko": ["만"]
-  },
-  {
-    "word": "映画",
-    "meaning_en": "movie",
-    "furigana": "えいが",
-    "meaning_ko": ["영화"]
-  },
-  {
-    "word": "遅い",
-    "meaning_en": "late, slow",
-    "furigana": "おそい",
-    "meaning_ko": ["늦은", "늦다"]
-  },
-  {
-    "word": "耳",
-    "meaning_en": "ear",
-    "furigana": "みみ",
-    "meaning_ko": ["귀"]
-  },
-  {
-    "word": "かかる",
-    "meaning_en": "to take time or money",
-    "furigana": "",
-    "meaning_ko": ["시간이나 돈을 쓰다", "시간이나 돈 쓰기"]
-  },
-  {
-    "word": "でも",
-    "meaning_en": "but",
-    "furigana": "",
-    "meaning_ko": ["하지만"]
-  },
-  {
-    "word": "四つ",
-    "meaning_en": "four",
-    "furigana": "よっつ",
-    "meaning_ko": ["네 가지"]
-  },
-  {
-    "word": "机",
-    "meaning_en": "desk",
-    "furigana": "つくえ",
-    "meaning_ko": ["책상"]
-  },
-  {
-    "word": "あっち",
-    "meaning_en": "over there",
-    "furigana": "",
-    "meaning_ko": ["저편"]
-  },
-  {
-    "word": "買う",
-    "meaning_en": "to buy",
-    "furigana": "かう",
-    "meaning_ko": ["사다", "사기"]
-  },
-  {
-    "word": "開く",
-    "meaning_en": "to open, to become open",
-    "furigana": "あく",
-    "meaning_ko": ["열다", "열림"]
-  },
-  {
-    "word": "教室",
-    "meaning_en": "classroom",
-    "furigana": "きょうしつ",
-    "meaning_ko": ["교실"]
-  },
-  {
-    "word": "かばん",
-    "meaning_en": "bag, basket",
-    "furigana": "",
-    "meaning_ko": ["가방", "바구니"]
-  },
-  {
-    "word": "マッチ",
-    "meaning_en": "match",
-    "furigana": "",
-    "meaning_ko": ["매치"]
-  },
-  {
-    "word": "短い",
-    "meaning_en": "short",
-    "furigana": "みじかい",
-    "meaning_ko": ["짧은", "짧다"]
-  },
-  {
-    "word": "姉",
-    "meaning_en": "(humble) older sister",
-    "furigana": "あね",
-    "meaning_ko": ["누이"]
-  },
-  {
-    "word": "大勢",
-    "meaning_en": "great number of people",
-    "furigana": "おおぜい",
-    "meaning_ko": ["많은 사람들"]
-  },
-  {
-    "word": "開ける",
-    "meaning_en": "to open",
-    "furigana": "あける",
-    "meaning_ko": ["열다", "열림"]
-  },
-  {
-    "word": "忙しい",
-    "meaning_en": "busy, irritated",
-    "furigana": "いそがしい",
-    "meaning_ko": ["바쁜", "바쁨"]
-  },
-  {
-    "word": "おばあさん",
-    "meaning_en": "grandmother, female senior-citizen",
-    "furigana": "",
-    "meaning_ko": ["할머니", "여성 노인"]
-  },
-  {
-    "word": "店",
-    "meaning_en": "shop",
-    "furigana": "みせ",
-    "meaning_ko": ["가게"]
-  },
-  {
-    "word": "ワイシャツ",
-    "meaning_en": "business shirt",
-    "furigana": "",
-    "meaning_ko": ["비즈니스 셔츠"]
-  },
-  {
-    "word": "北",
-    "meaning_en": "north",
-    "furigana": "きた",
-    "meaning_ko": ["북"]
-  },
-  {
-    "word": "ラジオ",
-    "meaning_en": "radio",
-    "furigana": "",
-    "meaning_ko": ["라디오"]
-  },
-  {
-    "word": "すぐに",
-    "meaning_en": "instantly",
-    "furigana": "",
-    "meaning_ko": ["즉시"]
-  },
-  {
-    "word": "ハンカチ",
-    "meaning_en": "handkerchief",
-    "furigana": "",
-    "meaning_ko": ["수건"]
-  },
-  {
-    "word": "いつ",
-    "meaning_en": "when",
-    "furigana": "",
-    "meaning_ko": ["언제"]
-  },
-  {
-    "word": "全部",
-    "meaning_en": "all",
-    "furigana": "ぜんぶ",
-    "meaning_ko": ["모두"]
-  },
-  {
-    "word": "橋",
-    "meaning_en": "bridge",
-    "furigana": "はし",
-    "meaning_ko": ["다리"]
-  },
-  {
-    "word": "川 / 河",
-    "meaning_en": "river",
-    "furigana": "かわ",
-    "meaning_ko": ["강"]
-  },
-  {
-    "word": "バター",
-    "meaning_en": "butter",
-    "furigana": "",
-    "meaning_ko": ["버터"]
-  },
-  {
-    "word": "もっと",
-    "meaning_en": "more",
-    "furigana": "",
-    "meaning_ko": ["더"]
-  },
-  {
-    "word": "入口",
-    "meaning_en": "entrance",
-    "furigana": "いりぐち",
-    "meaning_ko": ["입구"]
-  },
-  {
-    "word": "など",
-    "meaning_en": "et cetera",
-    "furigana": "",
-    "meaning_ko": ["기타 등등"]
-  },
-  {
-    "word": "太い",
-    "meaning_en": "fat",
-    "furigana": "ふとい",
-    "meaning_ko": ["두꺼운", "두껍다"]
-  },
-  {
-    "word": "やる",
-    "meaning_en": "to do",
-    "furigana": "",
-    "meaning_ko": ["하다", "하기"]
-  },
-  {
-    "word": "自動車",
-    "meaning_en": "automobile",
-    "furigana": "じどうしゃ",
-    "meaning_ko": ["자동차"]
-  },
-  {
-    "word": "昼",
-    "meaning_en": "noon, daytime",
-    "furigana": "ひる",
-    "meaning_ko": ["점심", "낮"]
-  },
-  {
-    "word": "色",
-    "meaning_en": "colour",
-    "furigana": "いろ",
-    "meaning_ko": ["색"]
-  },
-  {
-    "word": "黄色",
-    "meaning_en": "yellow",
-    "furigana": "きいろ",
-    "meaning_ko": ["노란색"]
-  },
-  {
-    "word": "左",
-    "meaning_en": "left hand side",
-    "furigana": "ひだり",
-    "meaning_ko": ["왼쪽"]
-  },
-  {
-    "word": "野菜",
-    "meaning_en": "vegetable",
-    "furigana": "やさい",
-    "meaning_ko": ["야채"]
-  },
-  {
-    "word": "シャワー",
-    "meaning_en": "shower",
-    "furigana": "",
-    "meaning_ko": ["샤워"]
-  },
-  {
-    "word": "散歩",
-    "meaning_en": "to stroll",
-    "furigana": "さんぽする",
-    "meaning_ko": ["산책하다", "산책함"]
-  },
-  {
-    "word": "三",
-    "meaning_en": "three",
-    "furigana": "さん",
-    "meaning_ko": ["세"]
-  },
-  {
-    "word": "消える",
-    "meaning_en": "to disappear",
-    "furigana": "きえる",
-    "meaning_ko": ["사라지다", "사라짐"]
-  },
-  {
-    "word": "映画館",
-    "meaning_en": "cinema",
-    "furigana": "えいがかん",
-    "meaning_ko": ["영화관"]
-  },
-  {
-    "word": "いす",
-    "meaning_en": "chair",
-    "furigana": "",
-    "meaning_ko": ["의자"]
-  },
-  {
-    "word": "誕生日",
-    "meaning_en": "birthday",
-    "furigana": "たんじょうび",
-    "meaning_ko": ["생일"]
-  },
-  {
-    "word": "切る",
-    "meaning_en": "to cut",
-    "furigana": "きる",
-    "meaning_ko": ["자르다", "자름"]
-  },
-  {
-    "word": "七日",
-    "meaning_en": "seven days, the seventh day",
-    "furigana": "なのか",
-    "meaning_ko": ["일주일 후"]
-  },
-  {
-    "word": "洗う",
-    "meaning_en": "to wash",
-    "furigana": "あらう",
-    "meaning_ko": ["씻다", "씻기"]
-  },
-  {
-    "word": "あれ",
-    "meaning_en": "that",
-    "furigana": "",
-    "meaning_ko": ["그것"]
-  },
-  {
-    "word": "グラム",
-    "meaning_en": "gram",
-    "furigana": "",
-    "meaning_ko": ["그램"]
-  },
-  {
-    "word": "習う",
-    "meaning_en": "to learn",
-    "furigana": "ならう",
-    "meaning_ko": ["배우다", "배움"]
-  },
-  {
-    "word": "後",
-    "meaning_en": "afterwards",
-    "furigana": "あと",
-    "meaning_ko": ["이후"]
-  },
-  {
-    "word": "猫",
-    "meaning_en": "cat",
-    "furigana": "ねこ",
-    "meaning_ko": ["고양이"]
-  },
-  {
-    "word": "図書館",
-    "meaning_en": "library",
-    "furigana": "としょかん",
-    "meaning_ko": ["도서관"]
-  },
-  {
-    "word": "並べる",
-    "meaning_en": "to line up, to set up",
-    "furigana": "ならべる",
-    "meaning_ko": ["세우다", "세움"]
-  },
-  {
-    "word": "しかし",
-    "meaning_en": "however",
-    "furigana": "",
-    "meaning_ko": ["그러나"]
-  },
-  {
-    "word": "大きい",
-    "meaning_en": "big",
-    "furigana": "おおきい",
-    "meaning_ko": ["큰", "크다"]
-  },
-  {
-    "word": "八日",
-    "meaning_en": "eight days, eighth day of the month",
-    "furigana": "ようか",
-    "meaning_ko": ["여덟 날"]
-  },
-  {
-    "word": "歩く",
-    "meaning_en": "to walk",
-    "furigana": "あるく",
-    "meaning_ko": ["걷다", "걷기"]
-  },
-  {
-    "word": "ズボン",
-    "meaning_en": "trousers",
-    "furigana": "",
-    "meaning_ko": ["치마"]
-  },
-  {
-    "word": "九日",
-    "meaning_en": "nine days, ninth day",
-    "furigana": "ここのか",
-    "meaning_ko": ["아홉 날"]
-  },
-  {
-    "word": "そっち",
-    "meaning_en": "over there",
-    "furigana": "",
-    "meaning_ko": ["저편"]
-  },
-  {
-    "word": "たて",
-    "meaning_en": "length, height",
-    "furigana": "",
-    "meaning_ko": ["길이", "높이"]
-  },
-  {
-    "word": "カップ",
-    "meaning_en": "cup",
-    "furigana": "",
-    "meaning_ko": ["컵"]
-  },
-  {
-    "word": "あの",
-    "meaning_en": "that over there",
-    "furigana": "",
-    "meaning_ko": ["저편의 것"]
-  },
-  {
-    "word": "頼む",
-    "meaning_en": "to ask",
-    "furigana": "たのむ",
-    "meaning_ko": ["부탁하다", "부탁함"]
-  },
-  {
-    "word": "お兄さん",
-    "meaning_en": "(honorable) older brother",
-    "furigana": "おにいさん",
-    "meaning_ko": ["오빠"]
-  },
-  {
-    "word": "手",
-    "meaning_en": "hand",
-    "furigana": "て",
-    "meaning_ko": ["손"]
-  },
-  {
-    "word": "ええ",
-    "meaning_en": "yes",
-    "furigana": "",
-    "meaning_ko": ["예"]
-  },
-  {
-    "word": "毎日",
-    "meaning_en": "every day",
-    "furigana": "まいにち",
-    "meaning_ko": ["매일", "매일"]
-  },
-  {
-    "word": "花",
-    "meaning_en": "flower",
-    "furigana": "はな",
-    "meaning_ko": ["꽃"]
-  },
-  {
-    "word": "一",
-    "meaning_en": "one",
-    "furigana": "いち",
-    "meaning_ko": ["일"]
-  },
-  {
-    "word": "居る",
-    "meaning_en": "to be, to have (used for people and animals)",
-    "furigana": "いる",
-    "meaning_ko": ["있다", "있음"]
-  },
-  {
-    "word": "砂糖",
-    "meaning_en": "sugar",
-    "furigana": "さとう",
-    "meaning_ko": ["설탕"]
-  },
-  {
-    "word": "カレンダー",
-    "meaning_en": "calendar",
-    "furigana": "",
-    "meaning_ko": ["캘린더"]
-  },
-  {
-    "word": "今",
-    "meaning_en": "now",
-    "furigana": "いま",
-    "meaning_ko": ["지금"]
-  },
-  {
-    "word": "旅行",
-    "meaning_en": "travel",
-    "furigana": "りょこう",
-    "meaning_ko": ["여행"]
-  },
-  {
-    "word": "できる",
-    "meaning_en": "to be able to",
-    "furigana": "",
-    "meaning_ko": ["할 수 있다", "할 수 있음"]
-  },
-  {
-    "word": "春",
-    "meaning_en": "spring",
-    "furigana": "はる",
-    "meaning_ko": ["봄"]
-  },
-  {
-    "word": "する",
-    "meaning_en": "to do",
-    "furigana": "",
-    "meaning_ko": ["하다", "하기"]
-  },
-  {
-    "word": "八つ",
-    "meaning_en": "eight",
-    "furigana": "やっつ",
-    "meaning_ko": ["여덟 가지"]
-  },
-  {
-    "word": "町",
-    "meaning_en": "town, city",
-    "furigana": "まち",
-    "meaning_ko": ["마을", "도시"]
-  },
-  {
-    "word": "渡す",
-    "meaning_en": "to hand over",
-    "furigana": "わたす",
-    "meaning_ko": ["건네주다", "건네줌"]
-  },
-  {
-    "word": "青",
-    "meaning_en": "blue",
-    "furigana": "あお",
-    "meaning_ko": ["푸른", "푸르다"]
-  },
-  {
-    "word": "白",
-    "meaning_en": "white",
-    "furigana": "しろ",
-    "meaning_ko": ["하얀", "하어다"]
-  },
-  {
-    "word": "ある",
-    "meaning_en": "to be, to have (used for inanimate objects)",
-    "furigana": "",
-    "meaning_ko": ["있다", "있음"]
-  },
-  {
-    "word": "ベッド",
-    "meaning_en": "bed",
-    "furigana": "",
-    "meaning_ko": ["침대"]
-  },
-  {
-    "word": "水",
-    "meaning_en": "water",
-    "furigana": "みず",
-    "meaning_ko": ["물"]
-  },
-  {
-    "word": "いくつ",
-    "meaning_en": "how many?, how old?",
-    "furigana": "",
-    "meaning_ko": ["몇 개인가?", "몇 살인가?"]
-  },
-  {
-    "word": "楽しい",
-    "meaning_en": "enjoyable",
-    "furigana": "たのしい",
-    "meaning_ko": ["즐거운", "즐거움"]
-  },
-  {
-    "word": "御飯",
-    "meaning_en": "cooked rice, meal",
-    "furigana": "ごはん",
-    "meaning_ko": ["밥", "밥 식사"]
-  },
-  {
-    "word": "皆さん",
-    "meaning_en": "everyone",
-    "furigana": "みなさん",
-    "meaning_ko": ["모두 여러분"]
-  },
-  {
-    "word": "おいしい",
-    "meaning_en": "delicious",
-    "furigana": "",
-    "meaning_ko": ["맛있는", "맛있음"]
-  },
-  {
-    "word": "ペット",
-    "meaning_en": "pet",
-    "furigana": "",
-    "meaning_ko": ["애완동물"]
-  },
-  {
-    "word": "外",
-    "meaning_en": "outside",
-    "furigana": "そと",
-    "meaning_ko": ["밖"]
-  },
-  {
-    "word": "前",
-    "meaning_en": "before",
-    "furigana": "まえ",
-    "meaning_ko": ["앞"]
-  },
-  {
-    "word": "来る",
-    "meaning_en": "to come",
-    "furigana": "くる",
-    "meaning_ko": ["오다", "옴"]
-  },
-  {
-    "word": "おもしろい",
-    "meaning_en": "interesting",
-    "furigana": "",
-    "meaning_ko": ["재미있는", "재미있음"]
-  },
-  {
-    "word": "貸す",
-    "meaning_en": "to lend",
-    "furigana": "かす",
-    "meaning_ko": ["빌려주다", "빌려줌"]
-  },
-  {
-    "word": "早い",
-    "meaning_en": "early",
-    "furigana": "はやい",
-    "meaning_ko": ["일찍", "일찍"]
-  },
-  {
-    "word": "弱い",
-    "meaning_en": "weak",
-    "furigana": "よわい",
-    "meaning_ko": ["약한", "약함"]
-  },
-  {
-    "word": "洗濯",
-    "meaning_en": "washing",
-    "furigana": "せんたく",
-    "meaning_ko": ["세탁하다", "세탁함"]
-  },
-  {
-    "word": "九つ",
-    "meaning_en": "nine",
-    "furigana": "ここのつ",
-    "meaning_ko": ["아홉 가지"]
-  },
-  {
-    "word": "来年",
-    "meaning_en": "next year",
-    "furigana": "らいねん",
-    "meaning_ko": ["내년"]
-  },
-  {
-    "word": "眼鏡",
-    "meaning_en": "glasses",
-    "furigana": "めがね",
-    "meaning_ko": ["안경"]
-  },
-  {
-    "word": "背",
-    "meaning_en": "height, stature",
-    "furigana": "せ",
-    "meaning_ko": ["키", "키"]
-  },
-  {
-    "word": "水曜日",
-    "meaning_en": "Wednesday",
-    "furigana": "すいようび",
-    "meaning_ko": ["수요일"]
-  },
-  {
-    "word": "お金",
-    "meaning_en": "money",
-    "furigana": "おかね",
-    "meaning_ko": ["돈"]
-  },
-  {
-    "word": "同じ",
-    "meaning_en": "same",
-    "furigana": "おなじ",
-    "meaning_ko": ["같은", "같다"]
-  },
-  {
-    "word": "弾く",
-    "meaning_en": "to play an instrument with strings, including piano",
-    "furigana": "ひく",
-    "meaning_ko": ["문악기를 연주하다", "문악기 연주하기"]
-  },
-  {
-    "word": "土曜日",
-    "meaning_en": "Saturday",
-    "furigana": "どようび",
-    "meaning_ko": ["토요일"]
-  },
-  {
-    "word": "階段",
-    "meaning_en": "stairs",
-    "furigana": "かいだん",
-    "meaning_ko": ["계단"]
-  },
-  {
-    "word": "煩い",
-    "meaning_en": "noisy, annoying",
-    "furigana": "うるさい",
-    "meaning_ko": ["시끄러운", "시끄러움"]
-  },
-  {
-    "word": "半分",
-    "meaning_en": "half minute",
-    "furigana": "はんぶん",
-    "meaning_ko": ["반 분"]
-  },
-  {
-    "word": "背広",
-    "meaning_en": "business suit",
-    "furigana": "せびろ",
-    "meaning_ko": ["비즈니스 정장"]
-  },
-  {
-    "word": "晴れ",
-    "meaning_en": "clear weather",
-    "furigana": "はれ",
-    "meaning_ko": ["맑은 날씨"]
-  },
-  {
-    "word": "見せる",
-    "meaning_en": "to show",
-    "furigana": "みせる",
-    "meaning_ko": ["보여주다", "보여줌"]
-  },
-  {
-    "word": "飲み物",
-    "meaning_en": "a drink",
-    "furigana": "のみもの",
-    "meaning_ko": ["음료"]
-  },
-  {
-    "word": "雪",
-    "meaning_en": "snow",
-    "furigana": "ゆき",
-    "meaning_ko": ["눈"]
-  },
-  {
-    "word": "買い物",
-    "meaning_en": "shopping",
-    "furigana": "かいもの",
-    "meaning_ko": ["쇼핑"]
-  },
-  {
-    "word": "交差点",
-    "meaning_en": "intersection",
-    "furigana": "こうさてん",
-    "meaning_ko": ["교차로"]
-  },
-  {
-    "word": "駅",
-    "meaning_en": "station",
-    "furigana": "えき",
-    "meaning_ko": ["역"]
-  },
-  {
-    "word": "大丈夫",
-    "meaning_en": "all right",
-    "furigana": "だいじょうぶ",
-    "meaning_ko": ["모두 괜찮음", "모두 괜찮음"]
-  },
-  {
-    "word": "ボールペン",
-    "meaning_en": "ball-point pen",
-    "furigana": "",
-    "meaning_ko": ["볼펜"]
-  },
-  {
-    "word": "勉強",
-    "meaning_en": "to study",
-    "furigana": "べんきょうする",
-    "meaning_ko": ["공부하다", "공부함"]
-  },
-  {
-    "word": "兄弟",
-    "meaning_en": "(humble) siblings",
-    "furigana": "きょうだい",
-    "meaning_ko": ["형제", "형제"]
-  },
-  {
-    "word": "封筒",
-    "meaning_en": "envelope",
-    "furigana": "ふうとう",
-    "meaning_ko": ["봉투"]
-  },
-  {
-    "word": "レコード",
-    "meaning_en": "record",
-    "furigana": "",
-    "meaning_ko": ["레코드"]
-  },
-  {
-    "word": "コーヒー",
-    "meaning_en": "coffee",
-    "furigana": "",
-    "meaning_ko": ["커피"]
-  },
-  {
-    "word": "漢字",
-    "meaning_en": "Chinese character",
-    "furigana": "かんじ",
-    "meaning_ko": ["한자"]
-  },
-  {
-    "word": "喫茶店",
-    "meaning_en": "coffee lounge",
-    "furigana": "きっさてん",
-    "meaning_ko": ["커피숍"]
-  },
-  {
-    "word": "その",
-    "meaning_en": "that",
-    "furigana": "",
-    "meaning_ko": ["그것"]
-  },
-  {
-    "word": "子供",
-    "meaning_en": "child",
-    "furigana": "こども",
-    "meaning_ko": ["아이"]
-  },
-  {
-    "word": "ちょっと",
-    "meaning_en": "somewhat",
-    "furigana": "",
-    "meaning_ko": ["조금"]
-  },
-  {
-    "word": "女の子",
-    "meaning_en": "girl",
-    "furigana": "おんなのこ",
-    "meaning_ko": ["여자 아이"]
-  },
-  {
-    "word": "紙",
-    "meaning_en": "paper",
-    "furigana": "かみ",
-    "meaning_ko": ["종이"]
-  },
-  {
-    "word": "字引",
-    "meaning_en": "dictionary",
-    "furigana": "じびき",
-    "meaning_ko": ["사전"]
-  },
-  {
-    "word": "あさって",
-    "meaning_en": "day after tomorrow",
-    "furigana": "",
-    "meaning_ko": ["내일"]
-  },
-  {
-    "word": "嫌い",
-    "meaning_en": "hate",
-    "furigana": "きらい",
-    "meaning_ko": ["싫어하는", "싫다"]
-  },
-  {
-    "word": "先",
-    "meaning_en": "the future, previous",
-    "furigana": "さき",
-    "meaning_ko": ["미래", "이전"]
-  },
-  {
-    "word": "答える",
-    "meaning_en": "to answer",
-    "furigana": "こたえる",
-    "meaning_ko": ["대답하다", "대답함"]
-  },
-  {
-    "word": "食堂",
-    "meaning_en": "dining hall",
-    "furigana": "しょくどう",
-    "meaning_ko": ["식당"]
-  },
-  {
-    "word": "テーブル",
-    "meaning_en": "table",
-    "furigana": "",
-    "meaning_ko": ["테이블"]
-  },
-  {
-    "word": "コピーする",
-    "meaning_en": "to copy",
-    "furigana": "",
-    "meaning_ko": ["복사하다", "복사함"]
-  },
-  {
-    "word": "働く",
-    "meaning_en": "to work",
-    "furigana": "はたらく",
-    "meaning_ko": ["일하다", "일함"]
-  },
-  {
-    "word": "こんな",
-    "meaning_en": "such",
-    "furigana": "",
-    "meaning_ko": ["이런"]
-  },
-  {
-    "word": "たくさん",
-    "meaning_en": "many",
-    "furigana": "",
-    "meaning_ko": ["많은"]
-  },
-  {
-    "word": "ドア",
-    "meaning_en": "Western style door",
-    "furigana": "",
-    "meaning_ko": ["서양식 문"]
-  },
-  {
-    "word": "見る  観る",
-    "meaning_en": "to see, to watch",
-    "furigana": "みる",
-    "meaning_ko": ["보다", "보기"]
-  },
-  {
-    "word": "交番",
-    "meaning_en": "police box",
-    "furigana": "こうばん",
-    "meaning_ko": ["경찰국"]
-  },
-  {
-    "word": "ナイフ",
-    "meaning_en": "knife",
-    "furigana": "",
-    "meaning_ko": ["나이프"]
-  },
-  {
-    "word": "辛い",
-    "meaning_en": "spicy",
-    "furigana": "からい",
-    "meaning_ko": ["매운", "매운"]
-  },
-  {
-    "word": "洋服",
-    "meaning_en": "western-style clothes",
-    "furigana": "ようふく",
-    "meaning_ko": ["서양식 옷"]
-  },
-  {
-    "word": "晩御飯",
-    "meaning_en": "evening meal",
-    "furigana": "ばんごはん",
-    "meaning_ko": ["저녁 식사"]
-  },
-  {
-    "word": "車",
-    "meaning_en": "car, vehicle",
-    "furigana": "くるま",
-    "meaning_ko": ["차", "차량"]
-  },
-  {
-    "word": "ちょうど",
-    "meaning_en": "exactly",
-    "furigana": "",
-    "meaning_ko": ["정확히"]
-  },
-  {
-    "word": "もう一度",
-    "meaning_en": "again",
-    "furigana": "もういちど",
-    "meaning_ko": ["다시", "다시"]
-  },
-  {
-    "word": "ポスト",
-    "meaning_en": "post",
-    "furigana": "",
-    "meaning_ko": ["우편함"]
-  },
-  {
-    "word": "服",
-    "meaning_en": "clothes",
-    "furigana": "ふく",
-    "meaning_ko": ["옷"]
-  },
-  {
-    "word": "メートル",
-    "meaning_en": "metre",
-    "furigana": "",
-    "meaning_ko": ["미터"]
-  },
-  {
-    "word": "パン",
-    "meaning_en": "bread",
-    "furigana": "",
-    "meaning_ko": ["빵"]
-  },
-  {
-    "word": "半",
-    "meaning_en": "half",
-    "furigana": "はん",
-    "meaning_ko": ["반"]
-  },
-  {
-    "word": "若い",
-    "meaning_en": "young",
-    "furigana": "わかい",
-    "meaning_ko": ["젊은", "젊다"]
-  },
-  {
-    "word": "食べる",
-    "meaning_en": "to eat",
-    "furigana": "たべる",
-    "meaning_ko": ["먹다", "먹기"]
-  },
-  {
-    "word": "四日",
-    "meaning_en": "four days, fouth day of the month",
-    "furigana": "よっか",
-    "meaning_ko": ["네 날"]
-  },
-  {
-    "word": "警官",
-    "meaning_en": "policeman",
-    "furigana": "けいかん",
-    "meaning_ko": ["경찰관"]
-  },
-  {
-    "word": "伯父 / 叔父",
-    "meaning_en": "grandfather, male senior citizen",
-    "furigana": "おじいさん",
-    "meaning_ko": ["할아버지", "남성 노인"]
-  },
-  {
-    "word": "これ",
-    "meaning_en": "this",
-    "furigana": "",
-    "meaning_ko": ["이 것"]
-  },
-  {
-    "word": "アパート",
-    "meaning_en": "apartment",
-    "furigana": "",
-    "meaning_ko": ["아파트"]
-  },
-  {
-    "word": "鳥",
-    "meaning_en": "bird",
-    "furigana": "とり",
-    "meaning_ko": ["새"]
-  },
-  {
-    "word": "ここ",
-    "meaning_en": "here",
-    "furigana": "",
-    "meaning_ko": ["여기"]
-  },
-  {
-    "word": "方",
-    "meaning_en": "person, way of doing",
-    "furigana": "かた",
-    "meaning_ko": ["사람", "방식"]
-  },
-  {
-    "word": "タクシー",
-    "meaning_en": "taxi",
-    "furigana": "",
-    "meaning_ko": ["택시"]
-  },
-  {
-    "word": "では",
-    "meaning_en": "with that...",
-    "furigana": "",
-    "meaning_ko": ["그것을 가지고..."]
-  },
-  {
-    "word": "しょうゆ",
-    "meaning_en": "soy sauce",
-    "furigana": "",
-    "meaning_ko": ["된장"]
-  },
-  {
-    "word": "少ない",
-    "meaning_en": "a few",
-    "furigana": "すくない",
-    "meaning_ko": ["적은", "적다"]
-  },
-  {
-    "word": "白い",
-    "meaning_en": "white",
-    "furigana": "しろい",
-    "meaning_ko": ["하얀", "하어다"]
-  },
-  {
-    "word": "待つ",
-    "meaning_en": "to wait",
-    "furigana": "まつ",
-    "meaning_ko": ["기다리다", "기다림"]
-  },
-  {
-    "word": "次",
-    "meaning_en": "next",
-    "furigana": "つぎ",
-    "meaning_ko": ["다음", "다음"]
-  },
-  {
-    "word": "行く",
-    "meaning_en": "to go",
-    "furigana": "いく",
-    "meaning_ko": ["가다", "감"]
-  },
-  {
-    "word": "角",
-    "meaning_en": "a corner",
-    "furigana": "かど",
-    "meaning_ko": ["모퉁이"]
-  },
-  {
-    "word": "男",
-    "meaning_en": "man",
-    "furigana": "おとこ",
-    "meaning_ko": ["남자"]
-  },
-  {
-    "word": "ギター",
-    "meaning_en": "guitar",
-    "furigana": "",
-    "meaning_ko": ["기타"]
-  },
-  {
-    "word": "聞く",
-    "meaning_en": "to hear, to listen to, to ask",
-    "furigana": "きく",
-    "meaning_ko": ["듣다", "듣기", "물어보다"]
-  },
-  {
-    "word": "走る",
-    "meaning_en": "to run",
-    "furigana": "はしる",
-    "meaning_ko": ["달리다", "달림"]
-  },
-  {
-    "word": "お母さん",
-    "meaning_en": "(honorable) mother",
-    "furigana": "おかあさん",
-    "meaning_ko": ["어머니"]
-  },
-  {
-    "word": "意味",
-    "meaning_en": "meaning",
-    "furigana": "いみ",
-    "meaning_ko": ["의미"]
-  },
-  {
-    "word": "物",
-    "meaning_en": "thing",
-    "furigana": "もの",
-    "meaning_ko": ["물건"]
-  },
-  {
-    "word": "強い",
-    "meaning_en": "powerful",
-    "furigana": "つよい",
-    "meaning_ko": ["강한", "강함"]
-  },
-  {
-    "word": "魚",
-    "meaning_en": "fish",
-    "furigana": "さかな",
-    "meaning_ko": ["물고기"]
-  },
-  {
-    "word": "切手",
-    "meaning_en": "postage stamp",
-    "furigana": "きって",
-    "meaning_ko": ["우표"]
-  },
-  {
-    "word": "暗い",
-    "meaning_en": "gloomy",
-    "furigana": "くらい",
-    "meaning_ko": ["어두운", "어두움"]
-  },
-  {
-    "word": "出る",
-    "meaning_en": "to appear, to leave",
-    "furigana": "でる",
-    "meaning_ko": ["나타나다", "나가다"]
-  },
-  {
-    "word": "犬",
-    "meaning_en": "dog",
-    "furigana": "いぬ",
-    "meaning_ko": ["개"]
-  },
-  {
-    "word": "女",
-    "meaning_en": "woman",
-    "furigana": "おんな",
-    "meaning_ko": ["여자"]
-  },
-  {
-    "word": "飛行機",
-    "meaning_en": "aeroplane",
-    "furigana": "ひこうき",
-    "meaning_ko": ["비행기"]
-  },
-  {
-    "word": "日曜日",
-    "meaning_en": "Sunday",
-    "furigana": "にちようび",
-    "meaning_ko": ["일요일"]
-  },
-  {
-    "word": "より、ほう",
-    "meaning_en": "Used for comparison.",
-    "furigana": "",
-    "meaning_ko": ["비교를 위해 사용됨"]
-  },
-  {
-    "word": "午前",
-    "meaning_en": "morning",
-    "furigana": "ごぜん",
-    "meaning_ko": ["오전"]
-  },
-  {
-    "word": "名前",
-    "meaning_en": "name",
-    "furigana": "なまえ",
-    "meaning_ko": ["이름"]
-  },
-  {
-    "word": "丸い / 円い",
-    "meaning_en": "round, circular",
-    "furigana": "まるい",
-    "meaning_ko": ["둥근", "원형"]
-  },
-  {
-    "word": "曲る",
-    "meaning_en": "to turn, to bend",
-    "furigana": "まがる",
-    "meaning_ko": ["구부리다", "구부림"]
-  },
-  {
-    "word": "鼻",
-    "meaning_en": "nose",
-    "furigana": "はな",
-    "meaning_ko": ["코"]
-  },
-  {
-    "word": "お弁当",
-    "meaning_en": "boxed lunch",
-    "furigana": "おべんとう",
-    "meaning_ko": ["박스 점심"]
-  },
-  {
-    "word": "コップ",
-    "meaning_en": "a glass",
-    "furigana": "",
-    "meaning_ko": ["컵"]
-  },
-  {
-    "word": "結婚",
-    "meaning_en": "marriage",
-    "furigana": "けっこん",
-    "meaning_ko": ["결혼"]
-  },
-  {
-    "word": "置く",
-    "meaning_en": "to put",
-    "furigana": "おく",
-    "meaning_ko": ["놓다", "놓기"]
-  },
-  {
-    "word": "渡る",
-    "meaning_en": "to go across",
-    "furigana": "わたる",
-    "meaning_ko": ["건너가다", "건너감"]
-  },
-  {
-    "word": "伯母さん / 叔母さん",
-    "meaning_en": "aunt",
-    "furigana": "おばさん",
-    "meaning_ko": ["이모", "이모"]
-  },
-  {
-    "word": "それから",
-    "meaning_en": "after that",
-    "furigana": "",
-    "meaning_ko": ["그 후"]
-  },
-  {
-    "word": "明い",
-    "meaning_en": "bright",
-    "furigana": "あかるい",
-    "meaning_ko": ["밝은", "밝다"]
-  },
-  {
-    "word": "家庭",
-    "meaning_en": "household",
-    "furigana": "かてい",
-    "meaning_ko": ["가정"]
-  },
-  {
-    "word": "パーティー",
-    "meaning_en": "party",
-    "furigana": "",
-    "meaning_ko": ["파티"]
-  },
-  {
-    "word": "あちら",
-    "meaning_en": "there",
-    "furigana": "",
-    "meaning_ko": ["저편"]
-  },
-  {
-    "word": "スカート",
-    "meaning_en": "skirt",
-    "furigana": "",
-    "meaning_ko": ["스커트"]
-  },
-  {
-    "word": "靴",
-    "meaning_en": "shoes",
-    "furigana": "くつ",
-    "meaning_ko": ["구두"]
-  },
-  {
-    "word": "ボタン",
-    "meaning_en": "button",
-    "furigana": "",
-    "meaning_ko": ["버튼"]
-  },
-  {
-    "word": "今月",
-    "meaning_en": "this month",
-    "furigana": "こんげつ",
-    "meaning_ko": ["이번 달"]
-  },
-  {
-    "word": "返す",
-    "meaning_en": "to return something",
-    "furigana": "かえす",
-    "meaning_ko": ["돌려주다", "돌려줌"]
-  },
-  {
-    "word": "いかが",
-    "meaning_en": "how",
-    "furigana": "",
-    "meaning_ko": ["어떻게"]
-  },
-  {
-    "word": "ストーブ",
-    "meaning_en": "heater",
-    "furigana": "",
-    "meaning_ko": ["난방기"]
-  },
-  {
-    "word": "二人",
-    "meaning_en": "two people",
-    "furigana": "ふたり",
-    "meaning_ko": ["두 사람"]
-  },
-  {
-    "word": "起きる",
-    "meaning_en": "to get up",
-    "furigana": "おきる",
-    "meaning_ko": ["일어나다", "일어서다"]
-  },
-  {
-    "word": "さあ",
-    "meaning_en": "well…",
-    "furigana": "",
-    "meaning_ko": ["자, 자…"]
-  },
-  {
-    "word": "あそこ",
-    "meaning_en": "over there",
-    "furigana": "",
-    "meaning_ko": ["저편"]
-  },
-  {
-    "word": "古い",
-    "meaning_en": "old (not used for people)",
-    "furigana": "ふるい",
-    "meaning_ko": ["오래된", "오래됨"]
-  },
-  {
-    "word": "黄色い",
-    "meaning_en": "yellow",
-    "furigana": "きいろい",
-    "meaning_ko": ["노란", "노란색"]
-  },
-  {
-    "word": "まだ",
-    "meaning_en": "yet, still",
-    "furigana": "",
-    "meaning_ko": ["아직", "아직"]
-  },
-  {
-    "word": "歌う",
-    "meaning_en": "to sing",
-    "furigana": "うたう",
-    "meaning_ko": ["노래하다", "노래함"]
-  },
-  {
-    "word": "飴",
-    "meaning_en": "candy",
-    "furigana": "あめ",
-    "meaning_ko": ["젤리"]
-  },
-  {
-    "word": "寝る",
-    "meaning_en": "to go to bed, to sleep",
-    "furigana": "ねる",
-    "meaning_ko": ["잠들다", "잠듦"]
-  },
-  {
-    "word": "それ",
-    "meaning_en": "that",
-    "furigana": "",
-    "meaning_ko": ["그것"]
-  },
-  {
-    "word": "質問",
-    "meaning_en": "question",
-    "furigana": "しつもん",
-    "meaning_ko": ["질문"]
-  },
-  {
-    "word": "どなた",
-    "meaning_en": "who",
-    "furigana": "",
-    "meaning_ko": ["누구"]
-  },
-  {
-    "word": "牛乳",
-    "meaning_en": "milk",
-    "furigana": "ぎゅうにゅう",
-    "meaning_ko": ["우유"]
-  },
-  {
-    "word": "二",
-    "meaning_en": "two",
-    "furigana": "に",
-    "meaning_ko": ["두"]
-  },
-  {
-    "word": "紅茶",
-    "meaning_en": "black tea",
-    "furigana": "こうちゃ",
-    "meaning_ko": ["홍차"]
-  },
-  {
-    "word": "そちら",
-    "meaning_en": "over there",
-    "furigana": "",
-    "meaning_ko": ["저편"]
-  },
-  {
-    "word": "出かける",
-    "meaning_en": "to go out",
-    "furigana": "でかける",
-    "meaning_ko": ["외출하다", "외출함"]
-  },
-  {
-    "word": "兄",
-    "meaning_en": "(humble) older brother",
-    "furigana": "あに",
-    "meaning_ko": ["오빠"]
-  },
-  {
-    "word": "留学生",
-    "meaning_en": "overseas student",
-    "furigana": "りゅうがくせい",
-    "meaning_ko": ["해외 학생"]
-  },
-  {
-    "word": "月曜日",
-    "meaning_en": "Monday",
-    "furigana": "げつようび",
-    "meaning_ko": ["월요일"]
-  },
-  {
-    "word": "締める",
-    "meaning_en": "to tie",
-    "furigana": "しめる",
-    "meaning_ko": ["묶다", "묶음"]
-  },
-  {
-    "word": "熱い",
-    "meaning_en": "hot to the touch",
-    "furigana": "あつい",
-    "meaning_ko": ["따뜻한", "따뜻함"]
-  },
-  {
-    "word": "郵便局",
-    "meaning_en": "post office",
-    "furigana": "ゆうびんきょく",
-    "meaning_ko": ["우체국"]
-  },
-  {
-    "word": "細い",
-    "meaning_en": "thin",
-    "furigana": "ほそい",
-    "meaning_ko": ["얇은", "얇다"]
-  },
-  {
-    "word": "六つ",
-    "meaning_en": "six",
-    "furigana": "むっつ",
-    "meaning_ko": ["여섯 가지"]
-  },
-  {
-    "word": "本棚",
-    "meaning_en": "bookshelves",
-    "furigana": "ほんだな",
-    "meaning_ko": ["책장"]
-  },
-  {
-    "word": "結構",
-    "meaning_en": "splendid, enough",
-    "furigana": "けっこう",
-    "meaning_ko": ["멋진", "충분함"]
-  },
-  {
-    "word": "こちら",
-    "meaning_en": "this person or way",
-    "furigana": "",
-    "meaning_ko": ["이 사람이나 방법"]
-  },
-  {
-    "word": "昨夜",
-    "meaning_en": "last night",
-    "furigana": "ゆうべ",
-    "meaning_ko": ["어제 밤"]
-  },
-  {
-    "word": "外国人",
-    "meaning_en": "foreigner",
-    "furigana": "がいこくじん",
-    "meaning_ko": ["외국인"]
-  },
-  {
-    "word": "絵",
-    "meaning_en": "picture",
-    "furigana": "え",
-    "meaning_ko": ["그림"]
-  },
-  {
-    "word": "使う",
-    "meaning_en": "to use",
-    "furigana": "つかう",
-    "meaning_ko": ["사용하다", "사용함"]
-  },
-  {
-    "word": "休む",
-    "meaning_en": "to rest",
-    "furigana": "やすむ",
-    "meaning_ko": ["쉬다", "쉼"]
-  },
-  {
-    "word": "テスト",
-    "meaning_en": "test",
-    "furigana": "",
-    "meaning_ko": ["시험"]
-  },
-  {
-    "word": "貼る",
-    "meaning_en": "to stick",
-    "furigana": "はる",
-    "meaning_ko": ["붙이다", "붙임"]
-  },
-  {
-    "word": "たばこ",
-    "meaning_en": "tobacco, cigarettes",
-    "furigana": "",
-    "meaning_ko": ["담배"]
-  },
-  {
-    "word": "涼しい",
-    "meaning_en": "refreshing",
-    "furigana": "すずしい",
-    "meaning_ko": ["시원한", "시원함"]
-  },
-  {
-    "word": "昨日",
-    "meaning_en": "yesterday",
-    "furigana": "きのう",
-    "meaning_ko": ["어제"]
-  },
-  {
-    "word": "せっけん",
-    "meaning_en": "economy",
-    "furigana": "",
-    "meaning_ko": ["경제"]
-  },
-  {
-    "word": "初め / 始め",
-    "meaning_en": "beginning",
-    "furigana": "はじめ",
-    "meaning_ko": ["처음", "시작"]
-  }
+	{
+		"word": "毎朝",
+		"meaning_en": "every morning",
+		"furigana": "まいあさ",
+		"meaning_ko": ["매일 아침"]
+	},
+	{
+		"word": "問題",
+		"meaning_en": "problem",
+		"furigana": "もんだい",
+		"meaning_ko": ["문제"]
+	},
+	{
+		"word": "お茶",
+		"meaning_en": "green tea",
+		"furigana": "おちゃ",
+		"meaning_ko": ["녹차"]
+	},
+	{
+		"word": "黒",
+		"meaning_en": "black",
+		"furigana": "くろ",
+		"meaning_ko": ["검은 빛깔", "검정색"]
+	},
+	{
+		"word": "台所",
+		"meaning_en": "kitchen",
+		"furigana": "だいどころ",
+		"meaning_ko": ["부엌", "주방"]
+	},
+	{
+		"word": "葉書",
+		"meaning_en": "postcard",
+		"furigana": "はがき",
+		"meaning_ko": ["엽서"]
+	},
+	{
+		"word": "ペン",
+		"meaning_en": "pen",
+		"furigana": "",
+		"meaning_ko": ["펜"]
+	},
+	{
+		"word": "ニュース",
+		"meaning_en": "news",
+		"furigana": "",
+		"meaning_ko": ["뉴스"]
+	},
+	{
+		"word": "花瓶",
+		"meaning_en": "a vase",
+		"furigana": "かびん",
+		"meaning_ko": ["꽃병"]
+	},
+	{
+		"word": "フォーク",
+		"meaning_en": "fork",
+		"furigana": "",
+		"meaning_ko": ["포크"]
+	},
+	{
+		"word": "引く",
+		"meaning_en": "to pull",
+		"furigana": "ひく",
+		"meaning_ko": ["끌다", "당기다"]
+	},
+	{
+		"word": "フィルム",
+		"meaning_en": "roll of film",
+		"furigana": "",
+		"meaning_ko": ["필름"]
+	},
+	{
+		"word": "磨く",
+		"meaning_en": "to brush teeth, to polish",
+		"furigana": "みがく",
+		"meaning_ko": ["이를 닦다", "닦다", "광내다"]
+	},
+	{
+		"word": "押す",
+		"meaning_en": "to push, to stamp something",
+		"furigana": "おす",
+		"meaning_ko": ["밀다", "도장을 찍다"]
+	},
+	{
+		"word": "売る",
+		"meaning_en": "to sell",
+		"furigana": "うる",
+		"meaning_ko": ["팔다"]
+	},
+	{
+		"word": "電気",
+		"meaning_en": "electricity, electric light",
+		"furigana": "でんき",
+		"meaning_ko": ["전기", "전등"]
+	},
+	{
+		"word": "並ぶ",
+		"meaning_en": "to line up, to stand in a line",
+		"furigana": "ならぶ",
+		"meaning_ko": ["줄을 서다", "늘어서다"]
+	},
+	{
+		"word": "病気",
+		"meaning_en": "illness",
+		"furigana": "びょうき",
+		"meaning_ko": ["병", "질병"]
+	},
+	{
+		"word": "ポケット",
+		"meaning_en": "pocket",
+		"furigana": "",
+		"meaning_ko": ["주머니"]
+	},
+	{
+		"word": "頭",
+		"meaning_en": "head",
+		"furigana": "あたま",
+		"meaning_ko": ["머리"]
+	},
+	{
+		"word": "はし",
+		"meaning_en": "chopsticks",
+		"furigana": "",
+		"meaning_ko": ["젓가락"]
+	},
+	{
+		"word": "英語",
+		"meaning_en": "English language",
+		"furigana": "えいご",
+		"meaning_ko": ["영어"]
+	},
+	{
+		"word": "家",
+		"meaning_en": "house",
+		"furigana": "いえ",
+		"meaning_ko": ["집"]
+	},
+	{
+		"word": "一月",
+		"meaning_en": "one month",
+		"furigana": "ひとつき",
+		"meaning_ko": ["한 달"]
+	},
+	{
+		"word": "暑い",
+		"meaning_en": "hot",
+		"furigana": "あつい",
+		"meaning_ko": ["덥다", "뜨겁다"]
+	},
+	{
+		"word": "遊ぶ",
+		"meaning_en": "to play, to make a visit",
+		"furigana": "あそぶ",
+		"meaning_ko": ["놀다", "방문하다"]
+	},
+	{
+		"word": "取る",
+		"meaning_en": "to take something",
+		"furigana": "とる",
+		"meaning_ko": ["잡다", "취하다", "받다"]
+	},
+	{
+		"word": "九",
+		"meaning_en": "nine",
+		"furigana": "きゅう / く",
+		"meaning_ko": ["구"]
+	},
+	{
+		"word": "閉める",
+		"meaning_en": "to close something",
+		"furigana": "しめる",
+		"meaning_ko": ["닫다"]
+	},
+	{
+		"word": "たいへん",
+		"meaning_en": "very",
+		"furigana": "",
+		"meaning_ko": ["매우"]
+	},
+	{
+		"word": "奥さん",
+		"meaning_en": "(honorable) wife",
+		"furigana": "おくさん",
+		"meaning_ko": ["아내"]
+	},
+	{
+		"word": "作文",
+		"meaning_en": "composition, writing",
+		"furigana": "さくぶん",
+		"meaning_ko": ["글쓰기"]
+	},
+	{
+		"word": "便利",
+		"meaning_en": "useful, convenient",
+		"furigana": "べんり",
+		"meaning_ko": ["편리한", "편의"]
+	},
+	{
+		"word": "右",
+		"meaning_en": "right side",
+		"furigana": "みぎ",
+		"meaning_ko": ["오른쪽"]
+	},
+	{
+		"word": "寒い",
+		"meaning_en": "cold",
+		"furigana": "さむい",
+		"meaning_ko": ["추운", "쌀쌀한"]
+	},
+	{
+		"word": "あびる",
+		"meaning_en": "to bathe, to shower",
+		"furigana": "",
+		"meaning_ko": ["몸을 씻다", "샤워하다"]
+	},
+	{
+		"word": "十",
+		"meaning_en": "ten",
+		"furigana": "じゅう  とお",
+		"meaning_ko": ["십"]
+	},
+	{
+		"word": "中",
+		"meaning_en": "middle",
+		"furigana": "なか",
+		"meaning_ko": ["중간"]
+	},
+	{
+		"word": "消す",
+		"meaning_en": "to erase, to turn off power",
+		"furigana": "けす",
+		"meaning_ko": ["지우다", "전원을 끄다"]
+	},
+	{
+		"word": "近く",
+		"meaning_en": "near",
+		"furigana": "ちかく",
+		"meaning_ko": ["가까운", "가까움"]
+	},
+	{
+		"word": "七つ",
+		"meaning_en": "seven",
+		"furigana": "ななつ",
+		"meaning_ko": ["칠"]
+	},
+	{
+		"word": "テープレコーダー",
+		"meaning_en": "tape recorder",
+		"furigana": "",
+		"meaning_ko": ["테이프 레코더"]
+	},
+	{
+		"word": "目",
+		"meaning_en": "eye",
+		"furigana": "め",
+		"meaning_ko": ["눈"]
+	},
+	{
+		"word": "空",
+		"meaning_en": "sky",
+		"furigana": "そら",
+		"meaning_ko": ["하늘"]
+	},
+	{
+		"word": "六日",
+		"meaning_en": "six days, sixth day of the month",
+		"furigana": "むいか",
+		"meaning_ko": ["여섯 날"]
+	},
+	{
+		"word": "座る",
+		"meaning_en": "to sit",
+		"furigana": "すわる",
+		"meaning_ko": ["앉다"]
+	},
+	{
+		"word": "年",
+		"meaning_en": "year",
+		"furigana": "とし",
+		"meaning_ko": ["년"]
+	},
+	{
+		"word": "男の子",
+		"meaning_en": "boy",
+		"furigana": "おとこのこ",
+		"meaning_ko": ["남자 아이"]
+	},
+	{
+		"word": "狭い",
+		"meaning_en": "narrow",
+		"furigana": "せまい",
+		"meaning_ko": ["좁은", "좁은"]
+	},
+	{
+		"word": "冷蔵庫",
+		"meaning_en": "refrigerator",
+		"furigana": "れいぞうこ",
+		"meaning_ko": ["냉장고"]
+	},
+	{
+		"word": "カメラ",
+		"meaning_en": "camera",
+		"furigana": "",
+		"meaning_ko": ["카메라"]
+	},
+	{
+		"word": "玄関",
+		"meaning_en": "entry hall",
+		"furigana": "げんかん",
+		"meaning_ko": ["천장문"]
+	},
+	{
+		"word": "違う",
+		"meaning_en": "to differ",
+		"furigana": "ちがう",
+		"meaning_ko": ["다른", "다르다"]
+	},
+	{
+		"word": "危ない",
+		"meaning_en": "dangerous",
+		"furigana": "あぶない",
+		"meaning_ko": ["위험한", "위험함"]
+	},
+	{
+		"word": "分かる",
+		"meaning_en": "to be understood",
+		"furigana": "わかる",
+		"meaning_ko": ["이해하다", "이해함"]
+	},
+	{
+		"word": "言う",
+		"meaning_en": "to say",
+		"furigana": "いう",
+		"meaning_ko": ["말하다", "말함"]
+	},
+	{
+		"word": "飲む",
+		"meaning_en": "to drink",
+		"furigana": "のむ",
+		"meaning_ko": ["마시다", "마심"]
+	},
+	{
+		"word": "練習",
+		"meaning_en": "to practice",
+		"furigana": "れんしゅうする",
+		"meaning_ko": ["연습하다", "연습함"]
+	},
+	{
+		"word": "何",
+		"meaning_en": "what",
+		"furigana": "なん / なに",
+		"meaning_ko": ["무엇", "무엇"]
+	},
+	{
+		"word": "厚い",
+		"meaning_en": "kind, deep, thick",
+		"furigana": "あつい",
+		"meaning_ko": ["두꺼운", "두껍다", "두꺼움"]
+	},
+	{
+		"word": "毎月",
+		"meaning_en": "every month",
+		"furigana": "まいげつ / まいつき",
+		"meaning_ko": ["매월", "매월"]
+	},
+	{
+		"word": "閉まる",
+		"meaning_en": "to close, to be closed",
+		"furigana": "しまる",
+		"meaning_ko": ["닫히다", "닫힘"]
+	},
+	{
+		"word": "脱ぐ",
+		"meaning_en": "to take off clothes",
+		"furigana": "ぬぐ",
+		"meaning_ko": ["옷을 벗다", "벗다"]
+	},
+	{
+		"word": "黒い",
+		"meaning_en": "black",
+		"furigana": "くろい",
+		"meaning_ko": ["검은", "검정"]
+	},
+	{
+		"word": "登る",
+		"meaning_en": "to climb",
+		"furigana": "のぼる",
+		"meaning_ko": ["오르다", "오르기"]
+	},
+	{
+		"word": "汚い",
+		"meaning_en": "dirty",
+		"furigana": "きたない",
+		"meaning_ko": ["더러운", "더러움"]
+	},
+	{
+		"word": "雨",
+		"meaning_en": "rain",
+		"furigana": "あめ",
+		"meaning_ko": ["비"]
+	},
+	{
+		"word": "お皿",
+		"meaning_en": "plate, dish",
+		"furigana": "おさら",
+		"meaning_ko": ["접시", "음식"]
+	},
+	{
+		"word": "速い",
+		"meaning_en": "quick",
+		"furigana": "はやい",
+		"meaning_ko": ["빠른", "빠르다"]
+	},
+	{
+		"word": "お風呂",
+		"meaning_en": "bath",
+		"furigana": "おふろ",
+		"meaning_ko": ["샤워", "샤워하다"]
+	},
+	{
+		"word": "新しい",
+		"meaning_en": "new",
+		"furigana": "あたらしい",
+		"meaning_ko": ["새로운", "신선한"]
+	},
+	{
+		"word": "廊下",
+		"meaning_en": "corridor",
+		"furigana": "ろうか",
+		"meaning_ko": ["복도"]
+	},
+	{
+		"word": "茶色",
+		"meaning_en": "brown",
+		"furigana": "ちゃいろ",
+		"meaning_ko": ["갈색"]
+	},
+	{
+		"word": "コート",
+		"meaning_en": "coat, tennis court",
+		"furigana": "",
+		"meaning_ko": ["코트", "테니스 코트"]
+	},
+	{
+		"word": "手紙",
+		"meaning_en": "letter",
+		"furigana": "てがみ",
+		"meaning_ko": ["편지"]
+	},
+	{
+		"word": "要る",
+		"meaning_en": "to need",
+		"furigana": "いる",
+		"meaning_ko": ["필요하다", "필요함"]
+	},
+	{
+		"word": "こっち",
+		"meaning_en": "this person or way",
+		"furigana": "",
+		"meaning_ko": ["이 사람이나 방법"]
+	},
+	{
+		"word": "スプーン",
+		"meaning_en": "spoon",
+		"furigana": "",
+		"meaning_ko": ["스푼"]
+	},
+	{
+		"word": "時々",
+		"meaning_en": "sometimes",
+		"furigana": "ときどき",
+		"meaning_ko": ["가끔", "가끔"]
+	},
+	{
+		"word": "傘",
+		"meaning_en": "umbrella",
+		"furigana": "かさ",
+		"meaning_ko": ["우산"]
+	},
+	{
+		"word": "いい / よい",
+		"meaning_en": "good",
+		"furigana": "",
+		"meaning_ko": ["좋은", "좋다"]
+	},
+	{
+		"word": "電話",
+		"meaning_en": "telephone",
+		"furigana": "でんわ",
+		"meaning_ko": ["전화"]
+	},
+	{
+		"word": "勤める",
+		"meaning_en": "to work for someone",
+		"furigana": "つとめる",
+		"meaning_ko": ["누군가를 위해 일하다", "일하다"]
+	},
+	{
+		"word": "安い",
+		"meaning_en": "cheap",
+		"furigana": "やすい",
+		"meaning_ko": ["싼", "싼"]
+	},
+	{
+		"word": "どう",
+		"meaning_en": "how, in what way",
+		"furigana": "",
+		"meaning_ko": ["어떻게", "방식"]
+	},
+	{
+		"word": "道",
+		"meaning_en": "street",
+		"furigana": "みち",
+		"meaning_ko": ["도로"]
+	},
+	{
+		"word": "バス",
+		"meaning_en": "bus",
+		"furigana": "",
+		"meaning_ko": ["버스"]
+	},
+	{
+		"word": "クラス",
+		"meaning_en": "class",
+		"furigana": "",
+		"meaning_ko": ["클래스"]
+	},
+	{
+		"word": "差す",
+		"meaning_en": "to stretch out hands, to raise an umbrella",
+		"furigana": "さす",
+		"meaning_ko": ["손을 뻗다", "우산을 올리다"]
+	},
+	{
+		"word": "スポーツ",
+		"meaning_en": "sport",
+		"furigana": "",
+		"meaning_ko": ["스포츠"]
+	},
+	{
+		"word": "どっち",
+		"meaning_en": "which",
+		"furigana": "",
+		"meaning_ko": ["어느 쪽"]
+	},
+	{
+		"word": "そば",
+		"meaning_en": "near, beside",
+		"furigana": "",
+		"meaning_ko": ["가까운", "옆"]
+	},
+	{
+		"word": "新聞",
+		"meaning_en": "newspaper",
+		"furigana": "しんぶん",
+		"meaning_ko": ["신문"]
+	},
+	{
+		"word": "どうして",
+		"meaning_en": "for what reason",
+		"furigana": "",
+		"meaning_ko": ["어떤 이유로"]
+	},
+	{
+		"word": "庭",
+		"meaning_en": "garden",
+		"furigana": "にわ",
+		"meaning_ko": ["정원"]
+	},
+	{
+		"word": "大きな",
+		"meaning_en": "big",
+		"furigana": "おおきな",
+		"meaning_ko": ["큰", "크다"]
+	},
+	{
+		"word": "辺",
+		"meaning_en": "area",
+		"furigana": "へん",
+		"meaning_ko": ["지역"]
+	},
+	{
+		"word": "番号",
+		"meaning_en": "number",
+		"furigana": "ばんごう",
+		"meaning_ko": ["번호"]
+	},
+	{
+		"word": "家族",
+		"meaning_en": "family",
+		"furigana": "かぞく",
+		"meaning_ko": ["가족"]
+	},
+	{
+		"word": "下手",
+		"meaning_en": "unskillful",
+		"furigana": "へた",
+		"meaning_ko": ["못 된", "못된"]
+	},
+	{
+		"word": "料理",
+		"meaning_en": "cuisine",
+		"furigana": "りょうり",
+		"meaning_ko": ["요리"]
+	},
+	{
+		"word": "カレー",
+		"meaning_en": "curry",
+		"furigana": "",
+		"meaning_ko": ["카레"]
+	},
+	{
+		"word": "六",
+		"meaning_en": "six",
+		"furigana": "ろく",
+		"meaning_ko": ["육"]
+	},
+	{
+		"word": "今年",
+		"meaning_en": "this year",
+		"furigana": "ことし",
+		"meaning_ko": ["올해"]
+	},
+	{
+		"word": "初めて",
+		"meaning_en": "for the first time",
+		"furigana": "はじめて",
+		"meaning_ko": ["처음으로"]
+	},
+	{
+		"word": "風邪",
+		"meaning_en": "a cold",
+		"furigana": "かぜ",
+		"meaning_ko": ["감기"]
+	},
+	{
+		"word": "赤い",
+		"meaning_en": "red",
+		"furigana": "あかい",
+		"meaning_ko": ["빨간", "빨갛다"]
+	},
+	{
+		"word": "甘い",
+		"meaning_en": "sweet",
+		"furigana": "あまい",
+		"meaning_ko": ["달다", "달콤한"]
+	},
+	{
+		"word": "西",
+		"meaning_en": "west",
+		"furigana": "にし",
+		"meaning_ko": ["서"]
+	},
+	{
+		"word": "毎週",
+		"meaning_en": "every week",
+		"furigana": "まいしゅう",
+		"meaning_ko": ["매주", "매주"]
+	},
+	{
+		"word": "いつも",
+		"meaning_en": "always",
+		"furigana": "",
+		"meaning_ko": ["항상"]
+	},
+	{
+		"word": "五つ",
+		"meaning_en": "five",
+		"furigana": "いつつ",
+		"meaning_ko": ["다섯"]
+	},
+	{
+		"word": "建物",
+		"meaning_en": "building",
+		"furigana": "たてもの",
+		"meaning_ko": ["건물"]
+	},
+	{
+		"word": "なる",
+		"meaning_en": "to become",
+		"furigana": "",
+		"meaning_ko": ["되다"]
+	},
+	{
+		"word": "まっすぐ",
+		"meaning_en": "straight ahead, direct",
+		"furigana": "",
+		"meaning_ko": ["직진하다", "직선"]
+	},
+	{
+		"word": "作る",
+		"meaning_en": "to make",
+		"furigana": "つくる",
+		"meaning_ko": ["만들다", "제작하다"]
+	},
+	{
+		"word": "風",
+		"meaning_en": "wind",
+		"furigana": "かぜ",
+		"meaning_ko": ["바람"]
+	},
+	{
+		"word": "少し",
+		"meaning_en": "few",
+		"furigana": "すこし",
+		"meaning_ko": ["적은", "적다"]
+	},
+	{
+		"word": "大学",
+		"meaning_en": "university",
+		"furigana": "だいがく",
+		"meaning_ko": ["대학"]
+	},
+	{
+		"word": "シャツ",
+		"meaning_en": "shirt",
+		"furigana": "",
+		"meaning_ko": ["셔츠"]
+	},
+	{
+		"word": "病院",
+		"meaning_en": "hospital",
+		"furigana": "びょういん",
+		"meaning_ko": ["병원"]
+	},
+	{
+		"word": "会社",
+		"meaning_en": "company",
+		"furigana": "かいしゃ",
+		"meaning_ko": ["회사"]
+	},
+	{
+		"word": "無くす",
+		"meaning_en": "to lose something",
+		"furigana": "なくす",
+		"meaning_ko": ["잃다", "잃어버리다"]
+	},
+	{
+		"word": "スリッパ",
+		"meaning_en": "slippers",
+		"furigana": "",
+		"meaning_ko": ["슬리퍼"]
+	},
+	{
+		"word": "地下鉄",
+		"meaning_en": "underground train",
+		"furigana": "ちかてつ",
+		"meaning_ko": ["지하철"]
+	},
+	{
+		"word": "ページ",
+		"meaning_en": "page",
+		"furigana": "",
+		"meaning_ko": ["페이지"]
+	},
+	{
+		"word": "曇る",
+		"meaning_en": "to become cloudy, to become dim",
+		"furigana": "くもる",
+		"meaning_ko": ["흐리다", "어두워지다"]
+	},
+	{
+		"word": "辞書",
+		"meaning_en": "dictionary",
+		"furigana": "じしょ",
+		"meaning_ko": ["사전"]
+	},
+	{
+		"word": "万年筆",
+		"meaning_en": "fountain pen",
+		"furigana": "まんねんひつ",
+		"meaning_ko": ["만년필"]
+	},
+	{
+		"word": "海",
+		"meaning_en": "sea",
+		"furigana": "うみ",
+		"meaning_ko": ["바다"]
+	},
+	{
+		"word": "エレベーター",
+		"meaning_en": "elevator",
+		"furigana": "",
+		"meaning_ko": ["엘리베이터"]
+	},
+	{
+		"word": "たぶん",
+		"meaning_en": "probably",
+		"furigana": "",
+		"meaning_ko": ["아마"]
+	},
+	{
+		"word": "夕方",
+		"meaning_en": "evening",
+		"furigana": "ゆうがた",
+		"meaning_ko": ["저녁"]
+	},
+	{
+		"word": "東",
+		"meaning_en": "east",
+		"furigana": "ひがし",
+		"meaning_ko": ["동"]
+	},
+	{
+		"word": "声",
+		"meaning_en": "voice",
+		"furigana": "こえ",
+		"meaning_ko": ["목소리"]
+	},
+	{
+		"word": "撮る",
+		"meaning_en": "to take a photo or record a film",
+		"furigana": "とる",
+		"meaning_ko": ["사진을 찍다", "촬영하다"]
+	},
+	{
+		"word": "私",
+		"meaning_en": "(humble) I, myself",
+		"furigana": "わたくし",
+		"meaning_ko": ["나", "나 자신"]
+	},
+	{
+		"word": "両親",
+		"meaning_en": "both parents",
+		"furigana": "りょうしん",
+		"meaning_ko": ["두 부모"]
+	},
+	{
+		"word": "きれい",
+		"meaning_en": "pretty, clean",
+		"furigana": "",
+		"meaning_ko": ["예쁜", "깨끗한"]
+	},
+	{
+		"word": "どうぞ",
+		"meaning_en": "please",
+		"furigana": "",
+		"meaning_ko": ["부탁합니다", "부탁함"]
+	},
+	{
+		"word": "好き",
+		"meaning_en": "likeable",
+		"furigana": "すき",
+		"meaning_ko": ["좋아하는", "좋다"]
+	},
+	{
+		"word": "静か",
+		"meaning_en": "quiet",
+		"furigana": "しずか",
+		"meaning_ko": ["조용한", "조용함"]
+	},
+	{
+		"word": "お父さん",
+		"meaning_en": "(honorable) father",
+		"furigana": "おとうさん",
+		"meaning_ko": ["아버지"]
+	},
+	{
+		"word": "人",
+		"meaning_en": "person",
+		"furigana": "ひと",
+		"meaning_ko": ["사람"]
+	},
+	{
+		"word": "覚える",
+		"meaning_en": "to remember",
+		"furigana": "おぼえる",
+		"meaning_ko": ["기억하다", "기억함"]
+	},
+	{
+		"word": "休み",
+		"meaning_en": "rest, holiday",
+		"furigana": "やすみ",
+		"meaning_ko": ["휴일", "휴가"]
+	},
+	{
+		"word": "池",
+		"meaning_en": "pond",
+		"furigana": "いけ",
+		"meaning_ko": ["연못"]
+	},
+	{
+		"word": "始まる",
+		"meaning_en": "to begin",
+		"furigana": "はじまる",
+		"meaning_ko": ["시작하다", "시작함"]
+	},
+	{
+		"word": "困る",
+		"meaning_en": "to be worried",
+		"furigana": "こまる",
+		"meaning_ko": ["걱정하다", "걱정함"]
+	},
+	{
+		"word": "ほか",
+		"meaning_en": "other, the rest",
+		"furigana": "",
+		"meaning_ko": ["기타", "나머지"]
+	},
+	{
+		"word": "ちゃわん",
+		"meaning_en": "rice bowl",
+		"furigana": "",
+		"meaning_ko": ["밥그릇"]
+	},
+	{
+		"word": "疲れる",
+		"meaning_en": "to get tired",
+		"furigana": "つかれる",
+		"meaning_ko": ["피곤하다", "피곤함"]
+	},
+	{
+		"word": "掃除",
+		"meaning_en": "to clean, to sweep",
+		"furigana": "そうじする",
+		"meaning_ko": ["청소하다", "청소함"]
+	},
+	{
+		"word": "賑やか",
+		"meaning_en": "bustling, busy",
+		"furigana": "にぎやか",
+		"meaning_ko": ["활기찬", "활기찬"]
+	},
+	{
+		"word": "一つ",
+		"meaning_en": "one",
+		"furigana": "ひとつ",
+		"meaning_ko": ["하나"]
+	},
+	{
+		"word": "来週",
+		"meaning_en": "next week",
+		"furigana": "らいしゅう",
+		"meaning_ko": ["다음주"]
+	},
+	{
+		"word": "財布",
+		"meaning_en": "wallet",
+		"furigana": "さいふ",
+		"meaning_ko": ["지갑"]
+	},
+	{
+		"word": "知る",
+		"meaning_en": "to know",
+		"furigana": "しる",
+		"meaning_ko": ["알다", "알고 있음"]
+	},
+	{
+		"word": "教える",
+		"meaning_en": "to teach, to tell",
+		"furigana": "おしえる",
+		"meaning_ko": ["가르치다", "가르침"]
+	},
+	{
+		"word": "朝御飯",
+		"meaning_en": "breakfast",
+		"furigana": "あさごはん",
+		"meaning_ko": ["아침밥"]
+	},
+	{
+		"word": "飛ぶ",
+		"meaning_en": "to fly, to hop",
+		"furigana": "とぶ",
+		"meaning_ko": ["날다", "뛰다"]
+	},
+	{
+		"word": "言葉",
+		"meaning_en": "word, language",
+		"furigana": "ことば",
+		"meaning_ko": ["말", "언어"]
+	},
+	{
+		"word": "キロ / キログラム",
+		"meaning_en": "kilogram",
+		"furigana": "",
+		"meaning_ko": ["킬로그램"]
+	},
+	{
+		"word": "赤",
+		"meaning_en": "red",
+		"furigana": "あか",
+		"meaning_ko": ["빨간", "빨갛다"]
+	},
+	{
+		"word": "自分",
+		"meaning_en": "oneself",
+		"furigana": "じぶん",
+		"meaning_ko": ["나 자신"]
+	},
+	{
+		"word": "デパート",
+		"meaning_en": "department store",
+		"furigana": "",
+		"meaning_ko": ["디파트몰"]
+	},
+	{
+		"word": "薄い",
+		"meaning_en": "thin, weak",
+		"furigana": "うすい",
+		"meaning_ko": ["얇은", "얇다"]
+	},
+	{
+		"word": "高い",
+		"meaning_en": "tall, expensive",
+		"furigana": "たかい",
+		"meaning_ko": ["높은", "비싸다"]
+	},
+	{
+		"word": "帰る",
+		"meaning_en": "to go back",
+		"furigana": "かえる",
+		"meaning_ko": ["돌아가다", "돌아감"]
+	},
+	{
+		"word": "はい",
+		"meaning_en": "yes",
+		"furigana": "",
+		"meaning_ko": ["예"]
+	},
+	{
+		"word": "卵",
+		"meaning_en": "egg",
+		"furigana": "たまご",
+		"meaning_ko": ["계란"]
+	},
+	{
+		"word": "低い",
+		"meaning_en": "short, low",
+		"furigana": "ひくい",
+		"meaning_ko": ["짧은", "짧다"]
+	},
+	{
+		"word": "なぜ",
+		"meaning_en": "why",
+		"furigana": "",
+		"meaning_ko": ["왜"]
+	},
+	{
+		"word": "一日",
+		"meaning_en": "(1) one day, (2) first of month",
+		"furigana": "いちにち",
+		"meaning_ko": ["하루", "한 날"]
+	},
+	{
+		"word": "いいえ",
+		"meaning_en": "no",
+		"furigana": "",
+		"meaning_ko": ["아니요"]
+	},
+	{
+		"word": "小さな",
+		"meaning_en": "little",
+		"furigana": "ちいさな",
+		"meaning_ko": ["작은", "작다"]
+	},
+	{
+		"word": "時間",
+		"meaning_en": "time",
+		"furigana": "じかん",
+		"meaning_ko": ["시간"]
+	},
+	{
+		"word": "上げる",
+		"meaning_en": "to give",
+		"furigana": "あげる",
+		"meaning_ko": ["주다", "주어주다"]
+	},
+	{
+		"word": "ふろ",
+		"meaning_en": "bath",
+		"furigana": "",
+		"meaning_ko": ["샤워"]
+	},
+	{
+		"word": "生徒",
+		"meaning_en": "pupil",
+		"furigana": "せいと",
+		"meaning_ko": ["학생"]
+	},
+	{
+		"word": "レストラン",
+		"meaning_en": "restaurant",
+		"furigana": "",
+		"meaning_ko": ["레스토랑"]
+	},
+	{
+		"word": "出す",
+		"meaning_en": "to put out",
+		"furigana": "だす",
+		"meaning_ko": ["내다", "내주다"]
+	},
+	{
+		"word": "かわいい",
+		"meaning_en": "cute",
+		"furigana": "",
+		"meaning_ko": ["귀여운", "귀여움"]
+	},
+	{
+		"word": "音楽",
+		"meaning_en": "music",
+		"furigana": "おんがく",
+		"meaning_ko": ["음악"]
+	},
+	{
+		"word": "歌",
+		"meaning_en": "song",
+		"furigana": "うた",
+		"meaning_ko": ["노래"]
+	},
+	{
+		"word": "いちばん",
+		"meaning_en": "best, first",
+		"furigana": "",
+		"meaning_ko": ["최고의", "첫번째"]
+	},
+	{
+		"word": "咲く",
+		"meaning_en": "to bloom",
+		"furigana": "さく",
+		"meaning_ko": ["핀다", "핀기"]
+	},
+	{
+		"word": "山",
+		"meaning_en": "mountain",
+		"furigana": "やま",
+		"meaning_ko": ["산"]
+	},
+	{
+		"word": "テレビ",
+		"meaning_en": "television",
+		"furigana": "",
+		"meaning_ko": ["텔레비전"]
+	},
+	{
+		"word": "授業",
+		"meaning_en": "lesson, class work",
+		"furigana": "じゅぎょう",
+		"meaning_ko": ["수업", "수업 과제"]
+	},
+	{
+		"word": "暖かい",
+		"meaning_en": "warm",
+		"furigana": "あたたかい",
+		"meaning_ko": ["따뜻한", "따뜻함"]
+	},
+	{
+		"word": "セーター",
+		"meaning_en": "sweater, jumper",
+		"furigana": "",
+		"meaning_ko": ["스웨터", "점퍼"]
+	},
+	{
+		"word": "自転車",
+		"meaning_en": "bicycle",
+		"furigana": "じてんしゃ",
+		"meaning_ko": ["자전거"]
+	},
+	{
+		"word": "ラジカセ / ラジオカセット",
+		"meaning_en": "radio cassette player",
+		"furigana": "",
+		"meaning_ko": ["라디오 카세트 플레이어"]
+	},
+	{
+		"word": "つける",
+		"meaning_en": "to turn on",
+		"furigana": "",
+		"meaning_ko": ["켜다", "켜기"]
+	},
+	{
+		"word": "さ来年",
+		"meaning_en": "year after next",
+		"furigana": "さらいねん",
+		"meaning_ko": ["다음 해"]
+	},
+	{
+		"word": "学校",
+		"meaning_en": "school",
+		"furigana": "がっこう",
+		"meaning_ko": ["학교"]
+	},
+	{
+		"word": "いくら",
+		"meaning_en": "how much?",
+		"furigana": "",
+		"meaning_ko": ["얼마나?"]
+	},
+	{
+		"word": "四",
+		"meaning_en": "four",
+		"furigana": "し / よん",
+		"meaning_ko": ["네"]
+	},
+	{
+		"word": "入る",
+		"meaning_en": "to enter, to contain",
+		"furigana": "はいる",
+		"meaning_ko": ["들어가다", "들어가는 것을 포함하다"]
+	},
+	{
+		"word": "曇り",
+		"meaning_en": "cloudy weather",
+		"furigana": "くもり",
+		"meaning_ko": ["흐린 날씨"]
+	},
+	{
+		"word": "外国",
+		"meaning_en": "foreign country",
+		"furigana": "がいこく",
+		"meaning_ko": ["외국"]
+	},
+	{
+		"word": "温い",
+		"meaning_en": "luke warm",
+		"furigana": "ぬるい",
+		"meaning_ko": ["따뜻한", "따뜻함"]
+	},
+	{
+		"word": "そうして / そして",
+		"meaning_en": "and",
+		"furigana": "",
+		"meaning_ko": ["그리고", "그리하여"]
+	},
+	{
+		"word": "どうも",
+		"meaning_en": "thanks",
+		"furigana": "",
+		"meaning_ko": ["감사합니다", "감사함"]
+	},
+	{
+		"word": "仕事",
+		"meaning_en": "job",
+		"furigana": "しごと",
+		"meaning_ko": ["일", "직업"]
+	},
+	{
+		"word": "窓",
+		"meaning_en": "window",
+		"furigana": "まど",
+		"meaning_ko": ["창문"]
+	},
+	{
+		"word": "晩",
+		"meaning_en": "evening",
+		"furigana": "ばん",
+		"meaning_ko": ["저녁"]
+	},
+	{
+		"word": "難しい",
+		"meaning_en": "difficult",
+		"furigana": "むずかしい",
+		"meaning_ko": ["어려운", "어려움"]
+	},
+	{
+		"word": "村",
+		"meaning_en": "village",
+		"furigana": "むら",
+		"meaning_ko": ["마을"]
+	},
+	{
+		"word": "鉛筆",
+		"meaning_en": "pencil",
+		"furigana": "えんぴつ",
+		"meaning_ko": ["연필"]
+	},
+	{
+		"word": "長い",
+		"meaning_en": "long",
+		"furigana": "ながい",
+		"meaning_ko": ["긴", "길다"]
+	},
+	{
+		"word": "生まれる",
+		"meaning_en": "to be born",
+		"furigana": "うまれる",
+		"meaning_ko": ["태어나다", "태어남"]
+	},
+	{
+		"word": "雑誌",
+		"meaning_en": "magazine",
+		"furigana": "ざっし",
+		"meaning_ko": ["잡지"]
+	},
+	{
+		"word": "国",
+		"meaning_en": "country",
+		"furigana": "くに",
+		"meaning_ko": ["나라"]
+	},
+	{
+		"word": "おまわりさん",
+		"meaning_en": "friendly term for policeman",
+		"furigana": "",
+		"meaning_ko": ["경찰관을 위한 친근한 호칭"]
+	},
+	{
+		"word": "今朝",
+		"meaning_en": "this morning",
+		"furigana": "けさ",
+		"meaning_ko": ["오늘 아침"]
+	},
+	{
+		"word": "晴れる",
+		"meaning_en": "to be sunny",
+		"furigana": "はれる",
+		"meaning_ko": ["화창해지다", "화창해짐"]
+	},
+	{
+		"word": "夕飯",
+		"meaning_en": "dinner",
+		"furigana": "ゆうはん",
+		"meaning_ko": ["저녁 식사"]
+	},
+	{
+		"word": "一緒",
+		"meaning_en": "together",
+		"furigana": "いっしょ",
+		"meaning_ko": ["함께", "함께"]
+	},
+	{
+		"word": "どれ",
+		"meaning_en": "which (of three or more)",
+		"furigana": "",
+		"meaning_ko": ["세 가지 중 어느 것"]
+	},
+	{
+		"word": "立つ",
+		"meaning_en": "to stand",
+		"furigana": "たつ",
+		"meaning_ko": ["일어나다", "일어서다"]
+	},
+	{
+		"word": "元気",
+		"meaning_en": "health, vitality",
+		"furigana": "げんき",
+		"meaning_ko": ["건강", "생기"]
+	},
+	{
+		"word": "天気",
+		"meaning_en": "weather",
+		"furigana": "てんき",
+		"meaning_ko": ["날씨"]
+	},
+	{
+		"word": "医者",
+		"meaning_en": "medical doctor",
+		"furigana": "いしゃ",
+		"meaning_ko": ["의사"]
+	},
+	{
+		"word": "七",
+		"meaning_en": "seven",
+		"furigana": "しち / なな",
+		"meaning_ko": ["칠"]
+	},
+	{
+		"word": "はく",
+		"meaning_en": "to wear, to put on trousers",
+		"furigana": "",
+		"meaning_ko": ["바지를 입다", "바지 입기"]
+	},
+	{
+		"word": "だんだん",
+		"meaning_en": "gradually",
+		"furigana": "",
+		"meaning_ko": ["점차적으로"]
+	},
+	{
+		"word": "戸",
+		"meaning_en": "Japanese style door",
+		"furigana": "と",
+		"meaning_ko": ["일본식 문"]
+	},
+	{
+		"word": "ノート",
+		"meaning_en": "notebook, exercise book",
+		"furigana": "",
+		"meaning_ko": ["노트북", "연습장"]
+	},
+	{
+		"word": "また",
+		"meaning_en": "again, and",
+		"furigana": "",
+		"meaning_ko": ["다시", "그리고"]
+	},
+	{
+		"word": "今日",
+		"meaning_en": "today",
+		"furigana": "きょう",
+		"meaning_ko": ["오늘"]
+	},
+	{
+		"word": "とても",
+		"meaning_en": "very",
+		"furigana": "",
+		"meaning_ko": ["매우"]
+	},
+	{
+		"word": "一昨年",
+		"meaning_en": "year before last",
+		"furigana": "おととし",
+		"meaning_ko": ["작년"]
+	},
+	{
+		"word": "文章",
+		"meaning_en": "sentence, text",
+		"furigana": "ぶんしょう",
+		"meaning_ko": ["문장", "글"]
+	},
+	{
+		"word": "公園",
+		"meaning_en": "park",
+		"furigana": "こうえん",
+		"meaning_ko": ["공원"]
+	},
+	{
+		"word": "借りる",
+		"meaning_en": "to borrow",
+		"furigana": "かりる",
+		"meaning_ko": ["빌리다", "빌림"]
+	},
+	{
+		"word": "口",
+		"meaning_en": "mouth, opening",
+		"furigana": "くち",
+		"meaning_ko": ["입", "입구"]
+	},
+	{
+		"word": "持つ",
+		"meaning_en": "to hold",
+		"furigana": "もつ",
+		"meaning_ko": ["가지고 있다", "가지다"]
+	},
+	{
+		"word": "上着",
+		"meaning_en": "jacket",
+		"furigana": "うわぎ",
+		"meaning_ko": ["위의 옷", "재킷"]
+	},
+	{
+		"word": "秋",
+		"meaning_en": "autumn",
+		"furigana": "あき",
+		"meaning_ko": ["가을"]
+	},
+	{
+		"word": "悪い",
+		"meaning_en": "bad",
+		"furigana": "わるい",
+		"meaning_ko": ["나쁜", "나쁨"]
+	},
+	{
+		"word": "青い",
+		"meaning_en": "blue",
+		"furigana": "あおい",
+		"meaning_ko": ["푸른", "푸르다"]
+	},
+	{
+		"word": "住む",
+		"meaning_en": "to live in",
+		"furigana": "すむ",
+		"meaning_ko": ["살다", "삶다"]
+	},
+	{
+		"word": "かける",
+		"meaning_en": "to call by phone",
+		"furigana": "",
+		"meaning_ko": ["전화를 걸다", "전화하다"]
+	},
+	{
+		"word": "木曜日",
+		"meaning_en": "Thursday",
+		"furigana": "もくようび",
+		"meaning_ko": ["목요일"]
+	},
+	{
+		"word": "忘れる",
+		"meaning_en": "to forget",
+		"furigana": "わすれる",
+		"meaning_ko": ["잊다", "잊어버리다"]
+	},
+	{
+		"word": "お手洗い",
+		"meaning_en": "bathroom",
+		"furigana": "おてあらい",
+		"meaning_ko": ["화장실"]
+	},
+	{
+		"word": "写真",
+		"meaning_en": "photograph",
+		"furigana": "しゃしん",
+		"meaning_ko": ["사진"]
+	},
+	{
+		"word": "ゼロ",
+		"meaning_en": "zero",
+		"furigana": "",
+		"meaning_ko": ["제로"]
+	},
+	{
+		"word": "いろいろ",
+		"meaning_en": "various",
+		"furigana": "",
+		"meaning_ko": ["다양한"]
+	},
+	{
+		"word": "もう",
+		"meaning_en": "already",
+		"furigana": "",
+		"meaning_ko": ["이미"]
+	},
+	{
+		"word": "会う",
+		"meaning_en": "to meet",
+		"furigana": "あう",
+		"meaning_ko": ["만나다", "만남"]
+	},
+	{
+		"word": "南",
+		"meaning_en": "south",
+		"furigana": "みなみ",
+		"meaning_ko": ["남"]
+	},
+	{
+		"word": "五日",
+		"meaning_en": "five days, fifth day",
+		"furigana": "いつか",
+		"meaning_ko": ["다섯 날"]
+	},
+	{
+		"word": "着る",
+		"meaning_en": "to put on from the shoulders down",
+		"furigana": "きる",
+		"meaning_ko": ["어깨 아래부터 입다", "입다"]
+	},
+	{
+		"word": "そこ",
+		"meaning_en": "that place",
+		"furigana": "",
+		"meaning_ko": ["그 장소"]
+	},
+	{
+		"word": "終る",
+		"meaning_en": "to finish",
+		"furigana": "おわる",
+		"meaning_ko": ["마치다", "마침"]
+	},
+	{
+		"word": "どの",
+		"meaning_en": "which",
+		"furigana": "",
+		"meaning_ko": ["어느 것"]
+	},
+	{
+		"word": "読む",
+		"meaning_en": "to read",
+		"furigana": "よむ",
+		"meaning_ko": ["읽다", "읽기"]
+	},
+	{
+		"word": "それでは",
+		"meaning_en": "in that situation",
+		"furigana": "",
+		"meaning_ko": ["그 상황에서"]
+	},
+	{
+		"word": "来月",
+		"meaning_en": "next month",
+		"furigana": "らいげつ",
+		"meaning_ko": ["다음 달"]
+	},
+	{
+		"word": "果物",
+		"meaning_en": "fruit",
+		"furigana": "くだもの",
+		"meaning_ko": ["과일"]
+	},
+	{
+		"word": "止まる",
+		"meaning_en": "to come to a halt",
+		"furigana": "とまる",
+		"meaning_ko": ["멈추다", "멈춤"]
+	},
+	{
+		"word": "着く",
+		"meaning_en": "to arrive at",
+		"furigana": "つく",
+		"meaning_ko": ["도착하다", "도착함"]
+	},
+	{
+		"word": "大好き",
+		"meaning_en": "to be very likeable",
+		"furigana": "だいすき",
+		"meaning_ko": ["매우 좋아하는", "매우 좋다"]
+	},
+	{
+		"word": "妹",
+		"meaning_en": "(humble) younger sister",
+		"furigana": "いもうと",
+		"meaning_ko": ["언니"]
+	},
+	{
+		"word": "夏",
+		"meaning_en": "summer",
+		"furigana": "なつ",
+		"meaning_ko": ["여름"]
+	},
+	{
+		"word": "今晩",
+		"meaning_en": "this evening",
+		"furigana": "こんばん",
+		"meaning_ko": ["오늘 저녁"]
+	},
+	{
+		"word": "塩",
+		"meaning_en": "salt",
+		"furigana": "しお",
+		"meaning_ko": ["소금"]
+	},
+	{
+		"word": "先週",
+		"meaning_en": "last week",
+		"furigana": "せんしゅう",
+		"meaning_ko": ["지난주"]
+	},
+	{
+		"word": "欲しい",
+		"meaning_en": "want",
+		"furigana": "ほしい",
+		"meaning_ko": ["원하는", "원함"]
+	},
+	{
+		"word": "木",
+		"meaning_en": "tree, wood",
+		"furigana": "き",
+		"meaning_ko": ["나무", "나무"]
+	},
+	{
+		"word": "ほんとう",
+		"meaning_en": "truth",
+		"furigana": "",
+		"meaning_ko": ["진실"]
+	},
+	{
+		"word": "薬",
+		"meaning_en": "medicine",
+		"furigana": "くすり",
+		"meaning_ko": ["약"]
+	},
+	{
+		"word": "お菓子",
+		"meaning_en": "sweets, candy",
+		"furigana": "おかし",
+		"meaning_ko": ["과자"]
+	},
+	{
+		"word": "金曜日",
+		"meaning_en": "Friday",
+		"furigana": "きんようび",
+		"meaning_ko": ["금요일"]
+	},
+	{
+		"word": "まずい",
+		"meaning_en": "unpleasant",
+		"furigana": "",
+		"meaning_ko": ["기분이 나쁜", "기분 나쁨"]
+	},
+	{
+		"word": "お酒",
+		"meaning_en": "alcohol, rice wine",
+		"furigana": "おさけ",
+		"meaning_ko": ["술", "떡소주"]
+	},
+	{
+		"word": "多い",
+		"meaning_en": "many",
+		"furigana": "おおい",
+		"meaning_ko": ["많은", "많다"]
+	},
+	{
+		"word": "動物",
+		"meaning_en": "animal",
+		"furigana": "どうぶつ",
+		"meaning_ko": ["동물"]
+	},
+	{
+		"word": "切符",
+		"meaning_en": "ticket",
+		"furigana": "きっぷ",
+		"meaning_ko": ["표"]
+	},
+	{
+		"word": "キロ / キロメートル",
+		"meaning_en": "kilometre",
+		"furigana": "",
+		"meaning_ko": ["킬로미터"]
+	},
+	{
+		"word": "呼ぶ",
+		"meaning_en": "to call out, to invite",
+		"furigana": "よぶ",
+		"meaning_ko": ["부르다", "초대하다"]
+	},
+	{
+		"word": "体",
+		"meaning_en": "body",
+		"furigana": "からだ",
+		"meaning_ko": ["몸"]
+	},
+	{
+		"word": "ゆっくりと",
+		"meaning_en": "slowly",
+		"furigana": "",
+		"meaning_ko": ["천천히"]
+	},
+	{
+		"word": "二日",
+		"meaning_en": "two days, second day of the month",
+		"furigana": "ふつか",
+		"meaning_ko": ["두 날"]
+	},
+	{
+		"word": "大人",
+		"meaning_en": "adult",
+		"furigana": "おとな",
+		"meaning_ko": ["성인"]
+	},
+	{
+		"word": "歯",
+		"meaning_en": "tooth",
+		"furigana": "は",
+		"meaning_ko": ["이", "이"]
+	},
+	{
+		"word": "冬",
+		"meaning_en": "winter",
+		"furigana": "ふゆ",
+		"meaning_ko": ["겨울"]
+	},
+	{
+		"word": "所",
+		"meaning_en": "place",
+		"furigana": "ところ",
+		"meaning_ko": ["장소"]
+	},
+	{
+		"word": "吹く",
+		"meaning_en": "to blow",
+		"furigana": "ふく",
+		"meaning_ko": ["불어나다", "불어남"]
+	},
+	{
+		"word": "足",
+		"meaning_en": "foot, leg",
+		"furigana": "あし",
+		"meaning_ko": ["발", "다리"]
+	},
+	{
+		"word": "箱",
+		"meaning_en": "box",
+		"furigana": "はこ",
+		"meaning_ko": ["상자"]
+	},
+	{
+		"word": "八",
+		"meaning_en": "eight",
+		"furigana": "はち",
+		"meaning_ko": ["여덟"]
+	},
+	{
+		"word": "朝",
+		"meaning_en": "morning",
+		"furigana": "あさ",
+		"meaning_ko": ["아침"]
+	},
+	{
+		"word": "一昨日",
+		"meaning_en": "day before yesterday",
+		"furigana": "おととい",
+		"meaning_ko": ["어제"]
+	},
+	{
+		"word": "有名",
+		"meaning_en": "famous",
+		"furigana": "ゆうめい",
+		"meaning_ko": ["유명한", "유명함"]
+	},
+	{
+		"word": "二十日",
+		"meaning_en": "twenty days, twentieth",
+		"furigana": "はつか",
+		"meaning_ko": ["스물 날"]
+	},
+	{
+		"word": "近い",
+		"meaning_en": "near",
+		"furigana": "ちかい",
+		"meaning_ko": ["가까운", "가까움"]
+	},
+	{
+		"word": "ください",
+		"meaning_en": "please",
+		"furigana": "",
+		"meaning_ko": ["부탁합니다", "부탁함"]
+	},
+	{
+		"word": "時計",
+		"meaning_en": "watch, clock",
+		"furigana": "とけい",
+		"meaning_ko": ["시계"]
+	},
+	{
+		"word": "午後",
+		"meaning_en": "afternoon",
+		"furigana": "ごご",
+		"meaning_ko": ["오후"]
+	},
+	{
+		"word": "食べ物",
+		"meaning_en": "food",
+		"furigana": "たべもの",
+		"meaning_ko": ["음식"]
+	},
+	{
+		"word": "降る",
+		"meaning_en": "to fall, e.g. rain or snow",
+		"furigana": "ふる",
+		"meaning_ko": ["내리다", "눈이 내리다"]
+	},
+	{
+		"word": "易しい",
+		"meaning_en": "easy, simple",
+		"furigana": "やさしい",
+		"meaning_ko": ["쉬운", "쉽다"]
+	},
+	{
+		"word": "大使館",
+		"meaning_en": "embassy",
+		"furigana": "たいしかん",
+		"meaning_ko": ["대사관"]
+	},
+	{
+		"word": "誰",
+		"meaning_en": "who",
+		"furigana": "だれ",
+		"meaning_ko": ["누구"]
+	},
+	{
+		"word": "上",
+		"meaning_en": "on top of",
+		"furigana": "うえ",
+		"meaning_ko": ["위에"]
+	},
+	{
+		"word": "五",
+		"meaning_en": "five",
+		"furigana": "ご",
+		"meaning_ko": ["다섯"]
+	},
+	{
+		"word": "十日",
+		"meaning_en": "ten days, the tenth day",
+		"furigana": "とおか",
+		"meaning_ko": ["열 날"]
+	},
+	{
+		"word": "どちら",
+		"meaning_en": "which of two",
+		"furigana": "",
+		"meaning_ko": ["두 가지 중 어느 것"]
+	},
+	{
+		"word": "プール",
+		"meaning_en": "swimming pool",
+		"furigana": "",
+		"meaning_ko": ["수영장"]
+	},
+	{
+		"word": "小さい",
+		"meaning_en": "little",
+		"furigana": "ちいさい",
+		"meaning_ko": ["작은", "작다"]
+	},
+	{
+		"word": "今週",
+		"meaning_en": "this week",
+		"furigana": "こんしゅう",
+		"meaning_ko": ["이번 주"]
+	},
+	{
+		"word": "肉",
+		"meaning_en": "meat",
+		"furigana": "にく",
+		"meaning_ko": ["고기"]
+	},
+	{
+		"word": "零",
+		"meaning_en": "zero",
+		"furigana": "れい",
+		"meaning_ko": ["제로"]
+	},
+	{
+		"word": "豚肉",
+		"meaning_en": "pork",
+		"furigana": "ぶたにく",
+		"meaning_ko": ["돼지고기"]
+	},
+	{
+		"word": "広い",
+		"meaning_en": "spacious, wide",
+		"furigana": "ひろい",
+		"meaning_ko": ["넓은", "넓다"]
+	},
+	{
+		"word": "靴下",
+		"meaning_en": "socks",
+		"furigana": "くつした",
+		"meaning_ko": ["양말"]
+	},
+	{
+		"word": "一人",
+		"meaning_en": "one person",
+		"furigana": "ひとり",
+		"meaning_ko": ["한 사람"]
+	},
+	{
+		"word": "かぎ",
+		"meaning_en": "key",
+		"furigana": "",
+		"meaning_ko": ["열쇠"]
+	},
+	{
+		"word": "向こう",
+		"meaning_en": "over there",
+		"furigana": "むこう",
+		"meaning_ko": ["저편"]
+	},
+	{
+		"word": "上手",
+		"meaning_en": "skillful",
+		"furigana": "じょうず",
+		"meaning_ko": ["능숙한", "능숙함"]
+	},
+	{
+		"word": "牛肉",
+		"meaning_en": "beef",
+		"furigana": "ぎゅうにく",
+		"meaning_ko": ["쇠고기"]
+	},
+	{
+		"word": "話",
+		"meaning_en": "talk, story",
+		"furigana": "はなし",
+		"meaning_ko": ["이야기", "이야기하다"]
+	},
+	{
+		"word": "毎晩",
+		"meaning_en": "every night",
+		"furigana": "まいばん",
+		"meaning_ko": ["매일 밤"]
+	},
+	{
+		"word": "三つ",
+		"meaning_en": "three",
+		"furigana": "みっつ",
+		"meaning_ko": ["세 가지"]
+	},
+	{
+		"word": "吸う",
+		"meaning_en": "to smoke, to suck",
+		"furigana": "すう",
+		"meaning_ko": ["흡연하다", "흡연함"]
+	},
+	{
+		"word": "銀行",
+		"meaning_en": "bank",
+		"furigana": "ぎんこう",
+		"meaning_ko": ["은행"]
+	},
+	{
+		"word": "大切",
+		"meaning_en": "important",
+		"furigana": "たいせつ",
+		"meaning_ko": ["중요한", "중요함"]
+	},
+	{
+		"word": "学生",
+		"meaning_en": "student",
+		"furigana": "がくせい",
+		"meaning_ko": ["학생"]
+	},
+	{
+		"word": "部屋",
+		"meaning_en": "room",
+		"furigana": "へや",
+		"meaning_ko": ["방"]
+	},
+	{
+		"word": "昼御飯",
+		"meaning_en": "midday meal",
+		"furigana": "ひるごはん",
+		"meaning_ko": ["점심 식사"]
+	},
+	{
+		"word": "下",
+		"meaning_en": "below",
+		"furigana": "した",
+		"meaning_ko": ["아래"]
+	},
+	{
+		"word": "二つ",
+		"meaning_en": "two",
+		"furigana": "ふたつ",
+		"meaning_ko": ["두 가지"]
+	},
+	{
+		"word": "百",
+		"meaning_en": "hundred",
+		"furigana": "ひゃく",
+		"meaning_ko": ["백"]
+	},
+	{
+		"word": "地図",
+		"meaning_en": "map",
+		"furigana": "ちず",
+		"meaning_ko": ["지도"]
+	},
+	{
+		"word": "八百屋",
+		"meaning_en": "greengrocer",
+		"furigana": "やおや",
+		"meaning_ko": ["오이집"]
+	},
+	{
+		"word": "ネクタイ",
+		"meaning_en": "tie, necktie",
+		"furigana": "",
+		"meaning_ko": ["넥타이"]
+	},
+	{
+		"word": "去年",
+		"meaning_en": "last year",
+		"furigana": "きょねん",
+		"meaning_ko": ["작년"]
+	},
+	{
+		"word": "火曜日",
+		"meaning_en": "Tuesday",
+		"furigana": "かようび",
+		"meaning_ko": ["화요일"]
+	},
+	{
+		"word": "乗る",
+		"meaning_en": "to get on, to ride",
+		"furigana": "のる",
+		"meaning_ko": ["타다", "탑승하다"]
+	},
+	{
+		"word": "弟",
+		"meaning_en": "younger brother",
+		"furigana": "おとうと",
+		"meaning_ko": ["어린 남동생"]
+	},
+	{
+		"word": "あなた",
+		"meaning_en": "you",
+		"furigana": "",
+		"meaning_ko": ["당신"]
+	},
+	{
+		"word": "千",
+		"meaning_en": "thousand",
+		"furigana": "せん",
+		"meaning_ko": ["천"]
+	},
+	{
+		"word": "緑",
+		"meaning_en": "green",
+		"furigana": "みどり",
+		"meaning_ko": ["녹색"]
+	},
+	{
+		"word": "とり肉",
+		"meaning_en": "chicken meat",
+		"furigana": "とりにく",
+		"meaning_ko": ["닭고기"]
+	},
+	{
+		"word": "軽い",
+		"meaning_en": "light",
+		"furigana": "かるい",
+		"meaning_ko": ["가벼운", "가벼움"]
+	},
+	{
+		"word": "あまり",
+		"meaning_en": "not very",
+		"furigana": "",
+		"meaning_ko": ["매우 안 그러나"]
+	},
+	{
+		"word": "帽子",
+		"meaning_en": "hat",
+		"furigana": "ぼうし",
+		"meaning_ko": ["모자"]
+	},
+	{
+		"word": "丈夫",
+		"meaning_en": "strong, durable",
+		"furigana": "じょうぶ",
+		"meaning_ko": ["강한", "강함"]
+	},
+	{
+		"word": "入れる",
+		"meaning_en": "to put in",
+		"furigana": "いれる",
+		"meaning_ko": ["넣다", "넣기"]
+	},
+	{
+		"word": "二十歳",
+		"meaning_en": "20 years old, 20th year",
+		"furigana": "はたち",
+		"meaning_ko": ["스물 살"]
+	},
+	{
+		"word": "三日",
+		"meaning_en": "three days, third day of the month",
+		"furigana": "みっか",
+		"meaning_ko": ["세 날"]
+	},
+	{
+		"word": "遠い",
+		"meaning_en": "far",
+		"furigana": "とおい",
+		"meaning_ko": ["먼", "먼"]
+	},
+	{
+		"word": "夏休み",
+		"meaning_en": "summer holiday",
+		"furigana": "なつやすみ",
+		"meaning_ko": ["여름 휴가"]
+	},
+	{
+		"word": "友達",
+		"meaning_en": "friend",
+		"furigana": "ともだち",
+		"meaning_ko": ["친구"]
+	},
+	{
+		"word": "横",
+		"meaning_en": "beside, side, width",
+		"furigana": "よこ",
+		"meaning_ko": ["옆", "너비"]
+	},
+	{
+		"word": "冷たい",
+		"meaning_en": "cold to the touch",
+		"furigana": "つめたい",
+		"meaning_ko": ["쌀쌀한", "쌀쌀함"]
+	},
+	{
+		"word": "夜",
+		"meaning_en": "evening, night",
+		"furigana": "よる",
+		"meaning_ko": ["밤", "밤"]
+	},
+	{
+		"word": "トイレ",
+		"meaning_en": "toilet",
+		"furigana": "",
+		"meaning_ko": ["화장실"]
+	},
+	{
+		"word": "おなか",
+		"meaning_en": "stomach",
+		"furigana": "",
+		"meaning_ko": ["배"]
+	},
+	{
+		"word": "どこ",
+		"meaning_en": "where",
+		"furigana": "",
+		"meaning_ko": ["어디"]
+	},
+	{
+		"word": "暇",
+		"meaning_en": "free time",
+		"furigana": "ひま",
+		"meaning_ko": ["시간이 남음"]
+	},
+	{
+		"word": "鳴く",
+		"meaning_en": "animal noise. to chirp, roar or croak etc.",
+		"furigana": "なく",
+		"meaning_ko": ["울다", "울음소리"]
+	},
+	{
+		"word": "隣",
+		"meaning_en": "next door to",
+		"furigana": "となり",
+		"meaning_ko": ["옆집"]
+	},
+	{
+		"word": "先生",
+		"meaning_en": "teacher, doctor",
+		"furigana": "せんせい",
+		"meaning_ko": ["선생님", "의사"]
+	},
+	{
+		"word": "出口",
+		"meaning_en": "exit",
+		"furigana": "でぐち",
+		"meaning_ko": ["출구"]
+	},
+	{
+		"word": "後ろ",
+		"meaning_en": "behind",
+		"furigana": "うしろ",
+		"meaning_ko": ["뒤"]
+	},
+	{
+		"word": "先月",
+		"meaning_en": "last month",
+		"furigana": "せんげつ",
+		"meaning_ko": ["지난 달"]
+	},
+	{
+		"word": "テープ",
+		"meaning_en": "tape",
+		"furigana": "",
+		"meaning_ko": ["테이프"]
+	},
+	{
+		"word": "お姉さん",
+		"meaning_en": "(honorable) older sister",
+		"furigana": "おねえさん",
+		"meaning_ko": ["누이"]
+	},
+	{
+		"word": "じゃ / じゃあ",
+		"meaning_en": "well then…",
+		"furigana": "",
+		"meaning_ko": ["그럼…"]
+	},
+	{
+		"word": "本",
+		"meaning_en": "book",
+		"furigana": "ほん",
+		"meaning_ko": ["책"]
+	},
+	{
+		"word": "泳ぐ",
+		"meaning_en": "to swim",
+		"furigana": "およぐ",
+		"meaning_ko": ["수영하다", "수영함"]
+	},
+	{
+		"word": "灰皿",
+		"meaning_en": "ashtray",
+		"furigana": "はいざら",
+		"meaning_ko": ["쇠불"]
+	},
+	{
+		"word": "門",
+		"meaning_en": "gate",
+		"furigana": "もん",
+		"meaning_ko": ["문"]
+	},
+	{
+		"word": "荷物",
+		"meaning_en": "luggage",
+		"furigana": "にもつ",
+		"meaning_ko": ["짐"]
+	},
+	{
+		"word": "この",
+		"meaning_en": "this",
+		"furigana": "",
+		"meaning_ko": ["이 것"]
+	},
+	{
+		"word": "書く",
+		"meaning_en": "to write",
+		"furigana": "かく",
+		"meaning_ko": ["쓰다", "쓰기"]
+	},
+	{
+		"word": "毎年",
+		"meaning_en": "every year",
+		"furigana": "まいねん / まいとし",
+		"meaning_ko": ["매년", "매년"]
+	},
+	{
+		"word": "明日",
+		"meaning_en": "tomorrow",
+		"furigana": "あした",
+		"meaning_ko": ["내일"]
+	},
+	{
+		"word": "ホテル",
+		"meaning_en": "hotel",
+		"furigana": "",
+		"meaning_ko": ["호텔"]
+	},
+	{
+		"word": "降りる",
+		"meaning_en": "to get off, to descend",
+		"furigana": "おりる",
+		"meaning_ko": ["내리다", "내려가다"]
+	},
+	{
+		"word": "重い",
+		"meaning_en": "heavy",
+		"furigana": "おもい",
+		"meaning_ko": ["무거운", "무거움"]
+	},
+	{
+		"word": "電車",
+		"meaning_en": "electric train",
+		"furigana": "でんしゃ",
+		"meaning_ko": ["전기 기차"]
+	},
+	{
+		"word": "痛い",
+		"meaning_en": "painful",
+		"furigana": "いたい",
+		"meaning_ko": ["아픈", "아픔"]
+	},
+	{
+		"word": "話す",
+		"meaning_en": "to speak",
+		"furigana": "はなす",
+		"meaning_ko": ["이야기하다", "이야기함"]
+	},
+	{
+		"word": "りっぱ",
+		"meaning_en": "splendid",
+		"furigana": "",
+		"meaning_ko": ["멋진", "멋짐"]
+	},
+	{
+		"word": "つまらない",
+		"meaning_en": "boring",
+		"furigana": "",
+		"meaning_ko": ["지루한", "지루함"]
+	},
+	{
+		"word": "よく",
+		"meaning_en": "often, well",
+		"furigana": "",
+		"meaning_ko": ["자주", "잘"]
+	},
+	{
+		"word": "嫌",
+		"meaning_en": "unpleasant",
+		"furigana": "いや",
+		"meaning_ko": ["싫은", "싫다"]
+	},
+	{
+		"word": "宿題",
+		"meaning_en": "homework",
+		"furigana": "しゅくだい",
+		"meaning_ko": ["숙제"]
+	},
+	{
+		"word": "死ぬ",
+		"meaning_en": "to die",
+		"furigana": "しぬ",
+		"meaning_ko": ["죽다", "죽음"]
+	},
+	{
+		"word": "みんな",
+		"meaning_en": "everyone",
+		"furigana": "",
+		"meaning_ko": ["모두"]
+	},
+	{
+		"word": "万",
+		"meaning_en": "ten thousand",
+		"furigana": "まん",
+		"meaning_ko": ["만"]
+	},
+	{
+		"word": "映画",
+		"meaning_en": "movie",
+		"furigana": "えいが",
+		"meaning_ko": ["영화"]
+	},
+	{
+		"word": "遅い",
+		"meaning_en": "late, slow",
+		"furigana": "おそい",
+		"meaning_ko": ["늦은", "늦다"]
+	},
+	{
+		"word": "耳",
+		"meaning_en": "ear",
+		"furigana": "みみ",
+		"meaning_ko": ["귀"]
+	},
+	{
+		"word": "かかる",
+		"meaning_en": "to take time or money",
+		"furigana": "",
+		"meaning_ko": ["시간이나 돈을 쓰다", "시간이나 돈 쓰기"]
+	},
+	{
+		"word": "でも",
+		"meaning_en": "but",
+		"furigana": "",
+		"meaning_ko": ["하지만"]
+	},
+	{
+		"word": "四つ",
+		"meaning_en": "four",
+		"furigana": "よっつ",
+		"meaning_ko": ["네 가지"]
+	},
+	{
+		"word": "机",
+		"meaning_en": "desk",
+		"furigana": "つくえ",
+		"meaning_ko": ["책상"]
+	},
+	{
+		"word": "あっち",
+		"meaning_en": "over there",
+		"furigana": "",
+		"meaning_ko": ["저편"]
+	},
+	{
+		"word": "買う",
+		"meaning_en": "to buy",
+		"furigana": "かう",
+		"meaning_ko": ["사다", "사기"]
+	},
+	{
+		"word": "開く",
+		"meaning_en": "to open, to become open",
+		"furigana": "あく",
+		"meaning_ko": ["열다", "열림"]
+	},
+	{
+		"word": "教室",
+		"meaning_en": "classroom",
+		"furigana": "きょうしつ",
+		"meaning_ko": ["교실"]
+	},
+	{
+		"word": "かばん",
+		"meaning_en": "bag, basket",
+		"furigana": "",
+		"meaning_ko": ["가방", "바구니"]
+	},
+	{
+		"word": "マッチ",
+		"meaning_en": "match",
+		"furigana": "",
+		"meaning_ko": ["매치"]
+	},
+	{
+		"word": "短い",
+		"meaning_en": "short",
+		"furigana": "みじかい",
+		"meaning_ko": ["짧은", "짧다"]
+	},
+	{
+		"word": "姉",
+		"meaning_en": "(humble) older sister",
+		"furigana": "あね",
+		"meaning_ko": ["누이"]
+	},
+	{
+		"word": "大勢",
+		"meaning_en": "great number of people",
+		"furigana": "おおぜい",
+		"meaning_ko": ["많은 사람들"]
+	},
+	{
+		"word": "開ける",
+		"meaning_en": "to open",
+		"furigana": "あける",
+		"meaning_ko": ["열다", "열림"]
+	},
+	{
+		"word": "忙しい",
+		"meaning_en": "busy, irritated",
+		"furigana": "いそがしい",
+		"meaning_ko": ["바쁜", "바쁨"]
+	},
+	{
+		"word": "おばあさん",
+		"meaning_en": "grandmother, female senior-citizen",
+		"furigana": "",
+		"meaning_ko": ["할머니", "여성 노인"]
+	},
+	{
+		"word": "店",
+		"meaning_en": "shop",
+		"furigana": "みせ",
+		"meaning_ko": ["가게"]
+	},
+	{
+		"word": "ワイシャツ",
+		"meaning_en": "business shirt",
+		"furigana": "",
+		"meaning_ko": ["비즈니스 셔츠"]
+	},
+	{
+		"word": "北",
+		"meaning_en": "north",
+		"furigana": "きた",
+		"meaning_ko": ["북"]
+	},
+	{
+		"word": "ラジオ",
+		"meaning_en": "radio",
+		"furigana": "",
+		"meaning_ko": ["라디오"]
+	},
+	{
+		"word": "すぐに",
+		"meaning_en": "instantly",
+		"furigana": "",
+		"meaning_ko": ["즉시"]
+	},
+	{
+		"word": "ハンカチ",
+		"meaning_en": "handkerchief",
+		"furigana": "",
+		"meaning_ko": ["수건"]
+	},
+	{
+		"word": "いつ",
+		"meaning_en": "when",
+		"furigana": "",
+		"meaning_ko": ["언제"]
+	},
+	{
+		"word": "全部",
+		"meaning_en": "all",
+		"furigana": "ぜんぶ",
+		"meaning_ko": ["모두"]
+	},
+	{
+		"word": "橋",
+		"meaning_en": "bridge",
+		"furigana": "はし",
+		"meaning_ko": ["다리"]
+	},
+	{
+		"word": "川 / 河",
+		"meaning_en": "river",
+		"furigana": "かわ",
+		"meaning_ko": ["강"]
+	},
+	{
+		"word": "バター",
+		"meaning_en": "butter",
+		"furigana": "",
+		"meaning_ko": ["버터"]
+	},
+	{
+		"word": "もっと",
+		"meaning_en": "more",
+		"furigana": "",
+		"meaning_ko": ["더"]
+	},
+	{
+		"word": "入口",
+		"meaning_en": "entrance",
+		"furigana": "いりぐち",
+		"meaning_ko": ["입구"]
+	},
+	{
+		"word": "など",
+		"meaning_en": "et cetera",
+		"furigana": "",
+		"meaning_ko": ["기타 등등"]
+	},
+	{
+		"word": "太い",
+		"meaning_en": "fat",
+		"furigana": "ふとい",
+		"meaning_ko": ["두꺼운", "두껍다"]
+	},
+	{
+		"word": "やる",
+		"meaning_en": "to do",
+		"furigana": "",
+		"meaning_ko": ["하다", "하기"]
+	},
+	{
+		"word": "自動車",
+		"meaning_en": "automobile",
+		"furigana": "じどうしゃ",
+		"meaning_ko": ["자동차"]
+	},
+	{
+		"word": "昼",
+		"meaning_en": "noon, daytime",
+		"furigana": "ひる",
+		"meaning_ko": ["점심", "낮"]
+	},
+	{
+		"word": "色",
+		"meaning_en": "colour",
+		"furigana": "いろ",
+		"meaning_ko": ["색"]
+	},
+	{
+		"word": "黄色",
+		"meaning_en": "yellow",
+		"furigana": "きいろ",
+		"meaning_ko": ["노란색"]
+	},
+	{
+		"word": "左",
+		"meaning_en": "left hand side",
+		"furigana": "ひだり",
+		"meaning_ko": ["왼쪽"]
+	},
+	{
+		"word": "野菜",
+		"meaning_en": "vegetable",
+		"furigana": "やさい",
+		"meaning_ko": ["야채"]
+	},
+	{
+		"word": "シャワー",
+		"meaning_en": "shower",
+		"furigana": "",
+		"meaning_ko": ["샤워"]
+	},
+	{
+		"word": "散歩",
+		"meaning_en": "to stroll",
+		"furigana": "さんぽする",
+		"meaning_ko": ["산책하다", "산책함"]
+	},
+	{
+		"word": "三",
+		"meaning_en": "three",
+		"furigana": "さん",
+		"meaning_ko": ["세"]
+	},
+	{
+		"word": "消える",
+		"meaning_en": "to disappear",
+		"furigana": "きえる",
+		"meaning_ko": ["사라지다", "사라짐"]
+	},
+	{
+		"word": "映画館",
+		"meaning_en": "cinema",
+		"furigana": "えいがかん",
+		"meaning_ko": ["영화관"]
+	},
+	{
+		"word": "いす",
+		"meaning_en": "chair",
+		"furigana": "",
+		"meaning_ko": ["의자"]
+	},
+	{
+		"word": "誕生日",
+		"meaning_en": "birthday",
+		"furigana": "たんじょうび",
+		"meaning_ko": ["생일"]
+	},
+	{
+		"word": "切る",
+		"meaning_en": "to cut",
+		"furigana": "きる",
+		"meaning_ko": ["자르다", "자름"]
+	},
+	{
+		"word": "七日",
+		"meaning_en": "seven days, the seventh day",
+		"furigana": "なのか",
+		"meaning_ko": ["일주일 후"]
+	},
+	{
+		"word": "洗う",
+		"meaning_en": "to wash",
+		"furigana": "あらう",
+		"meaning_ko": ["씻다", "씻기"]
+	},
+	{
+		"word": "あれ",
+		"meaning_en": "that",
+		"furigana": "",
+		"meaning_ko": ["그것"]
+	},
+	{
+		"word": "グラム",
+		"meaning_en": "gram",
+		"furigana": "",
+		"meaning_ko": ["그램"]
+	},
+	{
+		"word": "習う",
+		"meaning_en": "to learn",
+		"furigana": "ならう",
+		"meaning_ko": ["배우다", "배움"]
+	},
+	{
+		"word": "後",
+		"meaning_en": "afterwards",
+		"furigana": "あと",
+		"meaning_ko": ["이후"]
+	},
+	{
+		"word": "猫",
+		"meaning_en": "cat",
+		"furigana": "ねこ",
+		"meaning_ko": ["고양이"]
+	},
+	{
+		"word": "図書館",
+		"meaning_en": "library",
+		"furigana": "としょかん",
+		"meaning_ko": ["도서관"]
+	},
+	{
+		"word": "並べる",
+		"meaning_en": "to line up, to set up",
+		"furigana": "ならべる",
+		"meaning_ko": ["세우다", "세움"]
+	},
+	{
+		"word": "しかし",
+		"meaning_en": "however",
+		"furigana": "",
+		"meaning_ko": ["그러나"]
+	},
+	{
+		"word": "大きい",
+		"meaning_en": "big",
+		"furigana": "おおきい",
+		"meaning_ko": ["큰", "크다"]
+	},
+	{
+		"word": "八日",
+		"meaning_en": "eight days, eighth day of the month",
+		"furigana": "ようか",
+		"meaning_ko": ["여덟 날"]
+	},
+	{
+		"word": "歩く",
+		"meaning_en": "to walk",
+		"furigana": "あるく",
+		"meaning_ko": ["걷다", "걷기"]
+	},
+	{
+		"word": "ズボン",
+		"meaning_en": "trousers",
+		"furigana": "",
+		"meaning_ko": ["치마"]
+	},
+	{
+		"word": "九日",
+		"meaning_en": "nine days, ninth day",
+		"furigana": "ここのか",
+		"meaning_ko": ["아홉 날"]
+	},
+	{
+		"word": "そっち",
+		"meaning_en": "over there",
+		"furigana": "",
+		"meaning_ko": ["저편"]
+	},
+	{
+		"word": "たて",
+		"meaning_en": "length, height",
+		"furigana": "",
+		"meaning_ko": ["길이", "높이"]
+	},
+	{
+		"word": "カップ",
+		"meaning_en": "cup",
+		"furigana": "",
+		"meaning_ko": ["컵"]
+	},
+	{
+		"word": "あの",
+		"meaning_en": "that over there",
+		"furigana": "",
+		"meaning_ko": ["저편의 것"]
+	},
+	{
+		"word": "頼む",
+		"meaning_en": "to ask",
+		"furigana": "たのむ",
+		"meaning_ko": ["부탁하다", "부탁함"]
+	},
+	{
+		"word": "お兄さん",
+		"meaning_en": "(honorable) older brother",
+		"furigana": "おにいさん",
+		"meaning_ko": ["오빠"]
+	},
+	{
+		"word": "手",
+		"meaning_en": "hand",
+		"furigana": "て",
+		"meaning_ko": ["손"]
+	},
+	{
+		"word": "ええ",
+		"meaning_en": "yes",
+		"furigana": "",
+		"meaning_ko": ["예"]
+	},
+	{
+		"word": "毎日",
+		"meaning_en": "every day",
+		"furigana": "まいにち",
+		"meaning_ko": ["매일", "매일"]
+	},
+	{
+		"word": "花",
+		"meaning_en": "flower",
+		"furigana": "はな",
+		"meaning_ko": ["꽃"]
+	},
+	{
+		"word": "一",
+		"meaning_en": "one",
+		"furigana": "いち",
+		"meaning_ko": ["일"]
+	},
+	{
+		"word": "居る",
+		"meaning_en": "to be, to have (used for people and animals)",
+		"furigana": "いる",
+		"meaning_ko": ["있다", "있음"]
+	},
+	{
+		"word": "砂糖",
+		"meaning_en": "sugar",
+		"furigana": "さとう",
+		"meaning_ko": ["설탕"]
+	},
+	{
+		"word": "カレンダー",
+		"meaning_en": "calendar",
+		"furigana": "",
+		"meaning_ko": ["캘린더"]
+	},
+	{
+		"word": "今",
+		"meaning_en": "now",
+		"furigana": "いま",
+		"meaning_ko": ["지금"]
+	},
+	{
+		"word": "旅行",
+		"meaning_en": "travel",
+		"furigana": "りょこう",
+		"meaning_ko": ["여행"]
+	},
+	{
+		"word": "できる",
+		"meaning_en": "to be able to",
+		"furigana": "",
+		"meaning_ko": ["할 수 있다", "할 수 있음"]
+	},
+	{
+		"word": "春",
+		"meaning_en": "spring",
+		"furigana": "はる",
+		"meaning_ko": ["봄"]
+	},
+	{
+		"word": "する",
+		"meaning_en": "to do",
+		"furigana": "",
+		"meaning_ko": ["하다", "하기"]
+	},
+	{
+		"word": "八つ",
+		"meaning_en": "eight",
+		"furigana": "やっつ",
+		"meaning_ko": ["여덟 가지"]
+	},
+	{
+		"word": "町",
+		"meaning_en": "town, city",
+		"furigana": "まち",
+		"meaning_ko": ["마을", "도시"]
+	},
+	{
+		"word": "渡す",
+		"meaning_en": "to hand over",
+		"furigana": "わたす",
+		"meaning_ko": ["건네주다", "건네줌"]
+	},
+	{
+		"word": "青",
+		"meaning_en": "blue",
+		"furigana": "あお",
+		"meaning_ko": ["푸른", "푸르다"]
+	},
+	{
+		"word": "白",
+		"meaning_en": "white",
+		"furigana": "しろ",
+		"meaning_ko": ["하얀", "하어다"]
+	},
+	{
+		"word": "ある",
+		"meaning_en": "to be, to have (used for inanimate objects)",
+		"furigana": "",
+		"meaning_ko": ["있다", "있음"]
+	},
+	{
+		"word": "ベッド",
+		"meaning_en": "bed",
+		"furigana": "",
+		"meaning_ko": ["침대"]
+	},
+	{
+		"word": "水",
+		"meaning_en": "water",
+		"furigana": "みず",
+		"meaning_ko": ["물"]
+	},
+	{
+		"word": "いくつ",
+		"meaning_en": "how many?, how old?",
+		"furigana": "",
+		"meaning_ko": ["몇 개인가?", "몇 살인가?"]
+	},
+	{
+		"word": "楽しい",
+		"meaning_en": "enjoyable",
+		"furigana": "たのしい",
+		"meaning_ko": ["즐거운", "즐거움"]
+	},
+	{
+		"word": "御飯",
+		"meaning_en": "cooked rice, meal",
+		"furigana": "ごはん",
+		"meaning_ko": ["밥", "밥 식사"]
+	},
+	{
+		"word": "皆さん",
+		"meaning_en": "everyone",
+		"furigana": "みなさん",
+		"meaning_ko": ["모두 여러분"]
+	},
+	{
+		"word": "おいしい",
+		"meaning_en": "delicious",
+		"furigana": "",
+		"meaning_ko": ["맛있는", "맛있음"]
+	},
+	{
+		"word": "ペット",
+		"meaning_en": "pet",
+		"furigana": "",
+		"meaning_ko": ["애완동물"]
+	},
+	{
+		"word": "外",
+		"meaning_en": "outside",
+		"furigana": "そと",
+		"meaning_ko": ["밖"]
+	},
+	{
+		"word": "前",
+		"meaning_en": "before",
+		"furigana": "まえ",
+		"meaning_ko": ["앞"]
+	},
+	{
+		"word": "来る",
+		"meaning_en": "to come",
+		"furigana": "くる",
+		"meaning_ko": ["오다", "옴"]
+	},
+	{
+		"word": "おもしろい",
+		"meaning_en": "interesting",
+		"furigana": "",
+		"meaning_ko": ["재미있는", "재미있음"]
+	},
+	{
+		"word": "貸す",
+		"meaning_en": "to lend",
+		"furigana": "かす",
+		"meaning_ko": ["빌려주다", "빌려줌"]
+	},
+	{
+		"word": "早い",
+		"meaning_en": "early",
+		"furigana": "はやい",
+		"meaning_ko": ["일찍", "일찍"]
+	},
+	{
+		"word": "弱い",
+		"meaning_en": "weak",
+		"furigana": "よわい",
+		"meaning_ko": ["약한", "약함"]
+	},
+	{
+		"word": "洗濯",
+		"meaning_en": "washing",
+		"furigana": "せんたく",
+		"meaning_ko": ["세탁하다", "세탁함"]
+	},
+	{
+		"word": "九つ",
+		"meaning_en": "nine",
+		"furigana": "ここのつ",
+		"meaning_ko": ["아홉 가지"]
+	},
+	{
+		"word": "来年",
+		"meaning_en": "next year",
+		"furigana": "らいねん",
+		"meaning_ko": ["내년"]
+	},
+	{
+		"word": "眼鏡",
+		"meaning_en": "glasses",
+		"furigana": "めがね",
+		"meaning_ko": ["안경"]
+	},
+	{
+		"word": "背",
+		"meaning_en": "height, stature",
+		"furigana": "せ",
+		"meaning_ko": ["키", "키"]
+	},
+	{
+		"word": "水曜日",
+		"meaning_en": "Wednesday",
+		"furigana": "すいようび",
+		"meaning_ko": ["수요일"]
+	},
+	{
+		"word": "お金",
+		"meaning_en": "money",
+		"furigana": "おかね",
+		"meaning_ko": ["돈"]
+	},
+	{
+		"word": "同じ",
+		"meaning_en": "same",
+		"furigana": "おなじ",
+		"meaning_ko": ["같은", "같다"]
+	},
+	{
+		"word": "弾く",
+		"meaning_en": "to play an instrument with strings, including piano",
+		"furigana": "ひく",
+		"meaning_ko": ["문악기를 연주하다", "문악기 연주하기"]
+	},
+	{
+		"word": "土曜日",
+		"meaning_en": "Saturday",
+		"furigana": "どようび",
+		"meaning_ko": ["토요일"]
+	},
+	{
+		"word": "階段",
+		"meaning_en": "stairs",
+		"furigana": "かいだん",
+		"meaning_ko": ["계단"]
+	},
+	{
+		"word": "煩い",
+		"meaning_en": "noisy, annoying",
+		"furigana": "うるさい",
+		"meaning_ko": ["시끄러운", "시끄러움"]
+	},
+	{
+		"word": "半分",
+		"meaning_en": "half minute",
+		"furigana": "はんぶん",
+		"meaning_ko": ["반 분"]
+	},
+	{
+		"word": "背広",
+		"meaning_en": "business suit",
+		"furigana": "せびろ",
+		"meaning_ko": ["비즈니스 정장"]
+	},
+	{
+		"word": "晴れ",
+		"meaning_en": "clear weather",
+		"furigana": "はれ",
+		"meaning_ko": ["맑은 날씨"]
+	},
+	{
+		"word": "見せる",
+		"meaning_en": "to show",
+		"furigana": "みせる",
+		"meaning_ko": ["보여주다", "보여줌"]
+	},
+	{
+		"word": "飲み物",
+		"meaning_en": "a drink",
+		"furigana": "のみもの",
+		"meaning_ko": ["음료"]
+	},
+	{
+		"word": "雪",
+		"meaning_en": "snow",
+		"furigana": "ゆき",
+		"meaning_ko": ["눈"]
+	},
+	{
+		"word": "買い物",
+		"meaning_en": "shopping",
+		"furigana": "かいもの",
+		"meaning_ko": ["쇼핑"]
+	},
+	{
+		"word": "交差点",
+		"meaning_en": "intersection",
+		"furigana": "こうさてん",
+		"meaning_ko": ["교차로"]
+	},
+	{
+		"word": "駅",
+		"meaning_en": "station",
+		"furigana": "えき",
+		"meaning_ko": ["역"]
+	},
+	{
+		"word": "大丈夫",
+		"meaning_en": "all right",
+		"furigana": "だいじょうぶ",
+		"meaning_ko": ["모두 괜찮음", "모두 괜찮음"]
+	},
+	{
+		"word": "ボールペン",
+		"meaning_en": "ball-point pen",
+		"furigana": "",
+		"meaning_ko": ["볼펜"]
+	},
+	{
+		"word": "勉強",
+		"meaning_en": "to study",
+		"furigana": "べんきょうする",
+		"meaning_ko": ["공부하다", "공부함"]
+	},
+	{
+		"word": "兄弟",
+		"meaning_en": "(humble) siblings",
+		"furigana": "きょうだい",
+		"meaning_ko": ["형제", "형제"]
+	},
+	{
+		"word": "封筒",
+		"meaning_en": "envelope",
+		"furigana": "ふうとう",
+		"meaning_ko": ["봉투"]
+	},
+	{
+		"word": "レコード",
+		"meaning_en": "record",
+		"furigana": "",
+		"meaning_ko": ["레코드"]
+	},
+	{
+		"word": "コーヒー",
+		"meaning_en": "coffee",
+		"furigana": "",
+		"meaning_ko": ["커피"]
+	},
+	{
+		"word": "漢字",
+		"meaning_en": "Chinese character",
+		"furigana": "かんじ",
+		"meaning_ko": ["한자"]
+	},
+	{
+		"word": "喫茶店",
+		"meaning_en": "coffee lounge",
+		"furigana": "きっさてん",
+		"meaning_ko": ["커피숍"]
+	},
+	{
+		"word": "その",
+		"meaning_en": "that",
+		"furigana": "",
+		"meaning_ko": ["그것"]
+	},
+	{
+		"word": "子供",
+		"meaning_en": "child",
+		"furigana": "こども",
+		"meaning_ko": ["아이"]
+	},
+	{
+		"word": "ちょっと",
+		"meaning_en": "somewhat",
+		"furigana": "",
+		"meaning_ko": ["조금"]
+	},
+	{
+		"word": "女の子",
+		"meaning_en": "girl",
+		"furigana": "おんなのこ",
+		"meaning_ko": ["여자 아이"]
+	},
+	{
+		"word": "紙",
+		"meaning_en": "paper",
+		"furigana": "かみ",
+		"meaning_ko": ["종이"]
+	},
+	{
+		"word": "字引",
+		"meaning_en": "dictionary",
+		"furigana": "じびき",
+		"meaning_ko": ["사전"]
+	},
+	{
+		"word": "あさって",
+		"meaning_en": "day after tomorrow",
+		"furigana": "",
+		"meaning_ko": ["내일"]
+	},
+	{
+		"word": "嫌い",
+		"meaning_en": "hate",
+		"furigana": "きらい",
+		"meaning_ko": ["싫어하는", "싫다"]
+	},
+	{
+		"word": "先",
+		"meaning_en": "the future, previous",
+		"furigana": "さき",
+		"meaning_ko": ["미래", "이전"]
+	},
+	{
+		"word": "答える",
+		"meaning_en": "to answer",
+		"furigana": "こたえる",
+		"meaning_ko": ["대답하다", "대답함"]
+	},
+	{
+		"word": "食堂",
+		"meaning_en": "dining hall",
+		"furigana": "しょくどう",
+		"meaning_ko": ["식당"]
+	},
+	{
+		"word": "テーブル",
+		"meaning_en": "table",
+		"furigana": "",
+		"meaning_ko": ["테이블"]
+	},
+	{
+		"word": "コピーする",
+		"meaning_en": "to copy",
+		"furigana": "",
+		"meaning_ko": ["복사하다", "복사함"]
+	},
+	{
+		"word": "働く",
+		"meaning_en": "to work",
+		"furigana": "はたらく",
+		"meaning_ko": ["일하다", "일함"]
+	},
+	{
+		"word": "こんな",
+		"meaning_en": "such",
+		"furigana": "",
+		"meaning_ko": ["이런"]
+	},
+	{
+		"word": "たくさん",
+		"meaning_en": "many",
+		"furigana": "",
+		"meaning_ko": ["많은"]
+	},
+	{
+		"word": "ドア",
+		"meaning_en": "Western style door",
+		"furigana": "",
+		"meaning_ko": ["서양식 문"]
+	},
+	{
+		"word": "見る  観る",
+		"meaning_en": "to see, to watch",
+		"furigana": "みる",
+		"meaning_ko": ["보다", "보기"]
+	},
+	{
+		"word": "交番",
+		"meaning_en": "police box",
+		"furigana": "こうばん",
+		"meaning_ko": ["경찰국"]
+	},
+	{
+		"word": "ナイフ",
+		"meaning_en": "knife",
+		"furigana": "",
+		"meaning_ko": ["나이프"]
+	},
+	{
+		"word": "辛い",
+		"meaning_en": "spicy",
+		"furigana": "からい",
+		"meaning_ko": ["매운", "매운"]
+	},
+	{
+		"word": "洋服",
+		"meaning_en": "western-style clothes",
+		"furigana": "ようふく",
+		"meaning_ko": ["서양식 옷"]
+	},
+	{
+		"word": "晩御飯",
+		"meaning_en": "evening meal",
+		"furigana": "ばんごはん",
+		"meaning_ko": ["저녁 식사"]
+	},
+	{
+		"word": "車",
+		"meaning_en": "car, vehicle",
+		"furigana": "くるま",
+		"meaning_ko": ["차", "차량"]
+	},
+	{
+		"word": "ちょうど",
+		"meaning_en": "exactly",
+		"furigana": "",
+		"meaning_ko": ["정확히"]
+	},
+	{
+		"word": "もう一度",
+		"meaning_en": "again",
+		"furigana": "もういちど",
+		"meaning_ko": ["다시", "다시"]
+	},
+	{
+		"word": "ポスト",
+		"meaning_en": "post",
+		"furigana": "",
+		"meaning_ko": ["우편함"]
+	},
+	{
+		"word": "服",
+		"meaning_en": "clothes",
+		"furigana": "ふく",
+		"meaning_ko": ["옷"]
+	},
+	{
+		"word": "メートル",
+		"meaning_en": "metre",
+		"furigana": "",
+		"meaning_ko": ["미터"]
+	},
+	{
+		"word": "パン",
+		"meaning_en": "bread",
+		"furigana": "",
+		"meaning_ko": ["빵"]
+	},
+	{
+		"word": "半",
+		"meaning_en": "half",
+		"furigana": "はん",
+		"meaning_ko": ["반"]
+	},
+	{
+		"word": "若い",
+		"meaning_en": "young",
+		"furigana": "わかい",
+		"meaning_ko": ["젊은", "젊다"]
+	},
+	{
+		"word": "食べる",
+		"meaning_en": "to eat",
+		"furigana": "たべる",
+		"meaning_ko": ["먹다", "먹기"]
+	},
+	{
+		"word": "四日",
+		"meaning_en": "four days, fouth day of the month",
+		"furigana": "よっか",
+		"meaning_ko": ["네 날"]
+	},
+	{
+		"word": "警官",
+		"meaning_en": "policeman",
+		"furigana": "けいかん",
+		"meaning_ko": ["경찰관"]
+	},
+	{
+		"word": "伯父 / 叔父",
+		"meaning_en": "grandfather, male senior citizen",
+		"furigana": "おじいさん",
+		"meaning_ko": ["할아버지", "남성 노인"]
+	},
+	{
+		"word": "これ",
+		"meaning_en": "this",
+		"furigana": "",
+		"meaning_ko": ["이 것"]
+	},
+	{
+		"word": "アパート",
+		"meaning_en": "apartment",
+		"furigana": "",
+		"meaning_ko": ["아파트"]
+	},
+	{
+		"word": "鳥",
+		"meaning_en": "bird",
+		"furigana": "とり",
+		"meaning_ko": ["새"]
+	},
+	{
+		"word": "ここ",
+		"meaning_en": "here",
+		"furigana": "",
+		"meaning_ko": ["여기"]
+	},
+	{
+		"word": "方",
+		"meaning_en": "person, way of doing",
+		"furigana": "かた",
+		"meaning_ko": ["사람", "방식"]
+	},
+	{
+		"word": "タクシー",
+		"meaning_en": "taxi",
+		"furigana": "",
+		"meaning_ko": ["택시"]
+	},
+	{
+		"word": "では",
+		"meaning_en": "with that...",
+		"furigana": "",
+		"meaning_ko": ["그것을 가지고..."]
+	},
+	{
+		"word": "しょうゆ",
+		"meaning_en": "soy sauce",
+		"furigana": "",
+		"meaning_ko": ["된장"]
+	},
+	{
+		"word": "少ない",
+		"meaning_en": "a few",
+		"furigana": "すくない",
+		"meaning_ko": ["적은", "적다"]
+	},
+	{
+		"word": "白い",
+		"meaning_en": "white",
+		"furigana": "しろい",
+		"meaning_ko": ["하얀", "하어다"]
+	},
+	{
+		"word": "待つ",
+		"meaning_en": "to wait",
+		"furigana": "まつ",
+		"meaning_ko": ["기다리다", "기다림"]
+	},
+	{
+		"word": "次",
+		"meaning_en": "next",
+		"furigana": "つぎ",
+		"meaning_ko": ["다음", "다음"]
+	},
+	{
+		"word": "行く",
+		"meaning_en": "to go",
+		"furigana": "いく",
+		"meaning_ko": ["가다", "감"]
+	},
+	{
+		"word": "角",
+		"meaning_en": "a corner",
+		"furigana": "かど",
+		"meaning_ko": ["모퉁이"]
+	},
+	{
+		"word": "男",
+		"meaning_en": "man",
+		"furigana": "おとこ",
+		"meaning_ko": ["남자"]
+	},
+	{
+		"word": "ギター",
+		"meaning_en": "guitar",
+		"furigana": "",
+		"meaning_ko": ["기타"]
+	},
+	{
+		"word": "聞く",
+		"meaning_en": "to hear, to listen to, to ask",
+		"furigana": "きく",
+		"meaning_ko": ["듣다", "듣기", "물어보다"]
+	},
+	{
+		"word": "走る",
+		"meaning_en": "to run",
+		"furigana": "はしる",
+		"meaning_ko": ["달리다", "달림"]
+	},
+	{
+		"word": "お母さん",
+		"meaning_en": "(honorable) mother",
+		"furigana": "おかあさん",
+		"meaning_ko": ["어머니"]
+	},
+	{
+		"word": "意味",
+		"meaning_en": "meaning",
+		"furigana": "いみ",
+		"meaning_ko": ["의미"]
+	},
+	{
+		"word": "物",
+		"meaning_en": "thing",
+		"furigana": "もの",
+		"meaning_ko": ["물건"]
+	},
+	{
+		"word": "強い",
+		"meaning_en": "powerful",
+		"furigana": "つよい",
+		"meaning_ko": ["강한", "강함"]
+	},
+	{
+		"word": "魚",
+		"meaning_en": "fish",
+		"furigana": "さかな",
+		"meaning_ko": ["물고기"]
+	},
+	{
+		"word": "切手",
+		"meaning_en": "postage stamp",
+		"furigana": "きって",
+		"meaning_ko": ["우표"]
+	},
+	{
+		"word": "暗い",
+		"meaning_en": "gloomy",
+		"furigana": "くらい",
+		"meaning_ko": ["어두운", "어두움"]
+	},
+	{
+		"word": "出る",
+		"meaning_en": "to appear, to leave",
+		"furigana": "でる",
+		"meaning_ko": ["나타나다", "나가다"]
+	},
+	{
+		"word": "犬",
+		"meaning_en": "dog",
+		"furigana": "いぬ",
+		"meaning_ko": ["개"]
+	},
+	{
+		"word": "女",
+		"meaning_en": "woman",
+		"furigana": "おんな",
+		"meaning_ko": ["여자"]
+	},
+	{
+		"word": "飛行機",
+		"meaning_en": "aeroplane",
+		"furigana": "ひこうき",
+		"meaning_ko": ["비행기"]
+	},
+	{
+		"word": "日曜日",
+		"meaning_en": "Sunday",
+		"furigana": "にちようび",
+		"meaning_ko": ["일요일"]
+	},
+	{
+		"word": "より、ほう",
+		"meaning_en": "Used for comparison.",
+		"furigana": "",
+		"meaning_ko": ["비교를 위해 사용됨"]
+	},
+	{
+		"word": "午前",
+		"meaning_en": "morning",
+		"furigana": "ごぜん",
+		"meaning_ko": ["오전"]
+	},
+	{
+		"word": "名前",
+		"meaning_en": "name",
+		"furigana": "なまえ",
+		"meaning_ko": ["이름"]
+	},
+	{
+		"word": "丸い / 円い",
+		"meaning_en": "round, circular",
+		"furigana": "まるい",
+		"meaning_ko": ["둥근", "원형"]
+	},
+	{
+		"word": "曲る",
+		"meaning_en": "to turn, to bend",
+		"furigana": "まがる",
+		"meaning_ko": ["구부리다", "구부림"]
+	},
+	{
+		"word": "鼻",
+		"meaning_en": "nose",
+		"furigana": "はな",
+		"meaning_ko": ["코"]
+	},
+	{
+		"word": "お弁当",
+		"meaning_en": "boxed lunch",
+		"furigana": "おべんとう",
+		"meaning_ko": ["박스 점심"]
+	},
+	{
+		"word": "コップ",
+		"meaning_en": "a glass",
+		"furigana": "",
+		"meaning_ko": ["컵"]
+	},
+	{
+		"word": "結婚",
+		"meaning_en": "marriage",
+		"furigana": "けっこん",
+		"meaning_ko": ["결혼"]
+	},
+	{
+		"word": "置く",
+		"meaning_en": "to put",
+		"furigana": "おく",
+		"meaning_ko": ["놓다", "놓기"]
+	},
+	{
+		"word": "渡る",
+		"meaning_en": "to go across",
+		"furigana": "わたる",
+		"meaning_ko": ["건너가다", "건너감"]
+	},
+	{
+		"word": "伯母さん / 叔母さん",
+		"meaning_en": "aunt",
+		"furigana": "おばさん",
+		"meaning_ko": ["이모", "이모"]
+	},
+	{
+		"word": "それから",
+		"meaning_en": "after that",
+		"furigana": "",
+		"meaning_ko": ["그 후"]
+	},
+	{
+		"word": "明い",
+		"meaning_en": "bright",
+		"furigana": "あかるい",
+		"meaning_ko": ["밝은", "밝다"]
+	},
+	{
+		"word": "家庭",
+		"meaning_en": "household",
+		"furigana": "かてい",
+		"meaning_ko": ["가정"]
+	},
+	{
+		"word": "パーティー",
+		"meaning_en": "party",
+		"furigana": "",
+		"meaning_ko": ["파티"]
+	},
+	{
+		"word": "あちら",
+		"meaning_en": "there",
+		"furigana": "",
+		"meaning_ko": ["저편"]
+	},
+	{
+		"word": "スカート",
+		"meaning_en": "skirt",
+		"furigana": "",
+		"meaning_ko": ["스커트"]
+	},
+	{
+		"word": "靴",
+		"meaning_en": "shoes",
+		"furigana": "くつ",
+		"meaning_ko": ["구두"]
+	},
+	{
+		"word": "ボタン",
+		"meaning_en": "button",
+		"furigana": "",
+		"meaning_ko": ["버튼"]
+	},
+	{
+		"word": "今月",
+		"meaning_en": "this month",
+		"furigana": "こんげつ",
+		"meaning_ko": ["이번 달"]
+	},
+	{
+		"word": "返す",
+		"meaning_en": "to return something",
+		"furigana": "かえす",
+		"meaning_ko": ["돌려주다", "돌려줌"]
+	},
+	{
+		"word": "いかが",
+		"meaning_en": "how",
+		"furigana": "",
+		"meaning_ko": ["어떻게"]
+	},
+	{
+		"word": "ストーブ",
+		"meaning_en": "heater",
+		"furigana": "",
+		"meaning_ko": ["난방기"]
+	},
+	{
+		"word": "二人",
+		"meaning_en": "two people",
+		"furigana": "ふたり",
+		"meaning_ko": ["두 사람"]
+	},
+	{
+		"word": "起きる",
+		"meaning_en": "to get up",
+		"furigana": "おきる",
+		"meaning_ko": ["일어나다", "일어서다"]
+	},
+	{
+		"word": "さあ",
+		"meaning_en": "well…",
+		"furigana": "",
+		"meaning_ko": ["자, 자…"]
+	},
+	{
+		"word": "あそこ",
+		"meaning_en": "over there",
+		"furigana": "",
+		"meaning_ko": ["저편"]
+	},
+	{
+		"word": "古い",
+		"meaning_en": "old (not used for people)",
+		"furigana": "ふるい",
+		"meaning_ko": ["오래된", "오래됨"]
+	},
+	{
+		"word": "黄色い",
+		"meaning_en": "yellow",
+		"furigana": "きいろい",
+		"meaning_ko": ["노란", "노란색"]
+	},
+	{
+		"word": "まだ",
+		"meaning_en": "yet, still",
+		"furigana": "",
+		"meaning_ko": ["아직", "아직"]
+	},
+	{
+		"word": "歌う",
+		"meaning_en": "to sing",
+		"furigana": "うたう",
+		"meaning_ko": ["노래하다", "노래함"]
+	},
+	{
+		"word": "飴",
+		"meaning_en": "candy",
+		"furigana": "あめ",
+		"meaning_ko": ["젤리"]
+	},
+	{
+		"word": "寝る",
+		"meaning_en": "to go to bed, to sleep",
+		"furigana": "ねる",
+		"meaning_ko": ["잠들다", "잠듦"]
+	},
+	{
+		"word": "それ",
+		"meaning_en": "that",
+		"furigana": "",
+		"meaning_ko": ["그것"]
+	},
+	{
+		"word": "質問",
+		"meaning_en": "question",
+		"furigana": "しつもん",
+		"meaning_ko": ["질문"]
+	},
+	{
+		"word": "どなた",
+		"meaning_en": "who",
+		"furigana": "",
+		"meaning_ko": ["누구"]
+	},
+	{
+		"word": "牛乳",
+		"meaning_en": "milk",
+		"furigana": "ぎゅうにゅう",
+		"meaning_ko": ["우유"]
+	},
+	{
+		"word": "二",
+		"meaning_en": "two",
+		"furigana": "に",
+		"meaning_ko": ["두"]
+	},
+	{
+		"word": "紅茶",
+		"meaning_en": "black tea",
+		"furigana": "こうちゃ",
+		"meaning_ko": ["홍차"]
+	},
+	{
+		"word": "そちら",
+		"meaning_en": "over there",
+		"furigana": "",
+		"meaning_ko": ["저편"]
+	},
+	{
+		"word": "出かける",
+		"meaning_en": "to go out",
+		"furigana": "でかける",
+		"meaning_ko": ["외출하다", "외출함"]
+	},
+	{
+		"word": "兄",
+		"meaning_en": "(humble) older brother",
+		"furigana": "あに",
+		"meaning_ko": ["오빠"]
+	},
+	{
+		"word": "留学生",
+		"meaning_en": "overseas student",
+		"furigana": "りゅうがくせい",
+		"meaning_ko": ["해외 학생"]
+	},
+	{
+		"word": "月曜日",
+		"meaning_en": "Monday",
+		"furigana": "げつようび",
+		"meaning_ko": ["월요일"]
+	},
+	{
+		"word": "締める",
+		"meaning_en": "to tie",
+		"furigana": "しめる",
+		"meaning_ko": ["묶다", "묶음"]
+	},
+	{
+		"word": "熱い",
+		"meaning_en": "hot to the touch",
+		"furigana": "あつい",
+		"meaning_ko": ["따뜻한", "따뜻함"]
+	},
+	{
+		"word": "郵便局",
+		"meaning_en": "post office",
+		"furigana": "ゆうびんきょく",
+		"meaning_ko": ["우체국"]
+	},
+	{
+		"word": "細い",
+		"meaning_en": "thin",
+		"furigana": "ほそい",
+		"meaning_ko": ["얇은", "얇다"]
+	},
+	{
+		"word": "六つ",
+		"meaning_en": "six",
+		"furigana": "むっつ",
+		"meaning_ko": ["여섯 가지"]
+	},
+	{
+		"word": "本棚",
+		"meaning_en": "bookshelves",
+		"furigana": "ほんだな",
+		"meaning_ko": ["책장"]
+	},
+	{
+		"word": "結構",
+		"meaning_en": "splendid, enough",
+		"furigana": "けっこう",
+		"meaning_ko": ["멋진", "충분함"]
+	},
+	{
+		"word": "こちら",
+		"meaning_en": "this person or way",
+		"furigana": "",
+		"meaning_ko": ["이 사람이나 방법"]
+	},
+	{
+		"word": "昨夜",
+		"meaning_en": "last night",
+		"furigana": "ゆうべ",
+		"meaning_ko": ["어제 밤"]
+	},
+	{
+		"word": "外国人",
+		"meaning_en": "foreigner",
+		"furigana": "がいこくじん",
+		"meaning_ko": ["외국인"]
+	},
+	{
+		"word": "絵",
+		"meaning_en": "picture",
+		"furigana": "え",
+		"meaning_ko": ["그림"]
+	},
+	{
+		"word": "使う",
+		"meaning_en": "to use",
+		"furigana": "つかう",
+		"meaning_ko": ["사용하다", "사용함"]
+	},
+	{
+		"word": "休む",
+		"meaning_en": "to rest",
+		"furigana": "やすむ",
+		"meaning_ko": ["쉬다", "쉼"]
+	},
+	{
+		"word": "テスト",
+		"meaning_en": "test",
+		"furigana": "",
+		"meaning_ko": ["시험"]
+	},
+	{
+		"word": "貼る",
+		"meaning_en": "to stick",
+		"furigana": "はる",
+		"meaning_ko": ["붙이다", "붙임"]
+	},
+	{
+		"word": "たばこ",
+		"meaning_en": "tobacco, cigarettes",
+		"furigana": "",
+		"meaning_ko": ["담배"]
+	},
+	{
+		"word": "涼しい",
+		"meaning_en": "refreshing",
+		"furigana": "すずしい",
+		"meaning_ko": ["시원한", "시원함"]
+	},
+	{
+		"word": "昨日",
+		"meaning_en": "yesterday",
+		"furigana": "きのう",
+		"meaning_ko": ["어제"]
+	},
+	{
+		"word": "せっけん",
+		"meaning_en": "economy",
+		"furigana": "",
+		"meaning_ko": ["경제"]
+	},
+	{
+		"word": "初め / 始め",
+		"meaning_en": "beginning",
+		"furigana": "はじめ",
+		"meaning_ko": ["처음", "시작"]
+	}
 ]

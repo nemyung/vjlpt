@@ -318,12 +318,6 @@
 		"meaning_ko": ["저쪽", "저기"]
 	},
 	{
-		"word": "彼方此方",
-		"meaning_en": "here and there",
-		"furigana": "あちらこちら",
-		"meaning_ko": ["여기저기"]
-	},
-	{
 		"word": "悪化",
 		"meaning_en": "deterioration, growing worse, aggravation, degeneration, corruption",
 		"furigana": "あっか",
@@ -3979,6 +3973,7 @@
 	},
 	{
 		"word": "がっしり",
+		"furigana": "",
 		"meaning_en": "firmly, solidly, tough",
 		"meaning_ko": ["튼튼하게", "견고하게"]
 	},
@@ -3990,6 +3985,7 @@
 	},
 	{
 		"word": "がっちり",
+		"furigana": "",
 		"meaning_en": "solidly built, tightly, shrewd, calculating",
 		"meaning_ko": ["단단히", "야무지게"]
 	},
@@ -4010,12 +4006,6 @@
 		"furigana": "がる",
 		"meaning_en": "feel",
 		"meaning_ko": ["하고 싶어 하다"]
-	},
-	{
-		"word": "側",
-		"furigana": "がわ",
-		"meaning_en": "side, row, surroundings, part, (watch) case",
-		"meaning_ko": ["쪽", "측면"]
 	},
 	{
 		"word": "癌",
@@ -5297,6 +5287,7 @@
 	},
 	{
 		"word": "ぐっと",
+		"furigana": "",
 		"meaning_en": "firmly, fast, much, more",
 		"meaning_ko": ["꿀꺽", "훨씬"]
 	},
@@ -5740,6 +5731,7 @@
 	},
 	{
 		"word": "げっそり",
+		"furigana": "",
 		"meaning_en": "being disheartened, losing weight",
 		"meaning_ko": ["홀쭉하게", "갑자기 기운이 빠져"]
 	},

@@ -4056,12 +4056,6 @@
 		"meaning_ko": ["습기"]
 	},
 	{
-		"word": "湿気",
-		"meaning_en": "moisture,humidity,dampness",
-		"furigana": "しっき",
-		"meaning_ko": ["습기"]
-	},
-	{
 		"word": "しつこい",
 		"meaning_en": "insistent,obstinate",
 		"furigana": "しつこい",
@@ -4196,7 +4190,7 @@
 	{
 		"word": "しみじみ",
 		"meaning_en": "keenly,deeply,heartily",
-		"furigana": "しみじみ",
+		"furigana": "",
 		"meaning_ko": ["절실히", "곰곰이"]
 	},
 	{
@@ -6287,7 +6281,6 @@
 		"furigana": "ちめい",
 		"meaning_ko": ["지명"]
 	},
-
 	{
 		"word": "茶色い",
 		"meaning_en": "",
@@ -7315,12 +7308,6 @@
 		"meaning_ko": ["뛰다", "날다"]
 	},
 	{
-		"word": "留まる",
-		"meaning_en": "(1) to be fixed,(2) to abide,to stay (in the one place)",
-		"furigana": "とまる",
-		"meaning_ko": ["멈추다", "머무르다"]
-	},
-	{
 		"word": "泊める",
 		"meaning_en": "to give shelter to,to lodge",
 		"furigana": "とめる",
@@ -7865,12 +7852,6 @@
 		"meaning_en": "to appear (in print),to be recorded",
 		"furigana": "のる",
 		"meaning_ko": ["실리다", "게재되다"]
-	},
-	{
-		"word": "鈍い",
-		"meaning_en": "dull (e.g. a knife),thickheaded,slow (opposite of fast),stupid",
-		"furigana": "のろい",
-		"meaning_ko": ["느리다", "둔하다"]
 	},
 	{
 		"word": "のろのろ",
@@ -10141,12 +10122,6 @@
 		"meaning_ko": ["모노레일"]
 	},
 	{
-		"word": "紅葉",
-		"meaning_en": "(1) (Japanese) maple",
-		"furigana": "もみじ",
-		"meaning_ko": ["단풍"]
-	},
-	{
 		"word": "揉む",
 		"meaning_en": "to rub,to crumple (up),to wrinkle",
 		"furigana": "もむ",
@@ -10872,7 +10847,6 @@
 		"furigana": "ワンピース",
 		"meaning_ko": ["원피스"]
 	},
-
 	{
 		"word": "公団",
 		"meaning_en": "public corporation",
@@ -11384,12 +11358,6 @@
 		"meaning_ko": ["달력", "역법"]
 	},
 	{
-		"word": "堪える",
-		"meaning_en": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t",
-		"furigana": "こらえる",
-		"meaning_ko": ["참다", "견디다"]
-	},
-	{
 		"word": "孤立",
 		"meaning_en": "isolation, helplessness",
 		"furigana": "こりつ",
@@ -11514,12 +11482,6 @@
 		"meaning_en": "consultation, conference",
 		"furigana": "ごうぎ",
 		"meaning_ko": ["합의"]
-	},
-	{
-		"word": "強気",
-		"meaning_en": "great, grand",
-		"furigana": "ごうぎ",
-		"meaning_ko": ["대단함", "강세"]
 	},
 	{
 		"word": "合成",
@@ -11796,12 +11758,6 @@
 		"meaning_en": "to go back, to go upstream, to make retroactive",
 		"furigana": "さかのぼる",
 		"meaning_ko": ["거슬러 올라가다", "소급하다"]
-	},
-	{
-		"word": "盛る",
-		"meaning_en": "to prosper, to flourish, to copulate (animals)",
-		"furigana": "さかる",
-		"meaning_ko": ["번성하다", "한창이다"]
 	},
 	{
 		"word": "差額",
@@ -12639,6 +12595,7 @@
 	},
 	{
 		"word": "しなやか",
+		"furigana": "",
 		"meaning_ko": ["유연하다", "나긋나긋하다"],
 		"meaning_en": "supple, flexible, elastic"
 	},
@@ -12698,6 +12655,7 @@
 	},
 	{
 		"word": "しぶとい",
+		"furigana": "",
 		"meaning_ko": ["끈질기다", "강인하다"],
 		"meaning_en": "tenacious, stubborn"
 	},
@@ -12736,11 +12694,6 @@
 		"furigana": "しまつ",
 		"meaning_ko": ["시말", "처리", "결말"],
 		"meaning_en": "management, dealing, settlement, cleaning up afterwards"
-	},
-	{
-		"word": "しみじみ",
-		"meaning_ko": ["절실히", "곰곰이"],
-		"meaning_en": "keenly, deeply, heartily"
 	},
 	{
 		"word": "染みる",
@@ -12801,12 +12754,6 @@
 		"furigana": "しゃめん",
 		"meaning_ko": ["사면", "비탈"],
 		"meaning_en": "slope, slanting surface, bevel"
-	},
-	{
-		"word": "洒落",
-		"furigana": "しゃらく",
-		"meaning_ko": ["솔직함", "재치 있음"],
-		"meaning_en": "frank, open-hearted"
 	},
 	{
 		"word": "洒落る",
@@ -13127,12 +13074,6 @@
 		"meaning_en": "various, many, several"
 	},
 	{
-		"word": "背負う",
-		"furigana": "しょう",
-		"meaning_ko": ["짊어지다", "등에 메다"],
-		"meaning_en": "to be burdened with, to carry on back or shoulder"
-	},
-	{
 		"word": "象",
 		"furigana": "しょう",
 		"meaning_ko": ["코끼리", "상 (현상)"],
@@ -13179,12 +13120,6 @@
 		"furigana": "しょうこ",
 		"meaning_ko": ["증거"],
 		"meaning_en": "evidence, proof"
-	},
-	{
-		"word": "消耗",
-		"furigana": "しょうこう",
-		"meaning_ko": ["소모"],
-		"meaning_en": "exhaustion, consumption"
 	},
 	{
 		"word": "照合",
@@ -13295,12 +13230,6 @@
 		"meaning_en": "whereabouts"
 	},
 	{
-		"word": "所々",
-		"furigana": "しょしょ",
-		"meaning_ko": ["곳곳", "여기저기"],
-		"meaning_en": "here and there, some parts (of something)"
-	},
-	{
 		"word": "所持",
 		"furigana": "しょじ",
 		"meaning_ko": ["소지"],
@@ -13320,6 +13249,7 @@
 	},
 	{
 		"word": "しょっちゅう",
+		"furigana": "",
 		"meaning_ko": ["늘", "언제나"],
 		"meaning_en": "always, constantly"
 	},
@@ -13400,18 +13330,6 @@
 		"furigana": "しりあい",
 		"meaning_ko": ["아는 사람", "지인"],
 		"meaning_en": "acquaintance"
-	},
-	{
-		"word": "退く",
-		"furigana": "しりぞく",
-		"meaning_ko": ["물러나다", "사임하다"],
-		"meaning_en": "to retreat, to recede, to withdraw"
-	},
-	{
-		"word": "退ける",
-		"furigana": "しりぞける",
-		"meaning_ko": ["물리치다", "퇴거시키다"],
-		"meaning_en": "to repel, to drive away"
 	},
 	{
 		"word": "記す",
@@ -13787,6 +13705,7 @@
 	},
 	{
 		"word": "じっくり",
+		"furigana": "",
 		"meaning_ko": ["차분히", "곰곰이"],
 		"meaning_en": "deliberately, carefully"
 	},
@@ -14356,6 +14275,7 @@
 	},
 	{
 		"word": "すばしこい",
+		"furigana": "",
 		"meaning_ko": ["재빠르다", "날렵하다"],
 		"meaning_en": "nimble, smart, quick"
 	},
@@ -14390,22 +14310,10 @@
 		"meaning_en": "sorry, excuse me"
 	},
 	{
-		"word": "天皇",
-		"furigana": "すめらぎ",
-		"meaning_ko": ["천황"],
-		"meaning_en": "Emperor of Japan"
-	},
-	{
 		"word": "刷り",
 		"furigana": "すり",
 		"meaning_ko": ["인쇄"],
 		"meaning_en": "printing"
-	},
-	{
-		"word": "剃る",
-		"furigana": "する",
-		"meaning_ko": ["면도하다", "깎다"],
-		"meaning_en": "to shave"
 	},
 	{
 		"word": "擦れ違い",
@@ -14427,6 +14335,7 @@
 	},
 	{
 		"word": "すんなり",
+		"furigana": "",
 		"meaning_ko": ["술술", "매끄럽게"],
 		"meaning_en": "pass with no objection, slim, slender"
 	},
@@ -14438,6 +14347,7 @@
 	},
 	{
 		"word": "ずばり",
+		"furigana": "",
 		"meaning_ko": ["딱", "정확히"],
 		"meaning_en": "decisively, decidedly, once and for all, unreservedly, frankly"
 	},
@@ -14449,16 +14359,19 @@
 	},
 	{
 		"word": "ずらっと",
+		"furigana": "",
 		"meaning_ko": ["줄줄이", "죽 늘어서"],
 		"meaning_en": "in a line, in a row"
 	},
 	{
 		"word": "ずるずる",
+		"furigana": "",
 		"meaning_ko": ["질질", "주르륵"],
 		"meaning_en": "sound or act of dragging, loose, inconclusive but unwanted situation, trailingly"
 	},
 	{
 		"word": "ずれ",
+		"furigana": "",
 		"meaning_ko": ["어긋남", "차이"],
 		"meaning_en": "gap, slippage"
 	},
@@ -15502,6 +15415,7 @@
 	},
 	{
 		"word": "ぞんざい",
+		"furigana": "",
 		"meaning_ko": ["무례함", "함부로 함"],
 		"meaning_en": "rude, careless, slovenly"
 	},
@@ -15684,12 +15598,6 @@
 		"furigana": "たえる",
 		"meaning_ko": ["끊어지다", "사라지다"],
 		"meaning_en": "to die out, to peter out, to become extinct"
-	},
-	{
-		"word": "堪える",
-		"furigana": "たえる",
-		"meaning_ko": ["견디다", "참다"],
-		"meaning_en": "to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t"
 	},
 	{
 		"word": "高",
@@ -16136,12 +16044,6 @@
 		"meaning_en": "compromise, giving in"
 	},
 	{
-		"word": "丈",
-		"furigana": "だけ",
-		"meaning_ko": ["만큼", "뿐"],
-		"meaning_en": "only, just, as"
-	},
-	{
 		"word": "妥結",
 		"furigana": "だけつ",
 		"meaning_ko": ["타결"],
@@ -16179,6 +16081,7 @@
 	},
 	{
 		"word": "だぶだぶ",
+		"furigana": "",
 		"meaning_ko": ["헐렁헐렁"],
 		"meaning_en": "loose, baggy"
 	},
@@ -16190,6 +16093,7 @@
 	},
 	{
 		"word": "だらけ",
+		"furigana": "",
 		"meaning_ko": ["투성이"],
 		"meaning_en": "implying (negatively) that something is full of e.g. mistakes"
 	},
@@ -16302,12 +16206,6 @@
 		"meaning_en": "milk, breast, loop"
 	},
 	{
-		"word": "父母",
-		"furigana": "ちちはは",
-		"meaning_ko": ["부모"],
-		"meaning_en": "father and mother, parents"
-	},
-	{
 		"word": "縮まる",
 		"furigana": "ちぢまる",
 		"meaning_ko": ["줄어들다", "단축되다"],
@@ -16399,6 +16297,7 @@
 	},
 	{
 		"word": "ちやほや",
+		"furigana": "",
 		"meaning_ko": ["둥기둥기", "떠받들다"],
 		"meaning_en": "pamper, make a fuss of, spoil"
 	},
@@ -16425,12 +16324,6 @@
 		"furigana": "ちゅうこく",
 		"meaning_ko": ["충고"],
 		"meaning_en": "advice, warning"
-	},
-	{
-		"word": "中指",
-		"furigana": "ちゅうし",
-		"meaning_ko": ["가운뎃손가락"],
-		"meaning_en": "middle finger"
 	},
 	{
 		"word": "中傷",
@@ -16608,6 +16501,7 @@
 	},
 	{
 		"word": "ちょくちょく",
+		"furigana": "",
 		"meaning_ko": ["자주", "때때로"],
 		"meaning_en": "often, frequently, now and then, occasionally"
 	},
@@ -16649,6 +16543,7 @@
 	},
 	{
 		"word": "ちらっと",
+		"furigana": "",
 		"meaning_ko": ["언뜻", "힐끗"],
 		"meaning_en": "at a glance, by accident"
 	},
@@ -16893,12 +16788,6 @@
 		"meaning_en": "pipe, tube"
 	},
 	{
-		"word": "突く",
-		"furigana": "つつく",
-		"meaning_ko": ["찌르다", "건드리다"],
-		"meaning_en": "1. to thrust, to strike, to attack, 2. to poke, to nudge, to pick at"
-	},
-	{
 		"word": "慎む",
 		"furigana": "つつしむ",
 		"meaning_ko": ["삼가다", "조심하다"],
@@ -16908,12 +16797,6 @@
 		"word": "伝言",
 		"furigana": "つてこと",
 		"meaning_ko": ["전언", "말 전하기"],
-		"meaning_en": "verbal message, rumor, word"
-	},
-	{
-		"word": "伝言",
-		"furigana": "でんごん",
-		"meaning_ko": ["전언"],
 		"meaning_en": "verbal message, rumor, word"
 	},
 	{
@@ -17103,12 +16986,6 @@
 		"meaning_en": "decency, style, form, appearance, show, get-up, format"
 	},
 	{
-		"word": "梯子",
-		"furigana": "ていし",
-		"meaning_ko": ["사다리"],
-		"meaning_en": "ladder, stairs"
-	},
-	{
 		"word": "定食",
 		"furigana": "ていしょく",
 		"meaning_ko": ["정식"],
@@ -17179,13 +17056,6 @@
 		"furigana": "てがる",
 		"meaning_ko": ["간단함", "손쉬움"],
 		"meaning_en": "easy, simple, informal, offhand, cheap"
-	},
-
-	{
-		"word": "手軽",
-		"meaning_en": "easy, simple, informal, offhand, cheap",
-		"furigana": "てがる",
-		"meaning_ko": ["간단함", "손쉬움"]
 	},
 	{
 		"word": "的",
@@ -18125,6 +17995,7 @@
 	},
 	{
 		"word": "とんだ",
+		"furigana": "",
 		"meaning_ko": ["뜻밖의", "엉뚱한"],
 		"meaning_en": "terrible, awful, serious, preposterous, absolutely not"
 	},
@@ -18244,6 +18115,7 @@
 	},
 	{
 		"word": "どうにか",
+		"furigana": "",
 		"meaning_ko": ["어떻게든", "간신히"],
 		"meaning_en": "in some way or other, one way or another"
 	},
@@ -18267,6 +18139,7 @@
 	},
 	{
 		"word": "どうやら",
+		"furigana": "",
 		"meaning_ko": ["아무래도", "어쩐지"],
 		"meaning_en": "it seems like, somehow or other"
 	},
@@ -18347,12 +18220,6 @@
 		"furigana": "どて",
 		"meaning_ko": ["둑", "제방"],
 		"meaning_en": "embankment, bank"
-	},
-	{
-		"word": "何方",
-		"furigana": "どなた",
-		"meaning_ko": ["누구 (존칭)"],
-		"meaning_en": "who?"
 	},
 	{
 		"word": "怒鳴る",
@@ -19943,12 +19810,6 @@
 		"meaning_en": "to disseminate, to scatter, to give money freely",
 		"furigana": "ばらまく",
 		"meaning_ko": ["뿌리다", "살포하다"]
-	},
-	{
-		"word": "判",
-		"meaning_en": "size (of paper or books)",
-		"furigana": "ばん",
-		"meaning_ko": ["판 (크기)", "번호"]
 	},
 	{
 		"word": "万",
@@ -21650,6 +21511,7 @@
 	},
 	{
 		"word": "ぼつぼつ",
+		"furigana": "",
 		"meaning_ko": ["슬슬", "드문드문"],
 		"meaning_en": "gradually, here and there, spots, pimples"
 	},
@@ -21661,11 +21523,13 @@
 	},
 	{
 		"word": "ぼやく",
+		"furigana": "",
 		"meaning_ko": ["투덜거리다", "불평하다"],
 		"meaning_en": "to grumble, to complain"
 	},
 	{
 		"word": "ぼやける",
+		"furigana": "",
 		"meaning_ko": ["흐려지다", "뿌옇게 되다"],
 		"meaning_en": "to become dim, to become blurred"
 	},
@@ -21916,12 +21780,6 @@
 		"meaning_ko": ["두 동강이"]
 	},
 	{
-		"word": "的",
-		"meaning_en": "mark, target",
-		"furigana": "まと",
-		"meaning_ko": ["과녁", "목표"]
-	},
-	{
 		"word": "纏まり",
 		"meaning_en": "conclusion, settlement, consistency",
 		"furigana": "まとまり",
@@ -22082,12 +21940,6 @@
 		"meaning_en": "to (happen to) see, to notice, to catch sight of",
 		"furigana": "みかける",
 		"meaning_ko": ["우연히 보다", "눈에 띄다"]
-	},
-	{
-		"word": "三日月",
-		"meaning_en": "new moon, crescent moon",
-		"furigana": "みかづき",
-		"meaning_ko": ["초승달"]
 	},
 	{
 		"word": "見方",
@@ -22918,12 +22770,6 @@
 		"meaning_ko": ["이윽고", "곧"]
 	},
 	{
-		"word": "夜行",
-		"meaning_en": "walking around at night, night train, night travel",
-		"furigana": "やぎょう",
-		"meaning_ko": ["야행", "밤에 다님"]
-	},
-	{
 		"word": "役職",
 		"meaning_en": "post, managerial position, official position",
 		"furigana": "やくしょく",
@@ -23225,6 +23071,7 @@
 	},
 	{
 		"word": "ゆとり",
+		"furigana": "",
 		"meaning_ko": ["여유"],
 		"meaning_en": "reserve, affluence, room, time (to spare)"
 	},
@@ -23330,7 +23177,6 @@
 		"meaning_ko": ["양성"],
 		"meaning_en": "training, development"
 	},
-
 	{
 		"word": "様相",
 		"meaning_en": "aspect",
@@ -23984,12 +23830,6 @@
 		"meaning_en": "division (math)",
 		"furigana": "わりざん",
 		"meaning_ko": ["나눗셈"]
-	},
-	{
-		"word": "割引",
-		"meaning_en": "discount, reduction, rebate",
-		"furigana": "わりびき",
-		"meaning_ko": ["할인"]
 	},
 	{
 		"word": "悪者",
