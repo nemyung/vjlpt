@@ -1,57 +1,54 @@
 {
-  "id": "0880e97d-7ff4-4924-b0a9-902ac268c30d",
+  "id": "daa4c49d-37b4-4f91-b829-c52d40d0eadd",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
-    "public.chunk_meanings": {
-      "name": "chunk_meanings",
+    "public.expressions": {
+      "name": "expressions",
       "schema": "",
       "columns": {
         "id": {
           "name": "id",
-          "type": "integer",
+          "type": "char(26)",
           "primaryKey": true,
+          "notNull": true
+        },
+        "time_created": {
+          "name": "time_created",
+          "type": "timestamp",
+          "primaryKey": false,
           "notNull": true,
-          "identity": {
-            "type": "always",
-            "name": "chunk_meanings_id_seq",
-            "schema": "public",
-            "increment": "1",
-            "startWith": "1",
-            "minValue": "1",
-            "maxValue": "2147483647",
-            "cache": "1",
-            "cycle": false
-          }
+          "default": "now()"
         },
-        "chunkId": {
-          "name": "chunkId",
-          "type": "integer",
+        "time_updated": {
+          "name": "time_updated",
+          "type": "timestamp",
           "primaryKey": false,
-          "notNull": true
+          "notNull": true,
+          "default": "now()"
         },
-        "lang": {
-          "name": "lang",
+        "expression": {
+          "name": "expression",
           "type": "text",
           "primaryKey": false,
           "notNull": true
         },
-        "meaning": {
-          "name": "meaning",
-          "type": "text",
+        "level_id": {
+          "name": "level_id",
+          "type": "char(26)",
           "primaryKey": false,
           "notNull": true
         }
       },
       "indexes": {},
       "foreignKeys": {
-        "chunk_meanings_chunkId_chunks_id_fk": {
-          "name": "chunk_meanings_chunkId_chunks_id_fk",
-          "tableFrom": "chunk_meanings",
-          "tableTo": "chunks",
+        "expressions_level_id_levels_id_fk": {
+          "name": "expressions_level_id_levels_id_fk",
+          "tableFrom": "expressions",
+          "tableTo": "levels",
           "columnsFrom": [
-            "chunkId"
+            "level_id"
           ],
           "columnsTo": [
             "id"
@@ -62,76 +59,6 @@
       },
       "compositePrimaryKeys": {},
       "uniqueConstraints": {},
-      "policies": {},
-      "checkConstraints": {},
-      "isRLSEnabled": false
-    },
-    "public.chunks": {
-      "name": "chunks",
-      "schema": "",
-      "columns": {
-        "id": {
-          "name": "id",
-          "type": "integer",
-          "primaryKey": true,
-          "notNull": true,
-          "identity": {
-            "type": "always",
-            "name": "chunks_id_seq",
-            "schema": "public",
-            "increment": "1",
-            "startWith": "1",
-            "minValue": "1",
-            "maxValue": "2147483647",
-            "cache": "1",
-            "cycle": false
-          }
-        },
-        "expression": {
-          "name": "expression",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "levelId": {
-          "name": "levelId",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "furigana": {
-          "name": "furigana",
-          "type": "text",
-          "primaryKey": false,
-          "notNull": false
-        }
-      },
-      "indexes": {},
-      "foreignKeys": {
-        "chunks_levelId_levels_id_fk": {
-          "name": "chunks_levelId_levels_id_fk",
-          "tableFrom": "chunks",
-          "tableTo": "levels",
-          "columnsFrom": [
-            "levelId"
-          ],
-          "columnsTo": [
-            "id"
-          ],
-          "onDelete": "cascade",
-          "onUpdate": "cascade"
-        }
-      },
-      "compositePrimaryKeys": {},
-      "uniqueConstraints": {
-        "chunks_expression_unique": {
-          "name": "chunks_expression_unique",
-          "nullsNotDistinct": false,
-          "columns": [
-            "expression"
-          ]
-        }
-      },
       "policies": {},
       "checkConstraints": {},
       "isRLSEnabled": false
@@ -155,61 +82,185 @@
       "checkConstraints": {},
       "isRLSEnabled": false
     },
-    "public.session_chunk_statuses": {
-      "name": "session_chunk_statuses",
+    "public.meanings": {
+      "name": "meanings",
       "schema": "",
       "columns": {
         "id": {
           "name": "id",
-          "type": "integer",
+          "type": "char(26)",
           "primaryKey": true,
-          "notNull": true,
-          "identity": {
-            "type": "always",
-            "name": "session_chunk_statuses_id_seq",
-            "schema": "public",
-            "increment": "1",
-            "startWith": "1",
-            "minValue": "1",
-            "maxValue": "2147483647",
-            "cache": "1",
-            "cycle": false
-          }
-        },
-        "sessionId": {
-          "name": "sessionId",
-          "type": "integer",
-          "primaryKey": false,
           "notNull": true
         },
-        "chunkId": {
-          "name": "chunkId",
-          "type": "integer",
-          "primaryKey": false,
-          "notNull": true
-        },
-        "createdAt": {
-          "name": "createdAt",
+        "time_created": {
+          "name": "time_created",
           "type": "timestamp",
           "primaryKey": false,
           "notNull": true,
           "default": "now()"
         },
-        "knownAt": {
-          "name": "knownAt",
+        "time_updated": {
+          "name": "time_updated",
           "type": "timestamp",
           "primaryKey": false,
-          "notNull": false
+          "notNull": true,
+          "default": "now()"
+        },
+        "reading_id": {
+          "name": "reading_id",
+          "type": "char(26)",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "meaning": {
+          "name": "meaning",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true
         }
       },
       "indexes": {},
       "foreignKeys": {
-        "session_chunk_statuses_sessionId_sessions_id_fk": {
-          "name": "session_chunk_statuses_sessionId_sessions_id_fk",
-          "tableFrom": "session_chunk_statuses",
+        "meanings_reading_id_readings_id_fk": {
+          "name": "meanings_reading_id_readings_id_fk",
+          "tableFrom": "meanings",
+          "tableTo": "readings",
+          "columnsFrom": [
+            "reading_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "cascade"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {},
+      "policies": {},
+      "checkConstraints": {},
+      "isRLSEnabled": false
+    },
+    "public.readings": {
+      "name": "readings",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "char(26)",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "time_created": {
+          "name": "time_created",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        },
+        "time_updated": {
+          "name": "time_updated",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        },
+        "expression_id": {
+          "name": "expression_id",
+          "type": "char(26)",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "furigana": {
+          "name": "furigana",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {
+        "readings_expression_id_expressions_id_fk": {
+          "name": "readings_expression_id_expressions_id_fk",
+          "tableFrom": "readings",
+          "tableTo": "expressions",
+          "columnsFrom": [
+            "expression_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "cascade"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {
+        "expression_furigana_unq": {
+          "name": "expression_furigana_unq",
+          "nullsNotDistinct": false,
+          "columns": [
+            "expression_id",
+            "furigana"
+          ]
+        }
+      },
+      "policies": {},
+      "checkConstraints": {},
+      "isRLSEnabled": false
+    },
+    "public.session_reading_statuses": {
+      "name": "session_reading_statuses",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "char(26)",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "time_created": {
+          "name": "time_created",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        },
+        "time_updated": {
+          "name": "time_updated",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        },
+        "session_id": {
+          "name": "session_id",
+          "type": "char(26)",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "reading_id": {
+          "name": "reading_id",
+          "type": "char(26)",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "known_at": {
+          "name": "known_at",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {
+        "session_reading_statuses_session_id_sessions_id_fk": {
+          "name": "session_reading_statuses_session_id_sessions_id_fk",
+          "tableFrom": "session_reading_statuses",
           "tableTo": "sessions",
           "columnsFrom": [
-            "sessionId"
+            "session_id"
           ],
           "columnsTo": [
             "id"
@@ -217,12 +268,12 @@
           "onDelete": "cascade",
           "onUpdate": "no action"
         },
-        "session_chunk_statuses_chunkId_chunks_id_fk": {
-          "name": "session_chunk_statuses_chunkId_chunks_id_fk",
-          "tableFrom": "session_chunk_statuses",
-          "tableTo": "chunks",
+        "session_reading_statuses_reading_id_readings_id_fk": {
+          "name": "session_reading_statuses_reading_id_readings_id_fk",
+          "tableFrom": "session_reading_statuses",
+          "tableTo": "readings",
           "columnsFrom": [
-            "chunkId"
+            "reading_id"
           ],
           "columnsTo": [
             "id"
@@ -243,36 +294,32 @@
       "columns": {
         "id": {
           "name": "id",
-          "type": "integer",
+          "type": "char(26)",
           "primaryKey": true,
-          "notNull": true,
-          "identity": {
-            "type": "always",
-            "name": "sessions_id_seq",
-            "schema": "public",
-            "increment": "1",
-            "startWith": "1",
-            "minValue": "1",
-            "maxValue": "2147483647",
-            "cache": "1",
-            "cycle": false
-          }
-        },
-        "levelId": {
-          "name": "levelId",
-          "type": "text",
-          "primaryKey": false,
           "notNull": true
         },
-        "startedAt": {
-          "name": "startedAt",
+        "time_created": {
+          "name": "time_created",
           "type": "timestamp",
           "primaryKey": false,
           "notNull": true,
           "default": "now()"
         },
-        "endedAt": {
-          "name": "endedAt",
+        "time_updated": {
+          "name": "time_updated",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        },
+        "level_id": {
+          "name": "level_id",
+          "type": "char(26)",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "ended_at": {
+          "name": "ended_at",
           "type": "timestamp",
           "primaryKey": false,
           "notNull": false
@@ -280,12 +327,12 @@
       },
       "indexes": {},
       "foreignKeys": {
-        "sessions_levelId_levels_id_fk": {
-          "name": "sessions_levelId_levels_id_fk",
+        "sessions_level_id_levels_id_fk": {
+          "name": "sessions_level_id_levels_id_fk",
           "tableFrom": "sessions",
           "tableTo": "levels",
           "columnsFrom": [
-            "levelId"
+            "level_id"
           ],
           "columnsTo": [
             "id"

@@ -1,7 +1,17 @@
-import { integer, pgTable, text, timestamp } from "drizzle-orm/pg-core";
+import { char, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
 
-export const LANG = ["ko", "en"] as const;
-export type Lang = (typeof LANG)[number];
+export const timestamps = {
+	timeCreated: timestamp("time_created").notNull().defaultNow(),
+	timeUpdated: timestamp("time_updated").notNull().defaultNow(),
+};
+
+export const ulid = (name: string) => char(name, { length: 26 });
+
+export const id = {
+	get id() {
+		return ulid("id").primaryKey();
+	},
+};
 
 export const JLPT_LEVELS = ["N5", "N4", "N3", "N2", "N1"] as const;
 export type JLPTLevel = (typeof JLPT_LEVELS)[number];
@@ -10,50 +20,65 @@ export const levelsTable = pgTable("levels", {
 	id: text({ enum: JLPT_LEVELS }).notNull().primaryKey(),
 });
 
-export const chunksTable = pgTable("chunks", {
-	id: integer().primaryKey().generatedAlwaysAsIdentity({
-		startWith: 1,
-		minValue: 1,
-	}),
-	expression: text().notNull().unique(),
-	levelId: text({ enum: JLPT_LEVELS })
+export const expressionsTable = pgTable("expressions", {
+	...id,
+	...timestamps,
+	expression: text().notNull(),
+	levelId: ulid("level_id")
 		.notNull()
 		.references(() => levelsTable.id, {
 			onDelete: "cascade",
 			onUpdate: "cascade",
 		}),
-	furigana: text(),
 });
 
-export const chunkMeaningsTable = pgTable("chunk_meanings", {
-	id: integer().primaryKey().generatedAlwaysAsIdentity(),
-	chunkId: integer()
+export const readingsTable = pgTable(
+	"readings",
+	{
+		...id,
+		...timestamps,
+		expressionId: ulid("expression_id")
+			.notNull()
+			.references(() => expressionsTable.id, {
+				onDelete: "cascade",
+				onUpdate: "cascade",
+			}),
+		furigana: text().notNull(),
+	},
+	(table) => [
+		unique("expression_furigana_unq").on(table.expressionId, table.furigana),
+	],
+);
+
+export const meaningsTable = pgTable("meanings", {
+	...id,
+	...timestamps,
+	readingId: ulid("reading_id")
 		.notNull()
-		.references(() => chunksTable.id, {
+		.references(() => readingsTable.id, {
 			onDelete: "cascade",
 			onUpdate: "cascade",
 		}),
-	lang: text({ enum: LANG }).notNull(),
 	meaning: text().notNull(),
 });
 
 export const sessionsTable = pgTable("sessions", {
-	id: integer().primaryKey().generatedAlwaysAsIdentity(),
-	levelId: text({ enum: JLPT_LEVELS })
+	...id,
+	...timestamps,
+	levelId: ulid("level_id")
 		.notNull()
 		.references(() => levelsTable.id),
-	startedAt: timestamp().notNull().defaultNow(),
-	endedAt: timestamp(),
+	endedAt: timestamp("ended_at"),
 });
 
-export const sessionChunkStatusTable = pgTable("session_chunk_statuses", {
-	id: integer().primaryKey().generatedAlwaysAsIdentity(),
-	sessionId: integer()
+export const sessionReadingStatusTable = pgTable("session_reading_statuses", {
+	...id,
+	...timestamps,
+	sessionId: ulid("session_id")
 		.notNull()
 		.references(() => sessionsTable.id, { onDelete: "cascade" }),
-	chunkId: integer()
+	readingId: ulid("reading_id")
 		.notNull()
-		.references(() => chunksTable.id, { onDelete: "cascade" }),
-	createdAt: timestamp().notNull().defaultNow(),
-	knownAt: timestamp(),
+		.references(() => readingsTable.id, { onDelete: "cascade" }),
+	knownAt: timestamp("known_at").notNull().defaultNow(),
 });

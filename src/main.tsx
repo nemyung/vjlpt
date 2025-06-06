@@ -6,6 +6,8 @@ import ReactDOM from "react-dom/client";
 import { createDrizzle } from "./lib/db/drizzle";
 import { migrateSchema } from "./lib/db/migrate";
 
+import { DrizzleProvider } from "./lib/db/provider";
+import { seed } from "./lib/db/seed";
 import reportWebVitals from "./reportWebVitals";
 // Import the generated route tree
 import { routeTree } from "./routeTree.gen";
@@ -29,17 +31,21 @@ declare module "@tanstack/react-router" {
 	}
 }
 
-migrateSchema(db, migrations).then(() => {
-	const rootElement = document.getElementById("app");
-	if (rootElement && !rootElement.innerHTML) {
-		const root = ReactDOM.createRoot(rootElement);
-		root.render(
-			<StrictMode>
-				<RouterProvider router={router} />
-			</StrictMode>,
-		);
-	}
-}, console.error);
+migrateSchema(db, migrations)
+	.then(() => seed(db))
+	.then(() => {
+		const rootElement = document.getElementById("app");
+		if (rootElement && !rootElement.innerHTML) {
+			const root = ReactDOM.createRoot(rootElement);
+			root.render(
+				<StrictMode>
+					<DrizzleProvider db={db}>
+						<RouterProvider router={router} />
+					</DrizzleProvider>
+				</StrictMode>,
+			);
+		}
+	}, console.error);
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
