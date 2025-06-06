@@ -3,6 +3,7 @@ import s from "./hey.module.scss";
 
 export const Route = createFileRoute("/")({
 	component: App,
+	loader: async ({ context }) => {},
 });
 
 function App() {

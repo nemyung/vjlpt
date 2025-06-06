@@ -12,17 +12,18 @@ import reportWebVitals from "./reportWebVitals";
 // Import the generated route tree
 import { routeTree } from "./routeTree.gen";
 
+const db = createDrizzle(client);
 // Create a new router instance
 const router = createRouter({
 	routeTree,
-	context: {},
+	context: {
+		db,
+	},
 	defaultPreload: "intent",
 	scrollRestoration: true,
 	defaultStructuralSharing: true,
 	defaultPreloadStaleTime: 0,
 });
-
-const db = createDrizzle(client);
 
 // Register the router instance for type safety
 declare module "@tanstack/react-router" {
