@@ -1,0 +1,32 @@
+.layout {
+  height: 100%;
+}
+
+.inner {
+  padding: 0 d(16);
+}
+
+.title {
+  margin-top: calc($header_height + d(10));
+  font-size: d(32);
+  font-weight: 700;
+  color: $gray-1000;
+  letter-spacing: -0.02em;
+}
+
+.levels {
+  margin-top: d(24);
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: d(16);
+}
+
+.levelItem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $gray-1000;
+  height: d(96);
+  border-radius: d(16);
+  font-size: d(24);
+}

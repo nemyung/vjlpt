@@ -3,3 +3,5 @@
 @function d($u) {
   @return calc(#{$u} / var.$dimension1 * 100vw);
 }
+
+$header_height: d(60);
