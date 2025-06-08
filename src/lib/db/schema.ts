@@ -1,3 +1,4 @@
+import { relations } from "drizzle-orm";
 import {
 	char,
 	integer,
@@ -27,22 +28,6 @@ export const levelsTable = pgTable("levels", {
 	id: text({ enum: JLPT_LEVELS }).notNull().primaryKey(),
 });
 
-export const stagesTable = pgTable(
-	"stages",
-	{
-		...id,
-		...timestamps,
-		levelId: text({ enum: JLPT_LEVELS })
-			.notNull()
-			.references(() => levelsTable.id, {
-				onDelete: "cascade",
-				onUpdate: "cascade",
-			}),
-		order: integer("order").notNull(),
-	},
-	(table) => [unique("level_order_unq").on(table.levelId, table.order)],
-);
-
 export const expressionsTable = pgTable("expressions", {
 	...id,
 	...timestamps,
@@ -60,9 +45,9 @@ export const readingsTable = pgTable(
 				onDelete: "cascade",
 				onUpdate: "cascade",
 			}),
-		stageId: ulid("stage_id")
+		levelId: text({ enum: JLPT_LEVELS })
 			.notNull()
-			.references(() => stagesTable.id, {
+			.references(() => levelsTable.id, {
 				onDelete: "cascade",
 				onUpdate: "cascade",
 			}),
@@ -88,10 +73,13 @@ export const meaningsTable = pgTable("meanings", {
 export const sessionsTable = pgTable("sessions", {
 	...id,
 	...timestamps,
-	stageId: ulid("stage_id")
+	levelId: text({ enum: JLPT_LEVELS })
 		.notNull()
-		.references(() => stagesTable.id),
-	endedAt: timestamp("ended_at"),
+		.references(() => levelsTable.id, {
+			onDelete: "cascade",
+			onUpdate: "cascade",
+		}),
+	finishedAt: timestamp("finished_at"),
 });
 
 export const sessionReadingInteractionsTable = pgTable(

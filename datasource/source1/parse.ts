@@ -36,38 +36,12 @@ const data = [
 const baseTimestamp = new Date("2025-06-07T03:00:00.000Z").getTime();
 
 for (const [levelIndex, { elements, level }] of data.entries()) {
-	// Stage generation
-	const WORDS_PER_STAGE = 50;
-	const numStages = Math.ceil(elements.length / WORDS_PER_STAGE);
-
-	const levelStages: { id: string; levelId: string; order: number }[] = [];
-
-	for (let i = 0; i < numStages; i++) {
-		const order = i + 1;
-		const seedTime = baseTimestamp + levelIndex * 1000 + order;
-		levelStages.push({
-			id: ulid(seedTime),
-			levelId: level,
-			order,
-		});
-	}
-
-	const stagesPath = path.join(
-		import.meta.dirname,
-		`stages-${level.toLowerCase()}.json`,
-	);
-
-	fs.writeFileSync(stagesPath, JSON.stringify(levelStages, null, 2));
-
 	const tobePath = path.join(
 		import.meta.dirname,
 		`data-${level.toLowerCase()}.json`,
 	);
 
 	const nextElements = elements.map((element, elementIndex) => {
-		const stageIndex = Math.floor(elementIndex / WORDS_PER_STAGE);
-		const stageId = levelStages[stageIndex].id;
-
 		const nextExpression = {
 			id: ulid(baseTimestamp + levelIndex * 1_000_000 + elementIndex * 16),
 			expression: element.word,
@@ -75,7 +49,6 @@ for (const [levelIndex, { elements, level }] of data.entries()) {
 
 		const nextReading = {
 			id: ulid(baseTimestamp + levelIndex * 1_000_000 + elementIndex * 32),
-			stageId,
 			expressionId: nextExpression.id,
 			furigana: element.furigana,
 		};

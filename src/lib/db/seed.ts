@@ -6,7 +6,6 @@ import {
 	levelsTable,
 	meaningsTable,
 	readingsTable,
-	stagesTable,
 } from "./schema";
 
 type ParsedElement = {
@@ -16,7 +15,6 @@ type ParsedElement = {
 	};
 	reading: {
 		id: string;
-		stageId: string;
 		expressionId: string;
 		furigana: string;
 	};
@@ -27,22 +25,13 @@ type ParsedElement = {
 	}[];
 };
 
-type Stage = {
-	id: string;
-	levelId: JLPTLevel;
-	order: number;
-};
-
 const fetchDataForLevel = async (level: JLPTLevel) => {
 	const lowerLevel = level.toLowerCase();
 
 	const dataRes = await fetch(`/data-${lowerLevel}.json`);
 	const series: ParsedElement[] = await dataRes.json();
 
-	const stagesRes = await fetch(`/stages-${lowerLevel}.json`);
-	const stages: Stage[] = await stagesRes.json();
-
-	return { series, stages };
+	return { series };
 };
 
 const HashByLevel = {
@@ -91,15 +80,17 @@ export async function seedByLevel(db: db, level: JLPTLevel) {
 		return;
 	}
 
-	const { series, stages } = await fetchDataForLevel(level);
+	const { series } = await fetchDataForLevel(level);
 
 	await db.transaction(async (tx) => {
-		if (stages.length > 0) {
-			await tx.insert(stagesTable).values(stages).onConflictDoNothing();
-		}
-
 		const expressions = series.map((item) => item.expression);
-		const readings = series.map((item) => item.reading);
+
+		const readings = series
+			.flatMap((item) => item.reading)
+			.map((v) => ({
+				...v,
+				levelId: level,
+			}));
 		const meanings = series.flatMap((item) => item.meanings);
 
 		if (expressions.length > 0) {

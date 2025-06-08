@@ -1,6 +1,6 @@
 {
-  "id": "194da63c-c462-46a5-b36a-1e346d97786f",
-  "prevId": "00000000-0000-0000-0000-000000000000",
+  "id": "5ec8a5f4-ccb9-4337-a099-a09d91f219d0",
+  "prevId": "194da63c-c462-46a5-b36a-1e346d97786f",
   "version": "7",
   "dialect": "postgresql",
   "tables": {
@@ -313,6 +313,12 @@
         "levelId": {
           "name": "levelId",
           "type": "text",
+          "primaryKey": false,
+          "notNull": false
+        },
+        "finished_at": {
+          "name": "finished_at",
+          "type": "timestamp",
           "primaryKey": false,
           "notNull": false
         }
