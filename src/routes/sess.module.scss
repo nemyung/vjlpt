@@ -44,7 +44,7 @@ $body_height: calc(
   inset: 0;
   background: $gray-1000;
   border-radius: 6px;
-  transform: translateX(calc(var(--current-progress) * 100% - 100%));
+  transform: translateX(calc(var(--current-progress, 0) * 100% - 100%));
   transition: transform 0.3s ease-out;
 }
 
@@ -71,6 +71,13 @@ $body_height: calc(
   justify-content: space-between;
   align-items: center;
   padding: 0 d(16);
+  opacity: 1;
+  transition: opacity 0.3s ease-out;
+
+  &[data-is-empty="true"] {
+    opacity: 0;
+    pointer-events: none;
+  }
 }
 
 .actionCTA {
@@ -90,5 +97,44 @@ $body_height: calc(
   }
   &.next {
     color: $green-700;
+  }
+}
+
+.empty {
+  background: $background-100;
+  margin: 0 d(16);
+  height: 100%;
+  border: 1px solid $gray-400;
+  border-radius: d(16);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  .currentProgressSummary {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: d(8);
+    font-size: d(20);
+  }
+
+  .ctaRow {
+    width: 100%;
+    margin-top: d(40);
+    display: flex;
+    justify-content: space-around;
+
+    .cta {
+      min-width: d(120);
+      height: d(48);
+      border-radius: d(16);
+      border: none;
+      font-size: d(20);
+      padding: d(8) d(12);
+      background-color: $gray-1000;
+      color: $background-100;
+    }
   }
 }

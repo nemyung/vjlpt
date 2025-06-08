@@ -1,6 +1,8 @@
 import FlashCard from "@/components/flash-card";
+import type { db } from "@/lib/db/drizzle";
 import { useDrizzle } from "@/lib/db/provider";
 import {
+	type JLPTLevel,
 	expressionsTable,
 	meaningsTable,
 	readingsTable,
@@ -19,8 +21,45 @@ import { useRef, useState, useTransition } from "react";
 import { ulid } from "ulid";
 import styles from "./sess.module.scss";
 
+async function query(
+	db: db,
+	levelId: JLPTLevel,
+	sessionId: string,
+	limit = 10,
+) {
+	return await db
+		.select({
+			...getTableColumns(readingsTable),
+			expression: expressionsTable.expression,
+			meanings: sql<string[]>`json_agg(${meaningsTable.meaning})`,
+		})
+		.from(readingsTable)
+		.innerJoin(
+			expressionsTable,
+			eq(readingsTable.expressionId, expressionsTable.id),
+		)
+		.innerJoin(meaningsTable, eq(readingsTable.id, meaningsTable.readingId))
+		.groupBy(readingsTable.id, expressionsTable.expression)
+		.orderBy(sql`random()`)
+		.limit(limit)
+		.where(
+			and(
+				eq(readingsTable.levelId, levelId),
+				notInArray(
+					readingsTable.id,
+					db
+						.select({ readingId: sessionReadingInteractionsTable.readingId })
+						.from(sessionReadingInteractionsTable)
+						.where(eq(sessionReadingInteractionsTable.sessionId, sessionId)),
+				),
+			),
+		);
+}
+
 export const Route = createFileRoute("/$sess")({
 	component: RouteComponent,
+	staleTime: 0,
+	gcTime: 0,
 	loader: async ({ context: { db }, params }) => {
 		const session = await db.query.sessionsTable.findFirst({
 			where: eq(sessionsTable.id, params.sess),
@@ -28,109 +67,119 @@ export const Route = createFileRoute("/$sess")({
 		if (session === undefined) {
 			throw new Error("The session is not found");
 		}
-
 		const levelId = session.levelId;
-
-		return await db
-			.select({
-				...getTableColumns(readingsTable),
-				expression: expressionsTable.expression,
-				meanings: sql<string[]>`json_agg(${meaningsTable.meaning})`,
-			})
-			.from(readingsTable)
-			.innerJoin(
-				expressionsTable,
-				eq(readingsTable.expressionId, expressionsTable.id),
-			)
-			.innerJoin(meaningsTable, eq(readingsTable.id, meaningsTable.readingId))
-			.groupBy(readingsTable.id, expressionsTable.expression)
-			.orderBy(sql`random()`)
-			.where(
-				and(
-					eq(readingsTable.levelId, levelId),
-					notInArray(
-						readingsTable.id,
-						db
-							.select({ readingId: sessionReadingInteractionsTable.readingId })
-							.from(sessionReadingInteractionsTable)
-							.where(
-								eq(sessionReadingInteractionsTable.sessionId, params.sess),
-							),
-					),
-				),
-			);
+		return { flashcards: await query(db, levelId, params.sess), levelId };
 	},
 });
 
+type FlashCardWithInteractionStatus = Awaited<
+	ReturnType<typeof query>
+>[number] & {
+	interactionStatus?: "unknown" | "known";
+};
+
 function RouteComponent() {
+	const db = useDrizzle();
+
+	const params = Route.useParams();
+	const { flashcards: initialFlashCards, levelId } = Route.useLoaderData();
 	const router = useRouter();
 	const canGoBack = useCanGoBack();
-	const flashcards = Route.useLoaderData();
-	console.log(flashcards.length);
-	const params = Route.useParams();
-	const db = useDrizzle();
+
+	const [flashcards, setFlashcards] =
+		useState<FlashCardWithInteractionStatus[]>(initialFlashCards);
 	const [currentIndex, setCurrentIndex] = useState(0);
 	const [isPending, startTransition] = useTransition();
-	const currentCardRef = useRef<HTMLDivElement>(null);
 
+	const progressFillRef = useRef<HTMLDivElement>(null);
+	const currentCardRef = useRef<HTMLDivElement>(null);
 	const totalCards = flashcards.length;
 
-	const goToNext = (direction: "left" | "right") => {
-		if (currentIndex < totalCards - 1 && !isPending) {
-			startTransition(async () => {
-				const currentCardElement = currentCardRef.current;
-
-				if (currentCardElement) {
-					// 애니메이션 설정
-					const translateX = direction === "left" ? "-120%" : "120%";
-					const rotate = direction === "left" ? "-15deg" : "15deg";
-
-					// Web Animations API 사용
-					const animation = currentCardElement.animate(
-						[
-							{
-								transform: "translateX(0) rotate(0deg)",
-								opacity: "1",
-							},
-							{
-								transform: `translateX(${translateX}) rotate(${rotate})`,
-								opacity: "0",
-							},
-						],
-						{
-							duration: 300,
-							easing: "ease-out",
-							fill: "forwards",
-						},
-					);
-
-					// 애니메이션 완료까지 대기
-					await Promise.all([
-						animation.finished,
-						db.insert(sessionReadingInteractionsTable).values({
-							id: ulid(),
-							sessionId: params.sess,
-							readingId: flashcards[currentIndex].id,
-							status: direction === "left" ? "unknown" : "known",
-						}),
-					]);
-
-					// 상태 업데이트
-					setCurrentIndex(currentIndex + 1);
-				}
-			});
-		}
+	const fetchNextFlashCards = async () => {
+		startTransition(async () => {
+			setFlashcards(await query(db, levelId, params.sess));
+			setCurrentIndex(0);
+			progressFillRef.current?.style.setProperty("--current-progress", "0");
+		});
 	};
 
-	// 완료된 경우
-	if (totalCards === 0) {
-		return null;
-	}
+	const goToNext = (direction: "left" | "right") => {
+		if (isPending) {
+			return;
+		}
+		if (currentIndex >= totalCards) {
+			return;
+		}
 
-	// 마지막 카드까지 완료한 경우
-	if (currentIndex >= totalCards) {
-		return null;
-	}
+		const currentCardElement = currentCardRef.current;
+		const progressFillElement = progressFillRef.current;
+		if (currentCardElement === null || progressFillElement === null) {
+			return;
+		}
+		const status = direction === "left" ? "unknown" : "known";
+
+		startTransition(async () => {
+			const nextIndex = currentIndex + 1;
+			const translateX = direction === "left" ? "-120%" : "120%";
+			const rotate = direction === "left" ? "-15deg" : "15deg";
+			const cardAnimation = currentCardElement.animate(
+				[
+					{
+						transform: "translateX(0) rotate(0deg)",
+						opacity: "1",
+					},
+					{
+						transform: `translateX(${translateX}) rotate(${rotate})`,
+						opacity: "0",
+					},
+				],
+				{
+					duration: 300,
+					easing: "ease-out",
+					fill: "forwards",
+				},
+			);
+
+			await Promise.all([
+				Promise.resolve().then(() => {
+					progressFillElement.style.setProperty(
+						"--current-progress",
+						(nextIndex / totalCards).toString(),
+					);
+				}),
+				cardAnimation.finished,
+				db
+					.insert(sessionReadingInteractionsTable)
+					.values({
+						id: ulid(),
+						sessionId: params.sess,
+						readingId: flashcards[currentIndex].id,
+						status,
+					})
+					.onConflictDoUpdate({
+						target: [
+							sessionReadingInteractionsTable.sessionId,
+							sessionReadingInteractionsTable.readingId,
+						],
+						set: {
+							status,
+						},
+					}),
+			]);
+
+			setFlashcards((prev) => {
+				const newFlashcards = prev.slice();
+				newFlashcards[currentIndex] = {
+					...newFlashcards[currentIndex],
+					interactionStatus: status,
+				};
+				return newFlashcards;
+			});
+			setCurrentIndex(nextIndex);
+		});
+	};
+
+	const relativeFlashcards = flashcards.slice(currentIndex, currentIndex + 3);
 
 	return (
 		<div className={styles.container}>
@@ -147,19 +196,13 @@ function RouteComponent() {
 
 				<div className={styles.progressSection}>
 					<div className={styles.progressBarBackground}>
-						<div
-							className={styles.progressBarFill}
-							style={{
-								["--current-progress" as string]: currentIndex / totalCards,
-							}}
-						/>
+						<div ref={progressFillRef} className={styles.progressBarFill} />
 					</div>
 				</div>
 			</header>
 			<div className={styles.contentContainer}>
-				{flashcards
-					.slice(currentIndex, currentIndex + 3)
-					.map((flashCard, relativeIndex) => {
+				{relativeFlashcards.length > 0 ? (
+					relativeFlashcards.map((flashCard, relativeIndex) => {
 						return (
 							<div
 								key={flashCard.id}
@@ -172,25 +215,79 @@ function RouteComponent() {
 								<FlashCard {...flashCard} />
 							</div>
 						);
-					})}
+					})
+				) : (
+					<div className={styles.empty}>
+						<div className={styles.currentProgressSummary}>
+							<p>이번 학습을 모두 마쳤습니다</p>
+							<p>총 {totalCards}개의 카드를 학습했어요.</p>
+							<p>
+								그중{" "}
+								<b>
+									{
+										flashcards.filter(
+											(card) => card.interactionStatus === "known",
+										).length
+									}
+									개
+								</b>
+								를 안다고 체크했고,
+								<br />
+								<b>
+									{
+										flashcards.filter(
+											(card) => card.interactionStatus === "unknown",
+										).length
+									}
+									개
+								</b>
+								를 모른다고 체크했어요.
+							</p>
+						</div>
+
+						<div className={styles.ctaRow}>
+							<button
+								type="button"
+								className={styles.cta}
+								onClick={() => {
+									if (canGoBack) {
+										router.history.back();
+									} else {
+										router.navigate({ to: "/" });
+									}
+								}}
+							>
+								그만하기
+							</button>
+							<button
+								type="button"
+								className={styles.cta}
+								onClick={fetchNextFlashCards}
+							>
+								계속 학습하기
+							</button>
+						</div>
+					</div>
+				)}
 			</div>
 
-			<div className={styles.actionRow}>
+			<div
+				className={styles.actionRow}
+				data-is-empty={relativeFlashcards.length === 0}
+			>
 				<button
 					type="button"
 					onClick={() => {
-						// TODO: "몰라요" 상태를 서버에 저장
 						goToNext("left");
 					}}
 					className={clsx(styles.actionCTA, styles.study)}
-					disabled={isPending}
+					disabled={isPending || relativeFlashcards.length === 0}
 				>
 					<X />
 				</button>
 				<button
 					type="button"
 					onClick={() => {
-						// TODO: "공부할래요" 상태를 서버에 저장
 						goToNext("right");
 					}}
 					className={clsx(styles.actionCTA, styles.next)}
