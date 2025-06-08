@@ -1,0 +1,16 @@
+.back {
+  border: none;
+  width: d(32);
+  height: d(32);
+  border-radius: 9999px;
+  background: none;
+  position: absolute;
+  top: calc(var(--padding-y) / 2);
+  left: var(--padding-x);
+}
+
+.icon {
+  width: d(24);
+  height: d(24);
+  color: $gray-1000;
+}

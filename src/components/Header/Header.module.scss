@@ -1,0 +1,19 @@
+.outer {
+  --padding-x: 12px;
+  --padding-y: 8px;
+  padding: var(--padding-y) var(--padding-x);
+  height: $header_height;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+
+  background-color: $background-100;
+  border-bottom: 1px solid $gray-400;
+}
+
+.title {
+  font-size: d(20);
+  line-height: 1;
+}
