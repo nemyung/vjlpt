@@ -1,3 +1,6 @@
+/**
+ * @todo The UI when the query returns no flashcards, meaning that there are no more flashcards to learn on this session.
+ */
 import FlashCard from "@/components/flash-card";
 import type { db } from "@/lib/db/drizzle";
 import { useDrizzle } from "@/lib/db/provider";
