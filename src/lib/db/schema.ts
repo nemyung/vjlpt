@@ -87,4 +87,7 @@ export const sessionReadingInteractionsTable = pgTable(
 			.references(() => readingsTable.id, { onDelete: "cascade" }),
 		status: text({ enum: ["known", "unknown"] }).notNull(),
 	},
+	(table) => [
+		unique("session_reading_unq").on(table.sessionId, table.readingId),
+	],
 );
