@@ -1,12 +1,4 @@
-import { relations } from "drizzle-orm";
-import {
-	char,
-	integer,
-	pgTable,
-	text,
-	timestamp,
-	unique,
-} from "drizzle-orm/pg-core";
+import { char, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
 
 export const timestamps = {
 	timeCreated: timestamp("time_created").notNull().defaultNow(),

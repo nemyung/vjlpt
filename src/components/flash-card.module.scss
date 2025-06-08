@@ -1,0 +1,47 @@
+.outer {
+  position: relative;
+  height: 100%;
+  background: $background-100;
+  border-radius: 12px;
+  border: 1px solid #f3f4f6;
+  padding: d(32) d(40);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hintButton {
+  border: none;
+  position: absolute;
+  top: d(16);
+  right: d(16);
+  background: none;
+  cursor: pointer;
+}
+
+.expressionWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: d(16);
+}
+
+.expression {
+  font-size: d(48);
+  font-weight: 700;
+  line-height: 1;
+  transition: opacity 0.1s ease-out;
+}
+
+.furigana {
+  font-size: d(16);
+  font-weight: 400;
+  line-height: 1;
+}
+
+.meaning {
+  font-size: d(24);
+  font-weight: 500;
+  line-height: 1.5;
+  transition: opacity 0.1s ease-out;
+}

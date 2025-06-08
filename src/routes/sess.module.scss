@@ -1,0 +1,94 @@
+$action_row_inset: d(60);
+$action_row_height: d(52);
+$body_height: calc(
+  100% - $action_row_inset - $action_row_height - $header_height
+);
+
+.container {
+  height: 100%;
+  background-color: $background-200;
+}
+
+.header {
+  height: $header_height;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 d(16);
+}
+
+.closeButton {
+  border: none;
+  width: d(32);
+  height: d(32);
+  background: none;
+}
+
+.progressSection {
+  flex-grow: 1;
+  max-width: 50%;
+  position: relative;
+  height: d(12);
+}
+
+.progressBarBackground {
+  position: absolute;
+  inset: 0;
+  background: $gray-300;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.progressBarFill {
+  position: absolute;
+  inset: 0;
+  background: $gray-1000;
+  border-radius: 6px;
+  transform: translateX(calc(var(--current-progress) * 100% - 100%));
+  transition: transform 0.3s ease-out;
+}
+
+// 중앙 컨테이너
+.contentContainer {
+  height: calc($body_height - d(32));
+  position: relative;
+  overflow: hidden;
+}
+
+.cardWrapper {
+  position: absolute;
+  inset: 0;
+  margin: 0 d(20);
+}
+
+.actionRow {
+  position: fixed;
+  bottom: $action_row_inset;
+  height: $action_row_height;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 d(16);
+}
+
+.actionCTA {
+  width: d(48);
+  height: d(48);
+  border-radius: 50%;
+  background-color: $background-100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: $gray-100;
+  border: none;
+  box-shadow: 0 0 0 1px $gray-400;
+
+  &.study {
+    color: $red-800;
+  }
+  &.next {
+    color: $green-700;
+  }
+}
