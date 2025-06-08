@@ -1,5 +1,5 @@
 {
-  "id": "daa4c49d-37b4-4f91-b829-c52d40d0eadd",
+  "id": "b8f8c2e9-5653-4be2-a4b0-130986f492d2",
   "prevId": "00000000-0000-0000-0000-000000000000",
   "version": "7",
   "dialect": "postgresql",
@@ -33,30 +33,10 @@
           "type": "text",
           "primaryKey": false,
           "notNull": true
-        },
-        "level_id": {
-          "name": "level_id",
-          "type": "char(26)",
-          "primaryKey": false,
-          "notNull": true
         }
       },
       "indexes": {},
-      "foreignKeys": {
-        "expressions_level_id_levels_id_fk": {
-          "name": "expressions_level_id_levels_id_fk",
-          "tableFrom": "expressions",
-          "tableTo": "levels",
-          "columnsFrom": [
-            "level_id"
-          ],
-          "columnsTo": [
-            "id"
-          ],
-          "onDelete": "cascade",
-          "onUpdate": "cascade"
-        }
-      },
+      "foreignKeys": {},
       "compositePrimaryKeys": {},
       "uniqueConstraints": {},
       "policies": {},
@@ -171,6 +151,12 @@
           "primaryKey": false,
           "notNull": true
         },
+        "stage_id": {
+          "name": "stage_id",
+          "type": "char(26)",
+          "primaryKey": false,
+          "notNull": true
+        },
         "furigana": {
           "name": "furigana",
           "type": "text",
@@ -186,6 +172,19 @@
           "tableTo": "expressions",
           "columnsFrom": [
             "expression_id"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "cascade"
+        },
+        "readings_stage_id_stages_id_fk": {
+          "name": "readings_stage_id_stages_id_fk",
+          "tableFrom": "readings",
+          "tableTo": "stages",
+          "columnsFrom": [
+            "stage_id"
           ],
           "columnsTo": [
             "id"
@@ -209,8 +208,8 @@
       "checkConstraints": {},
       "isRLSEnabled": false
     },
-    "public.session_reading_statuses": {
-      "name": "session_reading_statuses",
+    "public.session_reading_interactions": {
+      "name": "session_reading_interactions",
       "schema": "",
       "columns": {
         "id": {
@@ -245,19 +244,18 @@
           "primaryKey": false,
           "notNull": true
         },
-        "known_at": {
-          "name": "known_at",
-          "type": "timestamp",
+        "status": {
+          "name": "status",
+          "type": "text",
           "primaryKey": false,
-          "notNull": true,
-          "default": "now()"
+          "notNull": true
         }
       },
       "indexes": {},
       "foreignKeys": {
-        "session_reading_statuses_session_id_sessions_id_fk": {
-          "name": "session_reading_statuses_session_id_sessions_id_fk",
-          "tableFrom": "session_reading_statuses",
+        "session_reading_interactions_session_id_sessions_id_fk": {
+          "name": "session_reading_interactions_session_id_sessions_id_fk",
+          "tableFrom": "session_reading_interactions",
           "tableTo": "sessions",
           "columnsFrom": [
             "session_id"
@@ -268,9 +266,9 @@
           "onDelete": "cascade",
           "onUpdate": "no action"
         },
-        "session_reading_statuses_reading_id_readings_id_fk": {
-          "name": "session_reading_statuses_reading_id_readings_id_fk",
-          "tableFrom": "session_reading_statuses",
+        "session_reading_interactions_reading_id_readings_id_fk": {
+          "name": "session_reading_interactions_reading_id_readings_id_fk",
+          "tableFrom": "session_reading_interactions",
           "tableTo": "readings",
           "columnsFrom": [
             "reading_id"
@@ -312,8 +310,8 @@
           "notNull": true,
           "default": "now()"
         },
-        "level_id": {
-          "name": "level_id",
+        "stage_id": {
+          "name": "stage_id",
           "type": "char(26)",
           "primaryKey": false,
           "notNull": true
@@ -327,12 +325,12 @@
       },
       "indexes": {},
       "foreignKeys": {
-        "sessions_level_id_levels_id_fk": {
-          "name": "sessions_level_id_levels_id_fk",
+        "sessions_stage_id_stages_id_fk": {
+          "name": "sessions_stage_id_stages_id_fk",
           "tableFrom": "sessions",
-          "tableTo": "levels",
+          "tableTo": "stages",
           "columnsFrom": [
-            "level_id"
+            "stage_id"
           ],
           "columnsTo": [
             "id"
@@ -343,6 +341,74 @@
       },
       "compositePrimaryKeys": {},
       "uniqueConstraints": {},
+      "policies": {},
+      "checkConstraints": {},
+      "isRLSEnabled": false
+    },
+    "public.stages": {
+      "name": "stages",
+      "schema": "",
+      "columns": {
+        "id": {
+          "name": "id",
+          "type": "char(26)",
+          "primaryKey": true,
+          "notNull": true
+        },
+        "time_created": {
+          "name": "time_created",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        },
+        "time_updated": {
+          "name": "time_updated",
+          "type": "timestamp",
+          "primaryKey": false,
+          "notNull": true,
+          "default": "now()"
+        },
+        "levelId": {
+          "name": "levelId",
+          "type": "text",
+          "primaryKey": false,
+          "notNull": true
+        },
+        "order": {
+          "name": "order",
+          "type": "integer",
+          "primaryKey": false,
+          "notNull": true
+        }
+      },
+      "indexes": {},
+      "foreignKeys": {
+        "stages_levelId_levels_id_fk": {
+          "name": "stages_levelId_levels_id_fk",
+          "tableFrom": "stages",
+          "tableTo": "levels",
+          "columnsFrom": [
+            "levelId"
+          ],
+          "columnsTo": [
+            "id"
+          ],
+          "onDelete": "cascade",
+          "onUpdate": "cascade"
+        }
+      },
+      "compositePrimaryKeys": {},
+      "uniqueConstraints": {
+        "level_order_unq": {
+          "name": "level_order_unq",
+          "nullsNotDistinct": false,
+          "columns": [
+            "levelId",
+            "order"
+          ]
+        }
+      },
       "policies": {},
       "checkConstraints": {},
       "isRLSEnabled": false

@@ -1,4 +1,11 @@
-import { char, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
+import {
+	char,
+	integer,
+	pgTable,
+	text,
+	timestamp,
+	unique,
+} from "drizzle-orm/pg-core";
 
 export const timestamps = {
 	timeCreated: timestamp("time_created").notNull().defaultNow(),
@@ -20,16 +27,26 @@ export const levelsTable = pgTable("levels", {
 	id: text({ enum: JLPT_LEVELS }).notNull().primaryKey(),
 });
 
+export const stagesTable = pgTable(
+	"stages",
+	{
+		...id,
+		...timestamps,
+		levelId: text({ enum: JLPT_LEVELS })
+			.notNull()
+			.references(() => levelsTable.id, {
+				onDelete: "cascade",
+				onUpdate: "cascade",
+			}),
+		order: integer("order").notNull(),
+	},
+	(table) => [unique("level_order_unq").on(table.levelId, table.order)],
+);
+
 export const expressionsTable = pgTable("expressions", {
 	...id,
 	...timestamps,
 	expression: text().notNull(),
-	levelId: ulid("level_id")
-		.notNull()
-		.references(() => levelsTable.id, {
-			onDelete: "cascade",
-			onUpdate: "cascade",
-		}),
 });
 
 export const readingsTable = pgTable(
@@ -40,6 +57,12 @@ export const readingsTable = pgTable(
 		expressionId: ulid("expression_id")
 			.notNull()
 			.references(() => expressionsTable.id, {
+				onDelete: "cascade",
+				onUpdate: "cascade",
+			}),
+		stageId: ulid("stage_id")
+			.notNull()
+			.references(() => stagesTable.id, {
 				onDelete: "cascade",
 				onUpdate: "cascade",
 			}),
@@ -65,20 +88,23 @@ export const meaningsTable = pgTable("meanings", {
 export const sessionsTable = pgTable("sessions", {
 	...id,
 	...timestamps,
-	levelId: ulid("level_id")
+	stageId: ulid("stage_id")
 		.notNull()
-		.references(() => levelsTable.id),
+		.references(() => stagesTable.id),
 	endedAt: timestamp("ended_at"),
 });
 
-export const sessionReadingStatusTable = pgTable("session_reading_statuses", {
-	...id,
-	...timestamps,
-	sessionId: ulid("session_id")
-		.notNull()
-		.references(() => sessionsTable.id, { onDelete: "cascade" }),
-	readingId: ulid("reading_id")
-		.notNull()
-		.references(() => readingsTable.id, { onDelete: "cascade" }),
-	knownAt: timestamp("known_at").notNull().defaultNow(),
-});
+export const sessionReadingInteractionsTable = pgTable(
+	"session_reading_interactions",
+	{
+		...id,
+		...timestamps,
+		sessionId: ulid("session_id")
+			.notNull()
+			.references(() => sessionsTable.id, { onDelete: "cascade" }),
+		readingId: ulid("reading_id")
+			.notNull()
+			.references(() => readingsTable.id, { onDelete: "cascade" }),
+		status: text({ enum: ["known", "unknown"] }).notNull(),
+	},
+);

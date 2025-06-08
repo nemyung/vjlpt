@@ -1,4 +1,3 @@
-import { ulid } from "ulid";
 import type { db, tx } from "./drizzle";
 import {
 	type JLPTLevel,
@@ -7,20 +6,43 @@ import {
 	levelsTable,
 	meaningsTable,
 	readingsTable,
+	stagesTable,
 } from "./schema";
 
-type DataSourceElement = {
-	id: string;
-	word: string;
-	meaning_en: string;
-	furigana: string;
-	meaning_ko: string[];
+type ParsedElement = {
+	expression: {
+		id: string;
+		expression: string;
+	};
+	reading: {
+		id: string;
+		stageId: string;
+		expressionId: string;
+		furigana: string;
+	};
+	meanings: {
+		id: string;
+		readingId: string;
+		meaning: string;
+	}[];
 };
 
-const fetchJson = async (level: JLPTLevel) => {
-	const r = await fetch(`/${level.toLowerCase()}.json`);
-	const element: DataSourceElement[] = await r.json();
-	return element;
+type Stage = {
+	id: string;
+	levelId: JLPTLevel;
+	order: number;
+};
+
+const fetchDataForLevel = async (level: JLPTLevel) => {
+	const lowerLevel = level.toLowerCase();
+
+	const dataRes = await fetch(`/data-${lowerLevel}.json`);
+	const series: ParsedElement[] = await dataRes.json();
+
+	const stagesRes = await fetch(`/stages-${lowerLevel}.json`);
+	const stages: Stage[] = await stagesRes.json();
+
+	return { series, stages };
 };
 
 const HashByLevel = {
@@ -68,34 +90,17 @@ export async function seedByLevel(db: db, level: JLPTLevel) {
 	if (seed === HashByLevel[level]) {
 		return;
 	}
-	const series = await fetchJson(level);
+
+	const { series, stages } = await fetchDataForLevel(level);
 
 	await db.transaction(async (tx) => {
-		const expressions = series.map((item) => ({
-			id: item.id,
-			expression: item.word,
-			levelId: level,
-		}));
-
-		const readings: (typeof readingsTable.$inferInsert)[] = [];
-		const meanings: (typeof meaningsTable.$inferInsert)[] = [];
-
-		for (const item of series) {
-			const readingId = ulid();
-			readings.push({
-				id: readingId,
-				expressionId: item.id,
-				furigana: item.furigana,
-			});
-
-			for (const meaning of item.meaning_ko) {
-				meanings.push({
-					id: ulid(),
-					readingId: readingId,
-					meaning: meaning,
-				});
-			}
+		if (stages.length > 0) {
+			await tx.insert(stagesTable).values(stages).onConflictDoNothing();
 		}
+
+		const expressions = series.map((item) => item.expression);
+		const readings = series.map((item) => item.reading);
+		const meanings = series.flatMap((item) => item.meanings);
 
 		if (expressions.length > 0) {
 			await tx

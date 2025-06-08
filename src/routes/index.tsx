@@ -1,8 +1,8 @@
 import { useDrizzle } from "@/lib/db/provider";
 import {
 	type JLPTLevel,
-	expressionsTable,
 	JLPT_LEVELS as levels,
+	stagesTable,
 } from "@/lib/db/schema";
 import { seedByLevel } from "@/lib/db/seed";
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
@@ -16,8 +16,8 @@ export const Route = createFileRoute("/")({
 			levels.map((level) => {
 				return db
 					.select({ count: count() })
-					.from(expressionsTable)
-					.where(eq(expressionsTable.levelId, level));
+					.from(stagesTable)
+					.where(eq(stagesTable.levelId, level));
 			}),
 		);
 
