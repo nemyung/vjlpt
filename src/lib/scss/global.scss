@@ -14,6 +14,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   background-color: $background-100;
+  font-family: $font-default;
 }
 
 html,
@@ -63,4 +64,58 @@ h6 {
 #app {
   isolation: isolate;
   height: 100%;
+}
+
+@keyframes slide-out-right {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes slide-in-right {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+html:active-view-transition-type(slide-right) {
+  &::view-transition-old(main-content) {
+    animation: 125ms ease-out both slide-out-right;
+  }
+  &::view-transition-new(main-content) {
+    animation: 125ms ease-out both slide-in-right;
+  }
+}
+
+@keyframes slide-out-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes slide-in-left {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+html:active-view-transition-type(slide-left) {
+  &::view-transition-old(main-content) {
+    animation: 125ms ease-out both slide-out-left;
+  }
+  &::view-transition-new(main-content) {
+    animation: 125ms ease-out both slide-in-left;
+  }
 }

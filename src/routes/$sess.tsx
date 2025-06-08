@@ -12,11 +12,7 @@ import {
 	sessionReadingInteractionsTable,
 	sessionsTable,
 } from "@/lib/db/schema";
-import {
-	createFileRoute,
-	useCanGoBack,
-	useRouter,
-} from "@tanstack/react-router";
+import { createFileRoute, useRouter } from "@tanstack/react-router";
 import clsx from "clsx";
 import { and, eq, getTableColumns, notInArray, sql } from "drizzle-orm";
 import { Check, ChevronLeft, X } from "lucide-react";
@@ -87,7 +83,16 @@ function RouteComponent() {
 	const params = Route.useParams();
 	const { flashcards: initialFlashCards, levelId } = Route.useLoaderData();
 	const router = useRouter();
-	const canGoBack = useCanGoBack();
+
+	const goBack = () => {
+		router.navigate({
+			to: "/",
+			replace: true,
+			viewTransition: {
+				types: ["slide-right"],
+			},
+		});
+	};
 
 	const [flashcards, setFlashcards] =
 		useState<FlashCardWithInteractionStatus[]>(initialFlashCards);
@@ -187,15 +192,9 @@ function RouteComponent() {
 	return (
 		<div className={styles.container}>
 			<header className={styles.header}>
-				{canGoBack && (
-					<button
-						type="button"
-						className={styles.closeButton}
-						onClick={() => router.history.back()}
-					>
-						<ChevronLeft />
-					</button>
-				)}
+				<button type="button" className={styles.closeButton} onClick={goBack}>
+					<ChevronLeft />
+				</button>
 
 				<div className={styles.progressSection}>
 					<div className={styles.progressBarBackground}>
@@ -249,17 +248,7 @@ function RouteComponent() {
 						</div>
 
 						<div className={styles.ctaRow}>
-							<button
-								type="button"
-								className={styles.cta}
-								onClick={() => {
-									if (canGoBack) {
-										router.history.back();
-									} else {
-										router.navigate({ to: "/" });
-									}
-								}}
-							>
+							<button type="button" className={styles.cta} onClick={goBack}>
 								그만하기
 							</button>
 							<button

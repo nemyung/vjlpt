@@ -1,5 +1,7 @@
 .layout {
   height: 100%;
+  view-transition-name: main-content;
+  background-color: $background-200;
 }
 
 .inner {
@@ -7,7 +9,7 @@
 }
 
 .title {
-  margin-top: calc($header_height + d(10));
+  padding-top: d(40);
   font-size: d(32);
   font-weight: 700;
   color: $gray-1000;
@@ -22,6 +24,7 @@
 }
 
 .levelItem {
+  background-color: $background-100;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -29,4 +32,5 @@
   height: d(96);
   border-radius: d(16);
   font-size: d(24);
+  font-weight: 700;
 }

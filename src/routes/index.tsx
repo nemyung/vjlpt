@@ -45,13 +45,25 @@ function App() {
 					),
 				)
 				.limit(1);
-			navigate({ to: "/$sess", params: { sess: sessIds[0].id } });
+			navigate({
+				to: "/$sess",
+				params: { sess: sessIds[0].id },
+				viewTransition: {
+					types: ["slide-left"],
+				},
+			});
 		} else {
 			const newSession = await db
 				.insert(sessionsTable)
 				.values({ levelId: level, id: createID() })
 				.returning({ id: sessionsTable.id });
-			navigate({ to: "/$sess", params: { sess: newSession[0].id } });
+			navigate({
+				to: "/$sess",
+				params: { sess: newSession[0].id },
+				viewTransition: {
+					types: ["slide-left"],
+				},
+			});
 		}
 	};
 
