@@ -1,0 +1,7466 @@
+[
+  {
+    "expression": {
+      "id": "01JX467XE00DDD8PF93JT2F7Y1",
+      "expression": "雲"
+    },
+    "reading": {
+      "id": "01JX467XE0T30GC15DPBH86TBM",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XE00DDD8PF93JT2F7Y1",
+      "furigana": "くも"
+    },
+    "meanings": [
+      {
+        "id": "01JX467XE05SVQP5TBH54ET6MC",
+        "readingId": "01JX467XE0T30GC15DPBH86TBM",
+        "meaning": "구름"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XEG24Y84VJXX88XNS7Y",
+      "expression": "サンドイッチ"
+    },
+    "reading": {
+      "id": "01JX467XF0QYBBM2DTX5Z29MAJ",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XEG24Y84VJXX88XNS7Y",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467XG0HS464720MVQGHCF0",
+        "readingId": "01JX467XF0QYBBM2DTX5Z29MAJ",
+        "meaning": "샌드위치"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XF080Z5T01GCQK459HG",
+      "expression": "故障"
+    },
+    "reading": {
+      "id": "01JX467XG0QSBPCCVPGY4A9JZM",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XF080Z5T01GCQK459HG",
+      "furigana": "こしょう・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX467XJ065Z8ZN7M43XFND67",
+        "readingId": "01JX467XG0QSBPCCVPGY4A9JZM",
+        "meaning": "고장나다"
+      },
+      {
+        "id": "01JX467XJGN5X2MME71FQ6HS76",
+        "readingId": "01JX467XG0QSBPCCVPGY4A9JZM",
+        "meaning": "고장"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XFGYPD25FYDD59DCQ03",
+      "expression": "怖い"
+    },
+    "reading": {
+      "id": "01JX467XH0ZDQ9TZA3B5QSSADQ",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XFGYPD25FYDD59DCQ03",
+      "furigana": "こわい"
+    },
+    "meanings": [
+      {
+        "id": "01JX467XM0CM2RQ6ZHSRK4DPN4",
+        "readingId": "01JX467XH0ZDQ9TZA3B5QSSADQ",
+        "meaning": "무서운"
+      },
+      {
+        "id": "01JX467XMGYA10EGSMTVF73NKK",
+        "readingId": "01JX467XH0ZDQ9TZA3B5QSSADQ",
+        "meaning": "무섭다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XG0Q5B3C8AK29MSHH11",
+      "expression": "エスカレーター"
+    },
+    "reading": {
+      "id": "01JX467XJ00HM6S3JF0WKKQ1KQ",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XG0Q5B3C8AK29MSHH11",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467XP05MST954SNKAGDTA0",
+        "readingId": "01JX467XJ00HM6S3JF0WKKQ1KQ",
+        "meaning": "에스컬레이터"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XGG1QX8T5ATY7BNVB10",
+      "expression": "運ぶ"
+    },
+    "reading": {
+      "id": "01JX467XK0Z2CFTBSFWXFGQEKB",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XGG1QX8T5ATY7BNVB10",
+      "furigana": "はこぶ"
+    },
+    "meanings": [
+      {
+        "id": "01JX467XR0SNH5WC1MYM7BTA5H",
+        "readingId": "01JX467XK0Z2CFTBSFWXFGQEKB",
+        "meaning": "운반하다"
+      },
+      {
+        "id": "01JX467XRG85KH3ZJDMS0VTJK1",
+        "readingId": "01JX467XK0Z2CFTBSFWXFGQEKB",
+        "meaning": "옮기다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XH0YQZBD0XXJ86SWN1Y",
+      "expression": "受ける"
+    },
+    "reading": {
+      "id": "01JX467XM0FJZ5MM879T63ZN1P",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XH0YQZBD0XXJ86SWN1Y",
+      "furigana": "うける"
+    },
+    "meanings": [
+      {
+        "id": "01JX467XT0Z7NQGQ1DHNDKWA3G",
+        "readingId": "01JX467XM0FJZ5MM879T63ZN1P",
+        "meaning": "수업을 듣다"
+      },
+      {
+        "id": "01JX467XTGDFV1R00EJVQ6KJKK",
+        "readingId": "01JX467XM0FJZ5MM879T63ZN1P",
+        "meaning": "시험을 보다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XHGG37X1JN588N8J0CQ",
+      "expression": "お嬢さん"
+    },
+    "reading": {
+      "id": "01JX467XN0QVEB5QRNK0P9NM7S",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XHGG37X1JN588N8J0CQ",
+      "furigana": "おじょうさん"
+    },
+    "meanings": [
+      {
+        "id": "01JX467XW0JGVYRX8SBZADECSJ",
+        "readingId": "01JX467XN0QVEB5QRNK0P9NM7S",
+        "meaning": "아가씨"
+      },
+      {
+        "id": "01JX467XWGBWVGX537MQ77W41M",
+        "readingId": "01JX467XN0QVEB5QRNK0P9NM7S",
+        "meaning": "젊은 여성"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XJ0H0VM287ZE13SFM65",
+      "expression": "首"
+    },
+    "reading": {
+      "id": "01JX467XP0TX4CFN1P7C3F3B7Z",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XJ0H0VM287ZE13SFM65",
+      "furigana": "くび"
+    },
+    "meanings": [
+      {
+        "id": "01JX467XY0ZKWHAWM6Q1876GWD",
+        "readingId": "01JX467XP0TX4CFN1P7C3F3B7Z",
+        "meaning": "목"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XJGVCMW7AVAQ5G4NBSB",
+      "expression": "市民"
+    },
+    "reading": {
+      "id": "01JX467XQ0VCADC12ER7NQR0SF",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XJGVCMW7AVAQ5G4NBSB",
+      "furigana": "しみん"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Y002ED92BV99D5CMYFP",
+        "readingId": "01JX467XQ0VCADC12ER7NQR0SF",
+        "meaning": "시민"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XK0775XRFV4BR1NPN84",
+      "expression": "付く"
+    },
+    "reading": {
+      "id": "01JX467XR0Z6D6SFJG8MN5A49C",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XK0775XRFV4BR1NPN84",
+      "furigana": "つく"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Y20MWT81430TCDFT70X",
+        "readingId": "01JX467XR0Z6D6SFJG8MN5A49C",
+        "meaning": "붙다"
+      },
+      {
+        "id": "01JX467Y2GRPYMPPNVSWWCC0XH",
+        "readingId": "01JX467XR0Z6D6SFJG8MN5A49C",
+        "meaning": "달라붙다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XKGMBXR7FEG0AFAXDJE",
+      "expression": "すく"
+    },
+    "reading": {
+      "id": "01JX467XS0T2D5DV9K90ZJ8368",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XKGMBXR7FEG0AFAXDJE",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467Y40VWGSWXTHA7CSDE10",
+        "readingId": "01JX467XS0T2D5DV9K90ZJ8368",
+        "meaning": "비다"
+      },
+      {
+        "id": "01JX467Y4GT03Q1FBCG9VVARG6",
+        "readingId": "01JX467XS0T2D5DV9K90ZJ8368",
+        "meaning": "텅 비다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XM054KE9VW8P1Q521D6",
+      "expression": "こと"
+    },
+    "reading": {
+      "id": "01JX467XT0SKB5THR3PCK8SCQV",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XM054KE9VW8P1Q521D6",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467Y605975CC10WK2AG36F",
+        "readingId": "01JX467XT0SKB5THR3PCK8SCQV",
+        "meaning": "것"
+      },
+      {
+        "id": "01JX467Y6GX6D96RM9KE51AHGB",
+        "readingId": "01JX467XT0SKB5THR3PCK8SCQV",
+        "meaning": "일"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XMG7E9DDBWR1WBEBPGZ",
+      "expression": "訪ねる"
+    },
+    "reading": {
+      "id": "01JX467XV0154DQ9F5WW2G2953",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XMG7E9DDBWR1WBEBPGZ",
+      "furigana": "たずねる"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Y809QMW9NNV2DQVTEB5",
+        "readingId": "01JX467XV0154DQ9F5WW2G2953",
+        "meaning": "방문하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XN0GJ0Y5BR2MP5P577J",
+      "expression": "お祝い"
+    },
+    "reading": {
+      "id": "01JX467XW0AR2EJVD2XRRR5TAB",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XN0GJ0Y5BR2MP5P577J",
+      "furigana": "おいわい"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YA0Z9TPQPEY7AVD1CZG",
+        "readingId": "01JX467XW0AR2EJVD2XRRR5TAB",
+        "meaning": "축하"
+      },
+      {
+        "id": "01JX467YAGJG9EYEXG9ENQ700Z",
+        "readingId": "01JX467XW0AR2EJVD2XRRR5TAB",
+        "meaning": "축하하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XNGAE90XKPV88K2FJGK",
+      "expression": "一生懸命"
+    },
+    "reading": {
+      "id": "01JX467XX0JJCGGH03W81EFCZ6",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XNGAE90XKPV88K2FJGK",
+      "furigana": "いっしょうけんめい"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YC0QQCZBM41E7S50320",
+        "readingId": "01JX467XX0JJCGGH03W81EFCZ6",
+        "meaning": "열심히"
+      },
+      {
+        "id": "01JX467YCGHADDX3GXKK9XDVRQ",
+        "readingId": "01JX467XX0JJCGGH03W81EFCZ6",
+        "meaning": "최선을 다해"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XP0GKSAKECGAJEW1KNN",
+      "expression": "済む"
+    },
+    "reading": {
+      "id": "01JX467XY08P0GYMAQP05T7DHW",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XP0GKSAKECGAJEW1KNN",
+      "furigana": "すむ"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YE0C6C1GNVEXPPC4516",
+        "readingId": "01JX467XY08P0GYMAQP05T7DHW",
+        "meaning": "끝나다"
+      },
+      {
+        "id": "01JX467YEGNR2M4ET5V7DTSYZ1",
+        "readingId": "01JX467XY08P0GYMAQP05T7DHW",
+        "meaning": "마치다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XPGXZX2956F3QZZ18K9",
+      "expression": "アメリカ"
+    },
+    "reading": {
+      "id": "01JX467XZ0YY301E6ZFSF92MWJ",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XPGXZX2956F3QZZ18K9",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467YG053H80FHSYKZ7PKGA",
+        "readingId": "01JX467XZ0YY301E6ZFSF92MWJ",
+        "meaning": "미국"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XQ098SWX8N4M4NBHJDG",
+      "expression": "復習"
+    },
+    "reading": {
+      "id": "01JX467Y00SH1W35Y0GWK2XJYN",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XQ098SWX8N4M4NBHJDG",
+      "furigana": "ふくしゅう"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YJ0G8319WJF5Z90GYP6",
+        "readingId": "01JX467Y00SH1W35Y0GWK2XJYN",
+        "meaning": "복습"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XQGY58FNGQQXFTPJ9W9",
+      "expression": "急"
+    },
+    "reading": {
+      "id": "01JX467Y1087JKS4G16CNPJ466",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XQGY58FNGQQXFTPJ9W9",
+      "furigana": "きゅう"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YM0NMBSTFHFEYVFZVGA",
+        "readingId": "01JX467Y1087JKS4G16CNPJ466",
+        "meaning": "급한"
+      },
+      {
+        "id": "01JX467YMGF35XS7GN8PF2CRX6",
+        "readingId": "01JX467Y1087JKS4G16CNPJ466",
+        "meaning": "가파른"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XR0T0EJHXB6V9DSRC13",
+      "expression": "これから"
+    },
+    "reading": {
+      "id": "01JX467Y20Z0NNVWKZQQGNX8E5",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XR0T0EJHXB6V9DSRC13",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467YP0XHZ5FZJT9TCMWWPR",
+        "readingId": "01JX467Y20Z0NNVWKZQQGNX8E5",
+        "meaning": "이제부터"
+      },
+      {
+        "id": "01JX467YPGM7N82PQ1JHH8CM4N",
+        "readingId": "01JX467Y20Z0NNVWKZQQGNX8E5",
+        "meaning": "앞으로"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XRGZXJMCVHZVA1G5JC9",
+      "expression": "指輪"
+    },
+    "reading": {
+      "id": "01JX467Y30SSGP5GAXA6TWFTGG",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XRGZXJMCVHZVA1G5JC9",
+      "furigana": "ゆびわ"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YR0W9331DNSQ4BREK0X",
+        "readingId": "01JX467Y30SSGP5GAXA6TWFTGG",
+        "meaning": "반지"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XS0YW8VDVDYKYBJ38Y8",
+      "expression": "美しい"
+    },
+    "reading": {
+      "id": "01JX467Y40XVMDP777P0HMNVC9",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XS0YW8VDVDYKYBJ38Y8",
+      "furigana": "うつくしい"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YT0V5DFRGEPBSE5G2XK",
+        "readingId": "01JX467Y40XVMDP777P0HMNVC9",
+        "meaning": "아름다운"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XSGPWKJDT67ZX7NNSX9",
+      "expression": "直る"
+    },
+    "reading": {
+      "id": "01JX467Y50TB55PY8D0CKJS3X7",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XSGPWKJDT67ZX7NNSX9",
+      "furigana": "なおる"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YW03T42FQ2CBA2CYVXF",
+        "readingId": "01JX467Y50TB55PY8D0CKJS3X7",
+        "meaning": "고쳐지다"
+      },
+      {
+        "id": "01JX467YWGBTKED580C3EMPP44",
+        "readingId": "01JX467Y50TB55PY8D0CKJS3X7",
+        "meaning": "수리되다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XT0N18D8NTC0MGZC3ZG",
+      "expression": "水泳"
+    },
+    "reading": {
+      "id": "01JX467Y608V1FCQB0QYQ2P9D9",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XT0N18D8NTC0MGZC3ZG",
+      "furigana": "すいえい"
+    },
+    "meanings": [
+      {
+        "id": "01JX467YY0BEYST86XMS9TPPYG",
+        "readingId": "01JX467Y608V1FCQB0QYQ2P9D9",
+        "meaning": "수영"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XTG9V1X87XTTB0MM79X",
+      "expression": "真中"
+    },
+    "reading": {
+      "id": "01JX467Y70VMVMF1GQ58F5HG3G",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XTG9V1X87XTTB0MM79X",
+      "furigana": "まんなか"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Z00FWVE78AXHXT92B4C",
+        "readingId": "01JX467Y70VMVMF1GQ58F5HG3G",
+        "meaning": "가운데"
+      },
+      {
+        "id": "01JX467Z0GFBHWPE9XJRRF2FQ4",
+        "readingId": "01JX467Y70VMVMF1GQ58F5HG3G",
+        "meaning": "중앙"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XV0CV2DV3YA50PG06VJ",
+      "expression": "発音"
+    },
+    "reading": {
+      "id": "01JX467Y800TY8MTB81FDGNMBH",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XV0CV2DV3YA50PG06VJ",
+      "furigana": "はつおん"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Z203GW0XQQHJQD1VEAS",
+        "readingId": "01JX467Y800TY8MTB81FDGNMBH",
+        "meaning": "발음"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XVG20T11ZXPG8XVZX4D",
+      "expression": "手伝う"
+    },
+    "reading": {
+      "id": "01JX467Y90F1WT4MXF274PWBFW",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XVG20T11ZXPG8XVZX4D",
+      "furigana": "てつだう"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Z40H5YB48ATJR6W2MQX",
+        "readingId": "01JX467Y90F1WT4MXF274PWBFW",
+        "meaning": "돕다"
+      },
+      {
+        "id": "01JX467Z4G10175S3NGRC7G3YC",
+        "readingId": "01JX467Y90F1WT4MXF274PWBFW",
+        "meaning": "도와주다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XW056W1RDDTDFRNDF0A",
+      "expression": "折れる"
+    },
+    "reading": {
+      "id": "01JX467YA025TGWJ4HC4S4NE2E",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XW056W1RDDTDFRNDF0A",
+      "furigana": "おれる"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Z60Y46KMBKXW6HTZ005",
+        "readingId": "01JX467YA025TGWJ4HC4S4NE2E",
+        "meaning": "부러지다"
+      },
+      {
+        "id": "01JX467Z6GY0QEAKGM2NPVXMPC",
+        "readingId": "01JX467YA025TGWJ4HC4S4NE2E",
+        "meaning": "접히다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XWGAAQFXW00333E30ZX",
+      "expression": "一度"
+    },
+    "reading": {
+      "id": "01JX467YB02BY5KR0W1PYM474N",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XWGAAQFXW00333E30ZX",
+      "furigana": "いちど"
+    },
+    "meanings": [
+      {
+        "id": "01JX467Z80KVMPPG3CKN2AV3KY",
+        "readingId": "01JX467YB02BY5KR0W1PYM474N",
+        "meaning": "한 번"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XX0WS6D5NGTMXFCA84N",
+      "expression": "高等学校"
+    },
+    "reading": {
+      "id": "01JX467YC01HS8SMKGYHMZKX4A",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XX0WS6D5NGTMXFCA84N",
+      "furigana": "こうとうがっこう"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZA0MB4AJ2QJEJSND68B",
+        "readingId": "01JX467YC01HS8SMKGYHMZKX4A",
+        "meaning": "고등학교"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XXGKR8BFHHV308AN3F1",
+      "expression": "アルコール"
+    },
+    "reading": {
+      "id": "01JX467YD0WDE2R4QV2NDK7AAT",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XXGKR8BFHHV308AN3F1",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZC0FBG1BJ97WFKCXV5H",
+        "readingId": "01JX467YD0WDE2R4QV2NDK7AAT",
+        "meaning": "알코올"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XY0FXDRKC2NRX6ZYVMT",
+      "expression": "アナウンサー"
+    },
+    "reading": {
+      "id": "01JX467YE08F1A7H2X1PYGD46Q",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XY0FXDRKC2NRX6ZYVMT",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZE0CSKF9PFQ16Q8HMVW",
+        "readingId": "01JX467YE08F1A7H2X1PYGD46Q",
+        "meaning": "아나운서"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XYG6Q0QWGZPAYFB5JSV",
+      "expression": "最初"
+    },
+    "reading": {
+      "id": "01JX467YF090D0KSN8XNCPZ280",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XYG6Q0QWGZPAYFB5JSV",
+      "furigana": "さいしょ"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZG0TXGK1BX3CXCMEENV",
+        "readingId": "01JX467YF090D0KSN8XNCPZ280",
+        "meaning": "처음"
+      },
+      {
+        "id": "01JX467ZGG94M3C0P2NR4R630Q",
+        "readingId": "01JX467YF090D0KSN8XNCPZ280",
+        "meaning": "시작"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XZ0AF99T5CGF6A1PPS8",
+      "expression": "投げる"
+    },
+    "reading": {
+      "id": "01JX467YG0Y4Q1Q45E0PQK19A5",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XZ0AF99T5CGF6A1PPS8",
+      "furigana": "なげる"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZJ0XDV5MDJ3MMKVBBGD",
+        "readingId": "01JX467YG0Y4Q1Q45E0PQK19A5",
+        "meaning": "던지다"
+      },
+      {
+        "id": "01JX467ZJGGP69H0QVRD9SEY6C",
+        "readingId": "01JX467YG0Y4Q1Q45E0PQK19A5",
+        "meaning": "버리다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467XZGAM1KHFNGQA8F95NC",
+      "expression": "変える"
+    },
+    "reading": {
+      "id": "01JX467YH0EWYGNFEA1Q7EPPS8",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467XZGAM1KHFNGQA8F95NC",
+      "furigana": "かえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZM0JQNTQ1WTB1AQQ9Y6",
+        "readingId": "01JX467YH0EWYGNFEA1Q7EPPS8",
+        "meaning": "바꾸다"
+      },
+      {
+        "id": "01JX467ZMGXKYD1C450RF3ZKMN",
+        "readingId": "01JX467YH0EWYGNFEA1Q7EPPS8",
+        "meaning": "변경하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y0099ERQEKD33MJGAQJ",
+      "expression": "昼間"
+    },
+    "reading": {
+      "id": "01JX467YJ0A40CFDTDD30W21W1",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y0099ERQEKD33MJGAQJ",
+      "furigana": "ひるま"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZP0T97TAA0EM3MZDTBS",
+        "readingId": "01JX467YJ0A40CFDTDD30W21W1",
+        "meaning": "낮"
+      },
+      {
+        "id": "01JX467ZPG0MGE160W7YVQQS0F",
+        "readingId": "01JX467YJ0A40CFDTDD30W21W1",
+        "meaning": "주간"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y0G8VVW7Y3TA8H3Z1VS",
+      "expression": "神社"
+    },
+    "reading": {
+      "id": "01JX467YK04Y21CFFART10VMQ7",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y0G8VVW7Y3TA8H3Z1VS",
+      "furigana": "じんじゃ"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZR0TF3M2TFMBY8EAVS6",
+        "readingId": "01JX467YK04Y21CFFART10VMQ7",
+        "meaning": "신사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y10M37NPZ34K9ZQC85X",
+      "expression": "食料品"
+    },
+    "reading": {
+      "id": "01JX467YM0V7BDD0H6P5RYPVQS",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y10M37NPZ34K9ZQC85X",
+      "furigana": "しょくりょうひん"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZT0DTZ98DE9XYGRQJ4E",
+        "readingId": "01JX467YM0V7BDD0H6P5RYPVQS",
+        "meaning": "식료품"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y1GWX1771734N9Q55MD",
+      "expression": "丁寧"
+    },
+    "reading": {
+      "id": "01JX467YN0FAQBR90Y193GSB2E",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y1GWX1771734N9Q55MD",
+      "furigana": "ていねい"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZW0N0RS4EXTKVEWAZRF",
+        "readingId": "01JX467YN0FAQBR90Y193GSB2E",
+        "meaning": "정중한"
+      },
+      {
+        "id": "01JX467ZWGNNK1DNW8SJ1GEME6",
+        "readingId": "01JX467YN0FAQBR90Y193GSB2E",
+        "meaning": "공손한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y200VVTXSA8FPHK0GK9",
+      "expression": "規則"
+    },
+    "reading": {
+      "id": "01JX467YP04ZP54FVR9B2YFG1A",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y200VVTXSA8FPHK0GK9",
+      "furigana": "きそく"
+    },
+    "meanings": [
+      {
+        "id": "01JX467ZY0V2V0SKC5MRTT5GB0",
+        "readingId": "01JX467YP04ZP54FVR9B2YFG1A",
+        "meaning": "규칙"
+      },
+      {
+        "id": "01JX467ZYGMPC0A6ZW8B0AC5P1",
+        "readingId": "01JX467YP04ZP54FVR9B2YFG1A",
+        "meaning": "규정"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y2GTXT508QNWXMF85FW",
+      "expression": "もうすぐ"
+    },
+    "reading": {
+      "id": "01JX467YQ0E15GP5N4D25PMAQ2",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y2GTXT508QNWXMF85FW",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468000AYJ1G1EP5C76CNHM",
+        "readingId": "01JX467YQ0E15GP5N4D25PMAQ2",
+        "meaning": "곧"
+      },
+      {
+        "id": "01JX46800GZBT96HNWYHJVZ4S0",
+        "readingId": "01JX467YQ0E15GP5N4D25PMAQ2",
+        "meaning": "머지않아"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y3040AFTYFZGHBWNZNT",
+      "expression": "絹"
+    },
+    "reading": {
+      "id": "01JX467YR0385PQ9V75JGRV294",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y3040AFTYFZGHBWNZNT",
+      "furigana": "きぬ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468020C26FVNMS9CBHW6MT",
+        "readingId": "01JX467YR0385PQ9V75JGRV294",
+        "meaning": "비단"
+      },
+      {
+        "id": "01JX46802GTDM791H5C76QPFNY",
+        "readingId": "01JX467YR0385PQ9V75JGRV294",
+        "meaning": "실크"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y3GYTKE3QBA2TG8HB7J",
+      "expression": "怒る"
+    },
+    "reading": {
+      "id": "01JX467YS0CBGY12T169708R1B",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y3GYTKE3QBA2TG8HB7J",
+      "furigana": "おこる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468040NZZFWR1XCCQEQYPH",
+        "readingId": "01JX467YS0CBGY12T169708R1B",
+        "meaning": "화내다"
+      },
+      {
+        "id": "01JX46804GQQMKR1CW2V75M3FZ",
+        "readingId": "01JX467YS0CBGY12T169708R1B",
+        "meaning": "화나다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y4023WS8P12SHX4JCKX",
+      "expression": "用"
+    },
+    "reading": {
+      "id": "01JX467YT0YPS7J8XT47YFVB7Z",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y4023WS8P12SHX4JCKX",
+      "furigana": "よう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468060XST776DWVRN7MR76",
+        "readingId": "01JX467YT0YPS7J8XT47YFVB7Z",
+        "meaning": "용도"
+      },
+      {
+        "id": "01JX46806GGE6K7T99D64TYFKT",
+        "readingId": "01JX467YT0YPS7J8XT47YFVB7Z",
+        "meaning": "사용"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y4GRN3D48S0SB7QK6M8",
+      "expression": "致す"
+    },
+    "reading": {
+      "id": "01JX467YV0BACAVNESE3Q81YSP",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y4GRN3D48S0SB7QK6M8",
+      "furigana": "いたす"
+    },
+    "meanings": [
+      {
+        "id": "01JX468080QHS0ZACRJKH94KAA",
+        "readingId": "01JX467YV0BACAVNESE3Q81YSP",
+        "meaning": "하다(겸양)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y501AXJ8H91PSV02V3A",
+      "expression": "海岸"
+    },
+    "reading": {
+      "id": "01JX467YW07H4JYJA2G6SR300D",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y501AXJ8H91PSV02V3A",
+      "furigana": "かいがん"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680A0H7B1H5466EMHGJFC",
+        "readingId": "01JX467YW07H4JYJA2G6SR300D",
+        "meaning": "해안"
+      },
+      {
+        "id": "01JX4680AGFJDN89BR9TR80W0K",
+        "readingId": "01JX467YW07H4JYJA2G6SR300D",
+        "meaning": "해변"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y5GXHX156HK1BMZA38W",
+      "expression": "経済"
+    },
+    "reading": {
+      "id": "01JX467YX0MWW288W4CHJ7NKX3",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y5GXHX156HK1BMZA38W",
+      "furigana": "けいざい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680C0XDE5DH9ZAF47NEZX",
+        "readingId": "01JX467YX0MWW288W4CHJ7NKX3",
+        "meaning": "경제"
+      },
+      {
+        "id": "01JX4680CGTTNQRB8PD0XTVPQ7",
+        "readingId": "01JX467YX0MWW288W4CHJ7NKX3",
+        "meaning": "금융"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y602H46Z7463B7VB4Z3",
+      "expression": "以上"
+    },
+    "reading": {
+      "id": "01JX467YY0MBW9MZ71QF8DBAJ4",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y602H46Z7463B7VB4Z3",
+      "furigana": "いじょう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680E056FY3SZ5CQ3D5EAK",
+        "readingId": "01JX467YY0MBW9MZ71QF8DBAJ4",
+        "meaning": "이상"
+      },
+      {
+        "id": "01JX4680EGBCWR6HGJ73ED3RCJ",
+        "readingId": "01JX467YY0MBW9MZ71QF8DBAJ4",
+        "meaning": "그 이상"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y6GG07E3SFTNXDDV7N0",
+      "expression": "掛ける"
+    },
+    "reading": {
+      "id": "01JX467YZ0APT8MH2N0510HPAP",
+      "stageId": "01JX459DV9CBC5XBBHZ8YZ7MZB",
+      "expressionId": "01JX467Y6GG07E3SFTNXDDV7N0",
+      "furigana": "かける"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680G0NAH2Z57SGTQJ2PB0",
+        "readingId": "01JX467YZ0APT8MH2N0510HPAP",
+        "meaning": "걸다"
+      },
+      {
+        "id": "01JX4680GGGNFHNNWYN60F6TS3",
+        "readingId": "01JX467YZ0APT8MH2N0510HPAP",
+        "meaning": "매달다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y7021N6M35T8064Q485",
+      "expression": "届ける"
+    },
+    "reading": {
+      "id": "01JX467Z008H77P3829AV2JB22",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467Y7021N6M35T8064Q485",
+      "furigana": "とどける"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680J048DJP7V5KHMZ5TG4",
+        "readingId": "01JX467Z008H77P3829AV2JB22",
+        "meaning": "전달하다"
+      },
+      {
+        "id": "01JX4680JGNW8KZHGXBW9EP1KT",
+        "readingId": "01JX467Z008H77P3829AV2JB22",
+        "meaning": "도달하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y7GN2BMZAMMMZZZQHDR",
+      "expression": "適当"
+    },
+    "reading": {
+      "id": "01JX467Z10QEF6CM3XK9VHTMEN",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467Y7GN2BMZAMMMZZZQHDR",
+      "furigana": "てきとう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680M00XP2EB7FB0XF25GZ",
+        "readingId": "01JX467Z10QEF6CM3XK9VHTMEN",
+        "meaning": "적당함"
+      },
+      {
+        "id": "01JX4680MG33DRQPFBJD6YT09F",
+        "readingId": "01JX467Z10QEF6CM3XK9VHTMEN",
+        "meaning": "적합함"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y80A1Q8DPFMXVQ1H2BY",
+      "expression": "祖父"
+    },
+    "reading": {
+      "id": "01JX467Z20YQN20P7YZ4J3DB2P",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467Y80A1Q8DPFMXVQ1H2BY",
+      "furigana": "そふ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680P09YZ55TFP01Y20C9Y",
+        "readingId": "01JX467Z20YQN20P7YZ4J3DB2P",
+        "meaning": "할아버지"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y8GTZ9E6VPR0F47Y0H1",
+      "expression": "研究室"
+    },
+    "reading": {
+      "id": "01JX467Z308QZXNWZ4G3VXE2EP",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467Y8GTZ9E6VPR0F47Y0H1",
+      "furigana": "けんきゅうしつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680R0DD1BGHJZ92GCYBZR",
+        "readingId": "01JX467Z308QZXNWZ4G3VXE2EP",
+        "meaning": "연구실"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y90DHV156EJMP2RWZ5Y",
+      "expression": "文学"
+    },
+    "reading": {
+      "id": "01JX467Z402YZK52A0DA4AEN2E",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467Y90DHV156EJMP2RWZ5Y",
+      "furigana": "ぶんがく"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680T0T45VJ2MGXK8Q8VB4",
+        "readingId": "01JX467Z402YZK52A0DA4AEN2E",
+        "meaning": "문학"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Y9GE9ZPKB76FMF2YPND",
+      "expression": "生きる"
+    },
+    "reading": {
+      "id": "01JX467Z50DRQYZAVQQPYM3NR2",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467Y9GE9ZPKB76FMF2YPND",
+      "furigana": "いきる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4680W0WRT48BZA6RP816CQ",
+        "readingId": "01JX467Z50DRQYZAVQQPYM3NR2",
+        "meaning": "살다"
+      },
+      {
+        "id": "01JX4680WGWVY2DDE88PKP049Z",
+        "readingId": "01JX467Z50DRQYZAVQQPYM3NR2",
+        "meaning": "생존하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YA0VCHR70AG3B9DC3RR",
+      "expression": "それほど"
+    },
+    "reading": {
+      "id": "01JX467Z60SGD1VR1ZY7XM6ME2",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YA0VCHR70AG3B9DC3RR",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4680Y0815P20YG2F1AS6FC",
+        "readingId": "01JX467Z60SGD1VR1ZY7XM6ME2",
+        "meaning": "그 정도로"
+      },
+      {
+        "id": "01JX4680YGQG30M807JA2WY7TM",
+        "readingId": "01JX467Z60SGD1VR1ZY7XM6ME2",
+        "meaning": "그렇게"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YAG87N49Y8RYYW4SW91",
+      "expression": "うまい"
+    },
+    "reading": {
+      "id": "01JX467Z70VNDWE3TBG40MAQRH",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YAG87N49Y8RYYW4SW91",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468100GKY4ZBE0DNTHFA7G",
+        "readingId": "01JX467Z70VNDWE3TBG40MAQRH",
+        "meaning": "맛있는"
+      },
+      {
+        "id": "01JX46810GMDDAAQ2D34RSPTD8",
+        "readingId": "01JX467Z70VNDWE3TBG40MAQRH",
+        "meaning": "훌륭한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YB0EJ2B5KF7WGYY7VY0",
+      "expression": "ずいぶん"
+    },
+    "reading": {
+      "id": "01JX467Z80V5XX9NJAE6HKD9AT",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YB0EJ2B5KF7WGYY7VY0",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468120MTRWT6VDXJYGAA9T",
+        "readingId": "01JX467Z80V5XX9NJAE6HKD9AT",
+        "meaning": "상당히"
+      },
+      {
+        "id": "01JX46812GP2PRFCK1H3WC8BA8",
+        "readingId": "01JX467Z80V5XX9NJAE6HKD9AT",
+        "meaning": "매우"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YBGJWY4234T3EPEN1AY",
+      "expression": "お・金持ち"
+    },
+    "reading": {
+      "id": "01JX467Z90G6QZCCP2NR51ZCAC",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YBGJWY4234T3EPEN1AY",
+      "furigana": "かねもち / おかねもち"
+    },
+    "meanings": [
+      {
+        "id": "01JX468140NSKEEJCM4S8FE4CG",
+        "readingId": "01JX467Z90G6QZCCP2NR51ZCAC",
+        "meaning": "부자"
+      },
+      {
+        "id": "01JX46814GG9649WEBZQJE6CRB",
+        "readingId": "01JX467Z90G6QZCCP2NR51ZCAC",
+        "meaning": "돈 많은 사람"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YC0M5XN8FYY6WVTAJDK",
+      "expression": "続く"
+    },
+    "reading": {
+      "id": "01JX467ZA04R5EQTKS37AZZZ92",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YC0M5XN8FYY6WVTAJDK",
+      "furigana": "つづく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468160HFEW6B0EY31209CR",
+        "readingId": "01JX467ZA04R5EQTKS37AZZZ92",
+        "meaning": "계속되다"
+      },
+      {
+        "id": "01JX46816GG7G47VJK496MYJRQ",
+        "readingId": "01JX467ZA04R5EQTKS37AZZZ92",
+        "meaning": "이어지다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YCG2SZ45BF8KKKFHVHK",
+      "expression": "受付"
+    },
+    "reading": {
+      "id": "01JX467ZB0WM14G87KGMW3KD6V",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YCG2SZ45BF8KKKFHVHK",
+      "furigana": "うけつけ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468180GPYT3MVRRFDREP7W",
+        "readingId": "01JX467ZB0WM14G87KGMW3KD6V",
+        "meaning": "접수"
+      },
+      {
+        "id": "01JX46818GDPQMTNFFM78XZ5RB",
+        "readingId": "01JX467ZB0WM14G87KGMW3KD6V",
+        "meaning": "접수처"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YD0XHWAC3G554KNTTWM",
+      "expression": "代わり"
+    },
+    "reading": {
+      "id": "01JX467ZC0A6Z6WEM9QVCPA731",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YD0XHWAC3G554KNTTWM",
+      "furigana": "かわり"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681A0NPT75FP9SYGTY8KW",
+        "readingId": "01JX467ZC0A6Z6WEM9QVCPA731",
+        "meaning": "대신"
+      },
+      {
+        "id": "01JX4681AGP5M41TQZQF4RMF60",
+        "readingId": "01JX467ZC0A6Z6WEM9QVCPA731",
+        "meaning": "대체"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YDGHY5KFPKHM4QWKAC8",
+      "expression": "残る"
+    },
+    "reading": {
+      "id": "01JX467ZD0VMSY2KC84HXPVKNC",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YDGHY5KFPKHM4QWKAC8",
+      "furigana": "のこる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681C05T5H0EQXMSCRS82D",
+        "readingId": "01JX467ZD0VMSY2KC84HXPVKNC",
+        "meaning": "남다"
+      },
+      {
+        "id": "01JX4681CGW79SY1FWVR9REXHC",
+        "readingId": "01JX467ZD0VMSY2KC84HXPVKNC",
+        "meaning": "남음"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YE0MC2NFCFGT154KQ57",
+      "expression": "世話"
+    },
+    "reading": {
+      "id": "01JX467ZE0HHTNXRCM7Y1JQE7J",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YE0MC2NFCFGT154KQ57",
+      "furigana": "せわ・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681E0JN31FAQ1F9Q39E82",
+        "readingId": "01JX467ZE0HHTNXRCM7Y1JQE7J",
+        "meaning": "돌보다"
+      },
+      {
+        "id": "01JX4681EGCN4GZPGTZWGE2FNJ",
+        "readingId": "01JX467ZE0HHTNXRCM7Y1JQE7J",
+        "meaning": "보살핌"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YEGWVANEB6TVV48FK92",
+      "expression": "スーツケース"
+    },
+    "reading": {
+      "id": "01JX467ZF0QPCGHE367ZEB07ZA",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YEGWVANEB6TVV48FK92",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4681G0SWJ210BNF7Z1FF9T",
+        "readingId": "01JX467ZF0QPCGHE367ZEB07ZA",
+        "meaning": "여행가방"
+      },
+      {
+        "id": "01JX4681GGCJ2N89VWZJ7NHCBK",
+        "readingId": "01JX467ZF0QPCGHE367ZEB07ZA",
+        "meaning": "캐리어"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YF0Z4X1KD4A9W3A7MST",
+      "expression": "くれる"
+    },
+    "reading": {
+      "id": "01JX467ZG0PD5PSYP3JH1Z5PAG",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YF0Z4X1KD4A9W3A7MST",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4681J0SFPCEDW8GB7B7GDH",
+        "readingId": "01JX467ZG0PD5PSYP3JH1Z5PAG",
+        "meaning": "주다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YFGNZAWAR33PJ0V1KJ5",
+      "expression": "会話"
+    },
+    "reading": {
+      "id": "01JX467ZH0JJMFGTF4M32TVPV6",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YFGNZAWAR33PJ0V1KJ5",
+      "furigana": "かいわ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681M0W9SC9VHSRKJNK2QF",
+        "readingId": "01JX467ZH0JJMFGTF4M32TVPV6",
+        "meaning": "대화"
+      },
+      {
+        "id": "01JX4681MGV4SVKJJ0WAX4DT2W",
+        "readingId": "01JX467ZH0JJMFGTF4M32TVPV6",
+        "meaning": "회화"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YG0TZB780NQDJV4MH9Z",
+      "expression": "向かう"
+    },
+    "reading": {
+      "id": "01JX467ZJ0DNMX07M5FT1KFP58",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YG0TZB780NQDJV4MH9Z",
+      "furigana": "むかう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681P04RNFJCJWMNCB4DGJ",
+        "readingId": "01JX467ZJ0DNMX07M5FT1KFP58",
+        "meaning": "향하다"
+      },
+      {
+        "id": "01JX4681PG5J0MB1Q3D893MTTM",
+        "readingId": "01JX467ZJ0DNMX07M5FT1KFP58",
+        "meaning": "마주보다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YGGBRAKSE1CBVXS0A2T",
+      "expression": "増える"
+    },
+    "reading": {
+      "id": "01JX467ZK0PAQTYW3NW71FVYY7",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YGGBRAKSE1CBVXS0A2T",
+      "furigana": "ふえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681R06W4Z4BP6FHVG1RQ9",
+        "readingId": "01JX467ZK0PAQTYW3NW71FVYY7",
+        "meaning": "증가하다"
+      },
+      {
+        "id": "01JX4681RGKSGK7KVT468YPRFA",
+        "readingId": "01JX467ZK0PAQTYW3NW71FVYY7",
+        "meaning": "늘어나다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YH0PT9VJDQ2060JXCGG",
+      "expression": "紹介"
+    },
+    "reading": {
+      "id": "01JX467ZM0T0YKPBB0X5HX332R",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YH0PT9VJDQ2060JXCGG",
+      "furigana": "しょうかい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681T0RXSMP6ERNWB1FCJK",
+        "readingId": "01JX467ZM0T0YKPBB0X5HX332R",
+        "meaning": "소개"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YHGR2986F0H5RY733D1",
+      "expression": "だから"
+    },
+    "reading": {
+      "id": "01JX467ZN0T5NVT031RJCBNHKD",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YHGR2986F0H5RY733D1",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4681W0S0Q20825843WN4ZB",
+        "readingId": "01JX467ZN0T5NVT031RJCBNHKD",
+        "meaning": "그래서"
+      },
+      {
+        "id": "01JX4681WGVVDHH9K1Q05Y8011",
+        "readingId": "01JX467ZN0T5NVT031RJCBNHKD",
+        "meaning": "그러므로"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YJ0AHF7R4NRW55WTSFY",
+      "expression": "季節"
+    },
+    "reading": {
+      "id": "01JX467ZP0WSSFB8EZ2YHPV0T5",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YJ0AHF7R4NRW55WTSFY",
+      "furigana": "きせつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4681Y00NTZHTTK16T47P24",
+        "readingId": "01JX467ZP0WSSFB8EZ2YHPV0T5",
+        "meaning": "계절"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YJG836TDSBK06BVHSW7",
+      "expression": "そんなに"
+    },
+    "reading": {
+      "id": "01JX467ZQ0EAJZG55NKB3H4793",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YJG836TDSBK06BVHSW7",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4682005SFA8W03RQZFRYTM",
+        "readingId": "01JX467ZQ0EAJZG55NKB3H4793",
+        "meaning": "그렇게 많이"
+      },
+      {
+        "id": "01JX46820G5MGVW0RC4VHVFAQ1",
+        "readingId": "01JX467ZQ0EAJZG55NKB3H4793",
+        "meaning": "그 정도로"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YK0FTARJFY5Y8QQWHMF",
+      "expression": "このあいだ"
+    },
+    "reading": {
+      "id": "01JX467ZR06ZGCMCSSP761PCE5",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YK0FTARJFY5Y8QQWHMF",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468220Q669SD5YPHXZAG59",
+        "readingId": "01JX467ZR06ZGCMCSSP761PCE5",
+        "meaning": "요전"
+      },
+      {
+        "id": "01JX46822GXB70BMYMG2RSK31V",
+        "readingId": "01JX467ZR06ZGCMCSSP761PCE5",
+        "meaning": "최근"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YKGQKHM9X5GWGDKJ514",
+      "expression": "虫"
+    },
+    "reading": {
+      "id": "01JX467ZS0QBAGRJTQ6VMESK4Y",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YKGQKHM9X5GWGDKJ514",
+      "furigana": "むし"
+    },
+    "meanings": [
+      {
+        "id": "01JX468240GVPZTJKY3T5JP7C1",
+        "readingId": "01JX467ZS0QBAGRJTQ6VMESK4Y",
+        "meaning": "벌레"
+      },
+      {
+        "id": "01JX46824G0CNRSJBT5HY071DV",
+        "readingId": "01JX467ZS0QBAGRJTQ6VMESK4Y",
+        "meaning": "곤충"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YM0R9BC90JZKT27J7X1",
+      "expression": "祖母"
+    },
+    "reading": {
+      "id": "01JX467ZT0KHQFJ6JS9C5JHW8N",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YM0R9BC90JZKT27J7X1",
+      "furigana": "そぼ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468260SF69SCBYYDV5NYX2",
+        "readingId": "01JX467ZT0KHQFJ6JS9C5JHW8N",
+        "meaning": "할머니"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YMGCDVQG4RBDYZ6NWDT",
+      "expression": "いらっしゃる"
+    },
+    "reading": {
+      "id": "01JX467ZV01E3J0MJ2A0DVF8CZ",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YMGCDVQG4RBDYZ6NWDT",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468280M1AEY62S2D9DPRCG",
+        "readingId": "01JX467ZV01E3J0MJ2A0DVF8CZ",
+        "meaning": "계시다"
+      },
+      {
+        "id": "01JX46828GDR94W25BS2PC32Y4",
+        "readingId": "01JX467ZV01E3J0MJ2A0DVF8CZ",
+        "meaning": "오시다"
+      },
+      {
+        "id": "01JX46829008WQR0DMRYT8PY3P",
+        "readingId": "01JX467ZV01E3J0MJ2A0DVF8CZ",
+        "meaning": "가시다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YN0WBTZ3NB5383NKNBP",
+      "expression": "変"
+    },
+    "reading": {
+      "id": "01JX467ZW0WWR31V5A2GF084C4",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YN0WBTZ3NB5383NKNBP",
+      "furigana": "へん"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682A013PBJJ9G2V3595C1",
+        "readingId": "01JX467ZW0WWR31V5A2GF084C4",
+        "meaning": "이상한"
+      },
+      {
+        "id": "01JX4682AG4GFABRR7GZV2SH8Z",
+        "readingId": "01JX467ZW0WWR31V5A2GF084C4",
+        "meaning": "이상함"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YNGM54GW433BHDR9FBV",
+      "expression": "ぶどう"
+    },
+    "reading": {
+      "id": "01JX467ZX0MMJ3WVH0BE77P6VN",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YNGM54GW433BHDR9FBV",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4682C062FMA1DPP3MHTFFC",
+        "readingId": "01JX467ZX0MMJ3WVH0BE77P6VN",
+        "meaning": "포도"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YP0RT5V4W0B86AEZ1WY",
+      "expression": "直す"
+    },
+    "reading": {
+      "id": "01JX467ZY00H93Q98QJCT4P93D",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YP0RT5V4W0B86AEZ1WY",
+      "furigana": "なおす"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682E0MMTTE8GB88F6DQPG",
+        "readingId": "01JX467ZY00H93Q98QJCT4P93D",
+        "meaning": "고치다"
+      },
+      {
+        "id": "01JX4682EGRGYPGQ59Q06C4KXV",
+        "readingId": "01JX467ZY00H93Q98QJCT4P93D",
+        "meaning": "수리하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YPGWRDJAV5BPR77KMJM",
+      "expression": "世界"
+    },
+    "reading": {
+      "id": "01JX467ZZ027GN0VKVBH303VB9",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YPGWRDJAV5BPR77KMJM",
+      "furigana": "せかい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682G0YW58WZ8WEGWYK2GR",
+        "readingId": "01JX467ZZ027GN0VKVBH303VB9",
+        "meaning": "세계"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YQ0M4GG3AKD0RG6S9Y6",
+      "expression": "食事"
+    },
+    "reading": {
+      "id": "01JX468000G79KGNH2B48R7RZT",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YQ0M4GG3AKD0RG6S9Y6",
+      "furigana": "しょくじ・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682J0AMK05H446SSKHEWY",
+        "readingId": "01JX468000G79KGNH2B48R7RZT",
+        "meaning": "식사하다"
+      },
+      {
+        "id": "01JX4682JGG60TFR6M5K01PKFE",
+        "readingId": "01JX468000G79KGNH2B48R7RZT",
+        "meaning": "식사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YQGB0Q5F9JKJTQKQ3ZM",
+      "expression": "うそ"
+    },
+    "reading": {
+      "id": "01JX468010P8QGA4HD4F35BNVF",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YQGB0Q5F9JKJTQKQ3ZM",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4682M0KBAB0SX690J6Z73A",
+        "readingId": "01JX468010P8QGA4HD4F35BNVF",
+        "meaning": "거짓말"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YR0S9QXVH4RBSSEP9EJ",
+      "expression": "合う"
+    },
+    "reading": {
+      "id": "01JX468020XTA98SAB9WMJWG22",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YR0S9QXVH4RBSSEP9EJ",
+      "furigana": "あう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682P06B3H2KEKN8DS1204",
+        "readingId": "01JX468020XTA98SAB9WMJWG22",
+        "meaning": "맞다"
+      },
+      {
+        "id": "01JX4682PGT2W0JBEK48FHDZS5",
+        "readingId": "01JX468020XTA98SAB9WMJWG22",
+        "meaning": "일치하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YRGDCNX7GWGPN9JH9K4",
+      "expression": "小鳥"
+    },
+    "reading": {
+      "id": "01JX468030K177EPV4HVFPBDET",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YRGDCNX7GWGPN9JH9K4",
+      "furigana": "ことり"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682R0291XYEE4SM723SY6",
+        "readingId": "01JX468030K177EPV4HVFPBDET",
+        "meaning": "작은 새"
+      },
+      {
+        "id": "01JX4682RG6KBRWCA6QD5HZEQX",
+        "readingId": "01JX468030K177EPV4HVFPBDET",
+        "meaning": "작은 조류"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YS02947W72TGN5837EN",
+      "expression": "電報"
+    },
+    "reading": {
+      "id": "01JX4680402KXQ87YT9EBF7C07",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YS02947W72TGN5837EN",
+      "furigana": "でんぽう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682T0KYG3GQCBBHJ3WRBM",
+        "readingId": "01JX4680402KXQ87YT9EBF7C07",
+        "meaning": "전보"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YSGBRRH59G7V2HBD2ZF",
+      "expression": "星"
+    },
+    "reading": {
+      "id": "01JX468050N5XDN7W55CVZ3E5N",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YSGBRRH59G7V2HBD2ZF",
+      "furigana": "ほし"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682W0T5H7JAQV7AW5V2R7",
+        "readingId": "01JX468050N5XDN7W55CVZ3E5N",
+        "meaning": "별"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YT03G6RJ3TTFJPPXD6F",
+      "expression": "申す"
+    },
+    "reading": {
+      "id": "01JX468060VHQVA0QD0V08Q53W",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YT03G6RJ3TTFJPPXD6F",
+      "furigana": "もうす"
+    },
+    "meanings": [
+      {
+        "id": "01JX4682Y0DPC0C9QSE9TQXHM2",
+        "readingId": "01JX468060VHQVA0QD0V08Q53W",
+        "meaning": "말씀드리다"
+      },
+      {
+        "id": "01JX4682YG7D8TW3V7MDTVCCWK",
+        "readingId": "01JX468060VHQVA0QD0V08Q53W",
+        "meaning": "부르다(겸양)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YTGNFK7ND5AK62YB8C9",
+      "expression": "失敗"
+    },
+    "reading": {
+      "id": "01JX46807037XDS32ESHXB9CNQ",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YTGNFK7ND5AK62YB8C9",
+      "furigana": "しっぱい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468300K9MMGQ69N9KYDPXV",
+        "readingId": "01JX46807037XDS32ESHXB9CNQ",
+        "meaning": "실패"
+      },
+      {
+        "id": "01JX46830GGTR90HK5GYX3XBQH",
+        "readingId": "01JX46807037XDS32ESHXB9CNQ",
+        "meaning": "실수"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YV0KME052CY9GXSEK3F",
+      "expression": "汽車"
+    },
+    "reading": {
+      "id": "01JX46808090BM3KY506PS1VGP",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YV0KME052CY9GXSEK3F",
+      "furigana": "きしゃ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468320PND0YF7K8GJ2Q5NW",
+        "readingId": "01JX46808090BM3KY506PS1VGP",
+        "meaning": "기차"
+      },
+      {
+        "id": "01JX46832GMRPVNHR0HT9TP706",
+        "readingId": "01JX46808090BM3KY506PS1VGP",
+        "meaning": "증기기관차"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YVGKC611W96PJCZS8K6",
+      "expression": "下宿"
+    },
+    "reading": {
+      "id": "01JX468090QPHJ70K70N2BMNDN",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YVGKC611W96PJCZS8K6",
+      "furigana": "げしゅく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468340J671AKWBQTMT03NF",
+        "readingId": "01JX468090QPHJ70K70N2BMNDN",
+        "meaning": "하숙"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YW0DKM9HF5H3E2FR841",
+      "expression": "思う"
+    },
+    "reading": {
+      "id": "01JX4680A08F55402R9CJ1S8Z1",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YW0DKM9HF5H3E2FR841",
+      "furigana": "おもう"
+    },
+    "meanings": [
+      {
+        "id": "01JX46836002TNWS0G2T0QGQ10",
+        "readingId": "01JX4680A08F55402R9CJ1S8Z1",
+        "meaning": "생각하다"
+      },
+      {
+        "id": "01JX46836GSDNV3BDHDJBTB1R4",
+        "readingId": "01JX4680A08F55402R9CJ1S8Z1",
+        "meaning": "느끼다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YWG6ZE2NYA6Y1NX4JA7",
+      "expression": "機会"
+    },
+    "reading": {
+      "id": "01JX4680B0N6V0Q75N6SFF6GRV",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YWG6ZE2NYA6Y1NX4JA7",
+      "furigana": "きかい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468380N1VJ7B3KZGHJY84A",
+        "readingId": "01JX4680B0N6V0Q75N6SFF6GRV",
+        "meaning": "기회"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YX0CQC547RP6HAWDN4N",
+      "expression": "皆"
+    },
+    "reading": {
+      "id": "01JX4680C00FK46VG62025GDV0",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YX0CQC547RP6HAWDN4N",
+      "furigana": "みな"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683A00CW66FY2RK03C20N",
+        "readingId": "01JX4680C00FK46VG62025GDV0",
+        "meaning": "모두"
+      },
+      {
+        "id": "01JX4683AG5FA3CNGXSR2CDTAY",
+        "readingId": "01JX4680C00FK46VG62025GDV0",
+        "meaning": "모든 사람"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YXGD9WPN5ETB7BNACF7",
+      "expression": "苦い"
+    },
+    "reading": {
+      "id": "01JX4680D0PFW4GAGHY707MJP4",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YXGD9WPN5ETB7BNACF7",
+      "furigana": "にがい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683C0A6YCWCSPFBCH626W",
+        "readingId": "01JX4680D0PFW4GAGHY707MJP4",
+        "meaning": "쓴"
+      },
+      {
+        "id": "01JX4683CG418R54Y9TVAP3G32",
+        "readingId": "01JX4680D0PFW4GAGHY707MJP4",
+        "meaning": "씁쓸한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YY0YJAPT9RBQHX8T82W",
+      "expression": "特に"
+    },
+    "reading": {
+      "id": "01JX4680E0ND54Z12NK3J3YHEY",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YY0YJAPT9RBQHX8T82W",
+      "furigana": "とくに"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683E0EXAWNHYCXWPWQRJD",
+        "readingId": "01JX4680E0ND54Z12NK3J3YHEY",
+        "meaning": "특히"
+      },
+      {
+        "id": "01JX4683EG390JCK0J5644FMHD",
+        "readingId": "01JX4680E0ND54Z12NK3J3YHEY",
+        "meaning": "특별히"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YYG2TJ3F2NZRJ8P77WB",
+      "expression": "乾く"
+    },
+    "reading": {
+      "id": "01JX4680F0MEA11TJCFVYX0XFS",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YYG2TJ3F2NZRJ8P77WB",
+      "furigana": "かわく"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683G0C25TBG3ZHW5JR4Y3",
+        "readingId": "01JX4680F0MEA11TJCFVYX0XFS",
+        "meaning": "마르다"
+      },
+      {
+        "id": "01JX4683GG7C8S6N2KSWR55PWA",
+        "readingId": "01JX4680F0MEA11TJCFVYX0XFS",
+        "meaning": "건조하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YZ0KJ8H0223HM6B7VSB",
+      "expression": "葉"
+    },
+    "reading": {
+      "id": "01JX4680G0Q4J592F7X6GXX1RB",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YZ0KJ8H0223HM6B7VSB",
+      "furigana": "は"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683J0X7RQZ3VY68Q60HKY",
+        "readingId": "01JX4680G0Q4J592F7X6GXX1RB",
+        "meaning": "잎"
+      },
+      {
+        "id": "01JX4683JG83HGD9NYZMHZ56BM",
+        "readingId": "01JX4680G0Q4J592F7X6GXX1RB",
+        "meaning": "잎사귀"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467YZG3KH5M5DR1ZP349AA",
+      "expression": "かっこう"
+    },
+    "reading": {
+      "id": "01JX4680H0JY292C578FEXC6EZ",
+      "stageId": "01JX459DVA330BBDY74MX6HQ9M",
+      "expressionId": "01JX467YZG3KH5M5DR1ZP349AA",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4683M0MDMP7E3GT9QGB27T",
+        "readingId": "01JX4680H0JY292C578FEXC6EZ",
+        "meaning": "모습"
+      },
+      {
+        "id": "01JX4683MGTZYNXDGRKAPE93R9",
+        "readingId": "01JX4680H0JY292C578FEXC6EZ",
+        "meaning": "외모"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z00QSX9SS6ZNWZNXS4A",
+      "expression": "昼休み"
+    },
+    "reading": {
+      "id": "01JX4680J098DYC5FNED2Y4GA7",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z00QSX9SS6ZNWZNXS4A",
+      "furigana": "ひるやすみ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683P0AGZ791H13M4PBZ0C",
+        "readingId": "01JX4680J098DYC5FNED2Y4GA7",
+        "meaning": "점심시간"
+      },
+      {
+        "id": "01JX4683PG7HH3QBVJT9FAM990",
+        "readingId": "01JX4680J098DYC5FNED2Y4GA7",
+        "meaning": "정오 휴식"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z0GX3QAA1S5YP4N7C6D",
+      "expression": "以下"
+    },
+    "reading": {
+      "id": "01JX4680K0RYS8T1ZY4S5E65Z6",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z0GX3QAA1S5YP4N7C6D",
+      "furigana": "いか"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683R09RKP77DK21Y78YFA",
+        "readingId": "01JX4680K0RYS8T1ZY4S5E65Z6",
+        "meaning": "이하"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z101FGT5WQ70W4EPEHK",
+      "expression": "彼ら"
+    },
+    "reading": {
+      "id": "01JX4680M0CSG4ZY0473SJ0GGH",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z101FGT5WQ70W4EPEHK",
+      "furigana": "かれら"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683T0JQ6WA5S24R7C1VR8",
+        "readingId": "01JX4680M0CSG4ZY0473SJ0GGH",
+        "meaning": "그들"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z1GZVFWNAHSR7NREP39",
+      "expression": "寄る"
+    },
+    "reading": {
+      "id": "01JX4680N0GAR7KFSHZ74XDVE1",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z1GZVFWNAHSR7NREP39",
+      "furigana": "よる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683W0RMP4RRYQZPN2FPWV",
+        "readingId": "01JX4680N0GAR7KFSHZ74XDVE1",
+        "meaning": "들르다"
+      },
+      {
+        "id": "01JX4683WGFFYX2NT1XG7B8MD3",
+        "readingId": "01JX4680N0GAR7KFSHZ74XDVE1",
+        "meaning": "방문하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z20EHZ11TBVTYKCYYMR",
+      "expression": "字"
+    },
+    "reading": {
+      "id": "01JX4680P029STRW4A0Q6BF2RN",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z20EHZ11TBVTYKCYYMR",
+      "furigana": "じ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4683Y0JYHGYSRJTKEW0W63",
+        "readingId": "01JX4680P029STRW4A0Q6BF2RN",
+        "meaning": "글자"
+      },
+      {
+        "id": "01JX4683YGNZY2S4SD8EPV3J4N",
+        "readingId": "01JX4680P029STRW4A0Q6BF2RN",
+        "meaning": "문자"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z2GCF4EM6H5275RRX76",
+      "expression": "厳しい"
+    },
+    "reading": {
+      "id": "01JX4680Q07J7BP7E245B95R9T",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z2GCF4EM6H5275RRX76",
+      "furigana": "きびしい"
+    },
+    "meanings": [
+      {
+        "id": "01JX46840064NE0T3KHV7T578K",
+        "readingId": "01JX4680Q07J7BP7E245B95R9T",
+        "meaning": "엄격한"
+      },
+      {
+        "id": "01JX46840G1M2KP642YD75M5YJ",
+        "readingId": "01JX4680Q07J7BP7E245B95R9T",
+        "meaning": "엄한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z30V0S1YQHC98A86QXT",
+      "expression": "優しい"
+    },
+    "reading": {
+      "id": "01JX4680R0NN5BFEFMYC5FF331",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z30V0S1YQHC98A86QXT",
+      "furigana": "やさしい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468420Z18Q9HME4TA2XRKW",
+        "readingId": "01JX4680R0NN5BFEFMYC5FF331",
+        "meaning": "상냥한"
+      },
+      {
+        "id": "01JX46842GSC64GHDC77YM03JY",
+        "readingId": "01JX4680R0NN5BFEFMYC5FF331",
+        "meaning": "친절한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z3GMGVVSPXTWETBPDKP",
+      "expression": "たいてい"
+    },
+    "reading": {
+      "id": "01JX4680S086YZF19015AYGRYP",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z3GMGVVSPXTWETBPDKP",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468440H44AW0Z8M4MN3K7P",
+        "readingId": "01JX4680S086YZF19015AYGRYP",
+        "meaning": "대개"
+      },
+      {
+        "id": "01JX46844G2XJ33PHZ24VAR538",
+        "readingId": "01JX4680S086YZF19015AYGRYP",
+        "meaning": "보통"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z405DAD0J2PEJE9KMXR",
+      "expression": "花見"
+    },
+    "reading": {
+      "id": "01JX4680T0GWTSGX4P70YS3GEK",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z405DAD0J2PEJE9KMXR",
+      "furigana": "はなみ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468460DF5DAR10PXJWK2JQ",
+        "readingId": "01JX4680T0GWTSGX4P70YS3GEK",
+        "meaning": "꽃구경"
+      },
+      {
+        "id": "01JX46846GVSRKHCNNYF028WPV",
+        "readingId": "01JX4680T0GWTSGX4P70YS3GEK",
+        "meaning": "벚꽃놀이"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z4GCRW53THHGJPA4671",
+      "expression": "注射"
+    },
+    "reading": {
+      "id": "01JX4680V0F5ZN6986KAM2NR5S",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z4GCRW53THHGJPA4671",
+      "furigana": "ちゅうしゃ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684807BZEPNF47NVDP438",
+        "readingId": "01JX4680V0F5ZN6986KAM2NR5S",
+        "meaning": "주사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z504WRXW6A0GDREGXM9",
+      "expression": "大分"
+    },
+    "reading": {
+      "id": "01JX4680W0GEPPW45Q2Q0QJD7N",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z504WRXW6A0GDREGXM9",
+      "furigana": "だいぶ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684A0EBFXXJPBW49NGKYK",
+        "readingId": "01JX4680W0GEPPW45Q2Q0QJD7N",
+        "meaning": "상당히"
+      },
+      {
+        "id": "01JX4684AGFJV8JSR00BNJY9NZ",
+        "readingId": "01JX4680W0GEPPW45Q2Q0QJD7N",
+        "meaning": "많이"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z5GZYYTM3VVDBXMFE20",
+      "expression": "ベル"
+    },
+    "reading": {
+      "id": "01JX4680X08HMGYR622WN6W3RK",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z5GZYYTM3VVDBXMFE20",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4684C02NJ96YSZ9445N061",
+        "readingId": "01JX4680X08HMGYR622WN6W3RK",
+        "meaning": "벨"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z607TYDQEBB63A4T9AQ",
+      "expression": "景色"
+    },
+    "reading": {
+      "id": "01JX4680Y05MWS19QC46NF8EVH",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z607TYDQEBB63A4T9AQ",
+      "furigana": "けしき"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684E0GK9XCXBZ9EK3V53Q",
+        "readingId": "01JX4680Y05MWS19QC46NF8EVH",
+        "meaning": "경치"
+      },
+      {
+        "id": "01JX4684EG6W1XF82421H0W1SS",
+        "readingId": "01JX4680Y05MWS19QC46NF8EVH",
+        "meaning": "풍경"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z6G7M0C2RYF2TTQR82V",
+      "expression": "しかる"
+    },
+    "reading": {
+      "id": "01JX4680Z0EKY0HWVG9JSP7V8Y",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z6G7M0C2RYF2TTQR82V",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4684G028H0H8X0DH2Q6WC2",
+        "readingId": "01JX4680Z0EKY0HWVG9JSP7V8Y",
+        "meaning": "특정한"
+      },
+      {
+        "id": "01JX4684GGTKCKDAEC5RJMGA0V",
+        "readingId": "01JX4680Z0EKY0HWVG9JSP7V8Y",
+        "meaning": "특별한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z70G7KBR4Q0MNBBQTZD",
+      "expression": "日記"
+    },
+    "reading": {
+      "id": "01JX4681009XXJQ4NJ9J5N9M5J",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z70G7KBR4Q0MNBBQTZD",
+      "furigana": "にっき"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684J0FZYSEN95CWNZM7G2",
+        "readingId": "01JX4681009XXJQ4NJ9J5N9M5J",
+        "meaning": "일기"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z7GMG2B00B0P73ZB5G3",
+      "expression": "お礼"
+    },
+    "reading": {
+      "id": "01JX468110ASRZAJV7FXW3EQ5T",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z7GMG2B00B0P73ZB5G3",
+      "furigana": "おれい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684M0RSC87H5GST5P2X0A",
+        "readingId": "01JX468110ASRZAJV7FXW3EQ5T",
+        "meaning": "감사의 표현"
+      },
+      {
+        "id": "01JX4684MGC4G74A35K551W7XK",
+        "readingId": "01JX468110ASRZAJV7FXW3EQ5T",
+        "meaning": "감사 인사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z809DB0RK898SNJMG9A",
+      "expression": "集る"
+    },
+    "reading": {
+      "id": "01JX468120H9EQHQKRTYBMY3N0",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z809DB0RK898SNJMG9A",
+      "furigana": "あつまる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684P0CE6TB2GGRPTANHKY",
+        "readingId": "01JX468120H9EQHQKRTYBMY3N0",
+        "meaning": "모이다"
+      },
+      {
+        "id": "01JX4684PGBKNKKJZRX0RD01Z9",
+        "readingId": "01JX468120H9EQHQKRTYBMY3N0",
+        "meaning": "집합하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z8GHB9X0SHXMJ7C2YB9",
+      "expression": "大体"
+    },
+    "reading": {
+      "id": "01JX4681305TQ2XK3B18ZT1R0V",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z8GHB9X0SHXMJ7C2YB9",
+      "furigana": "だいたい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684R0A7466S2AYSZYQKFE",
+        "readingId": "01JX4681305TQ2XK3B18ZT1R0V",
+        "meaning": "대체로"
+      },
+      {
+        "id": "01JX4684RG8RYSMXA74YSVNEV7",
+        "readingId": "01JX4681305TQ2XK3B18ZT1R0V",
+        "meaning": "일반적으로"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z90CGDTMJANFKMVRBHW",
+      "expression": "なるほど"
+    },
+    "reading": {
+      "id": "01JX468140WRF8959W3GJ1AA2R",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z90CGDTMJANFKMVRBHW",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4684T076TAK15NG313GC64",
+        "readingId": "01JX468140WRF8959W3GJ1AA2R",
+        "meaning": "아하"
+      },
+      {
+        "id": "01JX4684TGQR2XYNR83G5JY5Z8",
+        "readingId": "01JX468140WRF8959W3GJ1AA2R",
+        "meaning": "이해했다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467Z9GWABHHBFJYPYF4BFJ",
+      "expression": "公務員"
+    },
+    "reading": {
+      "id": "01JX468150HSGK2J21T9YEJ7WJ",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467Z9GWABHHBFJYPYF4BFJ",
+      "furigana": "こうむいん"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684W0AFQ3MTZ5BQYSZHC4",
+        "readingId": "01JX468150HSGK2J21T9YEJ7WJ",
+        "meaning": "공무원"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZA0WC3NH0TGQM0T3QSZ",
+      "expression": "警察"
+    },
+    "reading": {
+      "id": "01JX468160X3DD7GCH40MWJFKE",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZA0WC3NH0TGQM0T3QSZ",
+      "furigana": "けいさつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4684Y09GYB8FRQRRAN3B7V",
+        "readingId": "01JX468160X3DD7GCH40MWJFKE",
+        "meaning": "경찰"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZAGNH8WR6QBB35TXWW4",
+      "expression": "空気"
+    },
+    "reading": {
+      "id": "01JX468170NE7STPG82N0B7YV4",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZAGNH8WR6QBB35TXWW4",
+      "furigana": "くうき"
+    },
+    "meanings": [
+      {
+        "id": "01JX468500RSS1V48KW3F23VR0",
+        "readingId": "01JX468170NE7STPG82N0B7YV4",
+        "meaning": "공기"
+      },
+      {
+        "id": "01JX46850GPA4QFABWAEAS1GKA",
+        "readingId": "01JX468170NE7STPG82N0B7YV4",
+        "meaning": "대기"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZB0EWA9VZZT8TMMRMAG",
+      "expression": "周り"
+    },
+    "reading": {
+      "id": "01JX468180SWBXG26D9MYJ7YZP",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZB0EWA9VZZT8TMMRMAG",
+      "furigana": "まわり"
+    },
+    "meanings": [
+      {
+        "id": "01JX468520GSZWJD97E5B9SRZG",
+        "readingId": "01JX468180SWBXG26D9MYJ7YZP",
+        "meaning": "주변"
+      },
+      {
+        "id": "01JX46852GEFW17Z2WZS2502V0",
+        "readingId": "01JX468180SWBXG26D9MYJ7YZP",
+        "meaning": "둘레"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZBGX06DM29PECQXRJP0",
+      "expression": "汚れる"
+    },
+    "reading": {
+      "id": "01JX468190547S9SJM03JPQB77",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZBGX06DM29PECQXRJP0",
+      "furigana": "よごれる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468540XARXJ0EBQCC1Y9M0",
+        "readingId": "01JX468190547S9SJM03JPQB77",
+        "meaning": "더러워지다"
+      },
+      {
+        "id": "01JX46854GKBQVC4SAKMBARTC3",
+        "readingId": "01JX468190547S9SJM03JPQB77",
+        "meaning": "오염되다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZC0QCEY9J0KZGA7JGJD",
+      "expression": "約束"
+    },
+    "reading": {
+      "id": "01JX4681A0Z7A489WH56FX4NYA",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZC0QCEY9J0KZGA7JGJD",
+      "furigana": "やくそく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468560JEFMW3KVP7FNH765",
+        "readingId": "01JX4681A0Z7A489WH56FX4NYA",
+        "meaning": "약속"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZCG56NCK0KD9HNX9E7E",
+      "expression": "砂"
+    },
+    "reading": {
+      "id": "01JX4681B0EHW3Z0QVWZS3DZNW",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZCG56NCK0KD9HNX9E7E",
+      "furigana": "すな"
+    },
+    "meanings": [
+      {
+        "id": "01JX468580DDH6ZR4TRK9T16N8",
+        "readingId": "01JX4681B0EHW3Z0QVWZS3DZNW",
+        "meaning": "모래"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZD0J03D9XZCJJGK6G2N",
+      "expression": "笑う"
+    },
+    "reading": {
+      "id": "01JX4681C01F4533DN3NSHXQRR",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZD0J03D9XZCJJGK6G2N",
+      "furigana": "わらう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685A07S77G3CH347CC5SM",
+        "readingId": "01JX4681C01F4533DN3NSHXQRR",
+        "meaning": "웃다"
+      },
+      {
+        "id": "01JX4685AGMHBTGNZ37HZGHW4R",
+        "readingId": "01JX4681C01F4533DN3NSHXQRR",
+        "meaning": "미소짓다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZDGBFHH46QNNBR6AZ2G",
+      "expression": "しっかり"
+    },
+    "reading": {
+      "id": "01JX4681D0AYTA6YX8G62G75AZ",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZDGBFHH46QNNBR6AZ2G",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4685C0ZNAFJDX9RCH3QP9P",
+        "readingId": "01JX4681D0AYTA6YX8G62G75AZ",
+        "meaning": "단단히"
+      },
+      {
+        "id": "01JX4685CG2F69E50AHVTKS1RN",
+        "readingId": "01JX4681D0AYTA6YX8G62G75AZ",
+        "meaning": "확실히"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZE0V4VQ5D5Z0534V1TM",
+      "expression": "住所"
+    },
+    "reading": {
+      "id": "01JX4681E09YSZ1D6NZV8VS9KW",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZE0V4VQ5D5Z0534V1TM",
+      "furigana": "じゅうしょ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685E0GPMD1XWZ6YTZWXVV",
+        "readingId": "01JX4681E09YSZ1D6NZV8VS9KW",
+        "meaning": "주소"
+      },
+      {
+        "id": "01JX4685EGXXN0MQ6GAKYR478R",
+        "readingId": "01JX4681E09YSZ1D6NZV8VS9KW",
+        "meaning": "거주지"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZEG08NK8AR47KSEANPS",
+      "expression": "すり"
+    },
+    "reading": {
+      "id": "01JX4681F0P1G2N5V6HZ58RPAG",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZEG08NK8AR47KSEANPS",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4685G0H0W9CWX7DS1EW4G6",
+        "readingId": "01JX4681F0P1G2N5V6HZ58RPAG",
+        "meaning": "소매치기"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZF0C6DAQWEYC1QP9FGE",
+      "expression": "注意"
+    },
+    "reading": {
+      "id": "01JX4681G08D383HP7SX3BCHWF",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZF0C6DAQWEYC1QP9FGE",
+      "furigana": "ちゅうい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685J0MYFQJ9MHS1KJBB0Y",
+        "readingId": "01JX4681G08D383HP7SX3BCHWF",
+        "meaning": "주의"
+      },
+      {
+        "id": "01JX4685JGMFZ3P3F34K9D5Y1G",
+        "readingId": "01JX4681G08D383HP7SX3BCHWF",
+        "meaning": "경계"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZFG9PQH5ND1CSZMQRRG",
+      "expression": "仕方"
+    },
+    "reading": {
+      "id": "01JX4681H0Y66H69JVREPE8E6W",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZFG9PQH5ND1CSZMQRRG",
+      "furigana": "しかた"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685M04NXAYEQ48G9S1RTZ",
+        "readingId": "01JX4681H0Y66H69JVREPE8E6W",
+        "meaning": "방법"
+      },
+      {
+        "id": "01JX4685MGA3A5KY49JECK6QFC",
+        "readingId": "01JX4681H0Y66H69JVREPE8E6W",
+        "meaning": "수단"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZG0KJBEVQ0CV2MSEBHY",
+      "expression": "無理"
+    },
+    "reading": {
+      "id": "01JX4681J0BXCQKKJ9CPSSVCVC",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZG0KJBEVQ0CV2MSEBHY",
+      "furigana": "むり"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685P0WATXV2WH8JM9ND8J",
+        "readingId": "01JX4681J0BXCQKKJ9CPSSVCVC",
+        "meaning": "무리"
+      },
+      {
+        "id": "01JX4685PGZMW69A3NE0008K6B",
+        "readingId": "01JX4681J0BXCQKKJ9CPSSVCVC",
+        "meaning": "불가능"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZGG3Y94MBXWEEB7ZC8T",
+      "expression": "触る"
+    },
+    "reading": {
+      "id": "01JX4681K0TZJYRN861G9TZ1NV",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZGG3Y94MBXWEEB7ZC8T",
+      "furigana": "さわる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685R0M8QGGD4RAGA9HK2Z",
+        "readingId": "01JX4681K0TZJYRN861G9TZ1NV",
+        "meaning": "만지다"
+      },
+      {
+        "id": "01JX4685RGYEWS1AVR5Q2D9JW2",
+        "readingId": "01JX4681K0TZJYRN861G9TZ1NV",
+        "meaning": "접촉하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZH0X6GKGFMRW59F5K9V",
+      "expression": "押し入れ"
+    },
+    "reading": {
+      "id": "01JX4681M090Z6Q891V885P6S4",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZH0X6GKGFMRW59F5K9V",
+      "furigana": "おしいれ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685T05GWX04G86PFAR1WF",
+        "readingId": "01JX4681M090Z6Q891V885P6S4",
+        "meaning": "벽장"
+      },
+      {
+        "id": "01JX4685TGBVRNNQB8JBF4VZ5Q",
+        "readingId": "01JX4681M090Z6Q891V885P6S4",
+        "meaning": "옷장"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZHG76NP77XSFXB3A8DP",
+      "expression": "さ来月"
+    },
+    "reading": {
+      "id": "01JX4681N0ZB957A3MZ03QX16D",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZHG76NP77XSFXB3A8DP",
+      "furigana": "さらいげつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4685W0Y5RSD77V01P2F7D4",
+        "readingId": "01JX4681N0ZB957A3MZ03QX16D",
+        "meaning": "다다음 달"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZJ05408T8BE6KR104NE",
+      "expression": "ビル"
+    },
+    "reading": {
+      "id": "01JX4681P02XG6QEASX2849R11",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZJ05408T8BE6KR104NE",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4685Y0DBENMKCMESW1V4VS",
+        "readingId": "01JX4681P02XG6QEASX2849R11",
+        "meaning": "빌딩"
+      },
+      {
+        "id": "01JX4685YG2HGV6EWWPT0RWWYA",
+        "readingId": "01JX4681P02XG6QEASX2849R11",
+        "meaning": "건물"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZJGPH674P8NRQM2ZFMW",
+      "expression": "歯医者"
+    },
+    "reading": {
+      "id": "01JX4681Q0CFBVX97649WFVVZC",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZJGPH674P8NRQM2ZFMW",
+      "furigana": "はいしゃ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468600XBSRAAN5QMVJN9MY",
+        "readingId": "01JX4681Q0CFBVX97649WFVVZC",
+        "meaning": "치과의사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZK0HNHJSJ5K08XBKDKV",
+      "expression": "知らせる"
+    },
+    "reading": {
+      "id": "01JX4681R0ZZASQ7494HP6J0BQ",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZK0HNHJSJ5K08XBKDKV",
+      "furigana": "しらせる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468620B6JC8J6W7H4J56NN",
+        "readingId": "01JX4681R0ZZASQ7494HP6J0BQ",
+        "meaning": "알리다"
+      },
+      {
+        "id": "01JX46862GZ71Z7ZDTR7J9WPD8",
+        "readingId": "01JX4681R0ZZASQ7494HP6J0BQ",
+        "meaning": "통지하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZKGGQ27ZXH2SRTZWWWC",
+      "expression": "点"
+    },
+    "reading": {
+      "id": "01JX4681S0RRC9DXRZGWZD7ECC",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZKGGQ27ZXH2SRTZWWWC",
+      "furigana": "てん"
+    },
+    "meanings": [
+      {
+        "id": "01JX46864034QV873J0KVAD180",
+        "readingId": "01JX4681S0RRC9DXRZGWZD7ECC",
+        "meaning": "점"
+      },
+      {
+        "id": "01JX46864GJEX5AFN493XYJB89",
+        "readingId": "01JX4681S0RRC9DXRZGWZD7ECC",
+        "meaning": "포인트"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZM02PTMQMKDV69Y991G",
+      "expression": "予定"
+    },
+    "reading": {
+      "id": "01JX4681T00PVDZJM5ZAMW48SV",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZM02PTMQMKDV69Y991G",
+      "furigana": "よてい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686609YFNB30AR648F0SZ",
+        "readingId": "01JX4681T00PVDZJM5ZAMW48SV",
+        "meaning": "예정"
+      },
+      {
+        "id": "01JX46866GXT3M72SX63J6WGY5",
+        "readingId": "01JX4681T00PVDZJM5ZAMW48SV",
+        "meaning": "계획"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZMGSMZ9R4WG81HS72WB",
+      "expression": "火事"
+    },
+    "reading": {
+      "id": "01JX4681V0QE8P0HA1CCKZXJ5S",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZMGSMZ9R4WG81HS72WB",
+      "furigana": "かじ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686808HR38QTFJGDM8N42",
+        "readingId": "01JX4681V0QE8P0HA1CCKZXJ5S",
+        "meaning": "화재"
+      },
+      {
+        "id": "01JX46868GCYZC80C915K6P0RQ",
+        "readingId": "01JX4681V0QE8P0HA1CCKZXJ5S",
+        "meaning": "불"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZN08C4XGVX2WKKJM0BQ",
+      "expression": "出席"
+    },
+    "reading": {
+      "id": "01JX4681W0GQQVV61JA8WHVXDG",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZN08C4XGVX2WKKJM0BQ",
+      "furigana": "しゅっせき・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686A0PNCKS558QYYX79M4",
+        "readingId": "01JX4681W0GQQVV61JA8WHVXDG",
+        "meaning": "출석하다"
+      },
+      {
+        "id": "01JX4686AG6BEEYR6BQ0MXGPFW",
+        "readingId": "01JX4681W0GQQVV61JA8WHVXDG",
+        "meaning": "참석하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZNGFFMFP0QVQ7PCE8QG",
+      "expression": "壁"
+    },
+    "reading": {
+      "id": "01JX4681X09WCFG1J66AGZEBXS",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZNGFFMFP0QVQ7PCE8QG",
+      "furigana": "かべ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686C0YW5NTCSD3FYGPTMG",
+        "readingId": "01JX4681X09WCFG1J66AGZEBXS",
+        "meaning": "벽"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZP0RS92DXY4W896MXT3",
+      "expression": "植える"
+    },
+    "reading": {
+      "id": "01JX4681Y0ZEB7SBKHZSKCNBVM",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZP0RS92DXY4W896MXT3",
+      "furigana": "うえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686E0TKCZEP36D5EBX190",
+        "readingId": "01JX4681Y0ZEB7SBKHZSKCNBVM",
+        "meaning": "심다"
+      },
+      {
+        "id": "01JX4686EG7EBPFC1FARK76W82",
+        "readingId": "01JX4681Y0ZEB7SBKHZSKCNBVM",
+        "meaning": "재배하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZPG3H128PXG34TESMJG",
+      "expression": "生産"
+    },
+    "reading": {
+      "id": "01JX4681Z0BC0Q0VSMSCR681Q5",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZPG3H128PXG34TESMJG",
+      "furigana": "せいさん・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686G0RTY502TF7WZ6PY3Z",
+        "readingId": "01JX4681Z0BC0Q0VSMSCR681Q5",
+        "meaning": "생산하다"
+      },
+      {
+        "id": "01JX4686GGQMA13EW0YFYPTG7W",
+        "readingId": "01JX4681Z0BC0Q0VSMSCR681Q5",
+        "meaning": "제조하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZQ0FN8BTMQWQ973A74X",
+      "expression": "法律"
+    },
+    "reading": {
+      "id": "01JX468200G772JNE2RBBGTZT0",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZQ0FN8BTMQWQ973A74X",
+      "furigana": "ほうりつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686J0P631PTKPA7H9N5AB",
+        "readingId": "01JX468200G772JNE2RBBGTZT0",
+        "meaning": "법률"
+      },
+      {
+        "id": "01JX4686JGXZ5PV7387ZXNN8P2",
+        "readingId": "01JX468200G772JNE2RBBGTZT0",
+        "meaning": "법"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZQG8CHSXYHH7F24HVA4",
+      "expression": "見つかる"
+    },
+    "reading": {
+      "id": "01JX468210F5MHCGJ1YA644N8R",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZQG8CHSXYHH7F24HVA4",
+      "furigana": "みつかる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686M06S94PYRVDARR3FXP",
+        "readingId": "01JX468210F5MHCGJ1YA644N8R",
+        "meaning": "발견되다"
+      },
+      {
+        "id": "01JX4686MGRQSQXZ49CQD3ESJ5",
+        "readingId": "01JX468210F5MHCGJ1YA644N8R",
+        "meaning": "찾아지다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZR0VY4SW5756M57K8XG",
+      "expression": "港"
+    },
+    "reading": {
+      "id": "01JX46822033YXRMHC7SNRQNDZ",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZR0VY4SW5756M57K8XG",
+      "furigana": "みなと"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686P0F3ASX6BXWXD89Y3Z",
+        "readingId": "01JX46822033YXRMHC7SNRQNDZ",
+        "meaning": "항구"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZRGX69Y6MVGGDW1343X",
+      "expression": "連れる"
+    },
+    "reading": {
+      "id": "01JX468230FZTQWJKT9MKBEJ4F",
+      "stageId": "01JX459DVBDPSRNCENTMBK02M2",
+      "expressionId": "01JX467ZRGX69Y6MVGGDW1343X",
+      "furigana": "つれる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686R0TN2HYXS8KM2DBKH5",
+        "readingId": "01JX468230FZTQWJKT9MKBEJ4F",
+        "meaning": "데리다"
+      },
+      {
+        "id": "01JX4686RGWQEAPSXGTFADA29A",
+        "readingId": "01JX468230FZTQWJKT9MKBEJ4F",
+        "meaning": "이끌다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZS0FNSJ7GT01C6640ZF",
+      "expression": "見つける"
+    },
+    "reading": {
+      "id": "01JX468240S5CRWNQATBTD64BN",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZS0FNSJ7GT01C6640ZF",
+      "furigana": "みつける"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686T0FES55XC7BYHWXR2A",
+        "readingId": "01JX468240S5CRWNQATBTD64BN",
+        "meaning": "발견하다"
+      },
+      {
+        "id": "01JX4686TGBQD2QS207R10C5ZP",
+        "readingId": "01JX468240S5CRWNQATBTD64BN",
+        "meaning": "찾다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZSGV64E0M94ZVGFFWXS",
+      "expression": "辞典"
+    },
+    "reading": {
+      "id": "01JX4682502TYAFD8B7VMFMXN1",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZSGV64E0M94ZVGFFWXS",
+      "furigana": "じてん"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686W0BWDH6TR46AHQC5Q0",
+        "readingId": "01JX4682502TYAFD8B7VMFMXN1",
+        "meaning": "사전"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZT0AJ1GW9E3HSQFQP6C",
+      "expression": "乗り換える"
+    },
+    "reading": {
+      "id": "01JX468260F2RK7X5F55SHNH3K",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZT0AJ1GW9E3HSQFQP6C",
+      "furigana": "のりかえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4686Y0R8X1C6XDX48V1FEB",
+        "readingId": "01JX468260F2RK7X5F55SHNH3K",
+        "meaning": "환승하다"
+      },
+      {
+        "id": "01JX4686YGGZ1MNGBHYRYP8R5D",
+        "readingId": "01JX468260F2RK7X5F55SHNH3K",
+        "meaning": "갈아타다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZTGQGDS4DQFA43W2R43",
+      "expression": "役に立つ"
+    },
+    "reading": {
+      "id": "01JX468270PCQPTCQSHCK8TV41",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZTGQGDS4DQFA43W2R43",
+      "furigana": "やくにたつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687005ZFJCVSC52AGZR14",
+        "readingId": "01JX468270PCQPTCQSHCK8TV41",
+        "meaning": "도움이 되다"
+      },
+      {
+        "id": "01JX46870GWBEWSAZ1Z3PM83A7",
+        "readingId": "01JX468270PCQPTCQSHCK8TV41",
+        "meaning": "유용하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZV05R1FEAWC6YKD20NH",
+      "expression": "写す"
+    },
+    "reading": {
+      "id": "01JX468280FJ1D3T2E9RYVBGV4",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZV05R1FEAWC6YKD20NH",
+      "furigana": "うつす"
+    },
+    "meanings": [
+      {
+        "id": "01JX468720NPFNSK328VEYKHG5",
+        "readingId": "01JX468280FJ1D3T2E9RYVBGV4",
+        "meaning": "복사하다"
+      },
+      {
+        "id": "01JX46872G0KCB26KW331MH5RM",
+        "readingId": "01JX468280FJ1D3T2E9RYVBGV4",
+        "meaning": "촬영하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZVG7A60YDSSJ1THTHC5",
+      "expression": "理由"
+    },
+    "reading": {
+      "id": "01JX468290ACSJWSKMR4XJMP3P",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZVG7A60YDSSJ1THTHC5",
+      "furigana": "りゆう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468740CRKRXK2XN4A3N02M",
+        "readingId": "01JX468290ACSJWSKMR4XJMP3P",
+        "meaning": "이유"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZW0ZGHX4SWMQC0GJDHB",
+      "expression": "たまに"
+    },
+    "reading": {
+      "id": "01JX4682A0W8PXZCRFHP4V1ZEG",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZW0ZGHX4SWMQC0GJDHB",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468760T4QZTE5TRDQ5TZQY",
+        "readingId": "01JX4682A0W8PXZCRFHP4V1ZEG",
+        "meaning": "가끔"
+      },
+      {
+        "id": "01JX46876GHZ00CAHXQHZGE0JH",
+        "readingId": "01JX4682A0W8PXZCRFHP4V1ZEG",
+        "meaning": "이따금"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZWGY0JWB1CCMBD4SD11",
+      "expression": "プレゼント"
+    },
+    "reading": {
+      "id": "01JX4682B0SC26FZ4SZZ0S3N5V",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZWGY0JWB1CCMBD4SD11",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468780KGT8MW213YXRCXS7",
+        "readingId": "01JX4682B0SC26FZ4SZZ0S3N5V",
+        "meaning": "선물"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZX0H69CXJ7Z9QT6GD82",
+      "expression": "いっぱい"
+    },
+    "reading": {
+      "id": "01JX4682C0TGPQWBHC5EB0778J",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZX0H69CXJ7Z9QT6GD82",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4687A0MCK8MM1V4J3AE8ZY",
+        "readingId": "01JX4682C0TGPQWBHC5EB0778J",
+        "meaning": "가득 찬"
+      },
+      {
+        "id": "01JX4687AG3G7CR34X931KJ247",
+        "readingId": "01JX4682C0TGPQWBHC5EB0778J",
+        "meaning": "가득하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZXGV3XGVR40T521FA42",
+      "expression": "運動"
+    },
+    "reading": {
+      "id": "01JX4682D0XD9P60CTVMN66A1F",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZXGV3XGVR40T521FA42",
+      "furigana": "うんどう・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687C0VKY787REYBVAE465",
+        "readingId": "01JX4682D0XD9P60CTVMN66A1F",
+        "meaning": "운동하다"
+      },
+      {
+        "id": "01JX4687CGJK7B7J5X8ESF3BJ6",
+        "readingId": "01JX4682D0XD9P60CTVMN66A1F",
+        "meaning": "운동"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZY0PFV8235P1TJWMNMR",
+      "expression": "見える"
+    },
+    "reading": {
+      "id": "01JX4682E0PN9068JGE150YYAB",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZY0PFV8235P1TJWMNMR",
+      "furigana": "みえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687E0FJR3V72TJZW1S9TG",
+        "readingId": "01JX4682E0PN9068JGE150YYAB",
+        "meaning": "보이다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZYG9J84YYM81DN2WX01",
+      "expression": "申し上げる"
+    },
+    "reading": {
+      "id": "01JX4682F0HHFBXJRPJ3Q9S3RR",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZYG9J84YYM81DN2WX01",
+      "furigana": "もうしあげる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687G0C1DTF7CKCGX6GVC3",
+        "readingId": "01JX4682F0HHFBXJRPJ3Q9S3RR",
+        "meaning": "말씀드리다(겸양)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZZ07C4SQDHYN6FPSRKP",
+      "expression": "冷える"
+    },
+    "reading": {
+      "id": "01JX4682G0FT6FHJJC0RJ8VQ9T",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZZ07C4SQDHYN6FPSRKP",
+      "furigana": "ひえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687J0SKGG0YP95X0NWF4H",
+        "readingId": "01JX4682G0FT6FHJJC0RJ8VQ9T",
+        "meaning": "차가워지다"
+      },
+      {
+        "id": "01JX4687JGMBJHPJXMBPPSAWZ4",
+        "readingId": "01JX4682G0FT6FHJJC0RJ8VQ9T",
+        "meaning": "식다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX467ZZGW3YDR3NEMGBJPPWP",
+      "expression": "痩せる"
+    },
+    "reading": {
+      "id": "01JX4682H036ST7JGD6P5W7S4P",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX467ZZGW3YDR3NEMGBJPPWP",
+      "furigana": "やせる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687M0ZV7HD176CCS2RZ12",
+        "readingId": "01JX4682H036ST7JGD6P5W7S4P",
+        "meaning": "마르다"
+      },
+      {
+        "id": "01JX4687MGE3VZRDYFK7ZHG2Y2",
+        "readingId": "01JX4682H036ST7JGD6P5W7S4P",
+        "meaning": "살이 빠지다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468000FN91JN6W175EDYMM",
+      "expression": "屋上"
+    },
+    "reading": {
+      "id": "01JX4682J0E3W7Z60Q2SYJYED2",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX468000FN91JN6W175EDYMM",
+      "furigana": "おくじょう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687P03SYAPT8Z1RM05W5J",
+        "readingId": "01JX4682J0E3W7Z60Q2SYJYED2",
+        "meaning": "옥상"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46800G060CNJF861D40GEZ",
+      "expression": "ステレオ"
+    },
+    "reading": {
+      "id": "01JX4682K02T4EHTZFZ9ZH24KR",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46800G060CNJF861D40GEZ",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4687R07JD6298EJQS29T4W",
+        "readingId": "01JX4682K02T4EHTZFZ9ZH24KR",
+        "meaning": "스테레오"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468010R53NVFR0WJ43G9BK",
+      "expression": "そう"
+    },
+    "reading": {
+      "id": "01JX4682M0NFTF5B2FGHJAMZB6",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX468010R53NVFR0WJ43G9BK",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4687T0MT861ANPA1N470J3",
+        "readingId": "01JX4682M0NFTF5B2FGHJAMZB6",
+        "meaning": "정말로"
+      },
+      {
+        "id": "01JX4687TGXRRKA5QQPQDJZREX",
+        "readingId": "01JX4682M0NFTF5B2FGHJAMZB6",
+        "meaning": "진짜로"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46801GR9QG7D6NJ6ZP984B",
+      "expression": "お土産"
+    },
+    "reading": {
+      "id": "01JX4682N0K4955Q35K7QC1P93",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46801GR9QG7D6NJ6ZP984B",
+      "furigana": "おみやげ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687W0GD4YSYB5BQS6CHMC",
+        "readingId": "01JX4682N0K4955Q35K7QC1P93",
+        "meaning": "기념품"
+      },
+      {
+        "id": "01JX4687WGZ8WTD4SHMMJ14FXG",
+        "readingId": "01JX4682N0K4955Q35K7QC1P93",
+        "meaning": "선물"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468020KAXDRVS2YE6ZTB9V",
+      "expression": "泥棒"
+    },
+    "reading": {
+      "id": "01JX4682P0ED6PC2Q01740DF2H",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX468020KAXDRVS2YE6ZTB9V",
+      "furigana": "どろぼう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4687Y0RQX2D6PJ9P9QWE1V",
+        "readingId": "01JX4682P0ED6PC2Q01740DF2H",
+        "meaning": "도둑"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46802GHNPR5KBQNCHCJ6CG",
+      "expression": "お祭り"
+    },
+    "reading": {
+      "id": "01JX4682Q0A5R56R1F4NBC4WP0",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46802GHNPR5KBQNCHCJ6CG",
+      "furigana": "おまつり"
+    },
+    "meanings": [
+      {
+        "id": "01JX468800ZQ6QXSFMC4ZKDB8R",
+        "readingId": "01JX4682Q0A5R56R1F4NBC4WP0",
+        "meaning": "축제"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680307PT4S4H9GX09PBGP",
+      "expression": "浅い"
+    },
+    "reading": {
+      "id": "01JX4682R0S72E38EQYV7P778G",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680307PT4S4H9GX09PBGP",
+      "furigana": "あさい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468820QM65E93183P3RYCD",
+        "readingId": "01JX4682R0S72E38EQYV7P778G",
+        "meaning": "얕은"
+      },
+      {
+        "id": "01JX46882G2NP5YYB6Y23RYD3C",
+        "readingId": "01JX4682R0S72E38EQYV7P778G",
+        "meaning": "피상적인"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46803GK7R13R8WCFC68XYG",
+      "expression": "お見舞い"
+    },
+    "reading": {
+      "id": "01JX4682S0HCJY45M31987T6V7",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46803GK7R13R8WCFC68XYG",
+      "furigana": "おみまい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468840F6HTRRGPJT2SKNDY",
+        "readingId": "01JX4682S0HCJY45M31987T6V7",
+        "meaning": "문병"
+      },
+      {
+        "id": "01JX46884GNC5AP8G0VEFYHJC6",
+        "readingId": "01JX4682S0HCJY45M31987T6V7",
+        "meaning": "위문"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468040B1CSYSQJPWDKCCQP",
+      "expression": "アルバイト"
+    },
+    "reading": {
+      "id": "01JX4682T046CN8D03PXD0M33K",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX468040B1CSYSQJPWDKCCQP",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468860VZKZ65BNMBGQEN0Z",
+        "readingId": "01JX4682T046CN8D03PXD0M33K",
+        "meaning": "아르바이트"
+      },
+      {
+        "id": "01JX46886GG6J0ZXZCSQXGGW21",
+        "readingId": "01JX4682T046CN8D03PXD0M33K",
+        "meaning": "파트타임"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46804GSQT925JS4H1G02D7",
+      "expression": "おつり"
+    },
+    "reading": {
+      "id": "01JX4682V04FC1V5MFCH4CHRCM",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46804GSQT925JS4H1G02D7",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468880G2MQG6ZY509GMRCJ",
+        "readingId": "01JX4682V04FC1V5MFCH4CHRCM",
+        "meaning": "거스름돈"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46805052HKGSFQDM0TZ84N",
+      "expression": "輸入"
+    },
+    "reading": {
+      "id": "01JX4682W07RNVK24DRVE2TC2V",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46805052HKGSFQDM0TZ84N",
+      "furigana": "ゆにゅう・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688A0PM46PNBTG08RHM83",
+        "readingId": "01JX4682W07RNVK24DRVE2TC2V",
+        "meaning": "수입하다"
+      },
+      {
+        "id": "01JX4688AGMG9P5F81ACBKPVKY",
+        "readingId": "01JX4682W07RNVK24DRVE2TC2V",
+        "meaning": "수입"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46805G4BK1AVSAJNJBCBS9",
+      "expression": "人口"
+    },
+    "reading": {
+      "id": "01JX4682X0600BERDRAJXH8KHA",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46805G4BK1AVSAJNJBCBS9",
+      "furigana": "じんこう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688C0WWAJBQQTA896JSP0",
+        "readingId": "01JX4682X0600BERDRAJXH8KHA",
+        "meaning": "인구"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468060NZD5N8FG8T51T832",
+      "expression": "興味"
+    },
+    "reading": {
+      "id": "01JX4682Y0JFC6ZRHMMDHKYPNT",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX468060NZD5N8FG8T51T832",
+      "furigana": "きょうみ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688E0DEXE2GBVQ9WQM4AN",
+        "readingId": "01JX4682Y0JFC6ZRHMMDHKYPNT",
+        "meaning": "흥미"
+      },
+      {
+        "id": "01JX4688EGV6972A5Q43QFGKP0",
+        "readingId": "01JX4682Y0JFC6ZRHMMDHKYPNT",
+        "meaning": "관심"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46806GW7X5W8B8N8FHPD5B",
+      "expression": "時代"
+    },
+    "reading": {
+      "id": "01JX4682Z0F42AXXKJQEKG8E8E",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46806GW7X5W8B8N8FHPD5B",
+      "furigana": "じだい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688G05E6VTAKY5XAJHV2E",
+        "readingId": "01JX4682Z0F42AXXKJQEKG8E8E",
+        "meaning": "시대"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468070AAJS5CK19AG3BFRD",
+      "expression": "特急"
+    },
+    "reading": {
+      "id": "01JX4683000VA9PTDYNX8YSK3M",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX468070AAJS5CK19AG3BFRD",
+      "furigana": "とっきゅう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688J0TQHK9RG1AWFY8NMK",
+        "readingId": "01JX4683000VA9PTDYNX8YSK3M",
+        "meaning": "특급열차"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46807GK0ABNVK1GQ6WYHQ3",
+      "expression": "腕"
+    },
+    "reading": {
+      "id": "01JX468310E6MXQVYGZEW8HD6C",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46807GK0ABNVK1GQ6WYHQ3",
+      "furigana": "うで"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688M059717WQZP78PHS1N",
+        "readingId": "01JX468310E6MXQVYGZEW8HD6C",
+        "meaning": "팔"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468080KZA5B1E58FHGGBAG",
+      "expression": "気分"
+    },
+    "reading": {
+      "id": "01JX4683205TYVM7BT2QQNF5C6",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX468080KZA5B1E58FHGGBAG",
+      "furigana": "きぶん"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688P0HHSZ3CM2GCPYQ1XP",
+        "readingId": "01JX4683205TYVM7BT2QQNF5C6",
+        "meaning": "기분"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46808G4TRDYSYXA63D9BRN",
+      "expression": "上る"
+    },
+    "reading": {
+      "id": "01JX468330WTRC5JP5Q05FRY2X",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46808G4TRDYSYXA63D9BRN",
+      "furigana": "あがる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688R0KTHT2HH08DP4WRDB",
+        "readingId": "01JX468330WTRC5JP5Q05FRY2X",
+        "meaning": "오르다"
+      },
+      {
+        "id": "01JX4688RG65G4T8VNZFCF3W00",
+        "readingId": "01JX468330WTRC5JP5Q05FRY2X",
+        "meaning": "상승하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46809014NRA50A74YNKXG3",
+      "expression": "いただく"
+    },
+    "reading": {
+      "id": "01JX46834030MSTD330927RPV1",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46809014NRA50A74YNKXG3",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4688T0SKE7H8PXJ3FRC4DH",
+        "readingId": "01JX46834030MSTD330927RPV1",
+        "meaning": "받다(겸양)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46809G1H2PM780PGYAASXP",
+      "expression": "泊まる"
+    },
+    "reading": {
+      "id": "01JX4683503QR7CN7E1AEMRPCK",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX46809G1H2PM780PGYAASXP",
+      "furigana": "とまる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688W0P0P2TKSYQEDE54X5",
+        "readingId": "01JX4683503QR7CN7E1AEMRPCK",
+        "meaning": "숙박하다"
+      },
+      {
+        "id": "01JX4688WGP97WM0R53D5RBJW0",
+        "readingId": "01JX4683503QR7CN7E1AEMRPCK",
+        "meaning": "묵다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680A0E8VAB9KBR65VE913",
+      "expression": "盗む"
+    },
+    "reading": {
+      "id": "01JX468360NW31KSD5R2E4PKKJ",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680A0E8VAB9KBR65VE913",
+      "furigana": "ぬすむ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4688Y0DF3T1ZGKAAGKZRDZ",
+        "readingId": "01JX468360NW31KSD5R2E4PKKJ",
+        "meaning": "훔치다"
+      },
+      {
+        "id": "01JX4688YGXPGQR9DQ7D285GN3",
+        "readingId": "01JX468360NW31KSD5R2E4PKKJ",
+        "meaning": "도둑질하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680AGRB283B557GD89N8C",
+      "expression": "ひげ"
+    },
+    "reading": {
+      "id": "01JX468370B858CS31RJNNRBR8",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680AGRB283B557GD89N8C",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX46890081TT1BFVETGP7GH1",
+        "readingId": "01JX468370B858CS31RJNNRBR8",
+        "meaning": "수염"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680B0193X5SFGRNV4EDXQ",
+      "expression": "坂"
+    },
+    "reading": {
+      "id": "01JX468380MAZEQMQRYP5PG4AA",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680B0193X5SFGRNV4EDXQ",
+      "furigana": "さか"
+    },
+    "meanings": [
+      {
+        "id": "01JX468920HK0WFBKKYD6SQAWN",
+        "readingId": "01JX468380MAZEQMQRYP5PG4AA",
+        "meaning": "언덕"
+      },
+      {
+        "id": "01JX46892GTPWDWW9W2F0HMT99",
+        "readingId": "01JX468380MAZEQMQRYP5PG4AA",
+        "meaning": "비탈"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680BG823RXJV9NG5BRF47",
+      "expression": "よろしい"
+    },
+    "reading": {
+      "id": "01JX4683900HSJ2S4KEZJWX8D0",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680BG823RXJV9NG5BRF47",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468940ARHH3J4DWRT22YEK",
+        "readingId": "01JX4683900HSJ2S4KEZJWX8D0",
+        "meaning": "좋다(존경)"
+      },
+      {
+        "id": "01JX46894G39EMCYNVF3X8XE4Y",
+        "readingId": "01JX4683900HSJ2S4KEZJWX8D0",
+        "meaning": "괜찮다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680C0AYC0K9BE8GA08D44",
+      "expression": "技術"
+    },
+    "reading": {
+      "id": "01JX4683A08957WSJ0TN9PC1JY",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680C0AYC0K9BE8GA08D44",
+      "furigana": "ぎじゅつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468960PYF9B3CWBSFHTVEP",
+        "readingId": "01JX4683A08957WSJ0TN9PC1JY",
+        "meaning": "기술"
+      },
+      {
+        "id": "01JX46896GAZKWZNMC69JB7EAM",
+        "readingId": "01JX4683A08957WSJ0TN9PC1JY",
+        "meaning": "기능"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680CGFXQJF3F3N551SGTP",
+      "expression": "為"
+    },
+    "reading": {
+      "id": "01JX4683B0FY71BT0Z86DV1ZY7",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680CGFXQJF3F3N551SGTP",
+      "furigana": "ため"
+    },
+    "meanings": [
+      {
+        "id": "01JX468980NE9SWKWB3A1B8XPA",
+        "readingId": "01JX4683B0FY71BT0Z86DV1ZY7",
+        "meaning": "위해"
+      },
+      {
+        "id": "01JX46898GNQVFTQSV8GQPNF3E",
+        "readingId": "01JX4683B0FY71BT0Z86DV1ZY7",
+        "meaning": "~하기 위해"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680D0R07W6Z154V1644MZ",
+      "expression": "小説"
+    },
+    "reading": {
+      "id": "01JX4683C04MQKG5J528H2KX4Q",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680D0R07W6Z154V1644MZ",
+      "furigana": "しょうせつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689A0TDQ16PPZC3883ME2",
+        "readingId": "01JX4683C04MQKG5J528H2KX4Q",
+        "meaning": "소설"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680DG9BHY5QNFZMMDPG9C",
+      "expression": "調べる"
+    },
+    "reading": {
+      "id": "01JX4683D0DYN1JNC1QAHGQ0FM",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680DG9BHY5QNFZMMDPG9C",
+      "furigana": "しらべる"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689C0PNMDG060HKBX7Q87",
+        "readingId": "01JX4683D0DYN1JNC1QAHGQ0FM",
+        "meaning": "조사하다"
+      },
+      {
+        "id": "01JX4689CGP02HBE3H8117ESHG",
+        "readingId": "01JX4683D0DYN1JNC1QAHGQ0FM",
+        "meaning": "살피다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680E0C0XPX7NZSJZ13TW6",
+      "expression": "趣味"
+    },
+    "reading": {
+      "id": "01JX4683E0KWGP7K8F2DFEY9S4",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680E0C0XPX7NZSJZ13TW6",
+      "furigana": "しゅみ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689E06SSZ8N1EQTHESB3A",
+        "readingId": "01JX4683E0KWGP7K8F2DFEY9S4",
+        "meaning": "취미"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680EGXSTD4S29Z9F2E7CR",
+      "expression": "運転手"
+    },
+    "reading": {
+      "id": "01JX4683F02JSKJH2SB6VNJM8Z",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680EGXSTD4S29Z9F2E7CR",
+      "furigana": "うんてんしゅ"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689G00YQMB7HRXVGCXC87",
+        "readingId": "01JX4683F02JSKJH2SB6VNJM8Z",
+        "meaning": "운전사"
+      },
+      {
+        "id": "01JX4689GGW5ZYT4S48ZBNHC3F",
+        "readingId": "01JX4683F02JSKJH2SB6VNJM8Z",
+        "meaning": "기사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680F0DX9FAYM0ERP84K12",
+      "expression": "深い"
+    },
+    "reading": {
+      "id": "01JX4683G0332DD2DYXA4F6D9J",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680F0DX9FAYM0ERP84K12",
+      "furigana": "ふかい"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689J0XWD84HN7EH88D6BQ",
+        "readingId": "01JX4683G0332DD2DYXA4F6D9J",
+        "meaning": "깊은"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680FGQPTCZD0CNC2X92V0",
+      "expression": "林"
+    },
+    "reading": {
+      "id": "01JX4683H0ESZ4TD97J3YTS5XE",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680FGQPTCZD0CNC2X92V0",
+      "furigana": "はやし"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689M0P51TGB4CWWYE83AJ",
+        "readingId": "01JX4683H0ESZ4TD97J3YTS5XE",
+        "meaning": "숲"
+      },
+      {
+        "id": "01JX4689MG1KYY3M1YDG202MAX",
+        "readingId": "01JX4683H0ESZ4TD97J3YTS5XE",
+        "meaning": "삼림"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680G0TMYZNEJ6M9YCBHMG",
+      "expression": "小学校"
+    },
+    "reading": {
+      "id": "01JX4683J0N1M6MAH1HR6GRD9N",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680G0TMYZNEJ6M9YCBHMG",
+      "furigana": "しょうがっこう"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689P02ME4FDW9NT300J5W",
+        "readingId": "01JX4683J0N1M6MAH1HR6GRD9N",
+        "meaning": "초등학교"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680GGGW5RT91BFEY8H3YT",
+      "expression": "まず"
+    },
+    "reading": {
+      "id": "01JX4683K015C9AZ8HD8JK93K0",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680GGGW5RT91BFEY8H3YT",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX4689R0TNV36S9SP4V7C6FM",
+        "readingId": "01JX4683K015C9AZ8HD8JK93K0",
+        "meaning": "우선"
+      },
+      {
+        "id": "01JX4689RGPSW98XF2JSFYJW0X",
+        "readingId": "01JX4683K015C9AZ8HD8JK93K0",
+        "meaning": "먼저"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680H0CWET1WKFETGX4GMR",
+      "expression": "気持ち"
+    },
+    "reading": {
+      "id": "01JX4683M0A4RNWX1D9R8F53F8",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680H0CWET1WKFETGX4GMR",
+      "furigana": "きもち"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689T03KV5YZE0JDSBB5F2",
+        "readingId": "01JX4683M0A4RNWX1D9R8F53F8",
+        "meaning": "기분"
+      },
+      {
+        "id": "01JX4689TG739KWF7T5259Y2F0",
+        "readingId": "01JX4683M0A4RNWX1D9R8F53F8",
+        "meaning": "감정"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680HGXRGEH3VYPCPHNF2G",
+      "expression": "思い出す"
+    },
+    "reading": {
+      "id": "01JX4683N0BTJWNEAZXY97P6T3",
+      "stageId": "01JX459DVCYJ4AMXQ01VVCS1DT",
+      "expressionId": "01JX4680HGXRGEH3VYPCPHNF2G",
+      "furigana": "おもいだす"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689W0821ZT2XT1Z1J1N1Y",
+        "readingId": "01JX4683N0BTJWNEAZXY97P6T3",
+        "meaning": "기억하다"
+      },
+      {
+        "id": "01JX4689WGCN4P2DE73RPA5PNY",
+        "readingId": "01JX4683N0BTJWNEAZXY97P6T3",
+        "meaning": "생각해내다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680J0PJ1V2ZP6DH8KCTGX",
+      "expression": "留守"
+    },
+    "reading": {
+      "id": "01JX4683P0WSA1NBR9PM4NFH1A",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680J0PJ1V2ZP6DH8KCTGX",
+      "furigana": "るす"
+    },
+    "meanings": [
+      {
+        "id": "01JX4689Y0AVXV71TPW1WARTV1",
+        "readingId": "01JX4683P0WSA1NBR9PM4NFH1A",
+        "meaning": "부재"
+      },
+      {
+        "id": "01JX4689YGC566A14NF9JRT3FX",
+        "readingId": "01JX4683P0WSA1NBR9PM4NFH1A",
+        "meaning": "집을 비움"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680JGKBJZ589GJQ3XHMX4",
+      "expression": "続ける"
+    },
+    "reading": {
+      "id": "01JX4683Q03RQSVK6PW636GSGP",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680JGKBJZ589GJQ3XHMX4",
+      "furigana": "つづける"
+    },
+    "meanings": [
+      {
+        "id": "01JX468A0070WNQ34XQB5H5NJ5",
+        "readingId": "01JX4683Q03RQSVK6PW636GSGP",
+        "meaning": "계속하다"
+      },
+      {
+        "id": "01JX468A0GST385747NXKFFQVX",
+        "readingId": "01JX4683Q03RQSVK6PW636GSGP",
+        "meaning": "이어가다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680K0GC3WQ5BCB2PM3RNX",
+      "expression": "草"
+    },
+    "reading": {
+      "id": "01JX4683R0M8R3PNBHYVRWNAFE",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680K0GC3WQ5BCB2PM3RNX",
+      "furigana": "くさ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468A20ZSMTJQYTV82J6NCS",
+        "readingId": "01JX4683R0M8R3PNBHYVRWNAFE",
+        "meaning": "풀"
+      },
+      {
+        "id": "01JX468A2GD6S47RGDFSMSA24X",
+        "readingId": "01JX4683R0M8R3PNBHYVRWNAFE",
+        "meaning": "잔디"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680KGQKQV7CBZYTAC9VF4",
+      "expression": "途中"
+    },
+    "reading": {
+      "id": "01JX4683S0XX5AKEB1C4G388PC",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680KGQKQV7CBZYTAC9VF4",
+      "furigana": "とちゅう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468A40TXVRVKJ389R87P2T",
+        "readingId": "01JX4683S0XX5AKEB1C4G388PC",
+        "meaning": "도중"
+      },
+      {
+        "id": "01JX468A4GVQ3B8YM16G2TN0X0",
+        "readingId": "01JX4683S0XX5AKEB1C4G388PC",
+        "meaning": "가는 길"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680M0B6RGNHX2KZTS9XHB",
+      "expression": "できるだけ"
+    },
+    "reading": {
+      "id": "01JX4683T0PKRRBM4DP6S666G7",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680M0B6RGNHX2KZTS9XHB",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468A600EQ1J9RN0NXV6E7Z",
+        "readingId": "01JX4683T0PKRRBM4DP6S666G7",
+        "meaning": "될 수 있는 한"
+      },
+      {
+        "id": "01JX468A6GV7M4N0BSXQJJ84TB",
+        "readingId": "01JX4683T0PKRRBM4DP6S666G7",
+        "meaning": "가능한 한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680MG6N7FW8PNEESMSG0G",
+      "expression": "お宅"
+    },
+    "reading": {
+      "id": "01JX4683V0Q6V3P7Z66WKN61SZ",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680MG6N7FW8PNEESMSG0G",
+      "furigana": "おたく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468A80XAYRXG6KG5Q628Q7",
+        "readingId": "01JX4683V0Q6V3P7Z66WKN61SZ",
+        "meaning": "댁"
+      },
+      {
+        "id": "01JX468A8GVK93KNJC95HWMQSG",
+        "readingId": "01JX4683V0Q6V3P7Z66WKN61SZ",
+        "meaning": "집(존칭)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680N05QXEET3H0RX8VZ3R",
+      "expression": "召し上がる"
+    },
+    "reading": {
+      "id": "01JX4683W02PP0A39Y6RPP5TWG",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680N05QXEET3H0RX8VZ3R",
+      "furigana": "めしあがる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AA0G4CP5WX58RVDNQXE",
+        "readingId": "01JX4683W02PP0A39Y6RPP5TWG",
+        "meaning": "드시다(존경)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680NGF9VGRA0Y2EMKFMGD",
+      "expression": "悲しい"
+    },
+    "reading": {
+      "id": "01JX4683X0WK0CDDP31741DS51",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680NGF9VGRA0Y2EMKFMGD",
+      "furigana": "かなしい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AC0VGYPB4HRJA688R8A",
+        "readingId": "01JX4683X0WK0CDDP31741DS51",
+        "meaning": "슬픈"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680P0EZVTXTWKK165V15H",
+      "expression": "子"
+    },
+    "reading": {
+      "id": "01JX4683Y07V3R567FQ67Q4HRK",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680P0EZVTXTWKK165V15H",
+      "furigana": "こ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AE0Z7KBMH3EA45ZBN0D",
+        "readingId": "01JX4683Y07V3R567FQ67Q4HRK",
+        "meaning": "아이"
+      },
+      {
+        "id": "01JX468AEGYQVYT8W9CH1TS30M",
+        "readingId": "01JX4683Y07V3R567FQ67Q4HRK",
+        "meaning": "자식"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680PG437WM6FFB27MR1GP",
+      "expression": "運転"
+    },
+    "reading": {
+      "id": "01JX4683Z02W1BG5Z6CBFBMRRJ",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680PG437WM6FFB27MR1GP",
+      "furigana": "うんてん・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AG0XSJ0MXRRD4V4YYEX",
+        "readingId": "01JX4683Z02W1BG5Z6CBFBMRRJ",
+        "meaning": "운전하다"
+      },
+      {
+        "id": "01JX468AGGS3306YV9VP9B2948",
+        "readingId": "01JX4683Z02W1BG5Z6CBFBMRRJ",
+        "meaning": "운전"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680Q0WEWFZPJTX5AME6GY",
+      "expression": "はっきり"
+    },
+    "reading": {
+      "id": "01JX468400QH1JFABXGD3PQ481",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680Q0WEWFZPJTX5AME6GY",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468AJ0QRSRV070G9X1PRYR",
+        "readingId": "01JX468400QH1JFABXGD3PQ481",
+        "meaning": "분명히"
+      },
+      {
+        "id": "01JX468AJG4XA67M1EC97NSB1H",
+        "readingId": "01JX468400QH1JFABXGD3PQ481",
+        "meaning": "확실히"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680QGTZNG7FDM623K8W2A",
+      "expression": "折る"
+    },
+    "reading": {
+      "id": "01JX468410HYYYYSM67WGZBC7M",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680QGTZNG7FDM623K8W2A",
+      "furigana": "おる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AM0MHN5M83BMRD5KK7C",
+        "readingId": "01JX468410HYYYYSM67WGZBC7M",
+        "meaning": "꺾다"
+      },
+      {
+        "id": "01JX468AMG9W88FEP462EYE95P",
+        "readingId": "01JX468410HYYYYSM67WGZBC7M",
+        "meaning": "접다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680R089MT8G3TPMKF70FH",
+      "expression": "今度"
+    },
+    "reading": {
+      "id": "01JX468420HSHR71EZZB8S55QN",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680R089MT8G3TPMKF70FH",
+      "furigana": "こんど"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AP090BC7PVYS37V56G7",
+        "readingId": "01JX468420HSHR71EZZB8S55QN",
+        "meaning": "이번"
+      },
+      {
+        "id": "01JX468APGN5WN73HGBA8HQKH4",
+        "readingId": "01JX468420HSHR71EZZB8S55QN",
+        "meaning": "다음 번"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680RG8F6N2MQ9HN0NP6XP",
+      "expression": "アフリカ"
+    },
+    "reading": {
+      "id": "01JX4684302EQ2XQKT8TAHXYJK",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680RG8F6N2MQ9HN0NP6XP",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468AR0NZ8S78R368YCSAZK",
+        "readingId": "01JX4684302EQ2XQKT8TAHXYJK",
+        "meaning": "아프리카"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680S0NMKP53BXZ939KTZM",
+      "expression": "壊れる"
+    },
+    "reading": {
+      "id": "01JX468440F3T555MGEM13W6G7",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680S0NMKP53BXZ939KTZM",
+      "furigana": "こわれる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AT0RRM8G0ZT3NVYXF24",
+        "readingId": "01JX468440F3T555MGEM13W6G7",
+        "meaning": "고장나다"
+      },
+      {
+        "id": "01JX468ATGANVQ6YXC9ZXJBFJG",
+        "readingId": "01JX468440F3T555MGEM13W6G7",
+        "meaning": "부서지다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680SGZP9AYW3VAARQQ5AG",
+      "expression": "番組"
+    },
+    "reading": {
+      "id": "01JX468450TN2S9RBGES6X3XW2",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680SGZP9AYW3VAARQQ5AG",
+      "furigana": "ばんぐみ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AW0V53BEFDMRRZE9HM3",
+        "readingId": "01JX468450TN2S9RBGES6X3XW2",
+        "meaning": "프로그램"
+      },
+      {
+        "id": "01JX468AWGNMC4MH6FGYHGAKBY",
+        "readingId": "01JX468450TN2S9RBGES6X3XW2",
+        "meaning": "방송"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680T0657WTYSM9Y43VG9K",
+      "expression": "捕まえる"
+    },
+    "reading": {
+      "id": "01JX468460JDGKP9C1DJWMSSZR",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680T0657WTYSM9Y43VG9K",
+      "furigana": "つかまえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468AY07E75ZM6EW3XS4TTJ",
+        "readingId": "01JX468460JDGKP9C1DJWMSSZR",
+        "meaning": "잡다"
+      },
+      {
+        "id": "01JX468AYG3DCVMD3FN9RBB2C1",
+        "readingId": "01JX468460JDGKP9C1DJWMSSZR",
+        "meaning": "붙잡다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680TGVN9XFC1AQXGE3014",
+      "expression": "タイプ"
+    },
+    "reading": {
+      "id": "01JX4684707DQT94463JW4EDXR",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680TGVN9XFC1AQXGE3014",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468B00D9B1XW835MG2656X",
+        "readingId": "01JX4684707DQT94463JW4EDXR",
+        "meaning": "타입"
+      },
+      {
+        "id": "01JX468B0G9XP4QG2BTQCNTTZS",
+        "readingId": "01JX4684707DQT94463JW4EDXR",
+        "meaning": "유형"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680V0ZBAZW1KMFXWC8J7R",
+      "expression": "毛"
+    },
+    "reading": {
+      "id": "01JX468480EF4RQ7479QBPBJ71",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680V0ZBAZW1KMFXWC8J7R",
+      "furigana": "け"
+    },
+    "meanings": [
+      {
+        "id": "01JX468B20AA4RM0P94DYKND83",
+        "readingId": "01JX468480EF4RQ7479QBPBJ71",
+        "meaning": "털"
+      },
+      {
+        "id": "01JX468B2G7ZE2BT0HM63DV8XR",
+        "readingId": "01JX468480EF4RQ7479QBPBJ71",
+        "meaning": "머리카락"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680VGQ7Z2C2QTAEMEECCG",
+      "expression": "落る"
+    },
+    "reading": {
+      "id": "01JX468490KCWBC3A2CMAEH1SV",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680VGQ7Z2C2QTAEMEECCG",
+      "furigana": "おちる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468B4086EPV105XJ35FWH2",
+        "readingId": "01JX468490KCWBC3A2CMAEH1SV",
+        "meaning": "떨어지다"
+      },
+      {
+        "id": "01JX468B4G5XJHTF2TGD5QTPVX",
+        "readingId": "01JX468490KCWBC3A2CMAEH1SV",
+        "meaning": "낙하하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680W09BHESFDZQFH8VDQ9",
+      "expression": "場合"
+    },
+    "reading": {
+      "id": "01JX4684A02DY7KCYQJF2X1SW1",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680W09BHESFDZQFH8VDQ9",
+      "furigana": "ばあい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468B60WD1F45F1FB4XS2VH",
+        "readingId": "01JX4684A02DY7KCYQJF2X1SW1",
+        "meaning": "경우"
+      },
+      {
+        "id": "01JX468B6GFKBPGAM5X51J7S12",
+        "readingId": "01JX4684A02DY7KCYQJF2X1SW1",
+        "meaning": "상황"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680WG9NVMN51T5N1DEX2Z",
+      "expression": "意見"
+    },
+    "reading": {
+      "id": "01JX4684B02T7BDBDHN9K6S0N8",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680WG9NVMN51T5N1DEX2Z",
+      "furigana": "いけん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468B805VX9BN70CT0YY1XP",
+        "readingId": "01JX4684B02T7BDBDHN9K6S0N8",
+        "meaning": "의견"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680X09YTG6EEJ6VVN2539",
+      "expression": "通る"
+    },
+    "reading": {
+      "id": "01JX4684C05ESZZCVAM81EEWJR",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680X09YTG6EEJ6VVN2539",
+      "furigana": "とおる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468BA0AFVD430DC1ZHSKB1",
+        "readingId": "01JX4684C05ESZZCVAM81EEWJR",
+        "meaning": "지나가다"
+      },
+      {
+        "id": "01JX468BAG5812TKGKKJZ0B0E5",
+        "readingId": "01JX4684C05ESZZCVAM81EEWJR",
+        "meaning": "통과하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680XGB1NAYWJ5GV13XK4A",
+      "expression": "着物"
+    },
+    "reading": {
+      "id": "01JX4684D03G36AZ7ZSK5WEB8P",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680XGB1NAYWJ5GV13XK4A",
+      "furigana": "きもの"
+    },
+    "meanings": [
+      {
+        "id": "01JX468BC020PP4ER9MAVDNR1T",
+        "readingId": "01JX4684D03G36AZ7ZSK5WEB8P",
+        "meaning": "기모노"
+      },
+      {
+        "id": "01JX468BCGDG6D680EVQMHYMKH",
+        "readingId": "01JX4684D03G36AZ7ZSK5WEB8P",
+        "meaning": "일본 전통 옷"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680Y0Z4HZMMKB0VNZYY1Z",
+      "expression": "森"
+    },
+    "reading": {
+      "id": "01JX4684E0E64087WR2JKW3V7V",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680Y0Z4HZMMKB0VNZYY1Z",
+      "furigana": "もり"
+    },
+    "meanings": [
+      {
+        "id": "01JX468BE0H7H70AE6ZD74MGY4",
+        "readingId": "01JX4684E0E64087WR2JKW3V7V",
+        "meaning": "숲"
+      },
+      {
+        "id": "01JX468BEGZHG9TFQCPB2BCHXA",
+        "readingId": "01JX4684E0E64087WR2JKW3V7V",
+        "meaning": "삼림"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680YGF0NSY2HTM81QM79N",
+      "expression": "市"
+    },
+    "reading": {
+      "id": "01JX4684F0RY76BJFGXGA457M3",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680YGF0NSY2HTM81QM79N",
+      "furigana": "し"
+    },
+    "meanings": [
+      {
+        "id": "01JX468BG0CD0SP5XBNF540C2T",
+        "readingId": "01JX4684F0RY76BJFGXGA457M3",
+        "meaning": "도시"
+      },
+      {
+        "id": "01JX468BGGJQTQBERQGA8K3T8R",
+        "readingId": "01JX4684F0RY76BJFGXGA457M3",
+        "meaning": "시"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680Z0TAZHECVB8RE9VK7Q",
+      "expression": "ほど"
+    },
+    "reading": {
+      "id": "01JX4684G0YZHMK3FKAW5DV86T",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680Z0TAZHECVB8RE9VK7Q",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468BJ0BMPXC1T0NHZMX40D",
+        "readingId": "01JX4684G0YZHMK3FKAW5DV86T",
+        "meaning": "정도"
+      },
+      {
+        "id": "01JX468BJG2N471GXBKHYZG65W",
+        "readingId": "01JX4684G0YZHMK3FKAW5DV86T",
+        "meaning": "범위"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4680ZGG90M77QSS9CRBGBV",
+      "expression": "入院"
+    },
+    "reading": {
+      "id": "01JX4684H07M88VXB4HKE9B4PZ",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4680ZGG90M77QSS9CRBGBV",
+      "furigana": "にゅういん・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX468BM0GDMB310RY3PZSG8H",
+        "readingId": "01JX4684H07M88VXB4HKE9B4PZ",
+        "meaning": "입원하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468100M3664KGZHSJSKEX2",
+      "expression": "カーテン"
+    },
+    "reading": {
+      "id": "01JX4684J0E5B1R9VW1ERCTXFJ",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468100M3664KGZHSJSKEX2",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468BP0P0S8ZCBP94ARFTHR",
+        "readingId": "01JX4684J0E5B1R9VW1ERCTXFJ",
+        "meaning": "커튼"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46810G1QSF03ZN1TSSEKM1",
+      "expression": "動く"
+    },
+    "reading": {
+      "id": "01JX4684K07Y2N1V6AGNVB448C",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46810G1QSF03ZN1TSSEKM1",
+      "furigana": "うごく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468BR08HJ8TCS9MRYVJ62G",
+        "readingId": "01JX4684K07Y2N1V6AGNVB448C",
+        "meaning": "움직이다"
+      },
+      {
+        "id": "01JX468BRG59EKH1P4W2CFSWR2",
+        "readingId": "01JX4684K07Y2N1V6AGNVB448C",
+        "meaning": "이동하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468110KEZ3G2AHH7H2RJWC",
+      "expression": "ぜひ"
+    },
+    "reading": {
+      "id": "01JX4684M0NPMB4V5Y1STXQPFN",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468110KEZ3G2AHH7H2RJWC",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468BT02XX7WJBZH8BBQHS8",
+        "readingId": "01JX4684M0NPMB4V5Y1STXQPFN",
+        "meaning": "꼭"
+      },
+      {
+        "id": "01JX468BTG24RZ2DPRVRMTQDBQ",
+        "readingId": "01JX4684M0NPMB4V5Y1STXQPFN",
+        "meaning": "반드시"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46811GFVD6J35D6V1T9BYM",
+      "expression": "すばらしい"
+    },
+    "reading": {
+      "id": "01JX4684N0PEEGXBPQJG119G07",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46811GFVD6J35D6V1T9BYM",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468BW02F6J0HFX6G8Z648Q",
+        "readingId": "01JX4684N0PEEGXBPQJG119G07",
+        "meaning": "훌륭한"
+      },
+      {
+        "id": "01JX468BWGN7ZQEHNX2WHV4YQ6",
+        "readingId": "01JX4684N0PEEGXBPQJG119G07",
+        "meaning": "멋진"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681209DPMGYNN6SYVYSAZ",
+      "expression": "参る"
+    },
+    "reading": {
+      "id": "01JX4684P09K49C19WZ642PHSE",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4681209DPMGYNN6SYVYSAZ",
+      "furigana": "まいる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468BY0Y904SKEVX3D22TVK",
+        "readingId": "01JX4684P09K49C19WZ642PHSE",
+        "meaning": "가다(겸양)"
+      },
+      {
+        "id": "01JX468BYGSJA4K655JAYK8Z2Y",
+        "readingId": "01JX4684P09K49C19WZ642PHSE",
+        "meaning": "오다(겸양)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46812GZZWQ12ENF63W93K0",
+      "expression": "ねっしん"
+    },
+    "reading": {
+      "id": "01JX4684Q0DZGXRN82KKPTVREV",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46812GZZWQ12ENF63W93K0",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468C00JSTKNGARZWA79Z2G",
+        "readingId": "01JX4684Q0DZGXRN82KKPTVREV",
+        "meaning": "열정"
+      },
+      {
+        "id": "01JX468C0GVVA3TSS86ZEN5X7G",
+        "readingId": "01JX4684Q0DZGXRN82KKPTVREV",
+        "meaning": "열심"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468130G6KCG9N1AM27A9C7",
+      "expression": "講堂"
+    },
+    "reading": {
+      "id": "01JX4684R073MZPS1SJ5TTWP0V",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468130G6KCG9N1AM27A9C7",
+      "furigana": "こうどう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468C2021KA6WBBPBDA3MMX",
+        "readingId": "01JX4684R073MZPS1SJ5TTWP0V",
+        "meaning": "강당"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46813GRD1P06JPCRF3EW7N",
+      "expression": "もし"
+    },
+    "reading": {
+      "id": "01JX4684S0S6YTVNFJHRZP5W58",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46813GRD1P06JPCRF3EW7N",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468C40EPWNKQZSJRK4RGZN",
+        "readingId": "01JX4684S0S6YTVNFJHRZP5W58",
+        "meaning": "만약"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468140EPR53N7M9VK5ZQMF",
+      "expression": "ぬれる"
+    },
+    "reading": {
+      "id": "01JX4684T0YRQ73F348XQNY9HH",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468140EPR53N7M9VK5ZQMF",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468C60NMKBVRDDTNMSG08J",
+        "readingId": "01JX4684T0YRQ73F348XQNY9HH",
+        "meaning": "젖다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46814GFCG98V9XR90J9RVW",
+      "expression": "非常に"
+    },
+    "reading": {
+      "id": "01JX4684V0Y08DSS8B9EG2K1GZ",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46814GFCG98V9XR90J9RVW",
+      "furigana": "ひじょうに"
+    },
+    "meanings": [
+      {
+        "id": "01JX468C801KXSGQJ5DSHQSPZR",
+        "readingId": "01JX4684V0Y08DSS8B9EG2K1GZ",
+        "meaning": "매우"
+      },
+      {
+        "id": "01JX468C8G4BQXT764TW7J9J7Z",
+        "readingId": "01JX4684V0Y08DSS8B9EG2K1GZ",
+        "meaning": "대단히"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468150TK3YD91JTMM824RT",
+      "expression": "文法"
+    },
+    "reading": {
+      "id": "01JX4684W0YARJV9MN9J50HY50",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468150TK3YD91JTMM824RT",
+      "furigana": "ぶんぽう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CA0JCAMQ1P0QES9VW83",
+        "readingId": "01JX4684W0YARJV9MN9J50HY50",
+        "meaning": "문법"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46815GS0R3AP5RMKGXKEAQ",
+      "expression": "表"
+    },
+    "reading": {
+      "id": "01JX4684X0S51DV5X6E3KHAFS6",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46815GS0R3AP5RMKGXKEAQ",
+      "furigana": "おもて"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CC0DWBXPVS6JKECW4WB",
+        "readingId": "01JX4684X0S51DV5X6E3KHAFS6",
+        "meaning": "앞면"
+      },
+      {
+        "id": "01JX468CCGE8JWTS1691JTPXKA",
+        "readingId": "01JX4684X0S51DV5X6E3KHAFS6",
+        "meaning": "표면"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468160SZBVMKXZ84D2ZX82",
+      "expression": "おっしゃる"
+    },
+    "reading": {
+      "id": "01JX4684Y07GQM4XNH1ACRVFDC",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468160SZBVMKXZ84D2ZX82",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468CE0TB6C9JEG6YF90NVV",
+        "readingId": "01JX4684Y07GQM4XNH1ACRVFDC",
+        "meaning": "말씀하시다(존경)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46816GTCE8SW7F30M3CPHX",
+      "expression": "西洋"
+    },
+    "reading": {
+      "id": "01JX4684Z08FXXEGCYTD91YH1X",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46816GTCE8SW7F30M3CPHX",
+      "furigana": "せいよう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CG03024F7Q9HK9WDQST",
+        "readingId": "01JX4684Z08FXXEGCYTD91YH1X",
+        "meaning": "서양"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468170XM6KQFXTVFWKBPYH",
+      "expression": "両方"
+    },
+    "reading": {
+      "id": "01JX468500WGA5ADY0BX9FGAS5",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468170XM6KQFXTVFWKBPYH",
+      "furigana": "りょうほう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CJ0P1GZX19QG2VA5R5P",
+        "readingId": "01JX468500WGA5ADY0BX9FGAS5",
+        "meaning": "양쪽"
+      },
+      {
+        "id": "01JX468CJGKMFEWYFNGTHZ40MF",
+        "readingId": "01JX468500WGA5ADY0BX9FGAS5",
+        "meaning": "양방향"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46817GNXYKBVCEED2CY7DB",
+      "expression": "払う"
+    },
+    "reading": {
+      "id": "01JX468510KACWRGJB5DHY75PY",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46817GNXYKBVCEED2CY7DB",
+      "furigana": "はらう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CM0KYZPRRSJR9RA4KWX",
+        "readingId": "01JX468510KACWRGJB5DHY75PY",
+        "meaning": "지불하다"
+      },
+      {
+        "id": "01JX468CMGXJVJEQ3378986FDM",
+        "readingId": "01JX468510KACWRGJB5DHY75PY",
+        "meaning": "내다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468180YYHPEC6NAQKT7N6D",
+      "expression": "地理"
+    },
+    "reading": {
+      "id": "01JX468520EQC81HF5GCMVMS8W",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468180YYHPEC6NAQKT7N6D",
+      "furigana": "ちり"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CP0K0B1WJCTNEF4VZM1",
+        "readingId": "01JX468520EQC81HF5GCMVMS8W",
+        "meaning": "지리"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46818GW7GEC7RPYX1YM6MW",
+      "expression": "あかちゃん"
+    },
+    "reading": {
+      "id": "01JX4685307XJVWAWQR015RW2X",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46818GW7GEC7RPYX1YM6MW",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468CR0YYRH41DEAEK2B5FM",
+        "readingId": "01JX4685307XJVWAWQR015RW2X",
+        "meaning": "아기"
+      },
+      {
+        "id": "01JX468CRG7SXA84SGM2WTTBEP",
+        "readingId": "01JX4685307XJVWAWQR015RW2X",
+        "meaning": "영아"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468190YJB0YE561BNCQBPC",
+      "expression": "似る"
+    },
+    "reading": {
+      "id": "01JX468540N37YAW016FZCZC87",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX468190YJB0YE561BNCQBPC",
+      "furigana": "にる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CT0JC4Y2GV4TF5RK7E1",
+        "readingId": "01JX468540N37YAW016FZCZC87",
+        "meaning": "닮다"
+      },
+      {
+        "id": "01JX468CTGVRXWAW3GQ1HF0139",
+        "readingId": "01JX468540N37YAW016FZCZC87",
+        "meaning": "비슷하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46819GNDFFE1VT6EQJPYNR",
+      "expression": "踊る"
+    },
+    "reading": {
+      "id": "01JX468550ND7FTS74V27PRD8S",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX46819GNDFFE1VT6EQJPYNR",
+      "furigana": "おどる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468CW0T9HGG9FY11HAF7D6",
+        "readingId": "01JX468550ND7FTS74V27PRD8S",
+        "meaning": "춤추다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681A0SANB0YGHMZRCPA3R",
+      "expression": "うれしい"
+    },
+    "reading": {
+      "id": "01JX468560G1MTBWZJQPF6T0XE",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4681A0SANB0YGHMZRCPA3R",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468CY03P3826CNENQ8JA8W",
+        "readingId": "01JX468560G1MTBWZJQPF6T0XE",
+        "meaning": "기쁘다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681AGTNQ5ERDYFJV3Y0KE",
+      "expression": "事故"
+    },
+    "reading": {
+      "id": "01JX468570F2Z887PB122KJGYG",
+      "stageId": "01JX459DVDNK45AZXCDKX92YQ3",
+      "expressionId": "01JX4681AGTNQ5ERDYFJV3Y0KE",
+      "furigana": "じこ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468D001SM6B4RJ9VHG8VXD",
+        "readingId": "01JX468570F2Z887PB122KJGYG",
+        "meaning": "사고"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681B0SRR90G9192KV1PGX",
+      "expression": "さっき"
+    },
+    "reading": {
+      "id": "01JX4685801EEN5Z8PJMZX8DWN",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681B0SRR90G9192KV1PGX",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468D20W5W7P4TMW5TXJ1TG",
+        "readingId": "01JX4685801EEN5Z8PJMZX8DWN",
+        "meaning": "아까"
+      },
+      {
+        "id": "01JX468D2G3RC57C96V77RF2AN",
+        "readingId": "01JX4685801EEN5Z8PJMZX8DWN",
+        "meaning": "조금 전"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681BG1ZN8535ZHJTGEYR6",
+      "expression": "赤ん坊"
+    },
+    "reading": {
+      "id": "01JX4685904CZP3VR61YF7EEX5",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681BG1ZN8535ZHJTGEYR6",
+      "furigana": "あかんぼう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468D40MDN6D8408TM2KVSH",
+        "readingId": "01JX4685904CZP3VR61YF7EEX5",
+        "meaning": "아기"
+      },
+      {
+        "id": "01JX468D4G3MASQX8C1K9W65PV",
+        "readingId": "01JX4685904CZP3VR61YF7EEX5",
+        "meaning": "영아"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681C0ADHNE7WJ13PA1M5K",
+      "expression": "寂しい"
+    },
+    "reading": {
+      "id": "01JX4685A058W33FMRZQWQVD0P",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681C0ADHNE7WJ13PA1M5K",
+      "furigana": "さびしい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468D60WPMQMGCC215B11V7",
+        "readingId": "01JX4685A058W33FMRZQWQVD0P",
+        "meaning": "외로운"
+      },
+      {
+        "id": "01JX468D6G81MSXFPGYD3GX8A7",
+        "readingId": "01JX4685A058W33FMRZQWQVD0P",
+        "meaning": "쓸쓸한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681CGCREX3YN0VVFSX7GG",
+      "expression": "複雑"
+    },
+    "reading": {
+      "id": "01JX4685B047AFTT21QCHAAGPJ",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681CGCREX3YN0VVFSX7GG",
+      "furigana": "ふくざつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468D80S03C3HAQ55ZJABDK",
+        "readingId": "01JX4685B047AFTT21QCHAAGPJ",
+        "meaning": "복잡함"
+      },
+      {
+        "id": "01JX468D8GQ4XYVTJCDS5X0408",
+        "readingId": "01JX4685B047AFTT21QCHAAGPJ",
+        "meaning": "복잡한"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681D01Z9EAHF4JB36PWN3",
+      "expression": "眠る"
+    },
+    "reading": {
+      "id": "01JX4685C0AGNCVR77R77W16FC",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681D01Z9EAHF4JB36PWN3",
+      "furigana": "ねむる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468DA0VMHRK0T00CG71TZQ",
+        "readingId": "01JX4685C0AGNCVR77R77W16FC",
+        "meaning": "잠들다"
+      },
+      {
+        "id": "01JX468DAG6W90PNM84GJMS0GH",
+        "readingId": "01JX4685C0AGNCVR77R77W16FC",
+        "meaning": "자다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681DGYFDPHEARKSKPM1ZC",
+      "expression": "近所"
+    },
+    "reading": {
+      "id": "01JX4685D06MBNF9Y3SCEBYCV6",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681DGYFDPHEARKSKPM1ZC",
+      "furigana": "きんじょ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468DC05TH1MDP7ZBQ8PRH0",
+        "readingId": "01JX4685D06MBNF9Y3SCEBYCV6",
+        "meaning": "근처"
+      },
+      {
+        "id": "01JX468DCGYDBBQJS6AK069V5A",
+        "readingId": "01JX4685D06MBNF9Y3SCEBYCV6",
+        "meaning": "이웃"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681E043J3B9YB0S80QT1A",
+      "expression": "ごみ"
+    },
+    "reading": {
+      "id": "01JX4685E0SJQZFP4HR7Y67XJ3",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681E043J3B9YB0S80QT1A",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468DE04M81STT6837E8AND",
+        "readingId": "01JX4685E0SJQZFP4HR7Y67XJ3",
+        "meaning": "쓰레기"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681EGTS1HD1N4S9HHGE0C",
+      "expression": "例えば"
+    },
+    "reading": {
+      "id": "01JX4685F03XAE25Q2WFXSHF57",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681EGTS1HD1N4S9HHGE0C",
+      "furigana": "たとえば"
+    },
+    "meanings": [
+      {
+        "id": "01JX468DG0756A4GHMVNE0JK03",
+        "readingId": "01JX4685F03XAE25Q2WFXSHF57",
+        "meaning": "예를 들어"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681F0VE3MZPJDDQASM6MV",
+      "expression": "チェック・する"
+    },
+    "reading": {
+      "id": "01JX4685G0M1ZJMN9MG0P1T0GB",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681F0VE3MZPJDDQASM6MV",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468DJ0HS24A9MK0K2Q5PVF",
+        "readingId": "01JX4685G0M1ZJMN9MG0P1T0GB",
+        "meaning": "확인하다"
+      },
+      {
+        "id": "01JX468DJGDCF9ZX84P29306PV",
+        "readingId": "01JX4685G0M1ZJMN9MG0P1T0GB",
+        "meaning": "점검하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681FGPNGTWZM28HMC9WJ2",
+      "expression": "御主人"
+    },
+    "reading": {
+      "id": "01JX4685H0FA9AB76EK264TFDT",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681FGPNGTWZM28HMC9WJ2",
+      "furigana": "ごしゅじん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468DM0Z3EEM31F244ES9VQ",
+        "readingId": "01JX4685H0FA9AB76EK264TFDT",
+        "meaning": "남편(존칭)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681G0V7SMQPA0DJP82FGD",
+      "expression": "テキスト"
+    },
+    "reading": {
+      "id": "01JX4685J0WW1T04JBM4G4GJMB",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681G0V7SMQPA0DJP82FGD",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468DP089876BNR8B0YSD7K",
+        "readingId": "01JX4685J0WW1T04JBM4G4GJMB",
+        "meaning": "텍스트"
+      },
+      {
+        "id": "01JX468DPGQRA4BGWW62J6PFM9",
+        "readingId": "01JX4685J0WW1T04JBM4G4GJMB",
+        "meaning": "교과서"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681GGGPG0DNJ9HBWTWS15",
+      "expression": "ごちそう"
+    },
+    "reading": {
+      "id": "01JX4685K0K4PRM5N4YGASKN4G",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681GGGPG0DNJ9HBWTWS15",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468DR0F41BXJBTBH628A5T",
+        "readingId": "01JX4685K0K4PRM5N4YGASKN4G",
+        "meaning": "진수성찬"
+      },
+      {
+        "id": "01JX468DRG8NJ8V1ARY1S9SCVK",
+        "readingId": "01JX4685K0K4PRM5N4YGASKN4G",
+        "meaning": "잔치"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681H0W2C6AD4C7BPKS8BD",
+      "expression": "起す"
+    },
+    "reading": {
+      "id": "01JX4685M01MHXNSV9F9491KF1",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681H0W2C6AD4C7BPKS8BD",
+      "furigana": "おこす"
+    },
+    "meanings": [
+      {
+        "id": "01JX468DT069PHSPZ6176102ET",
+        "readingId": "01JX4685M01MHXNSV9F9491KF1",
+        "meaning": "깨우다"
+      },
+      {
+        "id": "01JX468DTGSRRJJFXP32YE504T",
+        "readingId": "01JX4685M01MHXNSV9F9491KF1",
+        "meaning": "일으키다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681HGWJ8YB6VFZ0A30TM4",
+      "expression": "テニス"
+    },
+    "reading": {
+      "id": "01JX4685N02BVWSWV13FRF1GAD",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681HGWJ8YB6VFZ0A30TM4",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468DW0G6BGZN61GB1D39DH",
+        "readingId": "01JX4685N02BVWSWV13FRF1GAD",
+        "meaning": "테니스"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681J004J6N7VZQMGCXKP4",
+      "expression": "パソコン"
+    },
+    "reading": {
+      "id": "01JX4685P0QDM6PV7Z010CT93P",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681J004J6N7VZQMGCXKP4",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468DY0P6W4QZG4C1R2YC91",
+        "readingId": "01JX4685P0QDM6PV7Z010CT93P",
+        "meaning": "컴퓨터"
+      },
+      {
+        "id": "01JX468DYGWC77JBSRPZQJME1X",
+        "readingId": "01JX4685P0QDM6PV7Z010CT93P",
+        "meaning": "PC"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681JGGGHBTVZ2XA77BP0D",
+      "expression": "研究"
+    },
+    "reading": {
+      "id": "01JX4685Q0112WHZH2EM850SPF",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681JGGGHBTVZ2XA77BP0D",
+      "furigana": "けんきゅう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468E00CHRR1BYD27D843AE",
+        "readingId": "01JX4685Q0112WHZH2EM850SPF",
+        "meaning": "연구"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681K0TZHPZM6X527T19YT",
+      "expression": "聞こえる"
+    },
+    "reading": {
+      "id": "01JX4685R0KFYMZ9QV4K8T6K9P",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681K0TZHPZM6X527T19YT",
+      "furigana": "きこえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468E205RMRCVQBNWYGFSTE",
+        "readingId": "01JX4685R0KFYMZ9QV4K8T6K9P",
+        "meaning": "들리다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681KGDVGGQMTDQJK2JZ4B",
+      "expression": "間違える"
+    },
+    "reading": {
+      "id": "01JX4685S0H2ABB7EBFY402838",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681KGDVGGQMTDQJK2JZ4B",
+      "furigana": "まちがえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468E40AT3W0G7FYHA6J5D5",
+        "readingId": "01JX4685S0H2ABB7EBFY402838",
+        "meaning": "실수하다"
+      },
+      {
+        "id": "01JX468E4GK9ZVTD6ZVNQCGF71",
+        "readingId": "01JX4685S0H2ABB7EBFY402838",
+        "meaning": "잘못하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681M0KF2XHP09N2FXMJA2",
+      "expression": "看護婦"
+    },
+    "reading": {
+      "id": "01JX4685T0KZQ5BDKJD6MBQQ82",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681M0KF2XHP09N2FXMJA2",
+      "furigana": "かんごふ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468E60TRTWESX6218QT3RY",
+        "readingId": "01JX4685T0KZQ5BDKJD6MBQQ82",
+        "meaning": "여자 간호사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681MGDFKPG2FHXHZP5KNM",
+      "expression": "会議室"
+    },
+    "reading": {
+      "id": "01JX4685V09SX386CJTBKYJEGC",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681MGDFKPG2FHXHZP5KNM",
+      "furigana": "かいぎしつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468E80VATTG4RK1Z97A7PJ",
+        "readingId": "01JX4685V09SX386CJTBKYJEGC",
+        "meaning": "회의실"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681N06KBKS7MEA5N1V89E",
+      "expression": "とこや"
+    },
+    "reading": {
+      "id": "01JX4685W03Z3WNEV42YDQNZK5",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681N06KBKS7MEA5N1V89E",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468EA02Y6G7GV9ZY7GWA0J",
+        "readingId": "01JX4685W03Z3WNEV42YDQNZK5",
+        "meaning": "이발소"
+      },
+      {
+        "id": "01JX468EAGH85QFKTXGNEPSN7F",
+        "readingId": "01JX4685W03Z3WNEV42YDQNZK5",
+        "meaning": "이발사"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681NG4JZSFZ7X12HM9C8J",
+      "expression": "試合"
+    },
+    "reading": {
+      "id": "01JX4685X0X0Y593SHVJYSE21B",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681NG4JZSFZ7X12HM9C8J",
+      "furigana": "しあい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468EC0QAQ70T3PAGP9P6M7",
+        "readingId": "01JX4685X0X0Y593SHVJYSE21B",
+        "meaning": "시합"
+      },
+      {
+        "id": "01JX468ECGCVXK8SWDA5XMRHGH",
+        "readingId": "01JX4685X0X0Y593SHVJYSE21B",
+        "meaning": "경기"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681P09AX2KXH81C8K4210",
+      "expression": "止む"
+    },
+    "reading": {
+      "id": "01JX4685Y0A575SVY3AM9TK3GA",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681P09AX2KXH81C8K4210",
+      "furigana": "やむ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468EE0Q5K2YKE4H07QB2H0",
+        "readingId": "01JX4685Y0A575SVY3AM9TK3GA",
+        "meaning": "멈추다"
+      },
+      {
+        "id": "01JX468EEG6TW4RTTM3VP79BYP",
+        "readingId": "01JX4685Y0A575SVY3AM9TK3GA",
+        "meaning": "그치다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681PGZ8D426NS3MF4D22J",
+      "expression": "のど"
+    },
+    "reading": {
+      "id": "01JX4685Z0NRD3P6CVK7PAG7RH",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681PGZ8D426NS3MF4D22J",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468EG0QZD40B80QNMMSMYM",
+        "readingId": "01JX4685Z0NRD3P6CVK7PAG7RH",
+        "meaning": "목구멍"
+      },
+      {
+        "id": "01JX468EGGHBSXPKXV9QV2KFX8",
+        "readingId": "01JX4685Z0NRD3P6CVK7PAG7RH",
+        "meaning": "목"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681Q06MNDB1R5P8T7627D",
+      "expression": "戦争"
+    },
+    "reading": {
+      "id": "01JX468600VBRS5V7WEQ2FN0EF",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681Q06MNDB1R5P8T7627D",
+      "furigana": "せんそう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468EJ0F95J0F5BF2N67CJT",
+        "readingId": "01JX468600VBRS5V7WEQ2FN0EF",
+        "meaning": "전쟁"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681QG347M9055812KRJ12",
+      "expression": "降り出す"
+    },
+    "reading": {
+      "id": "01JX468610E9MM1EH39GQQ6NBN",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681QG347M9055812KRJ12",
+      "furigana": "ふりだす"
+    },
+    "meanings": [
+      {
+        "id": "01JX468EM06QZCQVG7HB77TX9Z",
+        "readingId": "01JX468610E9MM1EH39GQQ6NBN",
+        "meaning": "비가 내리기 시작하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681R0QTAFS2JA8WZV7GSA",
+      "expression": "コンピュータ / コンピューター"
+    },
+    "reading": {
+      "id": "01JX468620HK5D3HN06HTJCDZP",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681R0QTAFS2JA8WZV7GSA",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468EP0C9GXV5A8CSNG3XZZ",
+        "readingId": "01JX468620HK5D3HN06HTJCDZP",
+        "meaning": "컴퓨터"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681RG8A5YZ0YJWVVW9EHK",
+      "expression": "盛ん"
+    },
+    "reading": {
+      "id": "01JX468630CXKB8455C46GJC0D",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681RG8A5YZ0YJWVVW9EHK",
+      "furigana": "さかん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468ER0N8DWNM58AQ3H3JE3",
+        "readingId": "01JX468630CXKB8455C46GJC0D",
+        "meaning": "번성함"
+      },
+      {
+        "id": "01JX468ERG2D8CERJ0DE1FT6Q9",
+        "readingId": "01JX468630CXKB8455C46GJC0D",
+        "meaning": "인기 있음"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681S04BB23NCVC335WB2Y",
+      "expression": "取り替える"
+    },
+    "reading": {
+      "id": "01JX468640RZKYMMZSZYMDT6TR",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681S04BB23NCVC335WB2Y",
+      "furigana": "とりかえる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468ET0S20T6NP55WSBKZ1Y",
+        "readingId": "01JX468640RZKYMMZSZYMDT6TR",
+        "meaning": "교환하다"
+      },
+      {
+        "id": "01JX468ETGCYGPTT7QVQPY9HB5",
+        "readingId": "01JX468640RZKYMMZSZYMDT6TR",
+        "meaning": "바꾸다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681SG4BE9XNYD058B6JJZ",
+      "expression": "支度"
+    },
+    "reading": {
+      "id": "01JX4686504XPCWJEBGPJEWCBS",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681SG4BE9XNYD058B6JJZ",
+      "furigana": "したく・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX468EW0EWRN2G1G57MA5HFC",
+        "readingId": "01JX4686504XPCWJEBGPJEWCBS",
+        "meaning": "준비하다"
+      },
+      {
+        "id": "01JX468EWGYSQYFGHB343J7V5D",
+        "readingId": "01JX4686504XPCWJEBGPJEWCBS",
+        "meaning": "채비하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681T0P6NBC3D0B2706C83",
+      "expression": "社会"
+    },
+    "reading": {
+      "id": "01JX4686603V8RY2HEYR1B05XC",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681T0P6NBC3D0B2706C83",
+      "furigana": "しゃかい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468EY0JKH5YFKF9F1C8RW6",
+        "readingId": "01JX4686603V8RY2HEYR1B05XC",
+        "meaning": "사회"
+      },
+      {
+        "id": "01JX468EYGM3QT0RNWS6NETZXH",
+        "readingId": "01JX4686603V8RY2HEYR1B05XC",
+        "meaning": "공공"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681TG0KD9BC853HY1V4K7",
+      "expression": "沸く"
+    },
+    "reading": {
+      "id": "01JX468670C7BYFHDA9GNZZT7D",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681TG0KD9BC853HY1V4K7",
+      "furigana": "わく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468F00JA7CDJERPQ752Q64",
+        "readingId": "01JX468670C7BYFHDA9GNZZT7D",
+        "meaning": "끓다"
+      },
+      {
+        "id": "01JX468F0GBV0CS4G8TJYGT4DH",
+        "readingId": "01JX468670C7BYFHDA9GNZZT7D",
+        "meaning": "흥분하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681V0NCNK9KWN19TY6NPD",
+      "expression": "ちっとも"
+    },
+    "reading": {
+      "id": "01JX468680B23VX1CPZJ683CW5",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681V0NCNK9KWN19TY6NPD",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468F20H8NQTEM3YJDDNMRA",
+        "readingId": "01JX468680B23VX1CPZJ683CW5",
+        "meaning": "전혀"
+      },
+      {
+        "id": "01JX468F2GKAHBH41SWG1J2NNW",
+        "readingId": "01JX468680B23VX1CPZJ683CW5",
+        "meaning": "조금도"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681VGNXJ2RRPWSN2535EJ",
+      "expression": "おかげ"
+    },
+    "reading": {
+      "id": "01JX468690SC0T9E74XX4EB084",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681VGNXJ2RRPWSN2535EJ",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468F40J3508ZBK3GKFSVTN",
+        "readingId": "01JX468690SC0T9E74XX4EB084",
+        "meaning": "덕분에"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681W0VFEP6E7W3CSJENS8",
+      "expression": "ステーキ"
+    },
+    "reading": {
+      "id": "01JX4686A0T47C2GDBEGHSGE3C",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681W0VFEP6E7W3CSJENS8",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468F6056VE5NDF73HGM84F",
+        "readingId": "01JX4686A0T47C2GDBEGHSGE3C",
+        "meaning": "스테이크"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681WG0EA2F5ZXQR32M78A",
+      "expression": "消しゴム"
+    },
+    "reading": {
+      "id": "01JX4686B0NWWKQ5W7W1S86YYF",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681WG0EA2F5ZXQR32M78A",
+      "furigana": "けしゴム"
+    },
+    "meanings": [
+      {
+        "id": "01JX468F80V6ANFJN0BB8H47FW",
+        "readingId": "01JX4686B0NWWKQ5W7W1S86YYF",
+        "meaning": "지우개"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681X0XGTV45Y0HKHF356K",
+      "expression": "遠慮"
+    },
+    "reading": {
+      "id": "01JX4686C0BDEJCD3Y886WW1NJ",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681X0XGTV45Y0HKHF356K",
+      "furigana": "えんりょ・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FA0MG3Z6H6ZDZENHKFT",
+        "readingId": "01JX4686C0BDEJCD3Y886WW1NJ",
+        "meaning": "사양하다"
+      },
+      {
+        "id": "01JX468FAG9TDKVY2HCYVZAZTP",
+        "readingId": "01JX4686C0BDEJCD3Y886WW1NJ",
+        "meaning": "삼가다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681XG03JEWYYBB8B443R8",
+      "expression": "工場"
+    },
+    "reading": {
+      "id": "01JX4686D0NTCV5A7RMB5MQXJD",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681XG03JEWYYBB8B443R8",
+      "furigana": "こうじょう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FC0SSSPH2AAYECPAQFE",
+        "readingId": "01JX4686D0NTCV5A7RMB5MQXJD",
+        "meaning": "공장"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681Y0EPVQR36ER3SKK71Q",
+      "expression": "僕"
+    },
+    "reading": {
+      "id": "01JX4686E00NCJB4K8Y1VKAZE3",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681Y0EPVQR36ER3SKK71Q",
+      "furigana": "ぼく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FE0VHBMHXSY8C6GNKRF",
+        "readingId": "01JX4686E00NCJB4K8Y1VKAZE3",
+        "meaning": "나(남성)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681YGX4K1VHZ5DD89XXCR",
+      "expression": "招待"
+    },
+    "reading": {
+      "id": "01JX4686F08RZ5BSN4ES1NJJRA",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681YGX4K1VHZ5DD89XXCR",
+      "furigana": "しょうたい・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FG0A4XENP8DR3ZPR972",
+        "readingId": "01JX4686F08RZ5BSN4ES1NJJRA",
+        "meaning": "초대하다"
+      },
+      {
+        "id": "01JX468FGGVHKTB07YCAVGVH7P",
+        "readingId": "01JX4686F08RZ5BSN4ES1NJJRA",
+        "meaning": "초청하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681Z0E68EZQEQZ5SMYB5D",
+      "expression": "彼"
+    },
+    "reading": {
+      "id": "01JX4686G0P7SAY3TF7JNAX37C",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681Z0E68EZQEQZ5SMYB5D",
+      "furigana": "かれ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FJ0GK8TMYFDF2FX0ZB7",
+        "readingId": "01JX4686G0P7SAY3TF7JNAX37C",
+        "meaning": "그"
+      },
+      {
+        "id": "01JX468FJGT5M6VXVBT3BP1JSK",
+        "readingId": "01JX4686G0P7SAY3TF7JNAX37C",
+        "meaning": "남자친구"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4681ZGGEPCNVBPZ5CM98PE",
+      "expression": "妻"
+    },
+    "reading": {
+      "id": "01JX4686H017F8SR73TAZ1GRPJ",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4681ZGGEPCNVBPZ5CM98PE",
+      "furigana": "つま"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FM04JY180CJ68C50V7G",
+        "readingId": "01JX4686H017F8SR73TAZ1GRPJ",
+        "meaning": "아내(겸양)"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682008HDSCH6CDVT9MBHZ",
+      "expression": "石"
+    },
+    "reading": {
+      "id": "01JX4686J0SCTBWWBDRS7AVN9X",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX4682008HDSCH6CDVT9MBHZ",
+      "furigana": "いし"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FP0PYFBSQGZF7Z45KJH",
+        "readingId": "01JX4686J0SCTBWWBDRS7AVN9X",
+        "meaning": "돌"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46820G8G4DCJQEV9MTHGH8",
+      "expression": "簡単"
+    },
+    "reading": {
+      "id": "01JX4686K015XENPF3HZ6JNWJN",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX46820G8G4DCJQEV9MTHGH8",
+      "furigana": "かんたん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FR00FQVZDXQ5DZ7P8SR",
+        "readingId": "01JX4686K015XENPF3HZ6JNWJN",
+        "meaning": "간단한"
+      },
+      {
+        "id": "01JX468FRGEH90XX5VNJE6CFC6",
+        "readingId": "01JX4686K015XENPF3HZ6JNWJN",
+        "meaning": "쉬운"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468210ESDC2M7YANVRAXE1",
+      "expression": "残念"
+    },
+    "reading": {
+      "id": "01JX4686M07S7C2JP6VR0BZ3HA",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX468210ESDC2M7YANVRAXE1",
+      "furigana": "ざんねん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FT0WD9V51990M7TWH34",
+        "readingId": "01JX4686M07S7C2JP6VR0BZ3HA",
+        "meaning": "유감"
+      },
+      {
+        "id": "01JX468FTGFN47HQ30MW1A1GEY",
+        "readingId": "01JX4686M07S7C2JP6VR0BZ3HA",
+        "meaning": "아쉬움"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46821GG24JC1P7MEJQ1AYD",
+      "expression": "혈"
+    },
+    "reading": {
+      "id": "01JX4686N0FSHQV8X91PSVJNXA",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX46821GG24JC1P7MEJQ1AYD",
+      "furigana": "ち"
+    },
+    "meanings": [
+      {
+        "id": "01JX468FW0TV38XCHHGQCHK7HC",
+        "readingId": "01JX4686N0FSHQV8X91PSVJNXA",
+        "meaning": "피"
+      },
+      {
+        "id": "01JX468FWGNVKZHAKXECXBB8NH",
+        "readingId": "01JX4686N0FSHQV8X91PSVJNXA",
+        "meaning": "혈액"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468220MXDDZEWMC4GRHX75",
+      "expression": "ピア노"
+    },
+    "reading": {
+      "id": "01JX4686P09N8WBQJNY8THPBRR",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX468220MXDDZEWMC4GRHX75",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468FY0QWQ675PS4KD403MK",
+        "readingId": "01JX4686P09N8WBQJNY8THPBRR",
+        "meaning": "피아노"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46822G2XYG40FSK6P00SX2",
+      "expression": "おかしい"
+    },
+    "reading": {
+      "id": "01JX4686Q04A5M5DS2JAVPNHNQ",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX46822G2XYG40FSK6P00SX2",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468G00ZN96WMZRZH5SZD7V",
+        "readingId": "01JX4686Q04A5M5DS2JAVPNHNQ",
+        "meaning": "이상한"
+      },
+      {
+        "id": "01JX468G0G2H8XJ08HG5DSJSMS",
+        "readingId": "01JX4686Q04A5M5DS2JAVPNHNQ",
+        "meaning": "우스운"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468230HEV42D4WJVZ737E7",
+      "expression": "家内"
+    },
+    "reading": {
+      "id": "01JX4686R0WYG3XZWMHBDEBTZJ",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX468230HEV42D4WJVZ737E7",
+      "furigana": "かない"
+    },
+    "meanings": [
+      {
+        "id": "01JX468G20PW1SV3NCC4E6CS01",
+        "readingId": "01JX4686R0WYG3XZWMHBDEBTZJ",
+        "meaning": "아내"
+      },
+      {
+        "id": "01JX468G2G2GHGRHDT1RY9C5CF",
+        "readingId": "01JX4686R0WYG3XZWMHBDEBTZJ",
+        "meaning": "주부"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46823GC9EZER77PVQRJ5MK",
+      "expression": "試験"
+    },
+    "reading": {
+      "id": "01JX4686S0QGYM1ZZBMH3BH6T1",
+      "stageId": "01JX459DVE0B6X4AVKTE1BTPP2",
+      "expressionId": "01JX46823GC9EZER77PVQRJ5MK",
+      "furigana": "しけん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468G40EYY4K7W9KGADVT82",
+        "readingId": "01JX4686S0QGYM1ZZBMH3BH6T1",
+        "meaning": "시험"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468240YW2FHQG77YCK1RDJ",
+      "expression": "布団"
+    },
+    "reading": {
+      "id": "01JX4686T0JPJW2HC4KP6CZ0M9",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX468240YW2FHQG77YCK1RDJ",
+      "furigana": "ふとん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468G60F4KBY05NA1R3VHBF",
+        "readingId": "01JX4686T0JPJW2HC4KP6CZ0M9",
+        "meaning": "이불"
+      },
+      {
+        "id": "01JX468G6G8FQCA94YQWKN0X4Z",
+        "readingId": "01JX4686T0JPJW2HC4KP6CZ0M9",
+        "meaning": "후톤"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46824GFKBWECQ0KVDD94DP",
+      "expression": "枝"
+    },
+    "reading": {
+      "id": "01JX4686V0QPA7B4GQB41E7JW1",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX46824GFKBWECQ0KVDD94DP",
+      "furigana": "えだ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468G80CTSQP7GXAW9C7926",
+        "readingId": "01JX4686V0QPA7B4GQB41E7JW1",
+        "meaning": "가지"
+      },
+      {
+        "id": "01JX468G8GHXKH4Q7VB18Z9EW7",
+        "readingId": "01JX4686V0QPA7B4GQB41E7JW1",
+        "meaning": "나뭇가지"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682503B80XQX373C9VN74",
+      "expression": "二階建て"
+    },
+    "reading": {
+      "id": "01JX4686W0FF491GBCWEV1SBX5",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682503B80XQX373C9VN74",
+      "furigana": "にかいだて"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GA0NNBTZJCZ8Y8WXCYT",
+        "readingId": "01JX4686W0FF491GBCWEV1SBX5",
+        "meaning": "2층 건물"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46825G606GN9XH24STHTS1",
+      "expression": "大学生"
+    },
+    "reading": {
+      "id": "01JX4686X0EJ4MSAGS8NYJJ23R",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX46825G606GN9XH24STHTS1",
+      "furigana": "だいがくせい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GC0HKDHR23WAV2G2F46",
+        "readingId": "01JX4686X0EJ4MSAGS8NYJJ23R",
+        "meaning": "대학생"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468260XQZGBQ9V8Y6SWXWR",
+      "expression": "楽む"
+    },
+    "reading": {
+      "id": "01JX4686Y0HCYX267SSJVNZ7RF",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX468260XQZGBQ9V8Y6SWXWR",
+      "furigana": "たのしむ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GE0QC9SDW3HMMWBYW3V",
+        "readingId": "01JX4686Y0HCYX267SSJVNZ7RF",
+        "meaning": "즐기다"
+      },
+      {
+        "id": "01JX468GEGADH8HG3CB8WRZ0VZ",
+        "readingId": "01JX4686Y0HCYX267SSJVNZ7RF",
+        "meaning": "재미있게 보내다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46826G96QPTQTFNKYYSZFY",
+      "expression": "遠く"
+    },
+    "reading": {
+      "id": "01JX4686Z0E92A26WGXMD9H24T",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX46826G96QPTQTFNKYYSZFY",
+      "furigana": "とおく"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GG0GP7JDVK5V3KV7J35",
+        "readingId": "01JX4686Z0E92A26WGXMD9H24T",
+        "meaning": "먼"
+      },
+      {
+        "id": "01JX468GGGN5YFWHQNR50GPK7Z",
+        "readingId": "01JX4686Z0E92A26WGXMD9H24T",
+        "meaning": "멀리"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468270SGXHVETE5NNG7G85",
+      "expression": "今夜"
+    },
+    "reading": {
+      "id": "01JX46870045AD62CV7ETXK8BD",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX468270SGXHVETE5NNG7G85",
+      "furigana": "こんや"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GJ0VF8H97E8TQTVWNNX",
+        "readingId": "01JX46870045AD62CV7ETXK8BD",
+        "meaning": "오늘 밤"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46827G5MABJD0SN2TYPA3M",
+      "expression": "決める"
+    },
+    "reading": {
+      "id": "01JX468710BC0VFAE9D5WMSZW1",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX46827G5MABJD0SN2TYPA3M",
+      "furigana": "きめる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GM0149CNDBPCN550GYD",
+        "readingId": "01JX468710BC0VFAE9D5WMSZW1",
+        "meaning": "결정하다"
+      },
+      {
+        "id": "01JX468GMGBBDJ621VFFGEJ5VZ",
+        "readingId": "01JX468710BC0VFAE9D5WMSZW1",
+        "meaning": "정하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX468280CWMA5W5GKV95H4BJ",
+      "expression": "なるべく"
+    },
+    "reading": {
+      "id": "01JX468720WR4RHCB3XTMD2W59",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX468280CWMA5W5GKV95H4BJ",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468GP0CSMBKV5PZFVE95CD",
+        "readingId": "01JX468720WR4RHCB3XTMD2W59",
+        "meaning": "가능한 한"
+      },
+      {
+        "id": "01JX468GPG82VVRNDSH2A61EFX",
+        "readingId": "01JX468720WR4RHCB3XTMD2W59",
+        "meaning": "될 수 있으면"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46828GPHGTB0735E8YHFP0",
+      "expression": "引き出す"
+    },
+    "reading": {
+      "id": "01JX468730TQXWKJ39W473H0Z5",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX46828GPHGTB0735E8YHFP0",
+      "furigana": "ひきだす"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GR033YSZTJQNN1BKA3J",
+        "readingId": "01JX468730TQXWKJ39W473H0Z5",
+        "meaning": "인출하다"
+      },
+      {
+        "id": "01JX468GRG3F3XZJ8VT3H9BQ61",
+        "readingId": "01JX468730TQXWKJ39W473H0Z5",
+        "meaning": "꺼내다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682906WQ6JCMTBW07MH0V",
+      "expression": "明日"
+    },
+    "reading": {
+      "id": "01JX468740X0R9JKNGABXRBW0D",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682906WQ6JCMTBW07MH0V",
+      "furigana": "あす"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GT0T2R7QATDF47CS2RR",
+        "readingId": "01JX468740X0R9JKNGABXRBW0D",
+        "meaning": "내일"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX46829GE1ZC8ASYG86E6Y08",
+      "expression": "割れる"
+    },
+    "reading": {
+      "id": "01JX468750R3BMZCZE96G7X3F1",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX46829GE1ZC8ASYG86E6Y08",
+      "furigana": "われる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GW0P9HKY0V33GCNGR2D",
+        "readingId": "01JX468750R3BMZCZE96G7X3F1",
+        "meaning": "깨지다"
+      },
+      {
+        "id": "01JX468GWGDQPJ4D1JV1RMNG67",
+        "readingId": "01JX468750R3BMZCZE96G7X3F1",
+        "meaning": "부서지다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682A0SWPKES1D6RCWMQTB",
+      "expression": "田舎"
+    },
+    "reading": {
+      "id": "01JX468760Z6XY4H3A47E2245X",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682A0SWPKES1D6RCWMQTB",
+      "furigana": "いなか"
+    },
+    "meanings": [
+      {
+        "id": "01JX468GY0R6K4N2YYCE545MBY",
+        "readingId": "01JX468760Z6XY4H3A47E2245X",
+        "meaning": "시골"
+      },
+      {
+        "id": "01JX468GYG1XC1JEMESSBTW8RS",
+        "readingId": "01JX468760Z6XY4H3A47E2245X",
+        "meaning": "농촌"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682AGHTZ5AHFTFSY81TAB",
+      "expression": "寺"
+    },
+    "reading": {
+      "id": "01JX468770C5T4S2C6DDATFK1N",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682AGHTZ5AHFTFSY81TAB",
+      "furigana": "てら"
+    },
+    "meanings": [
+      {
+        "id": "01JX468H00TGARQHE6QCWH4KVE",
+        "readingId": "01JX468770C5T4S2C6DDATFK1N",
+        "meaning": "절"
+      },
+      {
+        "id": "01JX468H0GJ9P6NTZAD3CS8EX4",
+        "readingId": "01JX468770C5T4S2C6DDATFK1N",
+        "meaning": "사원"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682B0G9JNQJSRPJTSX3NV",
+      "expression": "釣る"
+    },
+    "reading": {
+      "id": "01JX468780BWV3WFNZ96FNHSJA",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682B0G9JNQJSRPJTSX3NV",
+      "furigana": "つる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468H20K8DT5MPEB2R807CX",
+        "readingId": "01JX468780BWV3WFNZ96FNHSJA",
+        "meaning": "낚시하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682BGD8H55FXSWX2K2ZSZ",
+      "expression": "建てる"
+    },
+    "reading": {
+      "id": "01JX468790612VF6D6WGF8HKBK",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682BGD8H55FXSWX2K2ZSZ",
+      "furigana": "たてる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468H40BGEDHMTJNKC8E2Y3",
+        "readingId": "01JX468790612VF6D6WGF8HKBK",
+        "meaning": "짓다"
+      },
+      {
+        "id": "01JX468H4GNN31TNTT5H1QX622",
+        "readingId": "01JX468790612VF6D6WGF8HKBK",
+        "meaning": "건설하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682C03J1Z7EV64XZE434A",
+      "expression": "久しぶり"
+    },
+    "reading": {
+      "id": "01JX4687A0P7XZNH6Y8X0FPXQR",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682C03J1Z7EV64XZE434A",
+      "furigana": "ひさしぶり"
+    },
+    "meanings": [
+      {
+        "id": "01JX468H60TX0R7ANABGX9N9F8",
+        "readingId": "01JX4687A0P7XZNH6Y8X0FPXQR",
+        "meaning": "오랜만"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682CGK48TEEE7S57CSHMT",
+      "expression": "男性"
+    },
+    "reading": {
+      "id": "01JX4687B067X6ZFYD25KWHGFV",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682CGK48TEEE7S57CSHMT",
+      "furigana": "だんせい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468H80Q9EWBCTK090CWDQS",
+        "readingId": "01JX4687B067X6ZFYD25KWHGFV",
+        "meaning": "남성"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682D06X1G486X5BHH0F60",
+      "expression": "割合"
+    },
+    "reading": {
+      "id": "01JX4687C0T8QVS6VCB11P6CR6",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682D06X1G486X5BHH0F60",
+      "furigana": "わりあい"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HA0P4MR3Q2HRJVNDXCA",
+        "readingId": "01JX4687C0T8QVS6VCB11P6CR6",
+        "meaning": "비율"
+      },
+      {
+        "id": "01JX468HAG6H3W5AH4Z95ENFDQ",
+        "readingId": "01JX4687C0T8QVS6VCB11P6CR6",
+        "meaning": "비례"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682DG0W71P0H7VZ3EX4JV",
+      "expression": "相談"
+    },
+    "reading": {
+      "id": "01JX4687D0H9T1MM25XH2G83SC",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682DG0W71P0H7VZ3EX4JV",
+      "furigana": "そうだん・する"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HC0SK953AKDGF7NN800",
+        "readingId": "01JX4687D0H9T1MM25XH2G83SC",
+        "meaning": "상담하다"
+      },
+      {
+        "id": "01JX468HCG0ZY4DATSRA5RAFGA",
+        "readingId": "01JX4687D0H9T1MM25XH2G83SC",
+        "meaning": "의논하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682E0Q7ZBZEE19YXH9807",
+      "expression": "足す"
+    },
+    "reading": {
+      "id": "01JX4687E0XZ0HFT0NWZ2X41BQ",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682E0Q7ZBZEE19YXH9807",
+      "furigana": "たす"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HE0PN0ZWBXMFT1MH69T",
+        "readingId": "01JX4687E0XZ0HFT0NWZ2X41BQ",
+        "meaning": "더하다"
+      },
+      {
+        "id": "01JX468HEGJ5DP8Q9B1P7GY55E",
+        "readingId": "01JX4687E0XZ0HFT0NWZ2X41BQ",
+        "meaning": "합산하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682EGWMSWKHR60HE3KWX5",
+      "expression": "社長"
+    },
+    "reading": {
+      "id": "01JX4687F0RQYY4APN67WD7D2H",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682EGWMSWKHR60HE3KWX5",
+      "furigana": "しゃちょう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HG0PY7PW4R7BCFY54SS",
+        "readingId": "01JX4687F0RQYY4APN67WD7D2H",
+        "meaning": "사장"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682F07GG8BAT8Q707PMCK",
+      "expression": "안심"
+    },
+    "reading": {
+      "id": "01JX4687G06KGG5R3VF16RNHKJ",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682F07GG8BAT8Q707PMCK",
+      "furigana": "あんしん"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HJ0DRRZCVK6NT9C7KWR",
+        "readingId": "01JX4687G06KGG5R3VF16RNHKJ",
+        "meaning": "안심"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682FG1FPJE316PBNB03YD",
+      "expression": "모으다"
+    },
+    "reading": {
+      "id": "01JX4687H09RSM0FBCZVWE5WE9",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682FG1FPJE316PBNB03YD",
+      "furigana": "あつめる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HM0R9AJMVX27YAYX2V4",
+        "readingId": "01JX4687H09RSM0FBCZVWE5WE9",
+        "meaning": "모으다"
+      },
+      {
+        "id": "01JX468HMG4ZYXQW6HWSJ9MNZV",
+        "readingId": "01JX4687H09RSM0FBCZVWE5WE9",
+        "meaning": "수집하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682G0AXPPRNRGW7C121SP",
+      "expression": "버리다"
+    },
+    "reading": {
+      "id": "01JX4687J0KC6J8ANVG5QBZRXC",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682G0AXPPRNRGW7C121SP",
+      "furigana": "すてる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HP0NKKJQBKRJD1V1S3A",
+        "readingId": "01JX4687J0KC6J8ANVG5QBZRXC",
+        "meaning": "버리다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682GG35F8R10BSX45XF7Q",
+      "expression": "주차장"
+    },
+    "reading": {
+      "id": "01JX4687K0W9GNCE7AF8G5FDPC",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682GG35F8R10BSX45XF7Q",
+      "furigana": "ちゅうしゃじょう"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HR033PXM2AZ1E5PC65F",
+        "readingId": "01JX4687K0W9GNCE7AF8G5FDPC",
+        "meaning": "주차장"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682H0GY0D15A0C5MPWFSY",
+      "expression": "확실하다"
+    },
+    "reading": {
+      "id": "01JX4687M0YY9ANE35KDWS4KV9",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682H0GY0D15A0C5MPWFSY",
+      "furigana": "たしか"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HT0E1JZY22GFG8TGAGW",
+        "readingId": "01JX4687M0YY9ANE35KDWS4KV9",
+        "meaning": "확실하다"
+      },
+      {
+        "id": "01JX468HTG2R7TK531VYRYXAPC",
+        "readingId": "01JX4687M0YY9ANE35KDWS4KV9",
+        "meaning": "분명하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682HG0Q5DG0MC33DBRM0R",
+      "expression": "장갑"
+    },
+    "reading": {
+      "id": "01JX4687N0M9TDHAH7D39J0R46",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682HG0Q5DG0MC33DBRM0R",
+      "furigana": "てぶくろ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HW0E95XT4TTNHSV6QWH",
+        "readingId": "01JX4687N0M9TDHAH7D39J0R46",
+        "meaning": "장갑"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682J0SCSTE64HT0TM6ER0",
+      "expression": "열"
+    },
+    "reading": {
+      "id": "01JX4687P04B1BHNS3YRDMAZRZ",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682J0SCSTE64HT0TM6ER0",
+      "furigana": "ねつ"
+    },
+    "meanings": [
+      {
+        "id": "01JX468HY0NVNEJQNJ52RBMH0N",
+        "readingId": "01JX4687P04B1BHNS3YRDMAZRZ",
+        "meaning": "열"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682JGRP0QP8MGG0H9S5G0",
+      "expression": "손가락"
+    },
+    "reading": {
+      "id": "01JX4687Q0D6NJPVZGFR3XV8TQ",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682JGRP0QP8MGG0H9S5G0",
+      "furigana": "ゆび"
+    },
+    "meanings": [
+      {
+        "id": "01JX468J0009D92NMRJJ01N88P",
+        "readingId": "01JX4687Q0D6NJPVZGFR3XV8TQ",
+        "meaning": "손가락"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682K03KHXY2NCMYEYS5PY",
+      "expression": "멈추다"
+    },
+    "reading": {
+      "id": "01JX4687R05RR3WPJGT7SNFXFH",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682K03KHXY2NCMYEYS5PY",
+      "furigana": "とめる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468J203M8ZDDPBQCGPXNXQ",
+        "readingId": "01JX4687R05RR3WPJGT7SNFXFH",
+        "meaning": "멈추다"
+      },
+      {
+        "id": "01JX468J2GT07XJB4B0KQRP7KY",
+        "readingId": "01JX4687R05RR3WPJGT7SNFXFH",
+        "meaning": "정지하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682KGEY6SK7TPBCA7Z96R",
+      "expression": "액세서리"
+    },
+    "reading": {
+      "id": "01JX4687S07FYR34F72JWKJPF2",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682KGEY6SK7TPBCA7Z96R",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468J40WXARTDB85F5SKKQR",
+        "readingId": "01JX4687S07FYR34F72JWKJPF2",
+        "meaning": "액세서리"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682M0NHKZA7WNBMH9ZQQ9",
+      "expression": "내려가다"
+    },
+    "reading": {
+      "id": "01JX4687T0QD3D3M84EFP51SCW",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682M0NHKZA7WNBMH9ZQQ9",
+      "furigana": "さ가る"
+    },
+    "meanings": [
+      {
+        "id": "01JX468J60GD57WNHF283VDDH7",
+        "readingId": "01JX4687T0QD3D3M84EFP51SCW",
+        "meaning": "내려가다"
+      },
+      {
+        "id": "01JX468J6G234K14YSEPXJRWD7",
+        "readingId": "01JX4687T0QD3D3M84EFP51SCW",
+        "meaning": "하강하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682MGC3C7W97EHS305JSE",
+      "expression": "칭찬하다"
+    },
+    "reading": {
+      "id": "01JX4687V0WDZ5FNK3FKBJZYB1",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682MGC3C7W97EHS305JSE",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468J80AE4BV9J8J0D9TDDN",
+        "readingId": "01JX4687V0WDZ5FNK3FKBJZYB1",
+        "meaning": "칭찬하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682N08Q51A00DRJH960R6",
+      "expression": "돌다"
+    },
+    "reading": {
+      "id": "01JX4687W0CVEWZWG40SESR8QK",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682N08Q51A00DRJH960R6",
+      "furigana": "まわる"
+    },
+    "meanings": [
+      {
+        "id": "01JX468JA0V5YWA7M860DNV1JH",
+        "readingId": "01JX4687W0CVEWZWG40SESR8QK",
+        "meaning": "돌다"
+      },
+      {
+        "id": "01JX468JAGSVJ7TQNPKE2QCF59",
+        "readingId": "01JX4687W0CVEWZWG40SESR8QK",
+        "meaning": "회전하다"
+      }
+    ]
+  },
+  {
+    "expression": {
+      "id": "01JX4682NG36AYXSPK30DSX6GJ",
+      "expression": "주시다"
+    },
+    "reading": {
+      "id": "01JX4687X0HDJDH9MKF6BBCTS0",
+      "stageId": "01JX459DVF38B9Y06G9K3KTGZ7",
+      "expressionId": "01JX4682NG36AYXSPK30DSX6GJ",
+      "furigana": ""
+    },
+    "meanings": [
+      {
+        "id": "01JX468JC0TK0TQRTKC5632YN6",
+        "readingId": "01JX4687X0HDJDH9MKF6BBCTS0",
+        "meaning": "주시다(존경)"
+      }
+    ]
+  }
+]
