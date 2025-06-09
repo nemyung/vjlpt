@@ -85,6 +85,7 @@ function RouteComponent() {
 	const router = useRouter();
 
 	const goBack = () => {
+		navigator.vibrate(50);
 		router.navigate({
 			to: "/",
 			replace: true,
@@ -104,6 +105,7 @@ function RouteComponent() {
 	const totalCards = flashcards.length;
 
 	const fetchNextFlashCards = async () => {
+		navigator.vibrate(50);
 		startTransition(async () => {
 			setFlashcards(await query(db, levelId, params.sess));
 			setCurrentIndex(0);
@@ -127,6 +129,7 @@ function RouteComponent() {
 		const status = direction === "left" ? "unknown" : "known";
 
 		startTransition(async () => {
+			navigator.vibrate(50);
 			const nextIndex = currentIndex + 1;
 			const translateX = direction === "left" ? "-120%" : "120%";
 			const rotate = direction === "left" ? "-15deg" : "15deg";

@@ -45,6 +45,7 @@ function App() {
 					),
 				)
 				.limit(1);
+			navigator.vibrate(100);
 			navigate({
 				to: "/$sess",
 				params: { sess: sessIds[0].id },
@@ -57,6 +58,7 @@ function App() {
 				.insert(sessionsTable)
 				.values({ levelId: level, id: createID() })
 				.returning({ id: sessionsTable.id });
+			navigator.vibrate(100);
 			navigate({
 				to: "/$sess",
 				params: { sess: newSession[0].id },

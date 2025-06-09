@@ -1,3 +1,4 @@
+import "ios-vibrator-pro-max";
 import "@/lib/scss/global.scss";
 //
 import { client } from "@/lib/db/dom";
@@ -33,7 +34,7 @@ declare module "@tanstack/react-router" {
 		router: typeof router;
 	}
 }
-
+console.log("hi");
 migrateSchema(db, migrations)
 	.then(() => ensureLevels(db))
 	.then(() => {
