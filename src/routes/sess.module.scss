@@ -6,7 +6,7 @@ $body_height: calc(
 
 .container {
   height: 100%;
-  background-color: $background-200;
+  background-color: var(--background-200);
   view-transition-name: main-content;
 }
 
@@ -35,7 +35,7 @@ $body_height: calc(
 .progressBarBackground {
   position: absolute;
   inset: 0;
-  background: $gray-300;
+  background: var(--gray-300);
   border-radius: 6px;
   overflow: hidden;
 }
@@ -43,7 +43,7 @@ $body_height: calc(
 .progressBarFill {
   position: absolute;
   inset: 0;
-  background: $gray-1000;
+  background: var(--gray-1000);
   border-radius: 6px;
   transform: translateX(calc(var(--current-progress, 0) * 100% - 100%));
   transition: transform 0.3s ease-out;
@@ -85,27 +85,27 @@ $body_height: calc(
   width: d(48);
   height: d(48);
   border-radius: 50%;
-  background-color: $background-100;
+  background-color: var(--background-100);
   display: flex;
   align-items: center;
   justify-content: center;
-  color: $gray-100;
+  color: var(--gray-100);
   border: none;
-  box-shadow: 0 0 0 1px $gray-400;
+  box-shadow: 0 0 0 1px var(--gray-400);
 
   &.study {
-    color: $red-800;
+    color: var(--red-800);
   }
   &.next {
-    color: $green-700;
+    color: var(--green-700);
   }
 }
 
 .empty {
-  background: $background-100;
+  background: var(--background-100);
   margin: 0 d(16);
   height: 100%;
-  border: 1px solid $gray-400;
+  border: 1px solid var(--gray-400);
   border-radius: d(16);
   display: flex;
   flex-direction: column;
@@ -134,8 +134,8 @@ $body_height: calc(
       border: none;
       font-size: d(20);
       padding: d(8) d(12);
-      background-color: $gray-1000;
-      color: $background-100;
+      background-color: var(--gray-1000);
+      color: var(--background-100);
     }
   }
 }

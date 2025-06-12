@@ -12,6 +12,7 @@ A modern, interactive flashcard application designed to accelerate Japanese voca
 - **Frontend Framework**: React 19 + TypeScript
 - **Routing**: TanStack Router (File-based routing)
 - **Styling**: SCSS Modules
+- **Design System**: Vercel Geist Colors
 - **Build Tool**: Vite 6
 - **Database**: PGlite (Embedded PostgreSQL)
 - **ORM**: Drizzle ORM

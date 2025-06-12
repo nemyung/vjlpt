@@ -1,7 +1,7 @@
 .layout {
   height: 100%;
   view-transition-name: main-content;
-  background-color: $background-200;
+  background-color: var(--background-200);
 }
 
 .inner {
@@ -12,7 +12,7 @@
   padding-top: d(40);
   font-size: d(32);
   font-weight: 700;
-  color: $gray-1000;
+  color: var(--gray-1000);
   letter-spacing: -0.02em;
 }
 
@@ -24,11 +24,11 @@
 }
 
 .levelItem {
-  background-color: $background-100;
+  background-color: var(--background-100);
   display: flex;
   align-items: center;
   justify-content: center;
-  color: $gray-1000;
+  color: var(--gray-1000);
   height: d(96);
   border-radius: d(16);
   font-size: d(24);
