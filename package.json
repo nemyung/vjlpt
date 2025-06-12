@@ -1,5 +1,6 @@
 {
   "name": "jlpt",
+  "version": "0.0.2",
   "private": true,
   "type": "module",
   "scripts": {
