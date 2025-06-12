@@ -28,11 +28,12 @@
 }
 
 .expression {
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 32px;
+  font-weight: 500;
   line-height: 1;
   color: var(--gray-1000);
   transition: opacity 0.1s ease-out;
+  font-family: var(--font-jp);
 }
 
 .furigana {
@@ -40,6 +41,7 @@
   font-weight: 400;
   line-height: 1;
   color: var(--gray-1000);
+  font-family: var(--font-jp);
 }
 
 .meaning {
