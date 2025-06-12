@@ -90,7 +90,7 @@ $body_height: calc(
   align-items: center;
   justify-content: center;
   color: var(--gray-100);
-  border: none;
+  border: 1px solid var(--gray-400);
   box-shadow: 0 0 0 1px var(--gray-400);
 
   &.study {
@@ -119,6 +119,7 @@ $body_height: calc(
     justify-content: center;
     gap: d(8);
     font-size: d(20);
+    color: var(--gray-1000);
   }
 
   .ctaRow {
@@ -130,10 +131,11 @@ $body_height: calc(
     .cta {
       min-width: d(120);
       height: d(48);
-      border-radius: d(16);
+      border-radius: 16px;
       border: none;
-      font-size: d(20);
-      padding: d(8) d(12);
+      font-size: 24px;
+      font-weight: 700;
+      padding: 8px 12px;
       background-color: var(--gray-1000);
       color: var(--background-100);
     }
