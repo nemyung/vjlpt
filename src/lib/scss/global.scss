@@ -15,7 +15,10 @@
   --gray-1000: hsla(0, 0%, 9%, 1);
   --green-700: oklch(64.58% 0.1746 147.27);
   --red-800: oklch(58.19% 0.2482 25.15);
+  --font-default: "Noto Sans KR", sans-serif;
+  --font-jp: "Noto Serif JP", serif;
 }
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background-100: hsla(0, 0%, 4%, 1);
