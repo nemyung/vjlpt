@@ -1,23 +1,55 @@
-.outer {
-  position: relative;
-  height: 100%;
-  background: var(--background-100);
+.cardLayout {
+  position: absolute;
+  inset: 0;
   border-radius: 12px;
-  border: 1px solid #f3f4f6;
-  padding: 32px 40px;
+  border: 1px solid var(--gray-400);
+}
+
+.outer {
+  @extend .cardLayout;
+  background: var(--background-100);
   display: flex;
   justify-content: center;
   align-items: center;
+  touch-action: none;
+  user-select: none;
+  will-change: transform;
+  cursor: grab;
+  perspective: 1000px;
+
+  &:active {
+    cursor: grabbing;
+  }
 }
 
-.hintButton {
-  border: none;
+.cardInner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.3s ease-in-out;
+  &[data-state="hide"] {
+    transform: rotateY(0deg);
+  }
+  &[data-state="open"] {
+    transform: rotateY(180deg);
+  }
+}
+
+.cardFace {
   position: absolute;
-  bottom: d(16);
-  right: d(16);
-  background: none;
-  cursor: pointer;
-  color: var(--gray-1000);
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+}
+
+.cardBack {
+  transform: rotateY(180deg);
 }
 
 .expressionWrapper {
@@ -25,29 +57,33 @@
   flex-direction: column;
   align-items: center;
   gap: 16px;
+  pointer-events: none;
 }
 
 .expression {
-  font-size: 32px;
+  font-size: d(36);
   font-weight: 500;
   line-height: 1;
   color: var(--gray-1000);
   transition: opacity 0.1s ease-out;
   font-family: var(--font-jp);
+  pointer-events: none;
 }
 
 .furigana {
-  font-size: 16px;
+  font-size: d(24);
   font-weight: 400;
   line-height: 1;
   color: var(--gray-1000);
   font-family: var(--font-jp);
+  pointer-events: none;
 }
 
 .meaning {
-  font-size: 24px;
+  font-size: d(24);
   font-weight: 500;
   line-height: 1.5;
   transition: opacity 0.1s ease-out;
   color: var(--gray-1000);
+  pointer-events: none;
 }
