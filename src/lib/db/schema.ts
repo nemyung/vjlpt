@@ -61,33 +61,3 @@ export const meaningsTable = pgTable("meanings", {
 		}),
 	meaning: text().notNull(),
 });
-
-export const sessionsTable = pgTable("sessions", {
-	...id,
-	...timestamps,
-	levelId: text({ enum: JLPT_LEVELS })
-		.notNull()
-		.references(() => levelsTable.id, {
-			onDelete: "cascade",
-			onUpdate: "cascade",
-		}),
-	finishedAt: timestamp("finished_at"),
-});
-
-export const sessionReadingInteractionsTable = pgTable(
-	"session_reading_interactions",
-	{
-		...id,
-		...timestamps,
-		sessionId: ulid("session_id")
-			.notNull()
-			.references(() => sessionsTable.id, { onDelete: "cascade" }),
-		readingId: ulid("reading_id")
-			.notNull()
-			.references(() => readingsTable.id, { onDelete: "cascade" }),
-		status: text({ enum: ["known", "unknown"] }).notNull(),
-	},
-	(table) => [
-		unique("session_reading_unq").on(table.sessionId, table.readingId),
-	],
-);
