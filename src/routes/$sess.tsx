@@ -1,6 +1,3 @@
-/**
- * @todo The UI when the query returns no flashcards, meaning that there are no more flashcards to learn on this session.
- */
 import FlashCard from "@/components/flash-card";
 import flashCardStyles from "@/components/flash-card.module.scss";
 import type { db } from "@/lib/db/drizzle";
@@ -16,7 +13,7 @@ import {
 import { createFileRoute, useRouter } from "@tanstack/react-router";
 import { and, eq, getTableColumns, notInArray, sql } from "drizzle-orm";
 import { ChevronLeft } from "lucide-react";
-import { useRef, useState, useTransition } from "react";
+import { useOptimistic, useRef, useState } from "react";
 import { ulid } from "ulid";
 import styles from "./sess.module.scss";
 
@@ -98,79 +95,51 @@ function RouteComponent() {
 	const [flashcards, setFlashcards] =
 		useState<FlashCardWithInteractionStatus[]>(initialFlashCards);
 	const [currentIndex, setCurrentIndex] = useState(0);
-	const [isPending, startTransition] = useTransition();
-
-	const progressFillRef = useRef<HTMLDivElement>(null);
-
-	const totalCards = flashcards.length;
 
 	const fetchNextFlashCards = async () => {
-		navigator.vibrate(50);
-		startTransition(async () => {
-			setFlashcards(await query(db, levelId, params.sess));
-			setCurrentIndex(0);
-			progressFillRef.current?.style.setProperty("--current-progress", "0");
-		});
+		setFlashcards(await query(db, levelId, params.sess));
+		setCurrentIndex(0);
 	};
 
-	const goToNext = (direction: "left" | "right") => {
-		if (isPending) {
-			return;
-		}
-		if (currentIndex >= totalCards) {
-			return;
-		}
-
-		const progressFillElement = progressFillRef.current;
-		if (progressFillElement === null) {
-			return;
-		}
+	const onSwipeStart = async (direction: "left" | "right") => {
 		const status = direction === "left" ? "unknown" : "known";
-
-		startTransition(async () => {
-			navigator.vibrate(50);
-			const nextIndex = currentIndex + 1;
-
-			await Promise.all([
-				Promise.resolve().then(() => {
-					progressFillElement.style.setProperty(
-						"--current-progress",
-						(nextIndex / totalCards).toString(),
-					);
-				}),
-
-				db
-					.insert(sessionReadingInteractionsTable)
-					.values({
-						id: ulid(),
-						sessionId: params.sess,
-						readingId: flashcards[currentIndex].id,
-						status,
-					})
-					.onConflictDoUpdate({
-						target: [
-							sessionReadingInteractionsTable.sessionId,
-							sessionReadingInteractionsTable.readingId,
-						],
-						set: {
-							status,
-						},
-					}),
-			]);
-
-			setFlashcards((prev) => {
-				const newFlashcards = prev.slice();
-				newFlashcards[currentIndex] = {
-					...newFlashcards[currentIndex],
-					interactionStatus: status,
-				};
-				return newFlashcards;
+		await db
+			.insert(sessionReadingInteractionsTable)
+			.values({
+				id: ulid(),
+				sessionId: params.sess,
+				readingId: flashcards[currentIndex].id,
+				status,
+			})
+			.onConflictDoUpdate({
+				target: [
+					sessionReadingInteractionsTable.sessionId,
+					sessionReadingInteractionsTable.readingId,
+				],
+				set: {
+					status,
+				},
 			});
-			setCurrentIndex(nextIndex);
-		});
 	};
 
+	const goToNext = async (direction: "left" | "right") => {
+		const status = direction === "left" ? "unknown" : "known";
+		const nextIndex = currentIndex + 1;
+		setFlashcards((prev) => {
+			const newFlashcards = prev.slice();
+			newFlashcards[currentIndex] = {
+				...newFlashcards[currentIndex],
+				interactionStatus: status,
+			};
+			return newFlashcards;
+		});
+		setCurrentIndex(nextIndex);
+	};
+
+	const totalCards = flashcards.length;
 	const currentFlashCard = flashcards[currentIndex];
+	const progress =
+		totalCards === 0 ? "0" : (currentIndex / totalCards).toString();
 
 	return (
 		<div className={styles.container}>
@@ -181,7 +150,10 @@ function RouteComponent() {
 
 				<div className={styles.progressSection}>
 					<div className={styles.progressBarBackground}>
-						<div ref={progressFillRef} className={styles.progressBarFill} />
+						<div
+							style={{ ["--current-progress" as string]: progress }}
+							className={styles.progressBarFill}
+						/>
 					</div>
 				</div>
 			</header>
@@ -190,12 +162,19 @@ function RouteComponent() {
 					<div className={styles.cardWrapper}>
 						<div className={flashCardStyles.cardLayout} />
 						<FlashCard
-							// TODO: There is a better way to render with entering animations..
 							key={currentFlashCard.id}
-							onSwipeLeft={() => {
+							onSwipeLeftStart={() => {
+								onSwipeStart("left");
+							}}
+							onSwipeLeftDone={() => {
 								goToNext("left");
 							}}
-							onSwipeRight={() => {
+							onSwipeRightStart={() => {
+								console.log("onSwipeRightStart");
+								onSwipeStart("right");
+							}}
+							onSwipeRightDone={() => {
+								console.log("onSwipeRightDone");
 								goToNext("right");
 							}}
 							{...currentFlashCard}

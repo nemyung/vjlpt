@@ -1,26 +1,31 @@
-import { animated, useSpring } from "@react-spring/web";
+import { animated, config, useSpring } from "@react-spring/web";
 import { useDrag } from "@use-gesture/react";
 import * as React from "react";
 import styles from "./flash-card.module.scss";
+
+const defaultFlashcardConfig = config.stiff;
 
 type Props = {
 	id: string;
 	expression: string;
 	furigana: string;
 	meanings: string[];
-	onSwipeRight?: () => void;
-	onSwipeLeft?: () => void;
+	onSwipeRightStart: () => void;
+	onSwipeRightDone: () => void;
+	onSwipeLeftStart: () => void;
+	onSwipeLeftDone: () => void;
 };
 
 function FlashCard({
 	expression,
 	furigana,
 	meanings,
-	onSwipeRight,
-	onSwipeLeft,
+	onSwipeRightStart,
+	onSwipeLeftStart,
+	onSwipeRightDone,
+	onSwipeLeftDone,
 }: Props) {
 	const [hintState, setHintState] = React.useState<"hide" | "open">("hide");
-	const cardRef = React.useRef<HTMLDivElement>(null);
 
 	// Spring animation for position, rotation, and flip
 	const [{ x, y, rotate }, api] = useSpring(() => ({
@@ -45,48 +50,52 @@ function FlashCard({
 			});
 		} else if (trigger) {
 			if (dx > 0) {
-				// Swipe right
-				api
-					.start({
+				Promise.all([
+					...api.start({
 						x: window.innerWidth,
 						y: dy,
 						rotate: rotation,
-						config: { tension: 200, friction: 20 },
-					})[0]
-					.then(() => {
-						onSwipeRight?.();
-					});
+						config: defaultFlashcardConfig,
+					}),
+					onSwipeRightStart(),
+				]).then((ret) => {
+					const apiResult = ret[0];
+					if (apiResult?.finished) {
+						onSwipeRightDone();
+					}
+				});
 			} else {
-				// Swipe left
-				api
-					.start({
+				Promise.all([
+					...api.start({
 						x: -window.innerWidth,
 						y: dy,
 						rotate: rotation,
-						config: { tension: 200, friction: 20 },
-					})[0]
-					.then(() => {
-						onSwipeLeft?.();
-					});
+						config: defaultFlashcardConfig,
+					}),
+					onSwipeLeftStart(),
+				]).then((ret) => {
+					const apiResult = ret[0];
+					if (apiResult?.finished) {
+						onSwipeLeftDone();
+					}
+				});
 			}
 		} else {
 			api.start({
 				x: 0,
 				y: 0,
 				rotate: 0,
-				config: { tension: 200, friction: 20 },
+				config: config.stiff,
 			});
 		}
 	});
 
-	// Click handler (flip only)
 	const handleClick = () => {
 		setHintState((prev) => (prev === "hide" ? "open" : "hide"));
 	};
 
 	return (
 		<animated.div
-			ref={cardRef}
 			{...bind()}
 			className={styles.outer}
 			style={{
@@ -104,6 +113,7 @@ function FlashCard({
 				<div className={`${styles.cardFace} ${styles.cardBack}`}>
 					<div className={styles.expressionWrapper}>
 						<p className={styles.furigana}>{furigana}</p>
+						<p className={styles.expression}>{expression}</p>
 						<p className={styles.meaning}>{meanings.join(", ")}</p>
 					</div>
 				</div>

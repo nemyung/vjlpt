@@ -53,7 +53,7 @@ $body_height: calc(100% - $header_height);
 // 중앙 컨테이너
 .contentContainer {
   position: relative;
-  height: calc($body_height - d(32));
+  height: calc(100% - d(16));
 }
 
 .cardWrapper {
