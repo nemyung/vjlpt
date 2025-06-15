@@ -1,9 +1,8 @@
-import { createID } from "@/lib/db/helper";
 import { useDrizzle } from "@/lib/db/provider";
-import { type JLPTLevel, JLPT_LEVELS, sessionsTable } from "@/lib/db/schema";
+import { type JLPTLevel, JLPT_LEVELS, readingsTable } from "@/lib/db/schema";
 import { seedByLevel } from "@/lib/db/seed";
 import { createFileRoute, useNavigate } from "@tanstack/react-router";
-import { and, count, eq, isNull } from "drizzle-orm";
+import { count, eq } from "drizzle-orm";
 import s from "./index.module.scss";
 
 export const Route = createFileRoute("/")({
@@ -16,10 +15,9 @@ function App() {
 
 	const onClick = async (level: JLPTLevel) => {
 		const sessions = await db
-			.select({ count: count(), finishedAt: sessionsTable.finishedAt })
-			.from(sessionsTable)
-			.where(eq(sessionsTable.levelId, level))
-			.groupBy(sessionsTable.finishedAt);
+			.select({ count: count() })
+			.from(readingsTable)
+			.where(eq(readingsTable.levelId, level));
 
 		const shouldFetch = sessions.length === 0;
 
@@ -30,43 +28,14 @@ function App() {
 			await seedByLevel(db, level);
 		}
 
-		const onProgressSession = sessions.find(
-			(session) => session.finishedAt === null,
-		);
-
-		if (onProgressSession) {
-			const sessIds = await db
-				.select({ id: sessionsTable.id })
-				.from(sessionsTable)
-				.where(
-					and(
-						eq(sessionsTable.levelId, level),
-						isNull(sessionsTable.finishedAt),
-					),
-				)
-				.limit(1);
-			navigator.vibrate(100);
-			navigate({
-				to: "/$sess",
-				params: { sess: sessIds[0].id },
-				viewTransition: {
-					types: ["slide-left"],
-				},
-			});
-		} else {
-			const newSession = await db
-				.insert(sessionsTable)
-				.values({ levelId: level, id: createID() })
-				.returning({ id: sessionsTable.id });
-			navigator.vibrate(100);
-			navigate({
-				to: "/$sess",
-				params: { sess: newSession[0].id },
-				viewTransition: {
-					types: ["slide-left"],
-				},
-			});
-		}
+		navigator.vibrate(100);
+		navigate({
+			to: "/$level",
+			params: { level },
+			viewTransition: {
+				types: ["slide-left"],
+			},
+		});
 	};
 
 	return (

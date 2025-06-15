@@ -2,20 +2,13 @@ import FlashCard from "@/components/flash-card";
 import flashCardStyles from "@/components/flash-card.module.scss";
 import type { db } from "@/lib/db/drizzle";
 import { useDrizzle } from "@/lib/db/provider";
-import {
-	type JLPTLevel,
-	expressionsTable,
-	meaningsTable,
-	readingsTable,
-	sessionReadingInteractionsTable,
-	sessionsTable,
-} from "@/lib/db/schema";
-import { createFileRoute, useRouter } from "@tanstack/react-router";
-import { and, eq, getTableColumns, notInArray, sql } from "drizzle-orm";
+import { type JLPTLevel, JLPT_LEVELS, isJLPTLevel } from "@/lib/db/schema";
+import { fetchDueReadings, rate } from "@/lib/fsrs/repo";
+import { createFileRoute, redirect, useRouter } from "@tanstack/react-router";
 import { ChevronLeft } from "lucide-react";
-import { useOptimistic, useRef, useState } from "react";
+import { useState } from "react";
 import { ulid } from "ulid";
-import styles from "./sess.module.scss";
+import styles from "./level.module.scss";
 
 async function query(
 	db: db,
@@ -23,62 +16,59 @@ async function query(
 	sessionId: string,
 	limit = 25,
 ) {
-	return await db
-		.select({
-			...getTableColumns(readingsTable),
-			expression: expressionsTable.expression,
-			meanings: sql<string[]>`json_agg(${meaningsTable.meaning})`,
-		})
-		.from(readingsTable)
-		.innerJoin(
-			expressionsTable,
-			eq(readingsTable.expressionId, expressionsTable.id),
-		)
-		.innerJoin(meaningsTable, eq(readingsTable.id, meaningsTable.readingId))
-		.groupBy(readingsTable.id, expressionsTable.expression)
-		.orderBy(sql`random()`)
-		.limit(limit)
-		.where(
-			and(
-				eq(readingsTable.levelId, levelId),
-				notInArray(
-					readingsTable.id,
-					db
-						.select({ readingId: sessionReadingInteractionsTable.readingId })
-						.from(sessionReadingInteractionsTable)
-						.where(eq(sessionReadingInteractionsTable.sessionId, sessionId)),
-				),
-			),
-		);
+	return [];
+	// return await db
+	// 	.select({
+	// 		...getTableColumns(readingsTable),
+	// 		expression: expressionsTable.expression,
+	// 		meanings: sql<string[]>`json_agg(${meaningsTable.meaning})`,
+	// 	})
+	// 	.from(readingsTable)
+	// 	.innerJoin(
+	// 		expressionsTable,
+	// 		eq(readingsTable.expressionId, expressionsTable.id),
+	// 	)
+	// 	.innerJoin(meaningsTable, eq(readingsTable.id, meaningsTable.readingId))
+	// 	.groupBy(readingsTable.id, expressionsTable.expression)
+	// 	.orderBy(sql`random()`)
+	// 	.limit(limit)
+	// 	.where(
+	//	eq(readingsTable.levelId, levelId)
+	// 	);
 }
 
-export const Route = createFileRoute("/$sess")({
+export const Route = createFileRoute("/$level")({
 	component: RouteComponent,
 	staleTime: 0,
 	gcTime: 0,
 	loader: async ({ context: { db }, params }) => {
-		const session = await db.query.sessionsTable.findFirst({
-			where: eq(sessionsTable.id, params.sess),
-		});
-		if (session === undefined) {
-			throw new Error("The session is not found");
+		const levelId = params.level;
+		if (!isJLPTLevel(levelId)) {
+			throw redirect({
+				to: "/",
+				replace: true,
+			});
 		}
-		const levelId = session.levelId;
-		return { flashcards: await query(db, levelId, params.sess), levelId };
+
+		return {
+			levelId,
+			flashCards: await fetchDueReadings(db)(10, levelId),
+		} as const;
 	},
 });
 
+// type N = Awaited<ReturnType<ReturnType<typeof fetchDueReadings>>>;
+
 type FlashCardWithInteractionStatus = Awaited<
-	ReturnType<typeof query>
+	ReturnType<ReturnType<typeof fetchDueReadings>>
 >[number] & {
 	interactionStatus?: "unknown" | "known";
 };
 
 function RouteComponent() {
 	const db = useDrizzle();
-
+	const d = Route.useLoaderData();
 	const params = Route.useParams();
-	const { flashcards: initialFlashCards, levelId } = Route.useLoaderData();
 	const router = useRouter();
 
 	const goBack = () => {
@@ -92,34 +82,19 @@ function RouteComponent() {
 		});
 	};
 
-	const [flashcards, setFlashcards] =
-		useState<FlashCardWithInteractionStatus[]>(initialFlashCards);
+	const [flashcards, setFlashcards] = useState<
+		FlashCardWithInteractionStatus[]
+	>(d.flashCards);
 	const [currentIndex, setCurrentIndex] = useState(0);
 
 	const fetchNextFlashCards = async () => {
-		setFlashcards(await query(db, levelId, params.sess));
+		setFlashcards(await fetchDueReadings(db)(10, d.levelId));
 		setCurrentIndex(0);
 	};
 
 	const onSwipeStart = async (direction: "left" | "right") => {
 		const status = direction === "left" ? "unknown" : "known";
-		await db
-			.insert(sessionReadingInteractionsTable)
-			.values({
-				id: ulid(),
-				sessionId: params.sess,
-				readingId: flashcards[currentIndex].id,
-				status,
-			})
-			.onConflictDoUpdate({
-				target: [
-					sessionReadingInteractionsTable.sessionId,
-					sessionReadingInteractionsTable.readingId,
-				],
-				set: {
-					status,
-				},
-			});
+		await rate(db)(flashcards[currentIndex].id, status === "unknown" ? 1 : 3);
 	};
 
 	const goToNext = async (direction: "left" | "right") => {

@@ -11,14 +11,14 @@
 // Import Routes
 
 import { Route as rootRoute } from './routes/__root'
-import { Route as SessImport } from './routes/$sess'
+import { Route as LevelImport } from './routes/$level'
 import { Route as IndexImport } from './routes/index'
 
 // Create/Update Routes
 
-const SessRoute = SessImport.update({
-  id: '/$sess',
-  path: '/$sess',
+const LevelRoute = LevelImport.update({
+  id: '/$level',
+  path: '/$level',
   getParentRoute: () => rootRoute,
 } as any)
 
@@ -39,11 +39,11 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexImport
       parentRoute: typeof rootRoute
     }
-    '/$sess': {
-      id: '/$sess'
-      path: '/$sess'
-      fullPath: '/$sess'
-      preLoaderRoute: typeof SessImport
+    '/$level': {
+      id: '/$level'
+      path: '/$level'
+      fullPath: '/$level'
+      preLoaderRoute: typeof LevelImport
       parentRoute: typeof rootRoute
     }
   }
@@ -53,37 +53,37 @@ declare module '@tanstack/react-router' {
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/$sess': typeof SessRoute
+  '/$level': typeof LevelRoute
 }
 
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
-  '/$sess': typeof SessRoute
+  '/$level': typeof LevelRoute
 }
 
 export interface FileRoutesById {
   __root__: typeof rootRoute
   '/': typeof IndexRoute
-  '/$sess': typeof SessRoute
+  '/$level': typeof LevelRoute
 }
 
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/$sess'
+  fullPaths: '/' | '/$level'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/$sess'
-  id: '__root__' | '/' | '/$sess'
+  to: '/' | '/$level'
+  id: '__root__' | '/' | '/$level'
   fileRoutesById: FileRoutesById
 }
 
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  SessRoute: typeof SessRoute
+  LevelRoute: typeof LevelRoute
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  SessRoute: SessRoute,
+  LevelRoute: LevelRoute,
 }
 
 export const routeTree = rootRoute
@@ -97,14 +97,14 @@ export const routeTree = rootRoute
       "filePath": "__root.tsx",
       "children": [
         "/",
-        "/$sess"
+        "/$level"
       ]
     },
     "/": {
       "filePath": "index.tsx"
     },
-    "/$sess": {
-      "filePath": "$sess.tsx"
+    "/$level": {
+      "filePath": "$level.tsx"
     }
   }
 }

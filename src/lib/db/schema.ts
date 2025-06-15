@@ -1,4 +1,14 @@
-import { char, pgTable, text, timestamp, unique } from "drizzle-orm/pg-core";
+import { sql } from "drizzle-orm";
+import {
+	char,
+	check,
+	integer,
+	pgTable,
+	real,
+	text,
+	timestamp,
+	unique,
+} from "drizzle-orm/pg-core";
 
 export const timestamps = {
 	timeCreated: timestamp("time_created").notNull().defaultNow(),
@@ -15,6 +25,8 @@ export const id = {
 
 export const JLPT_LEVELS = ["N5", "N4", "N3", "N2", "N1"] as const;
 export type JLPTLevel = (typeof JLPT_LEVELS)[number];
+export const isJLPTLevel = (level: string): level is JLPTLevel =>
+	JLPT_LEVELS.some((l) => l === level);
 
 export const levelsTable = pgTable("levels", {
 	id: text({ enum: JLPT_LEVELS }).notNull().primaryKey(),
@@ -61,3 +73,58 @@ export const meaningsTable = pgTable("meanings", {
 		}),
 	meaning: text().notNull(),
 });
+
+/**
+ * The current FSRS state of a reading
+ */
+export const vocabularyLearningProgressTable = pgTable(
+	"vocabulary_learning_progress",
+	{
+		readingId: ulid("reading_id")
+			.primaryKey()
+			.references(() => readingsTable.id, { onDelete: "cascade" }),
+
+		stability: real("stability").notNull(),
+		difficulty: real("difficulty").notNull(),
+		lastReviewDate: timestamp("last_review_date").notNull(),
+		nextReviewDate: timestamp("next_review_date").notNull(),
+		lapses: integer("lapses").notNull().default(0),
+
+		status: text({ enum: ["new", "learning", "review"] })
+			.notNull()
+			.default("new"),
+
+		...timestamps,
+	},
+);
+
+export const RATING_NUMBERS = [
+	0, // manual
+	1, // again
+	2, // hard
+	3, // good
+	4, // easy
+] as const;
+export type RatingNumber = (typeof RATING_NUMBERS)[number];
+
+/**
+ * The review history of a reading
+ */
+export const reviewLogsTable = pgTable(
+	"review_logs",
+	{
+		...id,
+		...timestamps,
+
+		readingId: ulid("reading_id")
+			.notNull()
+			.references(() => readingsTable.id, { onDelete: "cascade" }),
+
+		rating: integer().notNull().$type<RatingNumber>(),
+		timeReviewed: timestamp("time_reviewed").notNull().defaultNow(),
+		elapsedDays: integer("elapsed_days").notNull(),
+	},
+	(table) => [
+		check("elapsed_days_non_negative", sql`${table.elapsedDays} >= 0`),
+	],
+);
