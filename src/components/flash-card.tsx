@@ -134,6 +134,7 @@ function FlashCard({
 				</div>
 			</animated.div>
 			<button
+				disabled={tts.playing}
 				type="button"
 				className={styles.ttsButton}
 				onClickCapture={handleTTSClick}
