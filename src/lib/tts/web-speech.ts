@@ -12,7 +12,7 @@ export class WebSpeechTTS implements TTS {
 	async #ensureInit() {
 		const statusResult = await EasySpeech.status();
 
-		if (statusResult.status === "init: complete") {
+		if (statusResult.status !== "created") {
 			if (statusResult.initialized === false) {
 				throw new Error("Web Speech API is not initialized");
 			}
@@ -27,6 +27,7 @@ export class WebSpeechTTS implements TTS {
 		this.#allVoices = EasySpeech.voices().filter((v) => v.lang === "ja-JP");
 		const remoteVoice = this.#allVoices.find((v) => v.localService === false);
 		this.#currentVoice = remoteVoice ?? this.#allVoices[0];
+		// FIXME: do we really need this workaround?
 		try {
 			await EasySpeech.speak({
 				text: " ",
@@ -34,8 +35,8 @@ export class WebSpeechTTS implements TTS {
 				volume: 0,
 				rate: 10,
 			});
-		} catch (e) {
-			console.log(e);
+		} finally {
+			this.stop();
 		}
 	}
 

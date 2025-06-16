@@ -108,29 +108,31 @@ function FlashCard({
 	};
 
 	return (
-		<animated.div
-			{...bind()}
-			className={styles.outer}
-			style={{
-				x,
-				y,
-				rotate: rotate.to((r: number) => `${r}deg`),
-			}}
-			onClick={handleClick}
-		>
-			<div data-state={hintState} className={styles.cardInner}>
-				<div className={styles.cardFace}>
-					<p className={styles.expression}>{expression}</p>
-				</div>
-
-				<div className={`${styles.cardFace} ${styles.cardBack}`}>
-					<div className={styles.expressionWrapper}>
-						<p className={styles.furigana}>{furigana}</p>
+		<>
+			<animated.div
+				{...bind()}
+				className={styles.outer}
+				style={{
+					x,
+					y,
+					rotate: rotate.to((r: number) => `${r}deg`),
+				}}
+				onClick={handleClick}
+			>
+				<div data-state={hintState} className={styles.cardInner}>
+					<div className={styles.cardFace}>
 						<p className={styles.expression}>{expression}</p>
-						<p className={styles.meaning}>{meanings.join(", ")}</p>
+					</div>
+
+					<div className={`${styles.cardFace} ${styles.cardBack}`}>
+						<div className={styles.expressionWrapper}>
+							<p className={styles.furigana}>{furigana}</p>
+							<p className={styles.expression}>{expression}</p>
+							<p className={styles.meaning}>{meanings.join(", ")}</p>
+						</div>
 					</div>
 				</div>
-			</div>
+			</animated.div>
 			<button
 				type="button"
 				className={styles.ttsButton}
@@ -139,7 +141,7 @@ function FlashCard({
 			>
 				<Volume2 size={20} />
 			</button>
-		</animated.div>
+		</>
 	);
 }
 
