@@ -86,7 +86,9 @@ function RouteComponent() {
 
   const onSwipeStart = async (direction: "left" | "right") => {
     const status = direction === "left" ? "unknown" : "known";
-    await rate(db)(currentFlashCard.id, status === "unknown" ? 1 : 3);
+    await db.transaction(async (tx) => {
+      await rate(tx)(currentFlashCard.id, status === "unknown" ? 1 : 3);
+    });
   };
 
   const goToNext = async (direction: "left" | "right") => {
