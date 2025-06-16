@@ -59,7 +59,6 @@ export const fetchDueReadings =
 
 export const fetchNewReadings =
   (orm: orm) => async (limit: number, level: JLPTLevel) => {
-    console.log(limit);
     return orm
       .select({
         ...getTableColumns(readingsTable),

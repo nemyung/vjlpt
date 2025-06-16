@@ -22,11 +22,6 @@ const fetchReadingsByLevel = (db: db) => async (levelId: JLPTLevel) => {
     TOTAL_CARDS - dues.length,
     levelId
   );
-  console.log("dues.length", dues.length);
-  console.log("newReadings.length", newReadings.length);
-
-  console.log("dues", dues);
-  console.log("newReadings", newReadings);
 
   return shuffle([...dues, ...newReadings]);
 };
@@ -137,11 +132,9 @@ function RouteComponent() {
                 goToNext("left");
               }}
               onSwipeRightStart={() => {
-                console.log("onSwipeRightStart");
                 onSwipeStart("right");
               }}
               onSwipeRightDone={() => {
-                console.log("onSwipeRightDone");
                 goToNext("right");
               }}
               {...currentFlashCard}

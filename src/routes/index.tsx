@@ -19,18 +19,13 @@ function App() {
       .from(readingsTable)
       .where(eq(readingsTable.levelId, level));
 
-    const shouldFetch = countOfReadings === 0;
-    console.log("count", count);
-    console.log("shouldFetch", shouldFetch);
-
-    if (shouldFetch) {
+    if (countOfReadings === 0) {
       if (!confirm("해당 레벨의 데이터가 없어요. 다운로드 받을까요?")) {
         return;
       }
       await seedByLevel(db, level);
     }
 
-    navigator.vibrate(100);
     navigate({
       to: "/$level",
       params: { level },
