@@ -35,6 +35,9 @@ importers:
       drizzle-orm:
         specifier: ^0.44.2
         version: 0.44.2(@electric-sql/pglite@0.3.2)
+      easy-speech:
+        specifier: ^2.4.0
+        version: 2.4.0
       ios-vibrator-pro-max:
         specifier: ^1.3.2
         version: 1.3.2
@@ -1161,6 +1164,10 @@ packages:
         optional: true
       sqlite3:
         optional: true
+
+  easy-speech@2.4.0:
+    resolution: {integrity: sha512-wpMv29DEoeP/eyXr4aXpDqd9DvlXl7aQs7BgfKbjGVxqkmQPgNmpbF5YULaTH5bc/5qrteg5MDfCD2Zd0qr4rQ==}
+    engines: {node: '>= 14.x'}
 
   electron-to-chromium@1.5.162:
     resolution: {integrity: sha512-hQA+Zb5QQwoSaXJWEAGEw1zhk//O7qDzib05Z4qTqZfNju/FAkrm5ZInp0JbTp4Z18A6bilopdZWEYrFSsfllA==}
@@ -2688,6 +2695,8 @@ snapshots:
   drizzle-orm@0.44.2(@electric-sql/pglite@0.3.2):
     optionalDependencies:
       '@electric-sql/pglite': 0.3.2
+
+  easy-speech@2.4.0: {}
 
   electron-to-chromium@1.5.162: {}
 

@@ -87,3 +87,21 @@
   color: var(--gray-1000);
   pointer-events: none;
 }
+
+.ttsButton {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--background-100);
+  border: 1px solid var(--gray-300);
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  color: var(--gray-700);
+  z-index: 10;
+}

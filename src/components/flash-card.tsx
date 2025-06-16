@@ -1,5 +1,7 @@
+import { useWebSpeechTTS } from "@/lib/tts/web-speech";
 import { animated, config, useSpring } from "@react-spring/web";
 import { useDrag } from "@use-gesture/react";
+import { Volume2 } from "lucide-react";
 import * as React from "react";
 import styles from "./flash-card.module.scss";
 
@@ -25,6 +27,7 @@ function FlashCard({
 	onSwipeRightDone,
 	onSwipeLeftDone,
 }: Props) {
+	const tts = useWebSpeechTTS();
 	const [hintState, setHintState] = React.useState<"hide" | "open">("hide");
 
 	// Spring animation for position, rotation, and flip
@@ -37,6 +40,7 @@ function FlashCard({
 
 	// Drag gesture handler (drag only)
 	const bind = useDrag(({ down, movement: [dx, dy] }) => {
+		tts.stop();
 		const rotation = dx * 0.05;
 		const clamped = Math.min(rotation, 8);
 		const trigger = Math.abs(dx) > 100;
@@ -94,6 +98,15 @@ function FlashCard({
 		setHintState((prev) => (prev === "hide" ? "open" : "hide"));
 	};
 
+	const handleTTSClick = (e: React.MouseEvent) => {
+		e.stopPropagation();
+		if (tts.playing) {
+			tts.stop();
+		} else {
+			tts.speak(furigana || expression);
+		}
+	};
+
 	return (
 		<animated.div
 			{...bind()}
@@ -118,6 +131,14 @@ function FlashCard({
 					</div>
 				</div>
 			</div>
+			<button
+				type="button"
+				className={styles.ttsButton}
+				onClickCapture={handleTTSClick}
+				aria-label="음성 재생"
+			>
+				<Volume2 size={20} />
+			</button>
 		</animated.div>
 	);
 }
