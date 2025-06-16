@@ -1,5 +1,5 @@
-import "ios-vibrator-pro-max";
 import "@/lib/scss/global.scss";
+import "ios-vibrator-pro-max";
 //
 import { client } from "@/lib/db/dom";
 import migrations from "@/lib/db/mg.json";
@@ -11,45 +11,46 @@ import { migrateSchema } from "./lib/db/migrate";
 
 import { DrizzleProvider } from "./lib/db/provider";
 import { ensureLevels } from "./lib/db/seed";
+import { logError } from "./lib/log";
+
 import reportWebVitals from "./reportWebVitals";
 // Import the generated route tree
 import { routeTree } from "./routeTree.gen";
-import { logError } from "./lib/log";
 
 const db = createDrizzle(client);
 // Create a new router instance
 const router = createRouter({
-  routeTree,
-  context: {
-    db,
-  },
-  defaultPreload: "intent",
-  scrollRestoration: true,
-  defaultStructuralSharing: true,
-  defaultPreloadStaleTime: 0,
+	routeTree,
+	context: {
+		db,
+	},
+	defaultPreload: "intent",
+	scrollRestoration: true,
+	defaultStructuralSharing: true,
+	defaultPreloadStaleTime: 0,
 });
 
 // Register the router instance for type safety
 declare module "@tanstack/react-router" {
-  interface Register {
-    router: typeof router;
-  }
+	interface Register {
+		router: typeof router;
+	}
 }
 
 migrateSchema(db, migrations)
-  .then(() => ensureLevels(db))
-  .then(() => {
-    const rootElement = document.getElementById("app");
-    if (rootElement && !rootElement.innerHTML) {
-      const root = ReactDOM.createRoot(rootElement);
-      root.render(
-        <StrictMode>
-          <DrizzleProvider db={db}>
-            <RouterProvider router={router} />
-          </DrizzleProvider>
-        </StrictMode>
-      );
-    }
-  }, logError);
+	.then(() => ensureLevels(db))
+	.then(() => {
+		const rootElement = document.getElementById("app");
+		if (rootElement && !rootElement.innerHTML) {
+			const root = ReactDOM.createRoot(rootElement);
+			root.render(
+				<StrictMode>
+					<DrizzleProvider db={db}>
+						<RouterProvider router={router} />
+					</DrizzleProvider>
+				</StrictMode>,
+			);
+		}
+	}, logError);
 
 reportWebVitals();
