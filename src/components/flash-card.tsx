@@ -8,7 +8,6 @@ import styles from "./flash-card.module.scss";
 const defaultFlashcardConfig = config.stiff;
 
 type Props = {
-	id: string;
 	expression: string;
 	furigana: string;
 	meanings: string[];

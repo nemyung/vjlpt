@@ -1,12 +1,15 @@
 import { z } from "zod/v4";
-import { KanjiToMeaningDeck } from "./kanji-to-meaning";
-import { MeaningToKanjiDeck } from "./meaning-to-kanji";
-import { FlashCardDeck } from "./flash-card";
+import { FlashCard } from "./flash-card";
+import { KanjiToMeaning } from "./kanji-to-meaning";
+import { MeaningToKanji } from "./meaning-to-kanji";
 
-export const Deck = z.discriminatedUnion("type", [
-  KanjiToMeaningDeck,
-  MeaningToKanjiDeck,
-  FlashCardDeck,
+export const Card = z.discriminatedUnion("type", [
+	KanjiToMeaning,
+	MeaningToKanji,
+	FlashCard,
 ]);
 
+export type Card = z.infer<typeof Card>;
+
+export const Deck = z.array(Card);
 export type Deck = z.infer<typeof Deck>;
