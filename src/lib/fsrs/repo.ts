@@ -186,3 +186,41 @@ export const rate =
       elapsedDays: reviewLogData.elapsed_days,
     });
   };
+
+export const fetchDueReadings2 =
+  (orm: orm) => async (limit: number, level: JLPTLevel) => {
+    const now = new Date();
+
+    const dueReadings = await orm.query.readingsTable.findMany({
+      columns: {
+        id: true,
+        expressionId: true,
+        levelId: true,
+        furigana: true,
+        timeCreated: true,
+        timeUpdated: true,
+      },
+      with: {
+        expression: {
+          columns: { expression: true },
+        },
+        meanings: {
+          columns: { meaning: true },
+        },
+        vocabularyLearningProgress: true,
+      },
+      where: (reading, { eq, and, lte }) =>
+        and(
+          eq(reading.levelId, level),
+          lte(vocabularyLearningProgressTable.nextReviewDate, now)
+        ),
+      orderBy: asc(vocabularyLearningProgressTable.nextReviewDate),
+      limit: limit,
+    });
+
+    return dueReadings.map((reading) => ({
+      ...reading, // readingsTable의 컬럼들
+      expression: reading.expression.expression,
+      meanings: reading.meanings ? reading.meanings.map((m) => m.meaning) : [],
+    }));
+  };
