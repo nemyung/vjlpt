@@ -9,12 +9,11 @@ $body_height: calc(100% - $header_height);
 
 .header {
   position: relative;
-
   height: $header_height;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 0 d(16);
+  padding: 0 16px;
   background-color: var(--background-200);
 }
 

@@ -1,4 +1,4 @@
-import { sql } from "drizzle-orm";
+import { sql, relations } from "drizzle-orm";
 import {
   char,
   check,
@@ -32,35 +32,19 @@ export const levelsTable = pgTable("levels", {
   id: text({ enum: JLPT_LEVELS }).notNull().primaryKey(),
 });
 
+export const levelsRelations = relations(levelsTable, ({ many }) => ({
+  readings: many(readingsTable),
+}));
+
 export const expressionsTable = pgTable("expressions", {
   ...id,
   ...timestamps,
   expression: text().notNull(),
 });
 
-export const readingsTable = pgTable(
-  "readings",
-  {
-    ...id,
-    ...timestamps,
-    expressionId: ulid("expression_id")
-      .notNull()
-      .references(() => expressionsTable.id, {
-        onDelete: "cascade",
-        onUpdate: "cascade",
-      }),
-    levelId: text({ enum: JLPT_LEVELS })
-      .notNull()
-      .references(() => levelsTable.id, {
-        onDelete: "cascade",
-        onUpdate: "cascade",
-      }),
-    furigana: text().notNull(),
-  },
-  (table) => [
-    unique("expression_furigana_unq").on(table.expressionId, table.furigana),
-  ]
-);
+export const expressionsRelations = relations(expressionsTable, ({ many }) => ({
+  readings: many(readingsTable),
+}));
 
 export const meaningsTable = pgTable("meanings", {
   ...id,
@@ -73,6 +57,13 @@ export const meaningsTable = pgTable("meanings", {
     }),
   meaning: text().notNull(),
 });
+
+export const meaningsRelations = relations(meaningsTable, ({ one }) => ({
+  reading: one(readingsTable, {
+    fields: [meaningsTable.readingId],
+    references: [readingsTable.id],
+  }),
+}));
 
 /**
  * The current FSRS state of a reading
@@ -104,6 +95,16 @@ export const vocabularyLearningProgressTable = pgTable(
   }
 );
 
+export const vocabularyLearningProgressRelations = relations(
+  vocabularyLearningProgressTable,
+  ({ one }) => ({
+    reading: one(readingsTable, {
+      fields: [vocabularyLearningProgressTable.readingId],
+      references: [readingsTable.id],
+    }),
+  })
+);
+
 export const RATING_NUMBERS = [
   1, // again
   2, // hard
@@ -133,3 +134,51 @@ export const reviewLogsTable = pgTable(
     check("elapsed_days_non_negative", sql`${table.elapsedDays} >= 0`),
   ]
 );
+
+export const reviewLogsRelations = relations(reviewLogsTable, ({ one }) => ({
+  reading: one(readingsTable, {
+    fields: [reviewLogsTable.readingId],
+    references: [readingsTable.id],
+  }),
+}));
+
+export const readingsTable = pgTable(
+  "readings",
+  {
+    ...id,
+    ...timestamps,
+    expressionId: ulid("expression_id")
+      .notNull()
+      .references(() => expressionsTable.id, {
+        onDelete: "cascade",
+        onUpdate: "cascade",
+      }),
+    levelId: text({ enum: JLPT_LEVELS })
+      .notNull()
+      .references(() => levelsTable.id, {
+        onDelete: "cascade",
+        onUpdate: "cascade",
+      }),
+    furigana: text().notNull(),
+  },
+  (table) => [
+    unique("expression_furigana_unq").on(table.expressionId, table.furigana),
+  ]
+);
+
+export const readingsRelations = relations(readingsTable, ({ one, many }) => ({
+  level: one(levelsTable, {
+    fields: [readingsTable.levelId],
+    references: [levelsTable.id],
+  }),
+  expression: one(expressionsTable, {
+    fields: [readingsTable.expressionId],
+    references: [expressionsTable.id],
+  }),
+  meanings: many(meaningsTable),
+  reviewLogs: many(reviewLogsTable),
+  vocabularyLearningProgress: one(vocabularyLearningProgressTable, {
+    fields: [readingsTable.id],
+    references: [vocabularyLearningProgressTable.readingId],
+  }),
+}));
