@@ -48,6 +48,7 @@ export function MultipleChoice({
             {options.map((option) => (
               <button
                 data-state={
+                  selectedId !== undefined &&
                   correctAnswer.readingId === option.readingId
                     ? "correct"
                     : selectedId === option.readingId

@@ -18,7 +18,7 @@
 }
 
 .quizQuestionText {
-  font-size: d(40);
+  font-size: 24px;
   font-weight: 500;
   color: var(--gray-1000);
   line-height: 1;
@@ -37,7 +37,7 @@
   border: 2px solid var(--gray-300);
   border-radius: 12px;
   background: var(--background-200);
-  font-size: d(18);
+  font-size: 16px;
   font-weight: 400;
   color: var(--gray-1000);
   transition: border-color 0.2s ease;
@@ -61,7 +61,7 @@
   border-radius: d(12);
   background: var(--pink-300);
   font-weight: 500;
-  font-size: d(24);
+  font-size: 24px;
   border: 1px solid var(--gray-600);
   display: flex;
   justify-content: center;
