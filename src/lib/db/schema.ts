@@ -1,4 +1,4 @@
-import { sql, relations } from "drizzle-orm";
+import { relations, sql } from "drizzle-orm";
 import {
   char,
   check,
@@ -9,6 +9,7 @@ import {
   timestamp,
   unique,
 } from "drizzle-orm/pg-core";
+import { Rating } from "@/lib/fsrs/model";
 
 export const timestamps = {
   timeCreated: timestamp("time_created").notNull().defaultNow(),
@@ -68,6 +69,17 @@ export const meaningsRelations = relations(meaningsTable, ({ one }) => ({
 /**
  * The current FSRS state of a reading
  */
+
+export const FSRSStatus = {
+  New: "new",
+  Learning: "learning",
+  Review: "review",
+} as const;
+
+export type FSRSStatus = (typeof FSRSStatus)[keyof typeof FSRSStatus];
+export const isFSRSStatus = (status: string): status is FSRSStatus =>
+  Object.values(FSRSStatus).some((s) => s === status);
+
 export const vocabularyLearningProgressTable = pgTable(
   "vocabulary_learning_progress",
   {
@@ -87,9 +99,11 @@ export const vocabularyLearningProgressTable = pgTable(
     // Total number of times the card has been reviewed
     reps: integer("reps").notNull().default(0),
 
-    status: text({ enum: ["new", "learning", "review"] })
+    status: text({
+      enum: [FSRSStatus.New, FSRSStatus.Learning, FSRSStatus.Review],
+    })
       .notNull()
-      .default("new"),
+      .default(FSRSStatus.New),
 
     ...timestamps,
   }
@@ -105,14 +119,6 @@ export const vocabularyLearningProgressRelations = relations(
   })
 );
 
-export const RATING_NUMBERS = [
-  1, // again
-  2, // hard
-  3, // good
-  4, // easy
-] as const;
-export type RatingNumber = (typeof RATING_NUMBERS)[number];
-
 /**
  * The review history of a reading
  */
@@ -126,7 +132,7 @@ export const reviewLogsTable = pgTable(
       .notNull()
       .references(() => readingsTable.id, { onDelete: "cascade" }),
 
-    rating: integer().notNull().$type<RatingNumber>(),
+    rating: integer().notNull().$type<Rating>(),
     timeReviewed: timestamp("time_reviewed").notNull().defaultNow(),
     elapsedDays: integer("elapsed_days").notNull(),
   },

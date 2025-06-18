@@ -1,13 +1,15 @@
 import { z } from "zod/v4";
+import { State, Rating, type Grade } from "ts-fsrs";
 
-enum State {
-  New = 0,
-  Learning = 1,
-  Review = 2,
-  Relearning = 3,
-}
+export const FSRSState = {
+  New: State.New,
+  Learning: State.Learning,
+  Review: State.Review,
+  Relearning: State.Relearning,
+} as const;
+export type FSRSState = (typeof FSRSState)[keyof typeof FSRSState];
 
-export const Card = z.object({
+export const FSRSMeta = z.object({
   due: z.date(),
   stability: z.number(),
   difficulty: z.number(),
@@ -16,7 +18,8 @@ export const Card = z.object({
   learning_steps: z.number(),
   reps: z.number(),
   lapses: z.number(),
-  state: z.enum(State),
+  state: z.enum(FSRSState),
   last_review: z.date().optional(),
 });
-export type Card = z.infer<typeof Card>;
+export type FSRSMeta = z.infer<typeof FSRSMeta>;
+export { Rating, type Grade };
