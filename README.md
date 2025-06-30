@@ -2,8 +2,6 @@
 
 A modern, interactive flashcard application designed to accelerate Japanese vocabulary mastery for JLPT success. Built with cutting-edge web technologies to deliver a seamless learning experience across all devices.
 
-> [!WARNING]  
-> **Mobile-First Design**: This application is currently optimized exclusively for mobile devices. The UI and user experience are tailored for smartphone usage. Desktop compatibility may be limited.
 
 ## 🛠 Tech Stack
 
